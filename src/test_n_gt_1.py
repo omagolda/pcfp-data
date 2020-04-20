@@ -5,6 +5,8 @@ import dynet as dy
 import random
 import pickle
 
+WeightInVote = True
+
 EOS = "<EOS>"
 
 int2char = [EOS,'+']
@@ -209,21 +211,52 @@ def readtestdata(fn):
 def vote(outputs):
     return Counter(outputs).most_common()[0][0]
 
-def test(partial_data, all_labels, answers, write_path):
+def weight_vote(outputs, relation_distrusts, labels_distrust):
+    # assert len(outputs)==len(distrusts)
+    count = Counter(outputs)
+    _ = count.pop(None, None)
+
+    if count.most_common()[0][1] != 1:
+        return Counter(outputs).most_common()[0][0]
+
+    elif set(relation_distrusts) != {None}:
+        rds = [d for d in relation_distrusts if d is not None]
+        return outputs[relation_distrusts.index(min(rds))]
+
+    elif set(labels_distrust) != {None}:
+        lds = [d for d in labels_distrust if d is not None]
+        return outputs[labels_distrust.index(min(lds))]
+
+    else:
+        return random.choice(outputs)
+
+def test(partial_data, all_labels, answers, write_path, relations_distrust, labels_distrust):
     with open(write_path, 'w', encoding='utf8') as f:
         for d in partial_data:
             dy.renew_cg()
             forms = [[c for c in wf] + ['+'] + l.split(',')
                      for l,wf in d.items() if wf != None]
+            labels = [';'.join(l.split(',')) for l,wf in d.items() if wf != None]
             for l in all_labels:
                 # if d[l] == None:
                 if d.get(l, None) == None:
                     inputs = [f + ['+'] + l.split(',') for f in forms]
-                    try:
-                        outputs = [generate(input, enc_fwd_lstm, enc_bwd_lstm, dec_lstm) for input in inputs]
-                    except KeyError:
+                    relations = []
+                    outputs = []
+                    for i, input in enumerate(inputs):
+                        try:
+                            outputs.append(generate(input, enc_fwd_lstm, enc_bwd_lstm, dec_lstm))
+                            relations.append(labels[i]+' '+';'.join(l.split(',')))
+                        except KeyError:
+                            continue
+                    if len(outputs)<=0:
                         continue
-                    d[l] = vote(outputs)
+                    if WeightInVote:
+                        d[l] = weight_vote(outputs,
+                                           [relations_distrust.get(relation, None) for relation in relations],
+                                           [labels_distrust.get(relation.split()[0], None) for relation in relations])
+                    else:
+                        d[l] = vote(outputs)
             for l in d:
                 print("%s\t%s" % (d[l],l), file=f)
             print('', file=f)
