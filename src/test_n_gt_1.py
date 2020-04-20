@@ -230,16 +230,21 @@ def weight_vote(outputs, relation_distrusts, labels_distrust):
     else:
         return random.choice(outputs)
 
-def test(partial_data, all_labels, answers, write_path, relations_distrust, labels_distrust):
+def test(partial_data, all_labels, answers, write_path, relations_distrust, labels_distrust, covered_labels=None):
     with open(write_path, 'w', encoding='utf8') as f:
         for d in partial_data:
             dy.renew_cg()
             forms = [[c for c in wf] + ['+'] + l.split(',')
                      for l,wf in d.items() if wf != None]
             labels = [';'.join(l.split(',')) for l,wf in d.items() if wf != None]
+            if covered_labels and any([l not in covered_labels for l in labels]):
+                continue
+
             for l in all_labels:
                 # if d[l] == None:
                 if d.get(l, None) == None:
+                    if covered_labels and ';'.join(l.split(',')) not in covered_labels:
+                        continue
                     inputs = [f + ['+'] + l.split(',') for f in forms]
                     relations = []
                     outputs = []

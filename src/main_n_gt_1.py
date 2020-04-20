@@ -8,6 +8,28 @@ model_dir_path = 'outputs'
 inflec_data_dir = '../data'
 language = 'es'
 paradigm = 'V'
+include_only_covered_labels = True
+
+def get_covered_labels():
+    if not include_only_covered_labels:
+        return None
+    if language+paradigm == 'esV':
+        covered_labels = {'V;COND;3;SG', 'V;SBJV;PRS;2;SG', 'V.PTCP;PST;MASC;PL', 'V.PTCP;PST;FEM;PL', 'V;IND;PRS;1;PL',
+                          'V;POS;IMP;1;PL', 'V;POS;IMP;3;SG', 'V;IND;PRS;1;SG', 'V;IND;PST;3;SG;IPFV', 'V;IND;PST;3;PL;IPFV',
+                          'V;SBJV;PST;1;SG;LGSPEC1', 'V;IND;PST;3;PL;PFV', 'V;IND;FUT;3;PL', 'V;IND;PST;3;SG;PFV', 'V;NFIN',
+                          'V;IND;FUT;3;SG', 'V;SBJV;PRS;3;PL', 'V;SBJV;PST;3;SG', 'V;COND;3;PL', 'V;POS;IMP;2;SG', 'V;POS;IMP;3;PL',
+                          'V;IND;PST;1;SG;IPFV', 'V;SBJV;PRS;1;SG', 'V;COND;1;SG', 'V;IND;PRS;3;PL', 'V.PTCP;PST;MASC;SG',
+                          'V.PTCP;PST;FEM;SG', 'V.CVB;PRS', 'V;SBJV;PST;3;PL;LGSPEC1', 'V;IND;PRS;2;SG', 'V;SBJV;PST;1;SG',
+                          'V;SBJV;PRS;3;SG', 'V;IND;PRS;3;SG', 'V;SBJV;PST;3;SG;LGSPEC1', 'V;SBJV;PRS;1;PL'}
+    elif language+paradigm == 'fiN':
+        covered_labels = {'N;AT+ESS;SG', 'N;NOM;SG', 'N;PRT;PL', 'N;IN+ABL;SG', 'N;IN+ALL;PL', 'N;AT+ALL;SG', 'N;IN+ABL;PL',
+                          'N;IN+ESS;PL', 'N;ACC;PL', 'N;GEN;SG', 'N;NOM;PL', 'N;AT+ESS;PL', 'N;IN+ALL;SG', 'N;FRML;SG', 'N;ACC;SG',
+                          'N;GEN;PL', 'N;IN+ESS;SG', 'N;PRT;SG'}
+    elif language+paradigm == 'deN':
+        covered_labels = None
+    else:
+        raise NotImplementedError
+    return covered_labels
 
 def pack_params(train_module):
     return [train_module.model, train_module.enc_fwd_lstm, train_module.enc_bwd_lstm, train_module.dec_lstm,
@@ -47,7 +69,7 @@ if __name__ == '__main__':
     # test_n_gt_1.init()
     # test_n_gt_1.model.populate(model_path)
     all_labels = list(answers[0].keys())
-    accuracy = test_n_gt_1.test(data, all_labels, answers, write_path, added_examples, added_examples_per_label)
+    accuracy = test_n_gt_1.test(data, all_labels, answers, write_path, added_examples, added_examples_per_label, get_covered_labels())
 
 
 
