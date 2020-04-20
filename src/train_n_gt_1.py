@@ -3,6 +3,10 @@ from sys import stdout, argv
 import dynet as dy
 import random
 import pickle
+from typing import Dict, List, Set
+from numpy.random import choice, seed
+from collections import Counter
+seed(0)
 
 EOS = "<EOS>"
 
@@ -42,7 +46,7 @@ def init():
 def readdata(fn):
     print(fn)
     data = [[]]
-    for line in open(fn):
+    for line in open(fn, encoding='utf8'):
         line = line.strip('\n')
         if not line:
             data.append([])
@@ -67,6 +71,47 @@ def readdata(fn):
                     examples.append((form1 + ['+'] + label1 + ['+'] + label2,
                                      form2))
     return examples
+
+def my_readdata(fn):
+    print(fn)
+    examples = []
+    examples_by_relation: Dict[str, List[int]] = {}
+    for i, line in enumerate(open(fn, encoding='utf8')):
+        form1, label1, form2, label2 = line.strip('\n').split('\t')
+        relation = label1 + ' ' + label2
+        if relation not in examples_by_relation:
+            examples_by_relation[relation] = []
+        label1 = label1.split(';')
+        label2 = label2.split(';')
+        form1 = [c for c in form1]
+        form2 = [c for c in form2]
+        for c in form1 + label1 + form2 + label2:
+            if not c in char2int:
+                char2int[c] = len(char2int)
+                int2char.append(c)
+        examples.append((form1 + ['+'] + label1 + ['+'] + label2, form2))
+        examples_by_relation[relation].append(i)
+
+    relation_counter = {k:len(v) for k,v in examples_by_relation.items()}
+    print('total examples before balancing: ', len(examples))
+
+    print(sorted(Counter(relation_counter.values()).items(), key=lambda x: x[0]))
+
+    # num_per_relation = max(relation_counter.values())
+    num_per_relation = 0
+    for relation in relation_counter:
+        num_to_add = num_per_relation - relation_counter[relation]
+        if num_to_add < 0:
+            continue
+        idxs_to_add = []
+        while num_to_add > relation_counter[relation]:
+            idxs_to_add += examples_by_relation[relation]
+            num_to_add -= relation_counter[relation]
+        idxs_to_add += list(choice(examples_by_relation[relation], num_to_add, replace=False))
+        examples += [examples[i] for i in idxs_to_add]
+    print('total examples after balancing: ', len(examples))
+
+    return examples, {relation: num_per_relation - relation_counter[relation] for relation in relation_counter}
 
 def embed_sentence(sentence):
     sentence = [EOS] + list(sentence) + [EOS]
@@ -190,7 +235,7 @@ def train(model, data):
         totalloss = 0
         random.shuffle(data)
         for i, io in enumerate(data):
-            if i > 10000:
+            if i > 100000:
                 break
             stdout.write('EPOCH %u: ex %u of %u\r' % (n+1,i+1,len(data)))
             input,output = io
@@ -207,8 +252,8 @@ def train(model, data):
 
 
 if __name__=='__main__':
-    data = readdata(argv[1])
+    data, added_examples = my_readdata(argv[1])
     init()
     train(model, data)
     model.save(argv[2])    
-    pickle.dump((int2char,char2int,VOCAB_SIZE),open("%s.obj.pkl" % argv[2],"wb"))
+    pickle.dump((int2char,char2int,VOCAB_SIZE),open("%s.obj.pkl" % argv[2], "wb"))
