@@ -21,23 +21,31 @@ def init():
     VOCAB_SIZE = len(char2int)
 
     model = dy.Model()
-    
-    enc_fwd_lstm = dy.LSTMBuilder(LSTM_NUM_OF_LAYERS, EMBEDDINGS_SIZE, STATE_SIZE, 
+
+    enc_fwd_lstm = dy.LSTMBuilder(LSTM_NUM_OF_LAYERS, EMBEDDINGS_SIZE, STATE_SIZE,
                                   model)
-    enc_bwd_lstm = dy.LSTMBuilder(LSTM_NUM_OF_LAYERS, EMBEDDINGS_SIZE, STATE_SIZE, 
+    enc_bwd_lstm = dy.LSTMBuilder(LSTM_NUM_OF_LAYERS, EMBEDDINGS_SIZE, STATE_SIZE,
                                   model)
-    
-    dec_lstm = dy.LSTMBuilder(LSTM_NUM_OF_LAYERS, STATE_SIZE*2+EMBEDDINGS_SIZE, 
+
+    dec_lstm = dy.LSTMBuilder(LSTM_NUM_OF_LAYERS, STATE_SIZE*2+EMBEDDINGS_SIZE,
                               STATE_SIZE, model)
-    
+
     input_lookup = model.add_lookup_parameters((VOCAB_SIZE, EMBEDDINGS_SIZE))
     attention_w1 = model.add_parameters( (ATTENTION_SIZE, STATE_SIZE*2))
-    attention_w2 = model.add_parameters( (ATTENTION_SIZE, 
+    attention_w2 = model.add_parameters( (ATTENTION_SIZE,
                                           STATE_SIZE*LSTM_NUM_OF_LAYERS*2))
     attention_v = model.add_parameters( (1, ATTENTION_SIZE))
     decoder_w = model.add_parameters( (VOCAB_SIZE, STATE_SIZE))
     decoder_b = model.add_parameters( (VOCAB_SIZE))
     output_lookup = model.add_lookup_parameters((VOCAB_SIZE, EMBEDDINGS_SIZE))
+
+def init_existing(list_of_stuff):
+    global model, enc_fwd_lstm, enc_bwd_lstm, dec_lstm, input_lookup, attention_w1,\
+    attention_w2,attention_v,decoder_w,decoder_b,output_lookup, VOCAB_SIZE, int2char, char2int
+
+    model, enc_fwd_lstm, enc_bwd_lstm, dec_lstm, input_lookup, attention_w1,\
+    attention_w2,attention_v,decoder_w,decoder_b,output_lookup, VOCAB_SIZE, int2char, char2int = list_of_stuff
+
 
 def embed_sentence(sentence):
     sentence = [EOS] + list(sentence) + [EOS]
@@ -179,7 +187,7 @@ def train(model, data):
 def readtestdata(fn):
     data = [{}]
     labels = set()
-    for line in open(fn):
+    for line in open(fn, encoding='utf8'):
         line = line.strip('\n')
         if line == '':
             data.append({})
@@ -189,36 +197,72 @@ def readtestdata(fn):
             if wf == '':
                 continue
             data[-1][label] = wf
-    data = [d for d in data if d != {}]
-    for d in data:
-        for l in labels:
-            if not l in d:
-                d[l] = None
-    return [d for d in data if d != {}]
+    # data = [d for d in data if d != {}]
+    # for d in data:
+    #     for l in labels:
+    #         if not l in d:
+    #             d[l] = None
+    # return [d for d in data if d != {}]
+
+    return data
 
 def vote(outputs):
     return Counter(outputs).most_common()[0][0]
 
-def test(data):
-    for d in data:
-        dy.renew_cg()
-        forms = [[c for c in wf] + ['+'] + l.split(',')
-                 for l,wf in d.items() if wf != None]
+def test(partial_data, all_labels, answers, write_path):
+    with open(write_path, 'w', encoding='utf8') as f:
+        for d in partial_data:
+            dy.renew_cg()
+            forms = [[c for c in wf] + ['+'] + l.split(',')
+                     for l,wf in d.items() if wf != None]
+            for l in all_labels:
+                # if d[l] == None:
+                if d.get(l, None) == None:
+                    inputs = [f + ['+'] + l.split(',') for f in forms]
+                    try:
+                        outputs = [generate(input, enc_fwd_lstm, enc_bwd_lstm, dec_lstm) for input in inputs]
+                    except KeyError:
+                        continue
+                    d[l] = vote(outputs)
+            for l in d:
+                print("%s\t%s" % (d[l],l), file=f)
+            print('', file=f)
+
+    corrects = 0
+    tot = 0
+    for i, d in enumerate(partial_data):
         for l in d:
-            if d[l] == None:
-                inputs = [f + ['+'] + l.split(',') for f in forms]
-                outputs = [generate(input, enc_fwd_lstm, enc_bwd_lstm, dec_lstm)
-                           for input in inputs]
-                d[l] = vote(outputs)
-        for l in d:
-            print("%s\t%s" % (d[l],l))
-        print()
+            tot += 1
+            if d[l] == answers[i][l]:
+                corrects += 1
+        print(i, corrects/tot)
+    print(corrects/tot)
+    print(write_path, 'written')
+    return corrects/tot
+
+
+def read_wrap(data_fn, ans_fn):
+    data = readtestdata(data_fn)
+    answers = readtestdata(ans_fn)
+
+    length = Counter([len(d) for d in answers]).most_common()[0][0]
+    mask = [len(d) == length for d in answers]
+
+    data = [d for i, d in enumerate(data) if mask[i]]
+    answers = [d for i, d in enumerate(answers) if mask[i]]
+
+    return data, answers
+
 
 if __name__=='__main__':
 #    global int2char, char2int, VOCAB_SIZE, model
-    data = readtestdata(argv[1])
-    int2char, char2int, VOCAB_SIZE = pickle.load(open("%s.obj.pkl" % argv[2],
+    data, answers = read_wrap(argv[1], argv[2])
+    # data = readtestdata(argv[1])
+    # answers = readtestdata(argv[2])
+    model_path = argv[3]+'_model'
+    int2char, char2int, VOCAB_SIZE = pickle.load(open("%s.obj.pkl" % model_path,
                                                       "rb"))
     init()
-    model.populate(argv[2])
-    test(data)
+    model.populate(model_path)
+    all_labels = list(answers[0].keys())
+    accuracy = test(data, all_labels, answers, argv[3]+'_output.txt')
