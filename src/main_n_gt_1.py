@@ -27,6 +27,11 @@ def get_covered_labels():
                           'N;GEN;PL', 'N;IN+ESS;SG', 'N;PRT;SG'}
     elif language+paradigm == 'deN':
         covered_labels = None
+    elif language+paradigm == 'frV':
+        covered_labels = {'V;COND;3;SG', 'V;IND;PST;3;PL;IPFV', 'V;IND;PRS;2;PL', 'V;IND;PRS;1;PL', 'V;IND;PST;3;SG;IPFV',
+                          'V;POS;IMP;1;PL', 'V;IND;PRS;3;PL', 'V;NFIN', 'V;POS;IMP;2;PL', 'V;SBJV;PRS;3;PL', 'V;POS;IMP;2;SG',
+                          'V;IND;PST;3;PL;PFV', 'V;IND;PST;3;SG;PFV', 'V;IND;PRS;2;SG', 'V;SBJV;PRS;1;SG', 'V;IND;FUT;3;PL',
+                          'V;IND;FUT;3;SG', 'V.PTCP;PRS', 'V.PTCP;PST', 'V;IND;PRS;1;SG', 'V;IND;PRS;3;SG', 'V;SBJV;PRS;3;SG'}
     else:
         raise NotImplementedError
     return covered_labels
