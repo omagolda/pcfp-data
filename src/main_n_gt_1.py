@@ -7,7 +7,7 @@ algo_outputs_path = '../../morphodetection/initial_version/datasets'
 model_dir_path = 'outputs'
 inflec_data_dir = '../data'
 language = 'ru'
-paradigm = 'V'
+paradigm = 'N'
 include_only_covered_labels = True
 
 def get_covered_labels():
@@ -25,7 +25,7 @@ def get_covered_labels():
         covered_labels = {'N;AT+ESS;SG', 'N;NOM;SG', 'N;PRT;PL', 'N;IN+ABL;SG', 'N;IN+ALL;PL', 'N;AT+ALL;SG', 'N;IN+ABL;PL',
                           'N;IN+ESS;PL', 'N;ACC;PL', 'N;GEN;SG', 'N;NOM;PL', 'N;AT+ESS;PL', 'N;IN+ALL;SG', 'N;FRML;SG', 'N;ACC;SG',
                           'N;GEN;PL', 'N;IN+ESS;SG', 'N;PRT;SG'}
-    elif language+paradigm == 'deN':
+    elif language+paradigm == 'deN' or language+paradigm == 'ruN':
         covered_labels = None
     elif language+paradigm == 'frV':
         covered_labels = {'V;COND;3;SG', 'V;IND;PST;3;PL;IPFV', 'V;IND;PRS;2;PL', 'V;IND;PRS;1;PL', 'V;IND;PST;3;SG;IPFV',
@@ -33,11 +33,11 @@ def get_covered_labels():
                           'V;IND;PST;3;PL;PFV', 'V;IND;PST;3;SG;PFV', 'V;IND;PRS;2;SG', 'V;SBJV;PRS;1;SG', 'V;IND;FUT;3;PL',
                           'V;IND;FUT;3;SG', 'V.PTCP;PRS', 'V.PTCP;PST', 'V;IND;PRS;1;SG', 'V;IND;PRS;3;SG', 'V;SBJV;PRS;3;SG'}
     elif language+paradigm == 'ruV':
-        covered_labels = {'V;PRS;3;PL', 'V;PST;SG;NEUT', 'V;PST;PL', 'V.CVB;PST', 'V;PST;SG;MASC', 'V;PST;SG;FEM',
-                          'V;PRS;1;PL', 'V;PRS;3;SG', 'V;PRS;1;SG', 'V.CVB;PRS', 'V;NFIN'}
+        # covered_labels = {'V;PRS;3;PL', 'V;PST;SG;NEUT', 'V;PST;PL', 'V.CVB;PST', 'V;PST;SG;MASC', 'V;PST;SG;FEM',
+        #                   'V;PRS;1;PL', 'V;PRS;3;SG', 'V;PRS;1;SG', 'V.CVB;PRS', 'V;NFIN'}
         # down is for the separate FUT and PRS case
-        # covered_labels = {'V;NFIN', 'V;PRS;3;PL', 'V;PST;PL', 'V;FUT;1;PL', 'V;PRS;1;SG', 'V;IMP;2;SG', 'V;PRS;3;SG',
-        #                   'V;PST;SG;MASC', 'V;PST;SG;NEUT', 'V;FUT;3;SG', 'V.CVB;PRS', 'V.CVB;PST', 'V;PST;SG;FEM'}
+        covered_labels = {'V;NFIN', 'V;PRS;3;PL', 'V;PST;PL', 'V;FUT;1;PL', 'V;PRS;1;SG', 'V;IMP;2;SG', 'V;PRS;3;SG',
+                          'V;PST;SG;MASC', 'V;PST;SG;NEUT', 'V;FUT;3;SG', 'V.CVB;PRS', 'V.CVB;PST', 'V;PST;SG;FEM'}
     else:
         raise NotImplementedError
     return covered_labels
@@ -58,6 +58,7 @@ def create_examples_per_label(added_examples):
 
 if __name__ == '__main__':
     meta = argv[1]
+    assert language+paradigm in meta
     addition = argv[2] if len(argv)==3 else ''
     assert language in meta, paradigm in meta
     data_path = os.path.join(algo_outputs_path, f'data_{meta}.txt')
