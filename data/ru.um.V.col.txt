@@ -15355,4 +15355,3 @@
 соперничала	V,PST,SG,FEM
 соперничал	V,PST,SG,MASC
 соперничало	V,PST,SG,NEUT
-
