@@ -33,8 +33,11 @@ def get_covered_labels():
                           'V;IND;PST;3;PL;PFV', 'V;IND;PST;3;SG;PFV', 'V;IND;PRS;2;SG', 'V;SBJV;PRS;1;SG', 'V;IND;FUT;3;PL',
                           'V;IND;FUT;3;SG', 'V.PTCP;PRS', 'V.PTCP;PST', 'V;IND;PRS;1;SG', 'V;IND;PRS;3;SG', 'V;SBJV;PRS;3;SG'}
     elif language+paradigm == 'ruV':
-        covered_labels ={'V;PRS;3;PL', 'V;PST;SG;NEUT', 'V;IMP;2;SG', 'V;PST;PL', 'V.CVB;PST', 'V;PST;SG;MASC', 'V;PST;SG;FEM',
-                         'V;PRS;1;PL', 'V;IMP;2;PL', 'V;PRS;3;SG', 'V;PRS;1;SG', 'V.CVB;PRS', 'V;NFIN'}
+        covered_labels = {'V;PRS;3;PL', 'V;PST;SG;NEUT', 'V;PST;PL', 'V.CVB;PST', 'V;PST;SG;MASC', 'V;PST;SG;FEM',
+                          'V;PRS;1;PL', 'V;PRS;3;SG', 'V;PRS;1;SG', 'V.CVB;PRS', 'V;NFIN'}
+        # down is for the separate FUT and PRS case
+        # covered_labels = {'V;NFIN', 'V;PRS;3;PL', 'V;PST;PL', 'V;FUT;1;PL', 'V;PRS;1;SG', 'V;IMP;2;SG', 'V;PRS;3;SG',
+        #                   'V;PST;SG;MASC', 'V;PST;SG;NEUT', 'V;FUT;3;SG', 'V.CVB;PRS', 'V.CVB;PST', 'V;PST;SG;FEM'}
     else:
         raise NotImplementedError
     return covered_labels
@@ -77,7 +80,7 @@ if __name__ == '__main__':
     # test_n_gt_1.init()
     # test_n_gt_1.model.populate(model_path)
     all_labels = list(answers[0].keys())
-    accuracy = test_n_gt_1.test(data, all_labels, answers, write_path, added_examples, added_examples_per_label, get_covered_labels())
+    accuracy = test_n_gt_1.test(data, None, answers, write_path, added_examples, added_examples_per_label, get_covered_labels())
 
 
 

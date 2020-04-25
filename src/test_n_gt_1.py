@@ -232,7 +232,7 @@ def weight_vote(outputs, relation_distrusts, labels_distrust):
 
 def test(partial_data, all_labels, answers, write_path, relations_distrust, labels_distrust, covered_labels=None):
     with open(write_path, 'w', encoding='utf8') as f:
-        for d in partial_data:
+        for i, d in enumerate(partial_data):
             dy.renew_cg()
             forms = [[c for c in wf] + ['+'] + l.split(',')
                      for l,wf in d.items() if wf != None]
@@ -240,7 +240,11 @@ def test(partial_data, all_labels, answers, write_path, relations_distrust, labe
             if covered_labels and any([l not in covered_labels for l in labels]):
                 continue
 
-            for l in all_labels:
+            if not all_labels:
+                all_labels = answers[i].keys()
+            else:
+                all_relevant_labels = all_labels
+            for l in all_relevant_labels:
                 # if d[l] == None:
                 if d.get(l, None) == None:
                     if covered_labels and ';'.join(l.split(',')) not in covered_labels:
@@ -283,8 +287,10 @@ def read_wrap(data_fn, ans_fn):
     data = readtestdata(data_fn)
     answers = readtestdata(ans_fn)
 
-    length = Counter([len(d) for d in answers]).most_common()[0][0]
-    mask = [len(d) == length for d in answers]
+    # length = Counter([len(d) for d in answers]).most_common()[0][0]
+    # mask = [len(d) == length for d in answers]
+    length = max([len(d) for d in answers])
+    mask = [len(d) >= length / 2 for d in answers]
 
     data = [d for i, d in enumerate(data) if mask[i]]
     answers = [d for i, d in enumerate(answers) if mask[i]]
