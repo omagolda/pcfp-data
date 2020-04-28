@@ -241,7 +241,7 @@ def test(partial_data, all_labels, answers, write_path, relations_distrust, labe
                 continue
 
             if not all_labels:
-                all_labels = answers[i].keys()
+                all_relevant_labels = answers[i].keys()
             else:
                 all_relevant_labels = all_labels
             for l in all_relevant_labels:
