@@ -38,6 +38,12 @@ def get_covered_labels():
         # down is for the separate FUT and PRS case
         covered_labels = {'V;NFIN', 'V;PRS;3;PL', 'V;PST;PL', 'V;FUT;1;PL', 'V;PRS;1;SG', 'V;IMP;2;SG', 'V;PRS;3;SG',
                           'V;PST;SG;MASC', 'V;PST;SG;NEUT', 'V;FUT;3;SG', 'V.CVB;PRS', 'V.CVB;PST', 'V;PST;SG;FEM'}
+    elif language+paradigm == 'fiV':
+        covered_labels = {'V;PASS;PST;POS;IND', 'V.PTCP;PASS;PRS', 'V;NFIN', 'V;ACT;PRS;POS;IND;3;PL', 'V.PTCP;ACT;PRS',
+                          'V;ACT;PST;POS;IND;1;SG', 'V;ACT;PST;POS;IND;3;SG', 'V;ACT;PST;POS;IND;3;PL', 'V;ACT;PRS;POS;IND;2;SG',
+                          'V.PTCP;PASS;PST', 'V;ACT;PRS;POS;COND;1;SG', 'V;PASS;PRS;POS;IND', 'V;ACT;PRS;POS;IMP;2;SG',
+                          'V;ACT;PRS;POS;COND;3;PL', 'V;ACT;PRS;POS;COND;3;SG', 'V;PASS;PRS;POS;COND', 'V;ACT;PRS;POS;IND;1;SG',
+                          'V.PTCP;ACT;PST', 'V;ACT;PRS;POS;IND;3;SG'}
     else:
         raise NotImplementedError
     return covered_labels
