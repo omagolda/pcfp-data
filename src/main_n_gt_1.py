@@ -2,13 +2,14 @@ import test_n_gt_1, train_n_gt_1
 import pickle
 from sys import argv
 import os
+from hyper_params import *
 
-algo_outputs_path = '../../morphodetection/initial_version/datasets'
-model_dir_path = 'outputs'
-inflec_data_dir = '../data'
-language = 'ru'
-paradigm = 'N'
-include_only_covered_labels = True
+def get_meta():
+    meta = language+paradigm + '_all-ns_5sup'
+    if minidict:
+        meta += '_minidict'
+    meta += f'_enhance_{enhance_iters}'
+    meta += '_max'
 
 def get_covered_labels(data):
     if not include_only_covered_labels:
@@ -39,7 +40,7 @@ def create_examples_per_label(added_examples):
     return added_examples_per_label
 
 if __name__ == '__main__':
-    meta = argv[1]
+    meta = get_meta()
     assert language+paradigm in meta
     addition = argv[2] if len(argv)==3 else ''
     assert language in meta, paradigm in meta
@@ -49,7 +50,7 @@ if __name__ == '__main__':
 
     data, added_examples = train_n_gt_1.my_readdata(data_path)
     covered_labels = get_covered_labels(data)
-    print(f'{covered_labels} covered labels.')
+    print(f'{len(covered_labels)} covered labels.')
     added_examples_per_label = create_examples_per_label(added_examples)
     train_n_gt_1.init()
     train_n_gt_1.train(train_n_gt_1.model, data)

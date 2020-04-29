@@ -4,8 +4,7 @@ from collections import Counter
 import dynet as dy
 import random
 import pickle
-
-WeightInVote = True
+from hyper_params import *
 
 EOS = "<EOS>"
 

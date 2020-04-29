@@ -8,6 +8,8 @@ from numpy.random import choice, seed
 from collections import Counter
 seed(0)
 
+from hyper_params import *
+
 EOS = "<EOS>"
 
 int2char = [EOS,'+']
@@ -18,7 +20,6 @@ EMBEDDINGS_SIZE = 100
 STATE_SIZE = 100
 ATTENTION_SIZE = 100
 
-EPOCHS=50
 def init():
     global model, enc_fwd_lstm, enc_bwd_lstm, dec_lstm, input_lookup, attention_w1,\
     attention_w2,attention_v,decoder_w,decoder_b,output_lookup, VOCAB_SIZE
@@ -98,7 +99,7 @@ def my_readdata(fn):
     print(sorted(Counter(relation_counter.values()).items(), key=lambda x: x[0]))
 
     # num_per_relation = max(relation_counter.values())
-    num_per_relation = 0
+    num_per_relation = BALANCE_NUM
     for relation in relation_counter:
         num_to_add = num_per_relation - relation_counter[relation]
         if num_to_add < 0:
