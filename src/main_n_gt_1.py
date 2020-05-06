@@ -10,6 +10,7 @@ def get_meta():
         meta += '_minidict'
     meta += f'_enhance_{enhance_iters}'
     meta += '_max'
+    return meta
 
 def get_covered_labels(data):
     if not include_only_covered_labels:
@@ -31,6 +32,8 @@ def pack_params(train_module):
             train_module.decoder_w, train_module.decoder_b, train_module.output_lookup, train_module.VOCAB_SIZE]
 
 def create_examples_per_label(added_examples):
+    if not added_examples:
+        return None
     added_examples_per_label = {}
     for relation in added_examples:
         label = relation.split()[0]
@@ -44,11 +47,21 @@ if __name__ == '__main__':
     assert language+paradigm in meta
     addition = argv[2] if len(argv)==3 else ''
     assert language in meta, paradigm in meta
-    data_path = os.path.join(algo_outputs_path, f'data_{meta}.txt')
-    model_path = os.path.join(model_dir_path, f'{meta}{addition}_model')
-    write_path = os.path.join(model_dir_path, f'{meta}{addition}_output.txt')
+    if OrigData:
+        os.path.join(inflec_data_dir, f'{language}.um.{paradigm}.3.txt')
+        model_path = os.path.join(model_dir_path, f'{language}.um.{paradigm}_model')
+        write_path = os.path.join(model_dir_path, f'{language}.um.{paradigm}_output.txt')
 
-    data, added_examples = train_n_gt_1.my_readdata(data_path)
+    else:
+        data_path = os.path.join(algo_outputs_path, f'data_{meta}.txt')
+        model_path = os.path.join(model_dir_path, f'{meta}{addition}_model')
+        write_path = os.path.join(model_dir_path, f'{meta}{addition}_output.txt')
+
+    if OrigData:
+        data, added_examples = train_n_gt_1.readdata(data_path)
+    else:
+        data, added_examples = train_n_gt_1.my_readdata(data_path)
+
     covered_labels = get_covered_labels(data)
     print(f'{len(covered_labels)} covered labels.')
     added_examples_per_label = create_examples_per_label(added_examples)

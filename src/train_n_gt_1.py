@@ -71,7 +71,7 @@ def readdata(fn):
                 if label1 != label2:
                     examples.append((form1 + ['+'] + label1 + ['+'] + label2,
                                      form2))
-    return examples
+    return examples, None
 
 def my_readdata(fn):
     print(fn)
