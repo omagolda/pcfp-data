@@ -8,6 +8,7 @@ include_only_covered_labels = True
 minidict = True
 enhance_iters = 0
 OrigData = False
+OnlySup = False
 
 # HPs from train
 EPOCHS=50

@@ -5,6 +5,8 @@ import os
 from hyper_params import *
 
 def get_meta():
+    if OnlySup:
+        return language+paradigm + '_only5sup'
     meta = language+paradigm + '_all-ns_5sup'
     if minidict:
         meta += '_minidict'
