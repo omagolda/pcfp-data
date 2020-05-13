@@ -1,10 +1,10 @@
 ввалившись	V.CVB,PST
-ввалимся	V,FUT,1,PL
-ввалюсь	V,FUT,1,SG
-ввалитесь	V,FUT,2,PL
-ввалишься	V,FUT,2,SG
-ввалятся	V,FUT,3,PL
-ввалится	V,FUT,3,SG
+ввалимся	V,PRS,1,PL
+ввалюсь	V,PRS,1,SG
+ввалитесь	V,PRS,2,PL
+ввалишься	V,PRS,2,SG
+ввалятся	V,PRS,3,PL
+ввалится	V,PRS,3,SG
 ввалитесь	V,IMP,2,PL
 ввались	V,IMP,2,SG
 ввалиться	V,NFIN
@@ -14,12 +14,12 @@
 ввалилось	V,PST,SG,NEUT
 
 чиркнув	V.CVB,PST
-чиркнем	V,FUT,1,PL
-чиркну	V,FUT,1,SG
-чиркнете	V,FUT,2,PL
-чиркнешь	V,FUT,2,SG
-чиркнут	V,FUT,3,PL
-чиркнет	V,FUT,3,SG
+чиркнем	V,PRS,1,PL
+чиркну	V,PRS,1,SG
+чиркнете	V,PRS,2,PL
+чиркнешь	V,PRS,2,SG
+чиркнут	V,PRS,3,PL
+чиркнет	V,PRS,3,SG
 чиркните	V,IMP,2,PL
 чиркни	V,IMP,2,SG
 чиркнуть	V,NFIN
@@ -61,12 +61,12 @@
 заклинало	V,PST,SG,NEUT
 
 покачав	V.CVB,PST
-покачаем	V,FUT,1,PL
-покачаю	V,FUT,1,SG
-покачаете	V,FUT,2,PL
-покачаешь	V,FUT,2,SG
-покачают	V,FUT,3,PL
-покачает	V,FUT,3,SG
+покачаем	V,PRS,1,PL
+покачаю	V,PRS,1,SG
+покачаете	V,PRS,2,PL
+покачаешь	V,PRS,2,SG
+покачают	V,PRS,3,PL
+покачает	V,PRS,3,SG
 покачайте	V,IMP,2,PL
 покачай	V,IMP,2,SG
 покачать	V,NFIN
@@ -124,12 +124,12 @@
 задумывалось	V,PST,SG,NEUT
 
 склеив	V.CVB,PST
-склеим	V,FUT,1,PL
-склею	V,FUT,1,SG
-склеите	V,FUT,2,PL
-склеишь	V,FUT,2,SG
-склеят	V,FUT,3,PL
-склеит	V,FUT,3,SG
+склеим	V,PRS,1,PL
+склею	V,PRS,1,SG
+склеите	V,PRS,2,PL
+склеишь	V,PRS,2,SG
+склеят	V,PRS,3,PL
+склеит	V,PRS,3,SG
 склейте	V,IMP,2,PL
 склей	V,IMP,2,SG
 склеить	V,NFIN
@@ -139,12 +139,12 @@
 склеило	V,PST,SG,NEUT
 
 встревожив	V.CVB,PST
-встревожим	V,FUT,1,PL
-встревожу	V,FUT,1,SG
-встревожите	V,FUT,2,PL
-встревожишь	V,FUT,2,SG
-встревожат	V,FUT,3,PL
-встревожит	V,FUT,3,SG
+встревожим	V,PRS,1,PL
+встревожу	V,PRS,1,SG
+встревожите	V,PRS,2,PL
+встревожишь	V,PRS,2,SG
+встревожат	V,PRS,3,PL
+встревожит	V,PRS,3,SG
 встревожьте	V,IMP,2,PL
 встревожь	V,IMP,2,SG
 встревожить	V,NFIN
@@ -170,12 +170,12 @@
 обстраивалось	V,PST,SG,NEUT
 
 смявшись	V.CVB,PST
-сомнемся	V,FUT,1,PL
-сомнусь	V,FUT,1,SG
-сомнетесь	V,FUT,2,PL
-сомнешься	V,FUT,2,SG
-сомнутся	V,FUT,3,PL
-сомнется	V,FUT,3,SG
+сомнемся	V,PRS,1,PL
+сомнусь	V,PRS,1,SG
+сомнетесь	V,PRS,2,PL
+сомнешься	V,PRS,2,SG
+сомнутся	V,PRS,3,PL
+сомнется	V,PRS,3,SG
 сомнитесь	V,IMP,2,PL
 сомнись	V,IMP,2,SG
 смяться	V,NFIN
@@ -233,12 +233,12 @@
 пронизывало	V,PST,SG,NEUT
 
 присвоив	V.CVB,PST
-присвоим	V,FUT,1,PL
-присвою	V,FUT,1,SG
-присвоите	V,FUT,2,PL
-присвоишь	V,FUT,2,SG
-присвоят	V,FUT,3,PL
-присвоит	V,FUT,3,SG
+присвоим	V,PRS,1,PL
+присвою	V,PRS,1,SG
+присвоите	V,PRS,2,PL
+присвоишь	V,PRS,2,SG
+присвоят	V,PRS,3,PL
+присвоит	V,PRS,3,SG
 присвойте	V,IMP,2,PL
 присвой	V,IMP,2,SG
 присвоить	V,NFIN
@@ -280,12 +280,12 @@
 очищало	V,PST,SG,NEUT
 
 оттолкнув	V.CVB,PST
-оттолкнем	V,FUT,1,PL
-оттолкну	V,FUT,1,SG
-оттолкнете	V,FUT,2,PL
-оттолкнешь	V,FUT,2,SG
-оттолкнут	V,FUT,3,PL
-оттолкнет	V,FUT,3,SG
+оттолкнем	V,PRS,1,PL
+оттолкну	V,PRS,1,SG
+оттолкнете	V,PRS,2,PL
+оттолкнешь	V,PRS,2,SG
+оттолкнут	V,PRS,3,PL
+оттолкнет	V,PRS,3,SG
 оттолкните	V,IMP,2,PL
 оттолкни	V,IMP,2,SG
 оттолкнуть	V,NFIN
@@ -311,12 +311,12 @@
 блистало	V,PST,SG,NEUT
 
 добив	V.CVB,PST
-добьем	V,FUT,1,PL
-добью	V,FUT,1,SG
-добьете	V,FUT,2,PL
-добьешь	V,FUT,2,SG
-добьют	V,FUT,3,PL
-добьет	V,FUT,3,SG
+добьем	V,PRS,1,PL
+добью	V,PRS,1,SG
+добьете	V,PRS,2,PL
+добьешь	V,PRS,2,SG
+добьют	V,PRS,3,PL
+добьет	V,PRS,3,SG
 добейте	V,IMP,2,PL
 добей	V,IMP,2,SG
 добить	V,NFIN
@@ -326,12 +326,12 @@
 добило	V,PST,SG,NEUT
 
 потоптав	V.CVB,PST
-потопчем	V,FUT,1,PL
-потопчу	V,FUT,1,SG
-потопчете	V,FUT,2,PL
-потопчешь	V,FUT,2,SG
-потопчут	V,FUT,3,PL
-потопчет	V,FUT,3,SG
+потопчем	V,PRS,1,PL
+потопчу	V,PRS,1,SG
+потопчете	V,PRS,2,PL
+потопчешь	V,PRS,2,SG
+потопчут	V,PRS,3,PL
+потопчет	V,PRS,3,SG
 потопчите	V,IMP,2,PL
 потопчи	V,IMP,2,SG
 потоптать	V,NFIN
@@ -373,12 +373,12 @@
 внедряло	V,PST,SG,NEUT
 
 сохранившись	V.CVB,PST
-сохранимся	V,FUT,1,PL
-сохранюсь	V,FUT,1,SG
-сохранитесь	V,FUT,2,PL
-сохранишься	V,FUT,2,SG
-сохранятся	V,FUT,3,PL
-сохранится	V,FUT,3,SG
+сохранимся	V,PRS,1,PL
+сохранюсь	V,PRS,1,SG
+сохранитесь	V,PRS,2,PL
+сохранишься	V,PRS,2,SG
+сохранятся	V,PRS,3,PL
+сохранится	V,PRS,3,SG
 сохранитесь	V,IMP,2,PL
 сохранись	V,IMP,2,SG
 сохраниться	V,NFIN
@@ -404,12 +404,12 @@
 просвещало	V,PST,SG,NEUT
 
 сплюнув	V.CVB,PST
-сплюнем	V,FUT,1,PL
-сплюну	V,FUT,1,SG
-сплюнете	V,FUT,2,PL
-сплюнешь	V,FUT,2,SG
-сплюнут	V,FUT,3,PL
-сплюнет	V,FUT,3,SG
+сплюнем	V,PRS,1,PL
+сплюну	V,PRS,1,SG
+сплюнете	V,PRS,2,PL
+сплюнешь	V,PRS,2,SG
+сплюнут	V,PRS,3,PL
+сплюнет	V,PRS,3,SG
 сплюньте	V,IMP,2,PL
 сплюнь	V,IMP,2,SG
 сплюнуть	V,NFIN
@@ -419,12 +419,12 @@
 сплюнуло	V,PST,SG,NEUT
 
 продлив	V.CVB,PST
-продлим	V,FUT,1,PL
-продлю	V,FUT,1,SG
-продлите	V,FUT,2,PL
-продлишь	V,FUT,2,SG
-продлят	V,FUT,3,PL
-продлит	V,FUT,3,SG
+продлим	V,PRS,1,PL
+продлю	V,PRS,1,SG
+продлите	V,PRS,2,PL
+продлишь	V,PRS,2,SG
+продлят	V,PRS,3,PL
+продлит	V,PRS,3,SG
 продлите	V,IMP,2,PL
 продли	V,IMP,2,SG
 продлить	V,NFIN
@@ -434,12 +434,12 @@
 продлило	V,PST,SG,NEUT
 
 получив	V.CVB,PST
-получим	V,FUT,1,PL
-получу	V,FUT,1,SG
-получите	V,FUT,2,PL
-получишь	V,FUT,2,SG
-получат	V,FUT,3,PL
-получит	V,FUT,3,SG
+получим	V,PRS,1,PL
+получу	V,PRS,1,SG
+получите	V,PRS,2,PL
+получишь	V,PRS,2,SG
+получат	V,PRS,3,PL
+получит	V,PRS,3,SG
 получите	V,IMP,2,PL
 получи	V,IMP,2,SG
 получить	V,NFIN
@@ -481,12 +481,12 @@
 просыпало	V,PST,SG,NEUT
 
 подтолкнув	V.CVB,PST
-подтолкнем	V,FUT,1,PL
-подтолкну	V,FUT,1,SG
-подтолкнете	V,FUT,2,PL
-подтолкнешь	V,FUT,2,SG
-подтолкнут	V,FUT,3,PL
-подтолкнет	V,FUT,3,SG
+подтолкнем	V,PRS,1,PL
+подтолкну	V,PRS,1,SG
+подтолкнете	V,PRS,2,PL
+подтолкнешь	V,PRS,2,SG
+подтолкнут	V,PRS,3,PL
+подтолкнет	V,PRS,3,SG
 подтолкните	V,IMP,2,PL
 подтолкни	V,IMP,2,SG
 подтолкнуть	V,NFIN
@@ -496,12 +496,12 @@
 подтолкнуло	V,PST,SG,NEUT
 
 учтясь	V.CVB,PST
-учтемся	V,FUT,1,PL
-учтусь	V,FUT,1,SG
-учтетесь	V,FUT,2,PL
-учтешься	V,FUT,2,SG
-учтутся	V,FUT,3,PL
-учтется	V,FUT,3,SG
+учтемся	V,PRS,1,PL
+учтусь	V,PRS,1,SG
+учтетесь	V,PRS,2,PL
+учтешься	V,PRS,2,SG
+учтутся	V,PRS,3,PL
+учтется	V,PRS,3,SG
 учтитесь	V,IMP,2,PL
 учтись	V,IMP,2,SG
 учесться	V,NFIN
@@ -527,12 +527,12 @@
 заботило	V,PST,SG,NEUT
 
 ухмыльнувшись	V.CVB,PST
-ухмыльнемся	V,FUT,1,PL
-ухмыльнусь	V,FUT,1,SG
-ухмыльнетесь	V,FUT,2,PL
-ухмыльнешься	V,FUT,2,SG
-ухмыльнутся	V,FUT,3,PL
-ухмыльнется	V,FUT,3,SG
+ухмыльнемся	V,PRS,1,PL
+ухмыльнусь	V,PRS,1,SG
+ухмыльнетесь	V,PRS,2,PL
+ухмыльнешься	V,PRS,2,SG
+ухмыльнутся	V,PRS,3,PL
+ухмыльнется	V,PRS,3,SG
 ухмыльнитесь	V,IMP,2,PL
 ухмыльнись	V,IMP,2,SG
 ухмыльнуться	V,NFIN
@@ -542,12 +542,12 @@
 ухмыльнулось	V,PST,SG,NEUT
 
 сравнявшись	V.CVB,PST
-сравняемся	V,FUT,1,PL
-сравняюсь	V,FUT,1,SG
-сравняетесь	V,FUT,2,PL
-сравняешься	V,FUT,2,SG
-сравняются	V,FUT,3,PL
-сравняется	V,FUT,3,SG
+сравняемся	V,PRS,1,PL
+сравняюсь	V,PRS,1,SG
+сравняетесь	V,PRS,2,PL
+сравняешься	V,PRS,2,SG
+сравняются	V,PRS,3,PL
+сравняется	V,PRS,3,SG
 сравняйтесь	V,IMP,2,PL
 сравняйся	V,IMP,2,SG
 сравняться	V,NFIN
@@ -589,12 +589,12 @@
 закреплялось	V,PST,SG,NEUT
 
 распрямившись	V.CVB,PST
-распрямимся	V,FUT,1,PL
-распрямлюсь	V,FUT,1,SG
-распрямитесь	V,FUT,2,PL
-распрямишься	V,FUT,2,SG
-распрямятся	V,FUT,3,PL
-распрямится	V,FUT,3,SG
+распрямимся	V,PRS,1,PL
+распрямлюсь	V,PRS,1,SG
+распрямитесь	V,PRS,2,PL
+распрямишься	V,PRS,2,SG
+распрямятся	V,PRS,3,PL
+распрямится	V,PRS,3,SG
 распрямитесь	V,IMP,2,PL
 распрямись	V,IMP,2,SG
 распрямиться	V,NFIN
@@ -636,12 +636,12 @@
 тискало	V,PST,SG,NEUT
 
 притаившись	V.CVB,PST
-притаимся	V,FUT,1,PL
-притаюсь	V,FUT,1,SG
-притаитесь	V,FUT,2,PL
-притаишься	V,FUT,2,SG
-притаятся	V,FUT,3,PL
-притаится	V,FUT,3,SG
+притаимся	V,PRS,1,PL
+притаюсь	V,PRS,1,SG
+притаитесь	V,PRS,2,PL
+притаишься	V,PRS,2,SG
+притаятся	V,PRS,3,PL
+притаится	V,PRS,3,SG
 притаитесь	V,IMP,2,PL
 притаись	V,IMP,2,SG
 притаиться	V,NFIN
@@ -667,12 +667,12 @@
 изменялось	V,PST,SG,NEUT
 
 набздев	V.CVB,PST
-набздим	V,FUT,1,PL
-набзжу	V,FUT,1,SG
-набздите	V,FUT,2,PL
-набздишь	V,FUT,2,SG
-набздят	V,FUT,3,PL
-набздит	V,FUT,3,SG
+набздим	V,PRS,1,PL
+набзжу	V,PRS,1,SG
+набздите	V,PRS,2,PL
+набздишь	V,PRS,2,SG
+набздят	V,PRS,3,PL
+набздит	V,PRS,3,SG
 набздите	V,IMP,2,PL
 набзди	V,IMP,2,SG
 набздеть	V,NFIN
@@ -730,12 +730,12 @@
 выдыхалось	V,PST,SG,NEUT
 
 сменив	V.CVB,PST
-сменим	V,FUT,1,PL
-сменю	V,FUT,1,SG
-смените	V,FUT,2,PL
-сменишь	V,FUT,2,SG
-сменят	V,FUT,3,PL
-сменит	V,FUT,3,SG
+сменим	V,PRS,1,PL
+сменю	V,PRS,1,SG
+смените	V,PRS,2,PL
+сменишь	V,PRS,2,SG
+сменят	V,PRS,3,PL
+сменит	V,PRS,3,SG
 смените	V,IMP,2,PL
 смени	V,IMP,2,SG
 сменить	V,NFIN
@@ -777,12 +777,12 @@
 зачинало	V,PST,SG,NEUT
 
 прокомментировав	V.CVB,PST
-прокомментируем	V,FUT,1,PL
-прокомментирую	V,FUT,1,SG
-прокомментируете	V,FUT,2,PL
-прокомментируешь	V,FUT,2,SG
-прокомментируют	V,FUT,3,PL
-прокомментирует	V,FUT,3,SG
+прокомментируем	V,PRS,1,PL
+прокомментирую	V,PRS,1,SG
+прокомментируете	V,PRS,2,PL
+прокомментируешь	V,PRS,2,SG
+прокомментируют	V,PRS,3,PL
+прокомментирует	V,PRS,3,SG
 прокомментируйте	V,IMP,2,PL
 прокомментируй	V,IMP,2,SG
 прокомментировать	V,NFIN
@@ -808,12 +808,12 @@
 озвучивало	V,PST,SG,NEUT
 
 вывихнув	V.CVB,PST
-вывихнем	V,FUT,1,PL
-вывихну	V,FUT,1,SG
-вывихнете	V,FUT,2,PL
-вывихнешь	V,FUT,2,SG
-вывихнут	V,FUT,3,PL
-вывихнет	V,FUT,3,SG
+вывихнем	V,PRS,1,PL
+вывихну	V,PRS,1,SG
+вывихнете	V,PRS,2,PL
+вывихнешь	V,PRS,2,SG
+вывихнут	V,PRS,3,PL
+вывихнет	V,PRS,3,SG
 вывихните	V,IMP,2,PL
 вывихни	V,IMP,2,SG
 вывихнуть	V,NFIN
@@ -839,12 +839,12 @@
 конструировало	V,PST,SG,NEUT
 
 пробурчав	V.CVB,PST
-пробурчим	V,FUT,1,PL
-пробурчу	V,FUT,1,SG
-пробурчите	V,FUT,2,PL
-пробурчишь	V,FUT,2,SG
-пробурчат	V,FUT,3,PL
-пробурчит	V,FUT,3,SG
+пробурчим	V,PRS,1,PL
+пробурчу	V,PRS,1,SG
+пробурчите	V,PRS,2,PL
+пробурчишь	V,PRS,2,SG
+пробурчат	V,PRS,3,PL
+пробурчит	V,PRS,3,SG
 пробурчите	V,IMP,2,PL
 пробурчи	V,IMP,2,SG
 пробурчать	V,NFIN
@@ -854,12 +854,12 @@
 пробурчало	V,PST,SG,NEUT
 
 прополов	V.CVB,PST
-прополем	V,FUT,1,PL
-прополю	V,FUT,1,SG
-прополете	V,FUT,2,PL
-прополешь	V,FUT,2,SG
-прополют	V,FUT,3,PL
-прополет	V,FUT,3,SG
+прополем	V,PRS,1,PL
+прополю	V,PRS,1,SG
+прополете	V,PRS,2,PL
+прополешь	V,PRS,2,SG
+прополют	V,PRS,3,PL
+прополет	V,PRS,3,SG
 прополите	V,IMP,2,PL
 прополи	V,IMP,2,SG
 прополоть	V,NFIN
@@ -869,12 +869,12 @@
 пропололо	V,PST,SG,NEUT
 
 потерявшись	V.CVB,PST
-потеряемся	V,FUT,1,PL
-потеряюсь	V,FUT,1,SG
-потеряетесь	V,FUT,2,PL
-потеряешься	V,FUT,2,SG
-потеряются	V,FUT,3,PL
-потеряется	V,FUT,3,SG
+потеряемся	V,PRS,1,PL
+потеряюсь	V,PRS,1,SG
+потеряетесь	V,PRS,2,PL
+потеряешься	V,PRS,2,SG
+потеряются	V,PRS,3,PL
+потеряется	V,PRS,3,SG
 потеряйтесь	V,IMP,2,PL
 потеряйся	V,IMP,2,SG
 потеряться	V,NFIN
@@ -884,12 +884,12 @@
 потерялось	V,PST,SG,NEUT
 
 усовершенствовавшись	V.CVB,PST
-усовершенствуемся	V,FUT,1,PL
-усовершенствуюсь	V,FUT,1,SG
-усовершенствуетесь	V,FUT,2,PL
-усовершенствуешься	V,FUT,2,SG
-усовершенствуются	V,FUT,3,PL
-усовершенствуется	V,FUT,3,SG
+усовершенствуемся	V,PRS,1,PL
+усовершенствуюсь	V,PRS,1,SG
+усовершенствуетесь	V,PRS,2,PL
+усовершенствуешься	V,PRS,2,SG
+усовершенствуются	V,PRS,3,PL
+усовершенствуется	V,PRS,3,SG
 усовершенствуйтесь	V,IMP,2,PL
 усовершенствуйся	V,IMP,2,SG
 усовершенствоваться	V,NFIN
@@ -899,12 +899,12 @@
 усовершенствовалось	V,PST,SG,NEUT
 
 ослепив	V.CVB,PST
-ослепим	V,FUT,1,PL
-ослеплю	V,FUT,1,SG
-ослепите	V,FUT,2,PL
-ослепишь	V,FUT,2,SG
-ослепят	V,FUT,3,PL
-ослепит	V,FUT,3,SG
+ослепим	V,PRS,1,PL
+ослеплю	V,PRS,1,SG
+ослепите	V,PRS,2,PL
+ослепишь	V,PRS,2,SG
+ослепят	V,PRS,3,PL
+ослепит	V,PRS,3,SG
 ослепите	V,IMP,2,PL
 ослепи	V,IMP,2,SG
 ослепить	V,NFIN
@@ -930,12 +930,12 @@
 утекало	V,PST,SG,NEUT
 
 очумев	V.CVB,PST
-очумим	V,FUT,1,PL
-очумлю	V,FUT,1,SG
-очумите	V,FUT,2,PL
-очумишь	V,FUT,2,SG
-очумят	V,FUT,3,PL
-очумит	V,FUT,3,SG
+очумим	V,PRS,1,PL
+очумлю	V,PRS,1,SG
+очумите	V,PRS,2,PL
+очумишь	V,PRS,2,SG
+очумят	V,PRS,3,PL
+очумит	V,PRS,3,SG
 очумите	V,IMP,2,PL
 очуми	V,IMP,2,SG
 очуметь	V,NFIN
@@ -945,12 +945,12 @@
 очумело	V,PST,SG,NEUT
 
 запомнившись	V.CVB,PST
-запомнимся	V,FUT,1,PL
-запомнюсь	V,FUT,1,SG
-запомнитесь	V,FUT,2,PL
-запомнишься	V,FUT,2,SG
-запомнятся	V,FUT,3,PL
-запомнится	V,FUT,3,SG
+запомнимся	V,PRS,1,PL
+запомнюсь	V,PRS,1,SG
+запомнитесь	V,PRS,2,PL
+запомнишься	V,PRS,2,SG
+запомнятся	V,PRS,3,PL
+запомнится	V,PRS,3,SG
 запомнитесь	V,IMP,2,PL
 запомнись	V,IMP,2,SG
 запомниться	V,NFIN
@@ -960,12 +960,12 @@
 запомнилось	V,PST,SG,NEUT
 
 зааплодировав	V.CVB,PST
-зааплодируем	V,FUT,1,PL
-зааплодирую	V,FUT,1,SG
-зааплодируете	V,FUT,2,PL
-зааплодируешь	V,FUT,2,SG
-зааплодируют	V,FUT,3,PL
-зааплодирует	V,FUT,3,SG
+зааплодируем	V,PRS,1,PL
+зааплодирую	V,PRS,1,SG
+зааплодируете	V,PRS,2,PL
+зааплодируешь	V,PRS,2,SG
+зааплодируют	V,PRS,3,PL
+зааплодирует	V,PRS,3,SG
 зааплодируйте	V,IMP,2,PL
 зааплодируй	V,IMP,2,SG
 зааплодировать	V,NFIN
@@ -975,12 +975,12 @@
 зааплодировало	V,PST,SG,NEUT
 
 испёкшись	V.CVB,PST
-испечемся	V,FUT,1,PL
-испекусь	V,FUT,1,SG
-испечетесь	V,FUT,2,PL
-испечешься	V,FUT,2,SG
-испекутся	V,FUT,3,PL
-испечется	V,FUT,3,SG
+испечемся	V,PRS,1,PL
+испекусь	V,PRS,1,SG
+испечетесь	V,PRS,2,PL
+испечешься	V,PRS,2,SG
+испекутся	V,PRS,3,PL
+испечется	V,PRS,3,SG
 испекитесь	V,IMP,2,PL
 испекись	V,IMP,2,SG
 испечься	V,NFIN
@@ -990,12 +990,12 @@
 испеклось	V,PST,SG,NEUT
 
 перемешав	V.CVB,PST
-перемешаем	V,FUT,1,PL
-перемешаю	V,FUT,1,SG
-перемешаете	V,FUT,2,PL
-перемешаешь	V,FUT,2,SG
-перемешают	V,FUT,3,PL
-перемешает	V,FUT,3,SG
+перемешаем	V,PRS,1,PL
+перемешаю	V,PRS,1,SG
+перемешаете	V,PRS,2,PL
+перемешаешь	V,PRS,2,SG
+перемешают	V,PRS,3,PL
+перемешает	V,PRS,3,SG
 перемешайте	V,IMP,2,PL
 перемешай	V,IMP,2,SG
 перемешать	V,NFIN
@@ -1005,12 +1005,12 @@
 перемешало	V,PST,SG,NEUT
 
 обретя	V.CVB,PST
-обретем	V,FUT,1,PL
-обрету	V,FUT,1,SG
-обретете	V,FUT,2,PL
-обретешь	V,FUT,2,SG
-обретут	V,FUT,3,PL
-обретет	V,FUT,3,SG
+обретем	V,PRS,1,PL
+обрету	V,PRS,1,SG
+обретете	V,PRS,2,PL
+обретешь	V,PRS,2,SG
+обретут	V,PRS,3,PL
+обретет	V,PRS,3,SG
 обретите	V,IMP,2,PL
 обрети	V,IMP,2,SG
 обрести	V,NFIN
@@ -1116,12 +1116,12 @@
 оговаривалось	V,PST,SG,NEUT
 
 продвинув	V.CVB,PST
-продвинем	V,FUT,1,PL
-продвину	V,FUT,1,SG
-продвинете	V,FUT,2,PL
-продвинешь	V,FUT,2,SG
-продвинут	V,FUT,3,PL
-продвинет	V,FUT,3,SG
+продвинем	V,PRS,1,PL
+продвину	V,PRS,1,SG
+продвинете	V,PRS,2,PL
+продвинешь	V,PRS,2,SG
+продвинут	V,PRS,3,PL
+продвинет	V,PRS,3,SG
 продвиньте	V,IMP,2,PL
 продвинь	V,IMP,2,SG
 продвинуть	V,NFIN
@@ -1131,12 +1131,12 @@
 продвинуло	V,PST,SG,NEUT
 
 додумавшись	V.CVB,PST
-додумаемся	V,FUT,1,PL
-додумаюсь	V,FUT,1,SG
-додумаетесь	V,FUT,2,PL
-додумаешься	V,FUT,2,SG
-додумаются	V,FUT,3,PL
-додумается	V,FUT,3,SG
+додумаемся	V,PRS,1,PL
+додумаюсь	V,PRS,1,SG
+додумаетесь	V,PRS,2,PL
+додумаешься	V,PRS,2,SG
+додумаются	V,PRS,3,PL
+додумается	V,PRS,3,SG
 додумайтесь	V,IMP,2,PL
 додумайся	V,IMP,2,SG
 додуматься	V,NFIN
@@ -1146,12 +1146,12 @@
 додумалось	V,PST,SG,NEUT
 
 увязавшись	V.CVB,PST
-увяжемся	V,FUT,1,PL
-увяжусь	V,FUT,1,SG
-увяжетесь	V,FUT,2,PL
-увяжешься	V,FUT,2,SG
-увяжутся	V,FUT,3,PL
-увяжется	V,FUT,3,SG
+увяжемся	V,PRS,1,PL
+увяжусь	V,PRS,1,SG
+увяжетесь	V,PRS,2,PL
+увяжешься	V,PRS,2,SG
+увяжутся	V,PRS,3,PL
+увяжется	V,PRS,3,SG
 увяжитесь	V,IMP,2,PL
 увяжись	V,IMP,2,SG
 увязаться	V,NFIN
@@ -1161,12 +1161,12 @@
 увязалось	V,PST,SG,NEUT
 
 прорвавшись	V.CVB,PST
-прорвемся	V,FUT,1,PL
-прорвусь	V,FUT,1,SG
-прорветесь	V,FUT,2,PL
-прорвешься	V,FUT,2,SG
-прорвутся	V,FUT,3,PL
-прорвется	V,FUT,3,SG
+прорвемся	V,PRS,1,PL
+прорвусь	V,PRS,1,SG
+прорветесь	V,PRS,2,PL
+прорвешься	V,PRS,2,SG
+прорвутся	V,PRS,3,PL
+прорвется	V,PRS,3,SG
 прорвитесь	V,IMP,2,PL
 прорвись	V,IMP,2,SG
 прорваться	V,NFIN
@@ -1192,12 +1192,12 @@
 замучивало	V,PST,SG,NEUT
 
 зарыв	V.CVB,PST
-зароем	V,FUT,1,PL
-зарою	V,FUT,1,SG
-зароете	V,FUT,2,PL
-зароешь	V,FUT,2,SG
-зароют	V,FUT,3,PL
-зароет	V,FUT,3,SG
+зароем	V,PRS,1,PL
+зарою	V,PRS,1,SG
+зароете	V,PRS,2,PL
+зароешь	V,PRS,2,SG
+зароют	V,PRS,3,PL
+зароет	V,PRS,3,SG
 заройте	V,IMP,2,PL
 зарой	V,IMP,2,SG
 зарыть	V,NFIN
@@ -1255,12 +1255,12 @@
 морозило	V,PST,SG,NEUT
 
 девшись	V.CVB,PST
-денемся	V,FUT,1,PL
-денусь	V,FUT,1,SG
-денетесь	V,FUT,2,PL
-денешься	V,FUT,2,SG
-денутся	V,FUT,3,PL
-денется	V,FUT,3,SG
+денемся	V,PRS,1,PL
+денусь	V,PRS,1,SG
+денетесь	V,PRS,2,PL
+денешься	V,PRS,2,SG
+денутся	V,PRS,3,PL
+денется	V,PRS,3,SG
 деньтесь	V,IMP,2,PL
 денься	V,IMP,2,SG
 деться	V,NFIN
@@ -1270,12 +1270,12 @@
 делось	V,PST,SG,NEUT
 
 осмелившись	V.CVB,PST
-осмелимся	V,FUT,1,PL
-осмелюсь	V,FUT,1,SG
-осмелитесь	V,FUT,2,PL
-осмелишься	V,FUT,2,SG
-осмелятся	V,FUT,3,PL
-осмелится	V,FUT,3,SG
+осмелимся	V,PRS,1,PL
+осмелюсь	V,PRS,1,SG
+осмелитесь	V,PRS,2,PL
+осмелишься	V,PRS,2,SG
+осмелятся	V,PRS,3,PL
+осмелится	V,PRS,3,SG
 осмельтесь	V,IMP,2,PL
 осмелься	V,IMP,2,SG
 осмелиться	V,NFIN
@@ -1301,12 +1301,12 @@
 декларировало	V,PST,SG,NEUT
 
 задумавшись	V.CVB,PST
-задумаемся	V,FUT,1,PL
-задумаюсь	V,FUT,1,SG
-задумаетесь	V,FUT,2,PL
-задумаешься	V,FUT,2,SG
-задумаются	V,FUT,3,PL
-задумается	V,FUT,3,SG
+задумаемся	V,PRS,1,PL
+задумаюсь	V,PRS,1,SG
+задумаетесь	V,PRS,2,PL
+задумаешься	V,PRS,2,SG
+задумаются	V,PRS,3,PL
+задумается	V,PRS,3,SG
 задумайтесь	V,IMP,2,PL
 задумайся	V,IMP,2,SG
 задуматься	V,NFIN
@@ -1364,12 +1364,12 @@
 запорашивало	V,PST,SG,NEUT
 
 пролившись	V.CVB,PST
-прольемся	V,FUT,1,PL
-прольюсь	V,FUT,1,SG
-прольетесь	V,FUT,2,PL
-прольешься	V,FUT,2,SG
-прольются	V,FUT,3,PL
-прольется	V,FUT,3,SG
+прольемся	V,PRS,1,PL
+прольюсь	V,PRS,1,SG
+прольетесь	V,PRS,2,PL
+прольешься	V,PRS,2,SG
+прольются	V,PRS,3,PL
+прольется	V,PRS,3,SG
 пролейтесь	V,IMP,2,PL
 пролейся	V,IMP,2,SG
 пролиться	V,NFIN
@@ -1379,12 +1379,12 @@
 пролилось	V,PST,SG,NEUT
 
 вбив	V.CVB,PST
-вобьем	V,FUT,1,PL
-вобью	V,FUT,1,SG
-вобьете	V,FUT,2,PL
-вобьешь	V,FUT,2,SG
-вобьют	V,FUT,3,PL
-вобьет	V,FUT,3,SG
+вобьем	V,PRS,1,PL
+вобью	V,PRS,1,SG
+вобьете	V,PRS,2,PL
+вобьешь	V,PRS,2,SG
+вобьют	V,PRS,3,PL
+вобьет	V,PRS,3,SG
 вбейте	V,IMP,2,PL
 вбей	V,IMP,2,SG
 вбить	V,NFIN
@@ -1394,12 +1394,12 @@
 вбило	V,PST,SG,NEUT
 
 замучив	V.CVB,PST
-замучим	V,FUT,1,PL
-замучу	V,FUT,1,SG
-замучите	V,FUT,2,PL
-замучишь	V,FUT,2,SG
-замучат	V,FUT,3,PL
-замучит	V,FUT,3,SG
+замучим	V,PRS,1,PL
+замучу	V,PRS,1,SG
+замучите	V,PRS,2,PL
+замучишь	V,PRS,2,SG
+замучат	V,PRS,3,PL
+замучит	V,PRS,3,SG
 замучьте	V,IMP,2,PL
 замучь	V,IMP,2,SG
 замучить	V,NFIN
@@ -1409,12 +1409,12 @@
 замучило	V,PST,SG,NEUT
 
 устелив	V.CVB,PST
-устелем	V,FUT,1,PL
-устелю	V,FUT,1,SG
-устелете	V,FUT,2,PL
-устелешь	V,FUT,2,SG
-устелют	V,FUT,3,PL
-устелет	V,FUT,3,SG
+устелем	V,PRS,1,PL
+устелю	V,PRS,1,SG
+устелете	V,PRS,2,PL
+устелешь	V,PRS,2,SG
+устелют	V,PRS,3,PL
+устелет	V,PRS,3,SG
 устелите	V,IMP,2,PL
 устели	V,IMP,2,SG
 устелить	V,NFIN
@@ -1456,12 +1456,12 @@
 пересматривало	V,PST,SG,NEUT
 
 развратив	V.CVB,PST
-развратим	V,FUT,1,PL
-развращу	V,FUT,1,SG
-развратите	V,FUT,2,PL
-развратишь	V,FUT,2,SG
-развратят	V,FUT,3,PL
-развратит	V,FUT,3,SG
+развратим	V,PRS,1,PL
+развращу	V,PRS,1,SG
+развратите	V,PRS,2,PL
+развратишь	V,PRS,2,SG
+развратят	V,PRS,3,PL
+развратит	V,PRS,3,SG
 развратите	V,IMP,2,PL
 разврати	V,IMP,2,SG
 развратить	V,NFIN
@@ -1471,12 +1471,12 @@
 развратило	V,PST,SG,NEUT
 
 прикрепившись	V.CVB,PST
-прикрепимся	V,FUT,1,PL
-прикреплюсь	V,FUT,1,SG
-прикрепитесь	V,FUT,2,PL
-прикрепишься	V,FUT,2,SG
-прикрепятся	V,FUT,3,PL
-прикрепится	V,FUT,3,SG
+прикрепимся	V,PRS,1,PL
+прикреплюсь	V,PRS,1,SG
+прикрепитесь	V,PRS,2,PL
+прикрепишься	V,PRS,2,SG
+прикрепятся	V,PRS,3,PL
+прикрепится	V,PRS,3,SG
 прикрепитесь	V,IMP,2,PL
 прикрепись	V,IMP,2,SG
 прикрепиться	V,NFIN
@@ -1486,12 +1486,12 @@
 прикрепилось	V,PST,SG,NEUT
 
 скрывшись	V.CVB,PST
-скроемся	V,FUT,1,PL
-скроюсь	V,FUT,1,SG
-скроетесь	V,FUT,2,PL
-скроешься	V,FUT,2,SG
-скроются	V,FUT,3,PL
-скроется	V,FUT,3,SG
+скроемся	V,PRS,1,PL
+скроюсь	V,PRS,1,SG
+скроетесь	V,PRS,2,PL
+скроешься	V,PRS,2,SG
+скроются	V,PRS,3,PL
+скроется	V,PRS,3,SG
 скройтесь	V,IMP,2,PL
 скройся	V,IMP,2,SG
 скрыться	V,NFIN
@@ -1501,12 +1501,12 @@
 скрылось	V,PST,SG,NEUT
 
 превзойдя	V.CVB,PST
-превзойдем	V,FUT,1,PL
-превзойду	V,FUT,1,SG
-превзойдете	V,FUT,2,PL
-превзойдешь	V,FUT,2,SG
-превзойдут	V,FUT,3,PL
-превзойдет	V,FUT,3,SG
+превзойдем	V,PRS,1,PL
+превзойду	V,PRS,1,SG
+превзойдете	V,PRS,2,PL
+превзойдешь	V,PRS,2,SG
+превзойдут	V,PRS,3,PL
+превзойдет	V,PRS,3,SG
 превзойдите	V,IMP,2,PL
 превзойди	V,IMP,2,SG
 превзойти	V,NFIN
@@ -1532,12 +1532,12 @@
 подсчитывало	V,PST,SG,NEUT
 
 сознав	V.CVB,PST
-сознаем	V,FUT,1,PL
-сознаю	V,FUT,1,SG
-сознаете	V,FUT,2,PL
-сознаешь	V,FUT,2,SG
-сознают	V,FUT,3,PL
-сознает	V,FUT,3,SG
+сознаем	V,PRS,1,PL
+сознаю	V,PRS,1,SG
+сознаете	V,PRS,2,PL
+сознаешь	V,PRS,2,SG
+сознают	V,PRS,3,PL
+сознает	V,PRS,3,SG
 сознайте	V,IMP,2,PL
 сознай	V,IMP,2,SG
 сознать	V,NFIN
@@ -1611,12 +1611,12 @@
 обязывало	V,PST,SG,NEUT
 
 поиграв	V.CVB,PST
-поиграем	V,FUT,1,PL
-поиграю	V,FUT,1,SG
-поиграете	V,FUT,2,PL
-поиграешь	V,FUT,2,SG
-поиграют	V,FUT,3,PL
-поиграет	V,FUT,3,SG
+поиграем	V,PRS,1,PL
+поиграю	V,PRS,1,SG
+поиграете	V,PRS,2,PL
+поиграешь	V,PRS,2,SG
+поиграют	V,PRS,3,PL
+поиграет	V,PRS,3,SG
 поиграйте	V,IMP,2,PL
 поиграй	V,IMP,2,SG
 поиграть	V,NFIN
@@ -1626,12 +1626,12 @@
 поиграло	V,PST,SG,NEUT
 
 спровоцировав	V.CVB,PST
-спровоцируем	V,FUT,1,PL
-спровоцирую	V,FUT,1,SG
-спровоцируете	V,FUT,2,PL
-спровоцируешь	V,FUT,2,SG
-спровоцируют	V,FUT,3,PL
-спровоцирует	V,FUT,3,SG
+спровоцируем	V,PRS,1,PL
+спровоцирую	V,PRS,1,SG
+спровоцируете	V,PRS,2,PL
+спровоцируешь	V,PRS,2,SG
+спровоцируют	V,PRS,3,PL
+спровоцирует	V,PRS,3,SG
 спровоцируйте	V,IMP,2,PL
 спровоцируй	V,IMP,2,SG
 спровоцировать	V,NFIN
@@ -1641,12 +1641,12 @@
 спровоцировало	V,PST,SG,NEUT
 
 замёрзши	V.CVB,PST
-замерзнем	V,FUT,1,PL
-замерзну	V,FUT,1,SG
-замерзнете	V,FUT,2,PL
-замерзнешь	V,FUT,2,SG
-замерзнут	V,FUT,3,PL
-замерзнет	V,FUT,3,SG
+замерзнем	V,PRS,1,PL
+замерзну	V,PRS,1,SG
+замерзнете	V,PRS,2,PL
+замерзнешь	V,PRS,2,SG
+замерзнут	V,PRS,3,PL
+замерзнет	V,PRS,3,SG
 замёрзните	V,IMP,2,PL
 замёрзни	V,IMP,2,SG
 замёрзнуть	V,NFIN
@@ -1656,12 +1656,12 @@
 замёрзло	V,PST,SG,NEUT
 
 оскалив	V.CVB,PST
-оскалим	V,FUT,1,PL
-оскалю	V,FUT,1,SG
-оскалите	V,FUT,2,PL
-оскалишь	V,FUT,2,SG
-оскалят	V,FUT,3,PL
-оскалит	V,FUT,3,SG
+оскалим	V,PRS,1,PL
+оскалю	V,PRS,1,SG
+оскалите	V,PRS,2,PL
+оскалишь	V,PRS,2,SG
+оскалят	V,PRS,3,PL
+оскалит	V,PRS,3,SG
 оскальте	V,IMP,2,PL
 оскаль	V,IMP,2,SG
 оскалить	V,NFIN
@@ -1671,12 +1671,12 @@
 оскалило	V,PST,SG,NEUT
 
 сымитировав	V.CVB,PST
-сымитируем	V,FUT,1,PL
-сымитирую	V,FUT,1,SG
-сымитируете	V,FUT,2,PL
-сымитируешь	V,FUT,2,SG
-сымитируют	V,FUT,3,PL
-сымитирует	V,FUT,3,SG
+сымитируем	V,PRS,1,PL
+сымитирую	V,PRS,1,SG
+сымитируете	V,PRS,2,PL
+сымитируешь	V,PRS,2,SG
+сымитируют	V,PRS,3,PL
+сымитирует	V,PRS,3,SG
 сымитируйте	V,IMP,2,PL
 сымитируй	V,IMP,2,SG
 сымитировать	V,NFIN
@@ -1702,12 +1702,12 @@
 протаскивало	V,PST,SG,NEUT
 
 вросши	V.CVB,PST
-врастем	V,FUT,1,PL
-врасту	V,FUT,1,SG
-врастете	V,FUT,2,PL
-врастешь	V,FUT,2,SG
-врастут	V,FUT,3,PL
-врастет	V,FUT,3,SG
+врастем	V,PRS,1,PL
+врасту	V,PRS,1,SG
+врастете	V,PRS,2,PL
+врастешь	V,PRS,2,SG
+врастут	V,PRS,3,PL
+врастет	V,PRS,3,SG
 врастите	V,IMP,2,PL
 врасти	V,IMP,2,SG
 врасти	V,NFIN
@@ -1733,12 +1733,12 @@
 перекипало	V,PST,SG,NEUT
 
 объяснившись	V.CVB,PST
-объяснимся	V,FUT,1,PL
-объяснюсь	V,FUT,1,SG
-объяснитесь	V,FUT,2,PL
-объяснишься	V,FUT,2,SG
-объяснятся	V,FUT,3,PL
-объяснится	V,FUT,3,SG
+объяснимся	V,PRS,1,PL
+объяснюсь	V,PRS,1,SG
+объяснитесь	V,PRS,2,PL
+объяснишься	V,PRS,2,SG
+объяснятся	V,PRS,3,PL
+объяснится	V,PRS,3,SG
 объяснитесь	V,IMP,2,PL
 объяснись	V,IMP,2,SG
 объясниться	V,NFIN
@@ -1764,12 +1764,12 @@
 клеило	V,PST,SG,NEUT
 
 снискав	V.CVB,PST
-снискаем	V,FUT,1,PL
-снискаю	V,FUT,1,SG
-снискаете	V,FUT,2,PL
-снискаешь	V,FUT,2,SG
-снискают	V,FUT,3,PL
-снискает	V,FUT,3,SG
+снискаем	V,PRS,1,PL
+снискаю	V,PRS,1,SG
+снискаете	V,PRS,2,PL
+снискаешь	V,PRS,2,SG
+снискают	V,PRS,3,PL
+снискает	V,PRS,3,SG
 снискайте	V,IMP,2,PL
 снискай	V,IMP,2,SG
 снискать	V,NFIN
@@ -1795,12 +1795,12 @@
 рассекало	V,PST,SG,NEUT
 
 вглядевшись	V.CVB,PST
-вглядимся	V,FUT,1,PL
-вгляжусь	V,FUT,1,SG
-вглядитесь	V,FUT,2,PL
-вглядишься	V,FUT,2,SG
-вглядятся	V,FUT,3,PL
-вглядится	V,FUT,3,SG
+вглядимся	V,PRS,1,PL
+вгляжусь	V,PRS,1,SG
+вглядитесь	V,PRS,2,PL
+вглядишься	V,PRS,2,SG
+вглядятся	V,PRS,3,PL
+вглядится	V,PRS,3,SG
 вглядитесь	V,IMP,2,PL
 вглядись	V,IMP,2,SG
 вглядеться	V,NFIN
@@ -1842,12 +1842,12 @@
 богатело	V,PST,SG,NEUT
 
 сгрузив	V.CVB,PST
-сгрузим	V,FUT,1,PL
-сгружу	V,FUT,1,SG
-сгрузите	V,FUT,2,PL
-сгрузишь	V,FUT,2,SG
-сгрузят	V,FUT,3,PL
-сгрузит	V,FUT,3,SG
+сгрузим	V,PRS,1,PL
+сгружу	V,PRS,1,SG
+сгрузите	V,PRS,2,PL
+сгрузишь	V,PRS,2,SG
+сгрузят	V,PRS,3,PL
+сгрузит	V,PRS,3,SG
 сгрузите	V,IMP,2,PL
 сгрузи	V,IMP,2,SG
 сгрузить	V,NFIN
@@ -1857,12 +1857,12 @@
 сгрузило	V,PST,SG,NEUT
 
 проповедав	V.CVB,PST
-проповедаем	V,FUT,1,PL
-проповедаю	V,FUT,1,SG
-проповедаете	V,FUT,2,PL
-проповедаешь	V,FUT,2,SG
-проповедают	V,FUT,3,PL
-проповедает	V,FUT,3,SG
+проповедаем	V,PRS,1,PL
+проповедаю	V,PRS,1,SG
+проповедаете	V,PRS,2,PL
+проповедаешь	V,PRS,2,SG
+проповедают	V,PRS,3,PL
+проповедает	V,PRS,3,SG
 проповедайте	V,IMP,2,PL
 проповедай	V,IMP,2,SG
 проповедать	V,NFIN
@@ -1904,12 +1904,12 @@
 налетало	V,PST,SG,NEUT
 
 запрягши	V.CVB,PST
-запряжем	V,FUT,1,PL
-запрягу	V,FUT,1,SG
-запряжете	V,FUT,2,PL
-запряжешь	V,FUT,2,SG
-запрягут	V,FUT,3,PL
-запряжет	V,FUT,3,SG
+запряжем	V,PRS,1,PL
+запрягу	V,PRS,1,SG
+запряжете	V,PRS,2,PL
+запряжешь	V,PRS,2,SG
+запрягут	V,PRS,3,PL
+запряжет	V,PRS,3,SG
 запрягите	V,IMP,2,PL
 запряги	V,IMP,2,SG
 запрячь	V,NFIN
@@ -1919,12 +1919,12 @@
 запрягло	V,PST,SG,NEUT
 
 потеснив	V.CVB,PST
-потесним	V,FUT,1,PL
-потесню	V,FUT,1,SG
-потесните	V,FUT,2,PL
-потеснишь	V,FUT,2,SG
-потеснят	V,FUT,3,PL
-потеснит	V,FUT,3,SG
+потесним	V,PRS,1,PL
+потесню	V,PRS,1,SG
+потесните	V,PRS,2,PL
+потеснишь	V,PRS,2,SG
+потеснят	V,PRS,3,PL
+потеснит	V,PRS,3,SG
 потесните	V,IMP,2,PL
 потесни	V,IMP,2,SG
 потеснить	V,NFIN
@@ -1934,12 +1934,12 @@
 потеснило	V,PST,SG,NEUT
 
 постигнув	V.CVB,PST
-постигнем	V,FUT,1,PL
-постигну	V,FUT,1,SG
-постигнете	V,FUT,2,PL
-постигнешь	V,FUT,2,SG
-постигнут	V,FUT,3,PL
-постигнет	V,FUT,3,SG
+постигнем	V,PRS,1,PL
+постигну	V,PRS,1,SG
+постигнете	V,PRS,2,PL
+постигнешь	V,PRS,2,SG
+постигнут	V,PRS,3,PL
+постигнет	V,PRS,3,SG
 постигните	V,IMP,2,PL
 постигни	V,IMP,2,SG
 постигнуть	V,NFIN
@@ -1981,12 +1981,12 @@
 опаливало	V,PST,SG,NEUT
 
 заделав	V.CVB,PST
-заделаем	V,FUT,1,PL
-заделаю	V,FUT,1,SG
-заделаете	V,FUT,2,PL
-заделаешь	V,FUT,2,SG
-заделают	V,FUT,3,PL
-заделает	V,FUT,3,SG
+заделаем	V,PRS,1,PL
+заделаю	V,PRS,1,SG
+заделаете	V,PRS,2,PL
+заделаешь	V,PRS,2,SG
+заделают	V,PRS,3,PL
+заделает	V,PRS,3,SG
 заделайте	V,IMP,2,PL
 заделай	V,IMP,2,SG
 заделать	V,NFIN
@@ -2012,12 +2012,12 @@
 опиралось	V,PST,SG,NEUT
 
 прихлебнув	V.CVB,PST
-прихлебнем	V,FUT,1,PL
-прихлебну	V,FUT,1,SG
-прихлебнете	V,FUT,2,PL
-прихлебнешь	V,FUT,2,SG
-прихлебнут	V,FUT,3,PL
-прихлебнет	V,FUT,3,SG
+прихлебнем	V,PRS,1,PL
+прихлебну	V,PRS,1,SG
+прихлебнете	V,PRS,2,PL
+прихлебнешь	V,PRS,2,SG
+прихлебнут	V,PRS,3,PL
+прихлебнет	V,PRS,3,SG
 прихлебните	V,IMP,2,PL
 прихлебни	V,IMP,2,SG
 прихлебнуть	V,NFIN
@@ -2027,12 +2027,12 @@
 прихлебнуло	V,PST,SG,NEUT
 
 уязвив	V.CVB,PST
-уязвим	V,FUT,1,PL
-уязвлю	V,FUT,1,SG
-уязвите	V,FUT,2,PL
-уязвишь	V,FUT,2,SG
-уязвят	V,FUT,3,PL
-уязвит	V,FUT,3,SG
+уязвим	V,PRS,1,PL
+уязвлю	V,PRS,1,SG
+уязвите	V,PRS,2,PL
+уязвишь	V,PRS,2,SG
+уязвят	V,PRS,3,PL
+уязвит	V,PRS,3,SG
 уязвите	V,IMP,2,PL
 уязви	V,IMP,2,SG
 уязвить	V,NFIN
@@ -2042,12 +2042,12 @@
 уязвило	V,PST,SG,NEUT
 
 представ	V.CVB,PST
-предстанем	V,FUT,1,PL
-предстану	V,FUT,1,SG
-предстанете	V,FUT,2,PL
-предстанешь	V,FUT,2,SG
-предстанут	V,FUT,3,PL
-предстанет	V,FUT,3,SG
+предстанем	V,PRS,1,PL
+предстану	V,PRS,1,SG
+предстанете	V,PRS,2,PL
+предстанешь	V,PRS,2,SG
+предстанут	V,PRS,3,PL
+предстанет	V,PRS,3,SG
 предстаньте	V,IMP,2,PL
 предстань	V,IMP,2,SG
 предстать	V,NFIN
@@ -2057,12 +2057,12 @@
 предстало	V,PST,SG,NEUT
 
 оберёгши	V.CVB,PST
-обережем	V,FUT,1,PL
-оберегу	V,FUT,1,SG
-обережете	V,FUT,2,PL
-обережешь	V,FUT,2,SG
-оберегут	V,FUT,3,PL
-обережет	V,FUT,3,SG
+обережем	V,PRS,1,PL
+оберегу	V,PRS,1,SG
+обережете	V,PRS,2,PL
+обережешь	V,PRS,2,SG
+оберегут	V,PRS,3,PL
+обережет	V,PRS,3,SG
 оберегите	V,IMP,2,PL
 обереги	V,IMP,2,SG
 оберечь	V,NFIN
@@ -2072,12 +2072,12 @@
 оберегло	V,PST,SG,NEUT
 
 расцеловав	V.CVB,PST
-расцелуем	V,FUT,1,PL
-расцелую	V,FUT,1,SG
-расцелуете	V,FUT,2,PL
-расцелуешь	V,FUT,2,SG
-расцелуют	V,FUT,3,PL
-расцелует	V,FUT,3,SG
+расцелуем	V,PRS,1,PL
+расцелую	V,PRS,1,SG
+расцелуете	V,PRS,2,PL
+расцелуешь	V,PRS,2,SG
+расцелуют	V,PRS,3,PL
+расцелует	V,PRS,3,SG
 расцелуйте	V,IMP,2,PL
 расцелуй	V,IMP,2,SG
 расцеловать	V,NFIN
@@ -2119,12 +2119,12 @@
 ошпаривало	V,PST,SG,NEUT
 
 сдёрнув	V.CVB,PST
-сдернем	V,FUT,1,PL
-сдерну	V,FUT,1,SG
-сдернете	V,FUT,2,PL
-сдернешь	V,FUT,2,SG
-сдернут	V,FUT,3,PL
-сдернет	V,FUT,3,SG
+сдернем	V,PRS,1,PL
+сдерну	V,PRS,1,SG
+сдернете	V,PRS,2,PL
+сдернешь	V,PRS,2,SG
+сдернут	V,PRS,3,PL
+сдернет	V,PRS,3,SG
 сдёрните	V,IMP,2,PL
 сдёрни	V,IMP,2,SG
 сдёрнуть	V,NFIN
@@ -2150,12 +2150,12 @@
 недоговаривало	V,PST,SG,NEUT
 
 отпросившись	V.CVB,PST
-отпросимся	V,FUT,1,PL
-отпрошусь	V,FUT,1,SG
-отпроситесь	V,FUT,2,PL
-отпросишься	V,FUT,2,SG
-отпросятся	V,FUT,3,PL
-отпросится	V,FUT,3,SG
+отпросимся	V,PRS,1,PL
+отпрошусь	V,PRS,1,SG
+отпроситесь	V,PRS,2,PL
+отпросишься	V,PRS,2,SG
+отпросятся	V,PRS,3,PL
+отпросится	V,PRS,3,SG
 отпроситесь	V,IMP,2,PL
 отпросись	V,IMP,2,SG
 отпроситься	V,NFIN
@@ -2197,12 +2197,12 @@
 преступало	V,PST,SG,NEUT
 
 простившись	V.CVB,PST
-простимся	V,FUT,1,PL
-прощусь	V,FUT,1,SG
-проститесь	V,FUT,2,PL
-простишься	V,FUT,2,SG
-простятся	V,FUT,3,PL
-простится	V,FUT,3,SG
+простимся	V,PRS,1,PL
+прощусь	V,PRS,1,SG
+проститесь	V,PRS,2,PL
+простишься	V,PRS,2,SG
+простятся	V,PRS,3,PL
+простится	V,PRS,3,SG
 проститесь	V,IMP,2,PL
 простись	V,IMP,2,SG
 проститься	V,NFIN
@@ -2244,12 +2244,12 @@
 поддевало	V,PST,SG,NEUT
 
 раздавив	V.CVB,PST
-раздавим	V,FUT,1,PL
-раздавлю	V,FUT,1,SG
-раздавите	V,FUT,2,PL
-раздавишь	V,FUT,2,SG
-раздавят	V,FUT,3,PL
-раздавит	V,FUT,3,SG
+раздавим	V,PRS,1,PL
+раздавлю	V,PRS,1,SG
+раздавите	V,PRS,2,PL
+раздавишь	V,PRS,2,SG
+раздавят	V,PRS,3,PL
+раздавит	V,PRS,3,SG
 раздавите	V,IMP,2,PL
 раздави	V,IMP,2,SG
 раздавить	V,NFIN
@@ -2259,12 +2259,12 @@
 раздавило	V,PST,SG,NEUT
 
 выговорившись	V.CVB,PST
-выговоримся	V,FUT,1,PL
-выговорюсь	V,FUT,1,SG
-выговоритесь	V,FUT,2,PL
-выговоришься	V,FUT,2,SG
-выговорятся	V,FUT,3,PL
-выговорится	V,FUT,3,SG
+выговоримся	V,PRS,1,PL
+выговорюсь	V,PRS,1,SG
+выговоритесь	V,PRS,2,PL
+выговоришься	V,PRS,2,SG
+выговорятся	V,PRS,3,PL
+выговорится	V,PRS,3,SG
 выговоритесь	V,IMP,2,PL
 выговорись	V,IMP,2,SG
 выговориться	V,NFIN
@@ -2274,12 +2274,12 @@
 выговорилось	V,PST,SG,NEUT
 
 переместившись	V.CVB,PST
-переместимся	V,FUT,1,PL
-перемещусь	V,FUT,1,SG
-переместитесь	V,FUT,2,PL
-переместишься	V,FUT,2,SG
-переместятся	V,FUT,3,PL
-переместится	V,FUT,3,SG
+переместимся	V,PRS,1,PL
+перемещусь	V,PRS,1,SG
+переместитесь	V,PRS,2,PL
+переместишься	V,PRS,2,SG
+переместятся	V,PRS,3,PL
+переместится	V,PRS,3,SG
 переместитесь	V,IMP,2,PL
 переместись	V,IMP,2,SG
 переместиться	V,NFIN
@@ -2289,12 +2289,12 @@
 переместилось	V,PST,SG,NEUT
 
 опустившись	V.CVB,PST
-опустимся	V,FUT,1,PL
-опущусь	V,FUT,1,SG
-опуститесь	V,FUT,2,PL
-опустишься	V,FUT,2,SG
-опустятся	V,FUT,3,PL
-опустится	V,FUT,3,SG
+опустимся	V,PRS,1,PL
+опущусь	V,PRS,1,SG
+опуститесь	V,PRS,2,PL
+опустишься	V,PRS,2,SG
+опустятся	V,PRS,3,PL
+опустится	V,PRS,3,SG
 опуститесь	V,IMP,2,PL
 опустись	V,IMP,2,SG
 опуститься	V,NFIN
@@ -2368,12 +2368,12 @@
 набивало	V,PST,SG,NEUT
 
 ужаснув	V.CVB,PST
-ужаснем	V,FUT,1,PL
-ужасну	V,FUT,1,SG
-ужаснете	V,FUT,2,PL
-ужаснешь	V,FUT,2,SG
-ужаснут	V,FUT,3,PL
-ужаснет	V,FUT,3,SG
+ужаснем	V,PRS,1,PL
+ужасну	V,PRS,1,SG
+ужаснете	V,PRS,2,PL
+ужаснешь	V,PRS,2,SG
+ужаснут	V,PRS,3,PL
+ужаснет	V,PRS,3,SG
 ужасните	V,IMP,2,PL
 ужасни	V,IMP,2,SG
 ужаснуть	V,NFIN
@@ -2399,12 +2399,12 @@
 смещало	V,PST,SG,NEUT
 
 обморочив	V.CVB,PST
-обморочим	V,FUT,1,PL
-обморочу	V,FUT,1,SG
-обморочите	V,FUT,2,PL
-обморочишь	V,FUT,2,SG
-обморочат	V,FUT,3,PL
-обморочит	V,FUT,3,SG
+обморочим	V,PRS,1,PL
+обморочу	V,PRS,1,SG
+обморочите	V,PRS,2,PL
+обморочишь	V,PRS,2,SG
+обморочат	V,PRS,3,PL
+обморочит	V,PRS,3,SG
 обморочьте	V,IMP,2,PL
 обморочь	V,IMP,2,SG
 обморочить	V,NFIN
@@ -2414,12 +2414,12 @@
 обморочило	V,PST,SG,NEUT
 
 откашлявшись	V.CVB,PST
-откашляемся	V,FUT,1,PL
-откашляюсь	V,FUT,1,SG
-откашляетесь	V,FUT,2,PL
-откашляешься	V,FUT,2,SG
-откашляются	V,FUT,3,PL
-откашляется	V,FUT,3,SG
+откашляемся	V,PRS,1,PL
+откашляюсь	V,PRS,1,SG
+откашляетесь	V,PRS,2,PL
+откашляешься	V,PRS,2,SG
+откашляются	V,PRS,3,PL
+откашляется	V,PRS,3,SG
 откашляйтесь	V,IMP,2,PL
 откашляйся	V,IMP,2,SG
 откашляться	V,NFIN
@@ -2461,12 +2461,12 @@
 вскрывало	V,PST,SG,NEUT
 
 сманеврировав	V.CVB,PST
-сманеврируем	V,FUT,1,PL
-сманеврирую	V,FUT,1,SG
-сманеврируете	V,FUT,2,PL
-сманеврируешь	V,FUT,2,SG
-сманеврируют	V,FUT,3,PL
-сманеврирует	V,FUT,3,SG
+сманеврируем	V,PRS,1,PL
+сманеврирую	V,PRS,1,SG
+сманеврируете	V,PRS,2,PL
+сманеврируешь	V,PRS,2,SG
+сманеврируют	V,PRS,3,PL
+сманеврирует	V,PRS,3,SG
 сманеврируйте	V,IMP,2,PL
 сманеврируй	V,IMP,2,SG
 сманеврировать	V,NFIN
@@ -2492,12 +2492,12 @@
 величало	V,PST,SG,NEUT
 
 усмотрев	V.CVB,PST
-усмотрим	V,FUT,1,PL
-усмотрю	V,FUT,1,SG
-усмотрите	V,FUT,2,PL
-усмотришь	V,FUT,2,SG
-усмотрят	V,FUT,3,PL
-усмотрит	V,FUT,3,SG
+усмотрим	V,PRS,1,PL
+усмотрю	V,PRS,1,SG
+усмотрите	V,PRS,2,PL
+усмотришь	V,PRS,2,SG
+усмотрят	V,PRS,3,PL
+усмотрит	V,PRS,3,SG
 усмотрите	V,IMP,2,PL
 усмотри	V,IMP,2,SG
 усмотреть	V,NFIN
@@ -2507,12 +2507,12 @@
 усмотрело	V,PST,SG,NEUT
 
 ввезя	V.CVB,PST
-ввезем	V,FUT,1,PL
-ввезу	V,FUT,1,SG
-ввезете	V,FUT,2,PL
-ввезешь	V,FUT,2,SG
-ввезут	V,FUT,3,PL
-ввезет	V,FUT,3,SG
+ввезем	V,PRS,1,PL
+ввезу	V,PRS,1,SG
+ввезете	V,PRS,2,PL
+ввезешь	V,PRS,2,SG
+ввезут	V,PRS,3,PL
+ввезет	V,PRS,3,SG
 ввезите	V,IMP,2,PL
 ввези	V,IMP,2,SG
 ввезти	V,NFIN
@@ -2522,12 +2522,12 @@
 ввезло	V,PST,SG,NEUT
 
 подоспев	V.CVB,PST
-подоспеем	V,FUT,1,PL
-подоспею	V,FUT,1,SG
-подоспеете	V,FUT,2,PL
-подоспеешь	V,FUT,2,SG
-подоспеют	V,FUT,3,PL
-подоспеет	V,FUT,3,SG
+подоспеем	V,PRS,1,PL
+подоспею	V,PRS,1,SG
+подоспеете	V,PRS,2,PL
+подоспеешь	V,PRS,2,SG
+подоспеют	V,PRS,3,PL
+подоспеет	V,PRS,3,SG
 подоспейте	V,IMP,2,PL
 подоспей	V,IMP,2,SG
 подоспеть	V,NFIN
@@ -2569,12 +2569,12 @@
 соскакивало	V,PST,SG,NEUT
 
 набившись	V.CVB,PST
-набьемся	V,FUT,1,PL
-набьюсь	V,FUT,1,SG
-набьетесь	V,FUT,2,PL
-набьешься	V,FUT,2,SG
-набьются	V,FUT,3,PL
-набьется	V,FUT,3,SG
+набьемся	V,PRS,1,PL
+набьюсь	V,PRS,1,SG
+набьетесь	V,PRS,2,PL
+набьешься	V,PRS,2,SG
+набьются	V,PRS,3,PL
+набьется	V,PRS,3,SG
 набейтесь	V,IMP,2,PL
 набейся	V,IMP,2,SG
 набиться	V,NFIN
@@ -2616,12 +2616,12 @@
 напускало	V,PST,SG,NEUT
 
 заинтересовав	V.CVB,PST
-заинтересуем	V,FUT,1,PL
-заинтересую	V,FUT,1,SG
-заинтересуете	V,FUT,2,PL
-заинтересуешь	V,FUT,2,SG
-заинтересуют	V,FUT,3,PL
-заинтересует	V,FUT,3,SG
+заинтересуем	V,PRS,1,PL
+заинтересую	V,PRS,1,SG
+заинтересуете	V,PRS,2,PL
+заинтересуешь	V,PRS,2,SG
+заинтересуют	V,PRS,3,PL
+заинтересует	V,PRS,3,SG
 заинтересуйте	V,IMP,2,PL
 заинтересуй	V,IMP,2,SG
 заинтересовать	V,NFIN
@@ -2631,12 +2631,12 @@
 заинтересовало	V,PST,SG,NEUT
 
 нанявшись	V.CVB,PST
-наймемся	V,FUT,1,PL
-наймусь	V,FUT,1,SG
-найметесь	V,FUT,2,PL
-наймешься	V,FUT,2,SG
-наймутся	V,FUT,3,PL
-наймется	V,FUT,3,SG
+наймемся	V,PRS,1,PL
+наймусь	V,PRS,1,SG
+найметесь	V,PRS,2,PL
+наймешься	V,PRS,2,SG
+наймутся	V,PRS,3,PL
+наймется	V,PRS,3,SG
 наймитесь	V,IMP,2,PL
 наймись	V,IMP,2,SG
 наняться	V,NFIN
@@ -2646,12 +2646,12 @@
 нанялось	V,PST,SG,NEUT
 
 потеплев	V.CVB,PST
-потеплеем	V,FUT,1,PL
-потеплею	V,FUT,1,SG
-потеплеете	V,FUT,2,PL
-потеплеешь	V,FUT,2,SG
-потеплеют	V,FUT,3,PL
-потеплеет	V,FUT,3,SG
+потеплеем	V,PRS,1,PL
+потеплею	V,PRS,1,SG
+потеплеете	V,PRS,2,PL
+потеплеешь	V,PRS,2,SG
+потеплеют	V,PRS,3,PL
+потеплеет	V,PRS,3,SG
 потеплейте	V,IMP,2,PL
 потеплей	V,IMP,2,SG
 потеплеть	V,NFIN
@@ -2661,12 +2661,12 @@
 потеплело	V,PST,SG,NEUT
 
 завалив	V.CVB,PST
-завалим	V,FUT,1,PL
-завалю	V,FUT,1,SG
-завалите	V,FUT,2,PL
-завалишь	V,FUT,2,SG
-завалят	V,FUT,3,PL
-завалит	V,FUT,3,SG
+завалим	V,PRS,1,PL
+завалю	V,PRS,1,SG
+завалите	V,PRS,2,PL
+завалишь	V,PRS,2,SG
+завалят	V,PRS,3,PL
+завалит	V,PRS,3,SG
 завалите	V,IMP,2,PL
 завали	V,IMP,2,SG
 завалить	V,NFIN
@@ -2788,12 +2788,12 @@
 отряжало	V,PST,SG,NEUT
 
 заев	V.CVB,PST
-заедим	V,FUT,1,PL
-заем	V,FUT,1,SG
-заедите	V,FUT,2,PL
-заешь	V,FUT,2,SG
-заедят	V,FUT,3,PL
-заест	V,FUT,3,SG
+заедим	V,PRS,1,PL
+заем	V,PRS,1,SG
+заедите	V,PRS,2,PL
+заешь	V,PRS,2,SG
+заедят	V,PRS,3,PL
+заест	V,PRS,3,SG
 заешьте	V,IMP,2,PL
 заешь	V,IMP,2,SG
 заесть	V,NFIN
@@ -2819,12 +2819,12 @@
 штопало	V,PST,SG,NEUT
 
 размерив	V.CVB,PST
-размерим	V,FUT,1,PL
-размерю	V,FUT,1,SG
-размерите	V,FUT,2,PL
-размеришь	V,FUT,2,SG
-размерят	V,FUT,3,PL
-размерит	V,FUT,3,SG
+размерим	V,PRS,1,PL
+размерю	V,PRS,1,SG
+размерите	V,PRS,2,PL
+размеришь	V,PRS,2,SG
+размерят	V,PRS,3,PL
+размерит	V,PRS,3,SG
 размерьте	V,IMP,2,PL
 размерь	V,IMP,2,SG
 размерить	V,NFIN
@@ -2866,12 +2866,12 @@
 расселялось	V,PST,SG,NEUT
 
 выложившись	V.CVB,PST
-выложимся	V,FUT,1,PL
-выложусь	V,FUT,1,SG
-выложитесь	V,FUT,2,PL
-выложишься	V,FUT,2,SG
-выложатся	V,FUT,3,PL
-выложится	V,FUT,3,SG
+выложимся	V,PRS,1,PL
+выложусь	V,PRS,1,SG
+выложитесь	V,PRS,2,PL
+выложишься	V,PRS,2,SG
+выложатся	V,PRS,3,PL
+выложится	V,PRS,3,SG
 выложитесь	V,IMP,2,PL
 выложись	V,IMP,2,SG
 выложиться	V,NFIN
@@ -2913,12 +2913,12 @@
 пододвигало	V,PST,SG,NEUT
 
 подскочив	V.CVB,PST
-подскочим	V,FUT,1,PL
-подскочу	V,FUT,1,SG
-подскочите	V,FUT,2,PL
-подскочишь	V,FUT,2,SG
-подскочат	V,FUT,3,PL
-подскочит	V,FUT,3,SG
+подскочим	V,PRS,1,PL
+подскочу	V,PRS,1,SG
+подскочите	V,PRS,2,PL
+подскочишь	V,PRS,2,SG
+подскочат	V,PRS,3,PL
+подскочит	V,PRS,3,SG
 подскочите	V,IMP,2,PL
 подскочи	V,IMP,2,SG
 подскочить	V,NFIN
@@ -2928,12 +2928,12 @@
 подскочило	V,PST,SG,NEUT
 
 нагревшись	V.CVB,PST
-нагреемся	V,FUT,1,PL
-нагреюсь	V,FUT,1,SG
-нагреетесь	V,FUT,2,PL
-нагреешься	V,FUT,2,SG
-нагреются	V,FUT,3,PL
-нагреется	V,FUT,3,SG
+нагреемся	V,PRS,1,PL
+нагреюсь	V,PRS,1,SG
+нагреетесь	V,PRS,2,PL
+нагреешься	V,PRS,2,SG
+нагреются	V,PRS,3,PL
+нагреется	V,PRS,3,SG
 нагрейтесь	V,IMP,2,PL
 нагрейся	V,IMP,2,SG
 нагреться	V,NFIN
@@ -2943,12 +2943,12 @@
 нагрелось	V,PST,SG,NEUT
 
 спрыгнув	V.CVB,PST
-спрыгнем	V,FUT,1,PL
-спрыгну	V,FUT,1,SG
-спрыгнете	V,FUT,2,PL
-спрыгнешь	V,FUT,2,SG
-спрыгнут	V,FUT,3,PL
-спрыгнет	V,FUT,3,SG
+спрыгнем	V,PRS,1,PL
+спрыгну	V,PRS,1,SG
+спрыгнете	V,PRS,2,PL
+спрыгнешь	V,PRS,2,SG
+спрыгнут	V,PRS,3,PL
+спрыгнет	V,PRS,3,SG
 спрыгните	V,IMP,2,PL
 спрыгни	V,IMP,2,SG
 спрыгнуть	V,NFIN
@@ -2990,12 +2990,12 @@
 подключало	V,PST,SG,NEUT
 
 проспав	V.CVB,PST
-проспим	V,FUT,1,PL
-просплю	V,FUT,1,SG
-проспите	V,FUT,2,PL
-проспишь	V,FUT,2,SG
-проспят	V,FUT,3,PL
-проспит	V,FUT,3,SG
+проспим	V,PRS,1,PL
+просплю	V,PRS,1,SG
+проспите	V,PRS,2,PL
+проспишь	V,PRS,2,SG
+проспят	V,PRS,3,PL
+проспит	V,PRS,3,SG
 проспите	V,IMP,2,PL
 проспи	V,IMP,2,SG
 проспать	V,NFIN
@@ -3005,12 +3005,12 @@
 проспало	V,PST,SG,NEUT
 
 задёргавшись	V.CVB,PST
-задергаемся	V,FUT,1,PL
-задергаюсь	V,FUT,1,SG
-задергаетесь	V,FUT,2,PL
-задергаешься	V,FUT,2,SG
-задергаются	V,FUT,3,PL
-задергается	V,FUT,3,SG
+задергаемся	V,PRS,1,PL
+задергаюсь	V,PRS,1,SG
+задергаетесь	V,PRS,2,PL
+задергаешься	V,PRS,2,SG
+задергаются	V,PRS,3,PL
+задергается	V,PRS,3,SG
 задёргайтесь	V,IMP,2,PL
 задёргайся	V,IMP,2,SG
 задёргаться	V,NFIN
@@ -3020,12 +3020,12 @@
 задёргалось	V,PST,SG,NEUT
 
 позвякивав	V.CVB,PST
-позвякиваем	V,FUT,1,PL
-позвякиваю	V,FUT,1,SG
-позвякиваете	V,FUT,2,PL
-позвякиваешь	V,FUT,2,SG
-позвякивают	V,FUT,3,PL
-позвякивает	V,FUT,3,SG
+позвякиваем	V,PRS,1,PL
+позвякиваю	V,PRS,1,SG
+позвякиваете	V,PRS,2,PL
+позвякиваешь	V,PRS,2,SG
+позвякивают	V,PRS,3,PL
+позвякивает	V,PRS,3,SG
 позвякивайте	V,IMP,2,PL
 позвякивай	V,IMP,2,SG
 позвякивать	V,NFIN
@@ -3051,12 +3051,12 @@
 работало	V,PST,SG,NEUT
 
 обрушившись	V.CVB,PST
-обрушимся	V,FUT,1,PL
-обрушусь	V,FUT,1,SG
-обрушитесь	V,FUT,2,PL
-обрушишься	V,FUT,2,SG
-обрушатся	V,FUT,3,PL
-обрушится	V,FUT,3,SG
+обрушимся	V,PRS,1,PL
+обрушусь	V,PRS,1,SG
+обрушитесь	V,PRS,2,PL
+обрушишься	V,PRS,2,SG
+обрушатся	V,PRS,3,PL
+обрушится	V,PRS,3,SG
 обрушьтесь	V,IMP,2,PL
 обрушься	V,IMP,2,SG
 обрушиться	V,NFIN
@@ -3066,12 +3066,12 @@
 обрушилось	V,PST,SG,NEUT
 
 обезвредив	V.CVB,PST
-обезвредим	V,FUT,1,PL
-обезврежу	V,FUT,1,SG
-обезвредите	V,FUT,2,PL
-обезвредишь	V,FUT,2,SG
-обезвредят	V,FUT,3,PL
-обезвредит	V,FUT,3,SG
+обезвредим	V,PRS,1,PL
+обезврежу	V,PRS,1,SG
+обезвредите	V,PRS,2,PL
+обезвредишь	V,PRS,2,SG
+обезвредят	V,PRS,3,PL
+обезвредит	V,PRS,3,SG
 обезвредьте	V,IMP,2,PL
 обезвредь	V,IMP,2,SG
 обезвредить	V,NFIN
@@ -3081,12 +3081,12 @@
 обезвредило	V,PST,SG,NEUT
 
 скатившись	V.CVB,PST
-скатимся	V,FUT,1,PL
-скачусь	V,FUT,1,SG
-скатитесь	V,FUT,2,PL
-скатишься	V,FUT,2,SG
-скатятся	V,FUT,3,PL
-скатится	V,FUT,3,SG
+скатимся	V,PRS,1,PL
+скачусь	V,PRS,1,SG
+скатитесь	V,PRS,2,PL
+скатишься	V,PRS,2,SG
+скатятся	V,PRS,3,PL
+скатится	V,PRS,3,SG
 скатитесь	V,IMP,2,PL
 скатись	V,IMP,2,SG
 скатиться	V,NFIN
@@ -3096,12 +3096,12 @@
 скатилось	V,PST,SG,NEUT
 
 заклеймив	V.CVB,PST
-заклеймим	V,FUT,1,PL
-заклеймлю	V,FUT,1,SG
-заклеймите	V,FUT,2,PL
-заклеймишь	V,FUT,2,SG
-заклеймят	V,FUT,3,PL
-заклеймит	V,FUT,3,SG
+заклеймим	V,PRS,1,PL
+заклеймлю	V,PRS,1,SG
+заклеймите	V,PRS,2,PL
+заклеймишь	V,PRS,2,SG
+заклеймят	V,PRS,3,PL
+заклеймит	V,PRS,3,SG
 заклеймите	V,IMP,2,PL
 заклейми	V,IMP,2,SG
 заклеймить	V,NFIN
@@ -3111,12 +3111,12 @@
 заклеймило	V,PST,SG,NEUT
 
 обтёкши	V.CVB,PST
-обтечем	V,FUT,1,PL
-обтеку	V,FUT,1,SG
-обтечете	V,FUT,2,PL
-обтечешь	V,FUT,2,SG
-обтекут	V,FUT,3,PL
-обтечет	V,FUT,3,SG
+обтечем	V,PRS,1,PL
+обтеку	V,PRS,1,SG
+обтечете	V,PRS,2,PL
+обтечешь	V,PRS,2,SG
+обтекут	V,PRS,3,PL
+обтечет	V,PRS,3,SG
 обтеките	V,IMP,2,PL
 обтеки	V,IMP,2,SG
 обтечь	V,NFIN
@@ -3142,12 +3142,12 @@
 завещало	V,PST,SG,NEUT
 
 затерев	V.CVB,PST
-затрем	V,FUT,1,PL
-затру	V,FUT,1,SG
-затрете	V,FUT,2,PL
-затрешь	V,FUT,2,SG
-затрут	V,FUT,3,PL
-затрет	V,FUT,3,SG
+затрем	V,PRS,1,PL
+затру	V,PRS,1,SG
+затрете	V,PRS,2,PL
+затрешь	V,PRS,2,SG
+затрут	V,PRS,3,PL
+затрет	V,PRS,3,SG
 затрите	V,IMP,2,PL
 затри	V,IMP,2,SG
 затереть	V,NFIN
@@ -3157,12 +3157,12 @@
 затёрло	V,PST,SG,NEUT
 
 обличив	V.CVB,PST
-обличим	V,FUT,1,PL
-обличу	V,FUT,1,SG
-обличите	V,FUT,2,PL
-обличишь	V,FUT,2,SG
-обличат	V,FUT,3,PL
-обличит	V,FUT,3,SG
+обличим	V,PRS,1,PL
+обличу	V,PRS,1,SG
+обличите	V,PRS,2,PL
+обличишь	V,PRS,2,SG
+обличат	V,PRS,3,PL
+обличит	V,PRS,3,SG
 обличите	V,IMP,2,PL
 обличи	V,IMP,2,SG
 обличить	V,NFIN
@@ -3172,12 +3172,12 @@
 обличило	V,PST,SG,NEUT
 
 напугав	V.CVB,PST
-напугаем	V,FUT,1,PL
-напугаю	V,FUT,1,SG
-напугаете	V,FUT,2,PL
-напугаешь	V,FUT,2,SG
-напугают	V,FUT,3,PL
-напугает	V,FUT,3,SG
+напугаем	V,PRS,1,PL
+напугаю	V,PRS,1,SG
+напугаете	V,PRS,2,PL
+напугаешь	V,PRS,2,SG
+напугают	V,PRS,3,PL
+напугает	V,PRS,3,SG
 напугайте	V,IMP,2,PL
 напугай	V,IMP,2,SG
 напугать	V,NFIN
@@ -3187,12 +3187,12 @@
 напугало	V,PST,SG,NEUT
 
 вписавшись	V.CVB,PST
-впишемся	V,FUT,1,PL
-впишусь	V,FUT,1,SG
-впишетесь	V,FUT,2,PL
-впишешься	V,FUT,2,SG
-впишутся	V,FUT,3,PL
-впишется	V,FUT,3,SG
+впишемся	V,PRS,1,PL
+впишусь	V,PRS,1,SG
+впишетесь	V,PRS,2,PL
+впишешься	V,PRS,2,SG
+впишутся	V,PRS,3,PL
+впишется	V,PRS,3,SG
 впишитесь	V,IMP,2,PL
 впишись	V,IMP,2,SG
 вписаться	V,NFIN
@@ -3202,12 +3202,12 @@
 вписалось	V,PST,SG,NEUT
 
 поёжившись	V.CVB,PST
-поежимся	V,FUT,1,PL
-поежусь	V,FUT,1,SG
-поежитесь	V,FUT,2,PL
-поежишься	V,FUT,2,SG
-поежатся	V,FUT,3,PL
-поежится	V,FUT,3,SG
+поежимся	V,PRS,1,PL
+поежусь	V,PRS,1,SG
+поежитесь	V,PRS,2,PL
+поежишься	V,PRS,2,SG
+поежатся	V,PRS,3,PL
+поежится	V,PRS,3,SG
 поёжьтесь	V,IMP,2,PL
 поёжься	V,IMP,2,SG
 поёжиться	V,NFIN
@@ -3217,12 +3217,12 @@
 поёжилось	V,PST,SG,NEUT
 
 подвернув	V.CVB,PST
-подвернем	V,FUT,1,PL
-подверну	V,FUT,1,SG
-подвернете	V,FUT,2,PL
-подвернешь	V,FUT,2,SG
-подвернут	V,FUT,3,PL
-подвернет	V,FUT,3,SG
+подвернем	V,PRS,1,PL
+подверну	V,PRS,1,SG
+подвернете	V,PRS,2,PL
+подвернешь	V,PRS,2,SG
+подвернут	V,PRS,3,PL
+подвернет	V,PRS,3,SG
 подверните	V,IMP,2,PL
 подверни	V,IMP,2,SG
 подвернуть	V,NFIN
@@ -3232,12 +3232,12 @@
 подвернуло	V,PST,SG,NEUT
 
 заявившись	V.CVB,PST
-заявимся	V,FUT,1,PL
-заявлюсь	V,FUT,1,SG
-заявитесь	V,FUT,2,PL
-заявишься	V,FUT,2,SG
-заявятся	V,FUT,3,PL
-заявится	V,FUT,3,SG
+заявимся	V,PRS,1,PL
+заявлюсь	V,PRS,1,SG
+заявитесь	V,PRS,2,PL
+заявишься	V,PRS,2,SG
+заявятся	V,PRS,3,PL
+заявится	V,PRS,3,SG
 заявитесь	V,IMP,2,PL
 заявись	V,IMP,2,SG
 заявиться	V,NFIN
@@ -3279,12 +3279,12 @@
 оплетало	V,PST,SG,NEUT
 
 восславив	V.CVB,PST
-восславим	V,FUT,1,PL
-восславлю	V,FUT,1,SG
-восславите	V,FUT,2,PL
-восславишь	V,FUT,2,SG
-восславят	V,FUT,3,PL
-восславит	V,FUT,3,SG
+восславим	V,PRS,1,PL
+восславлю	V,PRS,1,SG
+восславите	V,PRS,2,PL
+восславишь	V,PRS,2,SG
+восславят	V,PRS,3,PL
+восславит	V,PRS,3,SG
 восславьте	V,IMP,2,PL
 восславь	V,IMP,2,SG
 восславить	V,NFIN
@@ -3326,12 +3326,12 @@
 гримасничало	V,PST,SG,NEUT
 
 направившись	V.CVB,PST
-направимся	V,FUT,1,PL
-направлюсь	V,FUT,1,SG
-направитесь	V,FUT,2,PL
-направишься	V,FUT,2,SG
-направятся	V,FUT,3,PL
-направится	V,FUT,3,SG
+направимся	V,PRS,1,PL
+направлюсь	V,PRS,1,SG
+направитесь	V,PRS,2,PL
+направишься	V,PRS,2,SG
+направятся	V,PRS,3,PL
+направится	V,PRS,3,SG
 направьтесь	V,IMP,2,PL
 направься	V,IMP,2,SG
 направиться	V,NFIN
@@ -3357,12 +3357,12 @@
 устаревало	V,PST,SG,NEUT
 
 приглушив	V.CVB,PST
-приглушим	V,FUT,1,PL
-приглушу	V,FUT,1,SG
-приглушите	V,FUT,2,PL
-приглушишь	V,FUT,2,SG
-приглушат	V,FUT,3,PL
-приглушит	V,FUT,3,SG
+приглушим	V,PRS,1,PL
+приглушу	V,PRS,1,SG
+приглушите	V,PRS,2,PL
+приглушишь	V,PRS,2,SG
+приглушат	V,PRS,3,PL
+приглушит	V,PRS,3,SG
 приглушите	V,IMP,2,PL
 приглуши	V,IMP,2,SG
 приглушить	V,NFIN
@@ -3404,12 +3404,12 @@
 брызгало	V,PST,SG,NEUT
 
 забеременев	V.CVB,PST
-забеременеем	V,FUT,1,PL
-забеременею	V,FUT,1,SG
-забеременеете	V,FUT,2,PL
-забеременеешь	V,FUT,2,SG
-забеременеют	V,FUT,3,PL
-забеременеет	V,FUT,3,SG
+забеременеем	V,PRS,1,PL
+забеременею	V,PRS,1,SG
+забеременеете	V,PRS,2,PL
+забеременеешь	V,PRS,2,SG
+забеременеют	V,PRS,3,PL
+забеременеет	V,PRS,3,SG
 забеременейте	V,IMP,2,PL
 забеременей	V,IMP,2,SG
 забеременеть	V,NFIN
@@ -3451,12 +3451,12 @@
 млело	V,PST,SG,NEUT
 
 наговорив	V.CVB,PST
-наговорим	V,FUT,1,PL
-наговорю	V,FUT,1,SG
-наговорите	V,FUT,2,PL
-наговоришь	V,FUT,2,SG
-наговорят	V,FUT,3,PL
-наговорит	V,FUT,3,SG
+наговорим	V,PRS,1,PL
+наговорю	V,PRS,1,SG
+наговорите	V,PRS,2,PL
+наговоришь	V,PRS,2,SG
+наговорят	V,PRS,3,PL
+наговорит	V,PRS,3,SG
 наговорите	V,IMP,2,PL
 наговори	V,IMP,2,SG
 наговорить	V,NFIN
@@ -3482,12 +3482,12 @@
 разорялось	V,PST,SG,NEUT
 
 недопив	V.CVB,PST
-недопьем	V,FUT,1,PL
-недопью	V,FUT,1,SG
-недопьете	V,FUT,2,PL
-недопьешь	V,FUT,2,SG
-недопьют	V,FUT,3,PL
-недопьет	V,FUT,3,SG
+недопьем	V,PRS,1,PL
+недопью	V,PRS,1,SG
+недопьете	V,PRS,2,PL
+недопьешь	V,PRS,2,SG
+недопьют	V,PRS,3,PL
+недопьет	V,PRS,3,SG
 недопейте	V,IMP,2,PL
 недопей	V,IMP,2,SG
 недопить	V,NFIN
@@ -3529,12 +3529,12 @@
 хуярило	V,PST,SG,NEUT
 
 обновившись	V.CVB,PST
-обновимся	V,FUT,1,PL
-обновлюсь	V,FUT,1,SG
-обновитесь	V,FUT,2,PL
-обновишься	V,FUT,2,SG
-обновятся	V,FUT,3,PL
-обновится	V,FUT,3,SG
+обновимся	V,PRS,1,PL
+обновлюсь	V,PRS,1,SG
+обновитесь	V,PRS,2,PL
+обновишься	V,PRS,2,SG
+обновятся	V,PRS,3,PL
+обновится	V,PRS,3,SG
 обновитесь	V,IMP,2,PL
 обновись	V,IMP,2,SG
 обновиться	V,NFIN
@@ -3560,12 +3560,12 @@
 маскировалось	V,PST,SG,NEUT
 
 заскучав	V.CVB,PST
-заскучаем	V,FUT,1,PL
-заскучаю	V,FUT,1,SG
-заскучаете	V,FUT,2,PL
-заскучаешь	V,FUT,2,SG
-заскучают	V,FUT,3,PL
-заскучает	V,FUT,3,SG
+заскучаем	V,PRS,1,PL
+заскучаю	V,PRS,1,SG
+заскучаете	V,PRS,2,PL
+заскучаешь	V,PRS,2,SG
+заскучают	V,PRS,3,PL
+заскучает	V,PRS,3,SG
 заскучайте	V,IMP,2,PL
 заскучай	V,IMP,2,SG
 заскучать	V,NFIN
@@ -3575,12 +3575,12 @@
 заскучало	V,PST,SG,NEUT
 
 удлинив	V.CVB,PST
-удлиним	V,FUT,1,PL
-удлиню	V,FUT,1,SG
-удлините	V,FUT,2,PL
-удлинишь	V,FUT,2,SG
-удлинят	V,FUT,3,PL
-удлинит	V,FUT,3,SG
+удлиним	V,PRS,1,PL
+удлиню	V,PRS,1,SG
+удлините	V,PRS,2,PL
+удлинишь	V,PRS,2,SG
+удлинят	V,PRS,3,PL
+удлинит	V,PRS,3,SG
 удлините	V,IMP,2,PL
 удлини	V,IMP,2,SG
 удлинить	V,NFIN
@@ -3590,12 +3590,12 @@
 удлинило	V,PST,SG,NEUT
 
 обложив	V.CVB,PST
-обложим	V,FUT,1,PL
-обложу	V,FUT,1,SG
-обложите	V,FUT,2,PL
-обложишь	V,FUT,2,SG
-обложат	V,FUT,3,PL
-обложит	V,FUT,3,SG
+обложим	V,PRS,1,PL
+обложу	V,PRS,1,SG
+обложите	V,PRS,2,PL
+обложишь	V,PRS,2,SG
+обложат	V,PRS,3,PL
+обложит	V,PRS,3,SG
 обложите	V,IMP,2,PL
 обложи	V,IMP,2,SG
 обложить	V,NFIN
@@ -3637,12 +3637,12 @@
 обуздывало	V,PST,SG,NEUT
 
 контузив	V.CVB,PST
-контузим	V,FUT,1,PL
-контужу	V,FUT,1,SG
-контузите	V,FUT,2,PL
-контузишь	V,FUT,2,SG
-контузят	V,FUT,3,PL
-контузит	V,FUT,3,SG
+контузим	V,PRS,1,PL
+контужу	V,PRS,1,SG
+контузите	V,PRS,2,PL
+контузишь	V,PRS,2,SG
+контузят	V,PRS,3,PL
+контузит	V,PRS,3,SG
 контузьте	V,IMP,2,PL
 контузь	V,IMP,2,SG
 контузить	V,NFIN
@@ -3684,12 +3684,12 @@
 объяснялось	V,PST,SG,NEUT
 
 почувствовавшись	V.CVB,PST
-почувствуемся	V,FUT,1,PL
-почувствуюсь	V,FUT,1,SG
-почувствуетесь	V,FUT,2,PL
-почувствуешься	V,FUT,2,SG
-почувствуются	V,FUT,3,PL
-почувствуется	V,FUT,3,SG
+почувствуемся	V,PRS,1,PL
+почувствуюсь	V,PRS,1,SG
+почувствуетесь	V,PRS,2,PL
+почувствуешься	V,PRS,2,SG
+почувствуются	V,PRS,3,PL
+почувствуется	V,PRS,3,SG
 почувствуйтесь	V,IMP,2,PL
 почувствуйся	V,IMP,2,SG
 почувствоваться	V,NFIN
@@ -3715,12 +3715,12 @@
 изводило	V,PST,SG,NEUT
 
 размякши	V.CVB,PST
-размякнем	V,FUT,1,PL
-размякну	V,FUT,1,SG
-размякнете	V,FUT,2,PL
-размякнешь	V,FUT,2,SG
-размякнут	V,FUT,3,PL
-размякнет	V,FUT,3,SG
+размякнем	V,PRS,1,PL
+размякну	V,PRS,1,SG
+размякнете	V,PRS,2,PL
+размякнешь	V,PRS,2,SG
+размякнут	V,PRS,3,PL
+размякнет	V,PRS,3,SG
 размякните	V,IMP,2,PL
 размякни	V,IMP,2,SG
 размякнуть	V,NFIN
@@ -3746,12 +3746,12 @@
 пропиталось	V,PST,SG,NEUT
 
 изобретя	V.CVB,PST
-изобретем	V,FUT,1,PL
-изобрету	V,FUT,1,SG
-изобретете	V,FUT,2,PL
-изобретешь	V,FUT,2,SG
-изобретут	V,FUT,3,PL
-изобретет	V,FUT,3,SG
+изобретем	V,PRS,1,PL
+изобрету	V,PRS,1,SG
+изобретете	V,PRS,2,PL
+изобретешь	V,PRS,2,SG
+изобретут	V,PRS,3,PL
+изобретет	V,PRS,3,SG
 изобретите	V,IMP,2,PL
 изобрети	V,IMP,2,SG
 изобрести	V,NFIN
@@ -3761,12 +3761,12 @@
 изобрело	V,PST,SG,NEUT
 
 увильнув	V.CVB,PST
-увильнем	V,FUT,1,PL
-увильну	V,FUT,1,SG
-увильнете	V,FUT,2,PL
-увильнешь	V,FUT,2,SG
-увильнут	V,FUT,3,PL
-увильнет	V,FUT,3,SG
+увильнем	V,PRS,1,PL
+увильну	V,PRS,1,SG
+увильнете	V,PRS,2,PL
+увильнешь	V,PRS,2,SG
+увильнут	V,PRS,3,PL
+увильнет	V,PRS,3,SG
 увильните	V,IMP,2,PL
 увильни	V,IMP,2,SG
 увильнуть	V,NFIN
@@ -3776,12 +3776,12 @@
 увильнуло	V,PST,SG,NEUT
 
 завидев	V.CVB,PST
-завидим	V,FUT,1,PL
-завижу	V,FUT,1,SG
-завидите	V,FUT,2,PL
-завидишь	V,FUT,2,SG
-завидят	V,FUT,3,PL
-завидит	V,FUT,3,SG
+завидим	V,PRS,1,PL
+завижу	V,PRS,1,SG
+завидите	V,PRS,2,PL
+завидишь	V,PRS,2,SG
+завидят	V,PRS,3,PL
+завидит	V,PRS,3,SG
 завидьте	V,IMP,2,PL
 завидь	V,IMP,2,SG
 завидеть	V,NFIN
@@ -3839,12 +3839,12 @@
 организовывалось	V,PST,SG,NEUT
 
 приблизив	V.CVB,PST
-приблизим	V,FUT,1,PL
-приближу	V,FUT,1,SG
-приблизите	V,FUT,2,PL
-приблизишь	V,FUT,2,SG
-приблизят	V,FUT,3,PL
-приблизит	V,FUT,3,SG
+приблизим	V,PRS,1,PL
+приближу	V,PRS,1,SG
+приблизите	V,PRS,2,PL
+приблизишь	V,PRS,2,SG
+приблизят	V,PRS,3,PL
+приблизит	V,PRS,3,SG
 приблизьте	V,IMP,2,PL
 приблизь	V,IMP,2,SG
 приблизить	V,NFIN
@@ -3870,12 +3870,12 @@
 стругало	V,PST,SG,NEUT
 
 спряв	V.CVB,PST
-спрядем	V,FUT,1,PL
-спряду	V,FUT,1,SG
-спрядете	V,FUT,2,PL
-спрядешь	V,FUT,2,SG
-спрядут	V,FUT,3,PL
-спрядет	V,FUT,3,SG
+спрядем	V,PRS,1,PL
+спряду	V,PRS,1,SG
+спрядете	V,PRS,2,PL
+спрядешь	V,PRS,2,SG
+спрядут	V,PRS,3,PL
+спрядет	V,PRS,3,SG
 спрядите	V,IMP,2,PL
 спряди	V,IMP,2,SG
 спрясть	V,NFIN
@@ -3901,12 +3901,12 @@
 склеивало	V,PST,SG,NEUT
 
 отследив	V.CVB,PST
-отследим	V,FUT,1,PL
-отслежу	V,FUT,1,SG
-отследите	V,FUT,2,PL
-отследишь	V,FUT,2,SG
-отследят	V,FUT,3,PL
-отследит	V,FUT,3,SG
+отследим	V,PRS,1,PL
+отслежу	V,PRS,1,SG
+отследите	V,PRS,2,PL
+отследишь	V,PRS,2,SG
+отследят	V,PRS,3,PL
+отследит	V,PRS,3,SG
 отследите	V,IMP,2,PL
 отследи	V,IMP,2,SG
 отследить	V,NFIN
@@ -3916,12 +3916,12 @@
 отследило	V,PST,SG,NEUT
 
 сгруппировав	V.CVB,PST
-сгруппируем	V,FUT,1,PL
-сгруппирую	V,FUT,1,SG
-сгруппируете	V,FUT,2,PL
-сгруппируешь	V,FUT,2,SG
-сгруппируют	V,FUT,3,PL
-сгруппирует	V,FUT,3,SG
+сгруппируем	V,PRS,1,PL
+сгруппирую	V,PRS,1,SG
+сгруппируете	V,PRS,2,PL
+сгруппируешь	V,PRS,2,SG
+сгруппируют	V,PRS,3,PL
+сгруппирует	V,PRS,3,SG
 сгруппируйте	V,IMP,2,PL
 сгруппируй	V,IMP,2,SG
 сгруппировать	V,NFIN
@@ -3947,12 +3947,12 @@
 оформлялось	V,PST,SG,NEUT
 
 вопросив	V.CVB,PST
-вопросим	V,FUT,1,PL
-вопрошу	V,FUT,1,SG
-вопросите	V,FUT,2,PL
-вопросишь	V,FUT,2,SG
-вопросят	V,FUT,3,PL
-вопросит	V,FUT,3,SG
+вопросим	V,PRS,1,PL
+вопрошу	V,PRS,1,SG
+вопросите	V,PRS,2,PL
+вопросишь	V,PRS,2,SG
+вопросят	V,PRS,3,PL
+вопросит	V,PRS,3,SG
 вопросите	V,IMP,2,PL
 вопроси	V,IMP,2,SG
 вопросить	V,NFIN
@@ -4010,12 +4010,12 @@
 разевало	V,PST,SG,NEUT
 
 сославшись	V.CVB,PST
-сошлемся	V,FUT,1,PL
-сошлюсь	V,FUT,1,SG
-сошлетесь	V,FUT,2,PL
-сошлешься	V,FUT,2,SG
-сошлются	V,FUT,3,PL
-сошлется	V,FUT,3,SG
+сошлемся	V,PRS,1,PL
+сошлюсь	V,PRS,1,SG
+сошлетесь	V,PRS,2,PL
+сошлешься	V,PRS,2,SG
+сошлются	V,PRS,3,PL
+сошлется	V,PRS,3,SG
 сошлитесь	V,IMP,2,PL
 сошлись	V,IMP,2,SG
 сослаться	V,NFIN
@@ -4073,12 +4073,12 @@
 подпрыгивало	V,PST,SG,NEUT
 
 нырнув	V.CVB,PST
-нырнем	V,FUT,1,PL
-нырну	V,FUT,1,SG
-нырнете	V,FUT,2,PL
-нырнешь	V,FUT,2,SG
-нырнут	V,FUT,3,PL
-нырнет	V,FUT,3,SG
+нырнем	V,PRS,1,PL
+нырну	V,PRS,1,SG
+нырнете	V,PRS,2,PL
+нырнешь	V,PRS,2,SG
+нырнут	V,PRS,3,PL
+нырнет	V,PRS,3,SG
 нырните	V,IMP,2,PL
 нырни	V,IMP,2,SG
 нырнуть	V,NFIN
@@ -4088,12 +4088,12 @@
 нырнуло	V,PST,SG,NEUT
 
 отряхнувшись	V.CVB,PST
-отряхнемся	V,FUT,1,PL
-отряхнусь	V,FUT,1,SG
-отряхнетесь	V,FUT,2,PL
-отряхнешься	V,FUT,2,SG
-отряхнутся	V,FUT,3,PL
-отряхнется	V,FUT,3,SG
+отряхнемся	V,PRS,1,PL
+отряхнусь	V,PRS,1,SG
+отряхнетесь	V,PRS,2,PL
+отряхнешься	V,PRS,2,SG
+отряхнутся	V,PRS,3,PL
+отряхнется	V,PRS,3,SG
 отряхнитесь	V,IMP,2,PL
 отряхнись	V,IMP,2,SG
 отряхнуться	V,NFIN
@@ -4135,12 +4135,12 @@
 свирепствовало	V,PST,SG,NEUT
 
 выдавив	V.CVB,PST
-выдавим	V,FUT,1,PL
-выдавлю	V,FUT,1,SG
-выдавите	V,FUT,2,PL
-выдавишь	V,FUT,2,SG
-выдавят	V,FUT,3,PL
-выдавит	V,FUT,3,SG
+выдавим	V,PRS,1,PL
+выдавлю	V,PRS,1,SG
+выдавите	V,PRS,2,PL
+выдавишь	V,PRS,2,SG
+выдавят	V,PRS,3,PL
+выдавит	V,PRS,3,SG
 выдавите	V,IMP,2,PL
 выдави	V,IMP,2,SG
 выдавить	V,NFIN
@@ -4150,12 +4150,12 @@
 выдавило	V,PST,SG,NEUT
 
 насупив	V.CVB,PST
-насупим	V,FUT,1,PL
-насуплю	V,FUT,1,SG
-насупите	V,FUT,2,PL
-насупишь	V,FUT,2,SG
-насупят	V,FUT,3,PL
-насупит	V,FUT,3,SG
+насупим	V,PRS,1,PL
+насуплю	V,PRS,1,SG
+насупите	V,PRS,2,PL
+насупишь	V,PRS,2,SG
+насупят	V,PRS,3,PL
+насупит	V,PRS,3,SG
 насупьте	V,IMP,2,PL
 насупь	V,IMP,2,SG
 насупить	V,NFIN
@@ -4165,12 +4165,12 @@
 насупило	V,PST,SG,NEUT
 
 оснастив	V.CVB,PST
-оснастим	V,FUT,1,PL
-оснащу	V,FUT,1,SG
-оснастите	V,FUT,2,PL
-оснастишь	V,FUT,2,SG
-оснастят	V,FUT,3,PL
-оснастит	V,FUT,3,SG
+оснастим	V,PRS,1,PL
+оснащу	V,PRS,1,SG
+оснастите	V,PRS,2,PL
+оснастишь	V,PRS,2,SG
+оснастят	V,PRS,3,PL
+оснастит	V,PRS,3,SG
 оснастите	V,IMP,2,PL
 оснасти	V,IMP,2,SG
 оснастить	V,NFIN
@@ -4180,12 +4180,12 @@
 оснастило	V,PST,SG,NEUT
 
 подтаскав	V.CVB,PST
-подтаскаем	V,FUT,1,PL
-подтаскаю	V,FUT,1,SG
-подтаскаете	V,FUT,2,PL
-подтаскаешь	V,FUT,2,SG
-подтаскают	V,FUT,3,PL
-подтаскает	V,FUT,3,SG
+подтаскаем	V,PRS,1,PL
+подтаскаю	V,PRS,1,SG
+подтаскаете	V,PRS,2,PL
+подтаскаешь	V,PRS,2,SG
+подтаскают	V,PRS,3,PL
+подтаскает	V,PRS,3,SG
 подтаскайте	V,IMP,2,PL
 подтаскай	V,IMP,2,SG
 подтаскать	V,NFIN
@@ -4195,12 +4195,12 @@
 подтаскало	V,PST,SG,NEUT
 
 потаскав	V.CVB,PST
-потаскаем	V,FUT,1,PL
-потаскаю	V,FUT,1,SG
-потаскаете	V,FUT,2,PL
-потаскаешь	V,FUT,2,SG
-потаскают	V,FUT,3,PL
-потаскает	V,FUT,3,SG
+потаскаем	V,PRS,1,PL
+потаскаю	V,PRS,1,SG
+потаскаете	V,PRS,2,PL
+потаскаешь	V,PRS,2,SG
+потаскают	V,PRS,3,PL
+потаскает	V,PRS,3,SG
 потаскайте	V,IMP,2,PL
 потаскай	V,IMP,2,SG
 потаскать	V,NFIN
@@ -4210,12 +4210,12 @@
 потаскало	V,PST,SG,NEUT
 
 слупив	V.CVB,PST
-слупим	V,FUT,1,PL
-слуплю	V,FUT,1,SG
-слупите	V,FUT,2,PL
-слупишь	V,FUT,2,SG
-слупят	V,FUT,3,PL
-слупит	V,FUT,3,SG
+слупим	V,PRS,1,PL
+слуплю	V,PRS,1,SG
+слупите	V,PRS,2,PL
+слупишь	V,PRS,2,SG
+слупят	V,PRS,3,PL
+слупит	V,PRS,3,SG
 слупите	V,IMP,2,PL
 слупи	V,IMP,2,SG
 слупить	V,NFIN
@@ -4241,12 +4241,12 @@
 тормозило	V,PST,SG,NEUT
 
 прогуляв	V.CVB,PST
-прогуляем	V,FUT,1,PL
-прогуляю	V,FUT,1,SG
-прогуляете	V,FUT,2,PL
-прогуляешь	V,FUT,2,SG
-прогуляют	V,FUT,3,PL
-прогуляет	V,FUT,3,SG
+прогуляем	V,PRS,1,PL
+прогуляю	V,PRS,1,SG
+прогуляете	V,PRS,2,PL
+прогуляешь	V,PRS,2,SG
+прогуляют	V,PRS,3,PL
+прогуляет	V,PRS,3,SG
 прогуляйте	V,IMP,2,PL
 прогуляй	V,IMP,2,SG
 прогулять	V,NFIN
@@ -4272,12 +4272,12 @@
 классифицировало	V,PST,SG,NEUT
 
 приперев	V.CVB,PST
-припрем	V,FUT,1,PL
-припру	V,FUT,1,SG
-припрете	V,FUT,2,PL
-припрешь	V,FUT,2,SG
-припрут	V,FUT,3,PL
-припрет	V,FUT,3,SG
+припрем	V,PRS,1,PL
+припру	V,PRS,1,SG
+припрете	V,PRS,2,PL
+припрешь	V,PRS,2,SG
+припрут	V,PRS,3,PL
+припрет	V,PRS,3,SG
 приприте	V,IMP,2,PL
 припри	V,IMP,2,SG
 припереть	V,NFIN
@@ -4303,12 +4303,12 @@
 пустело	V,PST,SG,NEUT
 
 сделавшись	V.CVB,PST
-сделаемся	V,FUT,1,PL
-сделаюсь	V,FUT,1,SG
-сделаетесь	V,FUT,2,PL
-сделаешься	V,FUT,2,SG
-сделаются	V,FUT,3,PL
-сделается	V,FUT,3,SG
+сделаемся	V,PRS,1,PL
+сделаюсь	V,PRS,1,SG
+сделаетесь	V,PRS,2,PL
+сделаешься	V,PRS,2,SG
+сделаются	V,PRS,3,PL
+сделается	V,PRS,3,SG
 сделайтесь	V,IMP,2,PL
 сделайся	V,IMP,2,SG
 сделаться	V,NFIN
@@ -4382,12 +4382,12 @@
 придиралось	V,PST,SG,NEUT
 
 раскланявшись	V.CVB,PST
-раскланяемся	V,FUT,1,PL
-раскланяюсь	V,FUT,1,SG
-раскланяетесь	V,FUT,2,PL
-раскланяешься	V,FUT,2,SG
-раскланяются	V,FUT,3,PL
-раскланяется	V,FUT,3,SG
+раскланяемся	V,PRS,1,PL
+раскланяюсь	V,PRS,1,SG
+раскланяетесь	V,PRS,2,PL
+раскланяешься	V,PRS,2,SG
+раскланяются	V,PRS,3,PL
+раскланяется	V,PRS,3,SG
 раскланяйтесь	V,IMP,2,PL
 раскланяйся	V,IMP,2,SG
 раскланяться	V,NFIN
@@ -4445,12 +4445,12 @@
 посапывало	V,PST,SG,NEUT
 
 отморозив	V.CVB,PST
-отморозим	V,FUT,1,PL
-отморожу	V,FUT,1,SG
-отморозите	V,FUT,2,PL
-отморозишь	V,FUT,2,SG
-отморозят	V,FUT,3,PL
-отморозит	V,FUT,3,SG
+отморозим	V,PRS,1,PL
+отморожу	V,PRS,1,SG
+отморозите	V,PRS,2,PL
+отморозишь	V,PRS,2,SG
+отморозят	V,PRS,3,PL
+отморозит	V,PRS,3,SG
 отморозьте	V,IMP,2,PL
 отморозь	V,IMP,2,SG
 отморозить	V,NFIN
@@ -4460,12 +4460,12 @@
 отморозило	V,PST,SG,NEUT
 
 пошатнув	V.CVB,PST
-пошатнем	V,FUT,1,PL
-пошатну	V,FUT,1,SG
-пошатнете	V,FUT,2,PL
-пошатнешь	V,FUT,2,SG
-пошатнут	V,FUT,3,PL
-пошатнет	V,FUT,3,SG
+пошатнем	V,PRS,1,PL
+пошатну	V,PRS,1,SG
+пошатнете	V,PRS,2,PL
+пошатнешь	V,PRS,2,SG
+пошатнут	V,PRS,3,PL
+пошатнет	V,PRS,3,SG
 пошатните	V,IMP,2,PL
 пошатни	V,IMP,2,SG
 пошатнуть	V,NFIN
@@ -4491,12 +4491,12 @@
 блестело	V,PST,SG,NEUT
 
 прикончив	V.CVB,PST
-прикончим	V,FUT,1,PL
-прикончу	V,FUT,1,SG
-прикончите	V,FUT,2,PL
-прикончишь	V,FUT,2,SG
-прикончат	V,FUT,3,PL
-прикончит	V,FUT,3,SG
+прикончим	V,PRS,1,PL
+прикончу	V,PRS,1,SG
+прикончите	V,PRS,2,PL
+прикончишь	V,PRS,2,SG
+прикончат	V,PRS,3,PL
+прикончит	V,PRS,3,SG
 прикончите	V,IMP,2,PL
 прикончи	V,IMP,2,SG
 прикончить	V,NFIN
@@ -4538,12 +4538,12 @@
 плелось	V,PST,SG,NEUT
 
 шевельнув	V.CVB,PST
-шевельнем	V,FUT,1,PL
-шевельну	V,FUT,1,SG
-шевельнете	V,FUT,2,PL
-шевельнешь	V,FUT,2,SG
-шевельнут	V,FUT,3,PL
-шевельнет	V,FUT,3,SG
+шевельнем	V,PRS,1,PL
+шевельну	V,PRS,1,SG
+шевельнете	V,PRS,2,PL
+шевельнешь	V,PRS,2,SG
+шевельнут	V,PRS,3,PL
+шевельнет	V,PRS,3,SG
 шевельните	V,IMP,2,PL
 шевельни	V,IMP,2,SG
 шевельнуть	V,NFIN
@@ -4553,12 +4553,12 @@
 шевельнуло	V,PST,SG,NEUT
 
 выгребши	V.CVB,PST
-выгребем	V,FUT,1,PL
-выгребу	V,FUT,1,SG
-выгребете	V,FUT,2,PL
-выгребешь	V,FUT,2,SG
-выгребут	V,FUT,3,PL
-выгребет	V,FUT,3,SG
+выгребем	V,PRS,1,PL
+выгребу	V,PRS,1,SG
+выгребете	V,PRS,2,PL
+выгребешь	V,PRS,2,SG
+выгребут	V,PRS,3,PL
+выгребет	V,PRS,3,SG
 выгребите	V,IMP,2,PL
 выгреби	V,IMP,2,SG
 выгрести	V,NFIN
@@ -4616,12 +4616,12 @@
 слипалось	V,PST,SG,NEUT
 
 осчастливив	V.CVB,PST
-осчастливим	V,FUT,1,PL
-осчастливлю	V,FUT,1,SG
-осчастливите	V,FUT,2,PL
-осчастливишь	V,FUT,2,SG
-осчастливят	V,FUT,3,PL
-осчастливит	V,FUT,3,SG
+осчастливим	V,PRS,1,PL
+осчастливлю	V,PRS,1,SG
+осчастливите	V,PRS,2,PL
+осчастливишь	V,PRS,2,SG
+осчастливят	V,PRS,3,PL
+осчастливит	V,PRS,3,SG
 осчастливьте	V,IMP,2,PL
 осчастливь	V,IMP,2,SG
 осчастливить	V,NFIN
@@ -4631,12 +4631,12 @@
 осчастливило	V,PST,SG,NEUT
 
 кувырнувшись	V.CVB,PST
-кувырнемся	V,FUT,1,PL
-кувырнусь	V,FUT,1,SG
-кувырнетесь	V,FUT,2,PL
-кувырнешься	V,FUT,2,SG
-кувырнутся	V,FUT,3,PL
-кувырнется	V,FUT,3,SG
+кувырнемся	V,PRS,1,PL
+кувырнусь	V,PRS,1,SG
+кувырнетесь	V,PRS,2,PL
+кувырнешься	V,PRS,2,SG
+кувырнутся	V,PRS,3,PL
+кувырнется	V,PRS,3,SG
 кувырнитесь	V,IMP,2,PL
 кувырнись	V,IMP,2,SG
 кувырнуться	V,NFIN
@@ -4646,12 +4646,12 @@
 кувырнулось	V,PST,SG,NEUT
 
 сжавшись	V.CVB,PST
-сожмемся	V,FUT,1,PL
-сожмусь	V,FUT,1,SG
-сожметесь	V,FUT,2,PL
-сожмешься	V,FUT,2,SG
-сожмутся	V,FUT,3,PL
-сожмется	V,FUT,3,SG
+сожмемся	V,PRS,1,PL
+сожмусь	V,PRS,1,SG
+сожметесь	V,PRS,2,PL
+сожмешься	V,PRS,2,SG
+сожмутся	V,PRS,3,PL
+сожмется	V,PRS,3,SG
 сожмитесь	V,IMP,2,PL
 сожмись	V,IMP,2,SG
 сжаться	V,NFIN
@@ -4661,12 +4661,12 @@
 сжалось	V,PST,SG,NEUT
 
 отплыв	V.CVB,PST
-отплывем	V,FUT,1,PL
-отплыву	V,FUT,1,SG
-отплывете	V,FUT,2,PL
-отплывешь	V,FUT,2,SG
-отплывут	V,FUT,3,PL
-отплывет	V,FUT,3,SG
+отплывем	V,PRS,1,PL
+отплыву	V,PRS,1,SG
+отплывете	V,PRS,2,PL
+отплывешь	V,PRS,2,SG
+отплывут	V,PRS,3,PL
+отплывет	V,PRS,3,SG
 отплывите	V,IMP,2,PL
 отплыви	V,IMP,2,SG
 отплыть	V,NFIN
@@ -4772,12 +4772,12 @@
 высыхало	V,PST,SG,NEUT
 
 трахнув	V.CVB,PST
-трахнем	V,FUT,1,PL
-трахну	V,FUT,1,SG
-трахнете	V,FUT,2,PL
-трахнешь	V,FUT,2,SG
-трахнут	V,FUT,3,PL
-трахнет	V,FUT,3,SG
+трахнем	V,PRS,1,PL
+трахну	V,PRS,1,SG
+трахнете	V,PRS,2,PL
+трахнешь	V,PRS,2,SG
+трахнут	V,PRS,3,PL
+трахнет	V,PRS,3,SG
 трахните	V,IMP,2,PL
 трахни	V,IMP,2,SG
 трахнуть	V,NFIN
@@ -4851,12 +4851,12 @@
 превозносило	V,PST,SG,NEUT
 
 отвоевав	V.CVB,PST
-отвоюем	V,FUT,1,PL
-отвоюю	V,FUT,1,SG
-отвоюете	V,FUT,2,PL
-отвоюешь	V,FUT,2,SG
-отвоюют	V,FUT,3,PL
-отвоюет	V,FUT,3,SG
+отвоюем	V,PRS,1,PL
+отвоюю	V,PRS,1,SG
+отвоюете	V,PRS,2,PL
+отвоюешь	V,PRS,2,SG
+отвоюют	V,PRS,3,PL
+отвоюет	V,PRS,3,SG
 отвоюйте	V,IMP,2,PL
 отвоюй	V,IMP,2,SG
 отвоевать	V,NFIN
@@ -4946,12 +4946,12 @@
 комбинировало	V,PST,SG,NEUT
 
 укротив	V.CVB,PST
-укротим	V,FUT,1,PL
-укрощу	V,FUT,1,SG
-укротите	V,FUT,2,PL
-укротишь	V,FUT,2,SG
-укротят	V,FUT,3,PL
-укротит	V,FUT,3,SG
+укротим	V,PRS,1,PL
+укрощу	V,PRS,1,SG
+укротите	V,PRS,2,PL
+укротишь	V,PRS,2,SG
+укротят	V,PRS,3,PL
+укротит	V,PRS,3,SG
 укротите	V,IMP,2,PL
 укроти	V,IMP,2,SG
 укротить	V,NFIN
@@ -4961,12 +4961,12 @@
 укротило	V,PST,SG,NEUT
 
 подползши	V.CVB,PST
-подползем	V,FUT,1,PL
-подползу	V,FUT,1,SG
-подползете	V,FUT,2,PL
-подползешь	V,FUT,2,SG
-подползут	V,FUT,3,PL
-подползет	V,FUT,3,SG
+подползем	V,PRS,1,PL
+подползу	V,PRS,1,SG
+подползете	V,PRS,2,PL
+подползешь	V,PRS,2,SG
+подползут	V,PRS,3,PL
+подползет	V,PRS,3,SG
 подползите	V,IMP,2,PL
 подползи	V,IMP,2,SG
 подползти	V,NFIN
@@ -4976,12 +4976,12 @@
 подползло	V,PST,SG,NEUT
 
 прозвенев	V.CVB,PST
-прозвеним	V,FUT,1,PL
-прозвеню	V,FUT,1,SG
-прозвените	V,FUT,2,PL
-прозвенишь	V,FUT,2,SG
-прозвенят	V,FUT,3,PL
-прозвенит	V,FUT,3,SG
+прозвеним	V,PRS,1,PL
+прозвеню	V,PRS,1,SG
+прозвените	V,PRS,2,PL
+прозвенишь	V,PRS,2,SG
+прозвенят	V,PRS,3,PL
+прозвенит	V,PRS,3,SG
 прозвените	V,IMP,2,PL
 прозвени	V,IMP,2,SG
 прозвенеть	V,NFIN
@@ -4991,12 +4991,12 @@
 прозвенело	V,PST,SG,NEUT
 
 двинув	V.CVB,PST
-двинем	V,FUT,1,PL
-двину	V,FUT,1,SG
-двинете	V,FUT,2,PL
-двинешь	V,FUT,2,SG
-двинут	V,FUT,3,PL
-двинет	V,FUT,3,SG
+двинем	V,PRS,1,PL
+двину	V,PRS,1,SG
+двинете	V,PRS,2,PL
+двинешь	V,PRS,2,SG
+двинут	V,PRS,3,PL
+двинет	V,PRS,3,SG
 двиньте	V,IMP,2,PL
 двинь	V,IMP,2,SG
 двинуть	V,NFIN
@@ -5006,12 +5006,12 @@
 двинуло	V,PST,SG,NEUT
 
 намекнув	V.CVB,PST
-намекнем	V,FUT,1,PL
-намекну	V,FUT,1,SG
-намекнете	V,FUT,2,PL
-намекнешь	V,FUT,2,SG
-намекнут	V,FUT,3,PL
-намекнет	V,FUT,3,SG
+намекнем	V,PRS,1,PL
+намекну	V,PRS,1,SG
+намекнете	V,PRS,2,PL
+намекнешь	V,PRS,2,SG
+намекнут	V,PRS,3,PL
+намекнет	V,PRS,3,SG
 намекните	V,IMP,2,PL
 намекни	V,IMP,2,SG
 намекнуть	V,NFIN
@@ -5053,12 +5053,12 @@
 подавляло	V,PST,SG,NEUT
 
 перевернув	V.CVB,PST
-перевернем	V,FUT,1,PL
-переверну	V,FUT,1,SG
-перевернете	V,FUT,2,PL
-перевернешь	V,FUT,2,SG
-перевернут	V,FUT,3,PL
-перевернет	V,FUT,3,SG
+перевернем	V,PRS,1,PL
+переверну	V,PRS,1,SG
+перевернете	V,PRS,2,PL
+перевернешь	V,PRS,2,SG
+перевернут	V,PRS,3,PL
+перевернет	V,PRS,3,SG
 переверните	V,IMP,2,PL
 переверни	V,IMP,2,SG
 перевернуть	V,NFIN
@@ -5068,12 +5068,12 @@
 перевернуло	V,PST,SG,NEUT
 
 понизив	V.CVB,PST
-понизим	V,FUT,1,PL
-понижу	V,FUT,1,SG
-понизите	V,FUT,2,PL
-понизишь	V,FUT,2,SG
-понизят	V,FUT,3,PL
-понизит	V,FUT,3,SG
+понизим	V,PRS,1,PL
+понижу	V,PRS,1,SG
+понизите	V,PRS,2,PL
+понизишь	V,PRS,2,SG
+понизят	V,PRS,3,PL
+понизит	V,PRS,3,SG
 понизьте	V,IMP,2,PL
 понизь	V,IMP,2,SG
 понизить	V,NFIN
@@ -5083,12 +5083,12 @@
 понизило	V,PST,SG,NEUT
 
 перечтя	V.CVB,PST
-перечтем	V,FUT,1,PL
-перечту	V,FUT,1,SG
-перечтете	V,FUT,2,PL
-перечтешь	V,FUT,2,SG
-перечтут	V,FUT,3,PL
-перечтет	V,FUT,3,SG
+перечтем	V,PRS,1,PL
+перечту	V,PRS,1,SG
+перечтете	V,PRS,2,PL
+перечтешь	V,PRS,2,SG
+перечтут	V,PRS,3,PL
+перечтет	V,PRS,3,SG
 перечтите	V,IMP,2,PL
 перечти	V,IMP,2,SG
 перечесть	V,NFIN
@@ -5098,12 +5098,12 @@
 перечло	V,PST,SG,NEUT
 
 ополчив	V.CVB,PST
-ополчим	V,FUT,1,PL
-ополчу	V,FUT,1,SG
-ополчите	V,FUT,2,PL
-ополчишь	V,FUT,2,SG
-ополчат	V,FUT,3,PL
-ополчит	V,FUT,3,SG
+ополчим	V,PRS,1,PL
+ополчу	V,PRS,1,SG
+ополчите	V,PRS,2,PL
+ополчишь	V,PRS,2,SG
+ополчат	V,PRS,3,PL
+ополчит	V,PRS,3,SG
 ополчите	V,IMP,2,PL
 ополчи	V,IMP,2,SG
 ополчить	V,NFIN
@@ -5161,12 +5161,12 @@
 нагибало	V,PST,SG,NEUT
 
 отстрелявшись	V.CVB,PST
-отстреляемся	V,FUT,1,PL
-отстреляюсь	V,FUT,1,SG
-отстреляетесь	V,FUT,2,PL
-отстреляешься	V,FUT,2,SG
-отстреляются	V,FUT,3,PL
-отстреляется	V,FUT,3,SG
+отстреляемся	V,PRS,1,PL
+отстреляюсь	V,PRS,1,SG
+отстреляетесь	V,PRS,2,PL
+отстреляешься	V,PRS,2,SG
+отстреляются	V,PRS,3,PL
+отстреляется	V,PRS,3,SG
 отстреляйтесь	V,IMP,2,PL
 отстреляйся	V,IMP,2,SG
 отстреляться	V,NFIN
@@ -5192,12 +5192,12 @@
 мазало	V,PST,SG,NEUT
 
 промолвив	V.CVB,PST
-промолвим	V,FUT,1,PL
-промолвлю	V,FUT,1,SG
-промолвите	V,FUT,2,PL
-промолвишь	V,FUT,2,SG
-промолвят	V,FUT,3,PL
-промолвит	V,FUT,3,SG
+промолвим	V,PRS,1,PL
+промолвлю	V,PRS,1,SG
+промолвите	V,PRS,2,PL
+промолвишь	V,PRS,2,SG
+промолвят	V,PRS,3,PL
+промолвит	V,PRS,3,SG
 промолвите	V,IMP,2,PL
 промолви	V,IMP,2,SG
 промолвить	V,NFIN
@@ -5207,12 +5207,12 @@
 промолвило	V,PST,SG,NEUT
 
 затвердив	V.CVB,PST
-затвердим	V,FUT,1,PL
-затвержу	V,FUT,1,SG
-затвердите	V,FUT,2,PL
-затвердишь	V,FUT,2,SG
-затвердят	V,FUT,3,PL
-затвердит	V,FUT,3,SG
+затвердим	V,PRS,1,PL
+затвержу	V,PRS,1,SG
+затвердите	V,PRS,2,PL
+затвердишь	V,PRS,2,SG
+затвердят	V,PRS,3,PL
+затвердит	V,PRS,3,SG
 затвердите	V,IMP,2,PL
 затверди	V,IMP,2,SG
 затвердить	V,NFIN
@@ -5222,12 +5222,12 @@
 затвердило	V,PST,SG,NEUT
 
 смудрив	V.CVB,PST
-смудрим	V,FUT,1,PL
-смудрю	V,FUT,1,SG
-смудрите	V,FUT,2,PL
-смудришь	V,FUT,2,SG
-смудрят	V,FUT,3,PL
-смудрит	V,FUT,3,SG
+смудрим	V,PRS,1,PL
+смудрю	V,PRS,1,SG
+смудрите	V,PRS,2,PL
+смудришь	V,PRS,2,SG
+смудрят	V,PRS,3,PL
+смудрит	V,PRS,3,SG
 смудрите	V,IMP,2,PL
 смудри	V,IMP,2,SG
 смудрить	V,NFIN
@@ -5237,12 +5237,12 @@
 смудрило	V,PST,SG,NEUT
 
 раздумав	V.CVB,PST
-раздумаем	V,FUT,1,PL
-раздумаю	V,FUT,1,SG
-раздумаете	V,FUT,2,PL
-раздумаешь	V,FUT,2,SG
-раздумают	V,FUT,3,PL
-раздумает	V,FUT,3,SG
+раздумаем	V,PRS,1,PL
+раздумаю	V,PRS,1,SG
+раздумаете	V,PRS,2,PL
+раздумаешь	V,PRS,2,SG
+раздумают	V,PRS,3,PL
+раздумает	V,PRS,3,SG
 раздумайте	V,IMP,2,PL
 раздумай	V,IMP,2,SG
 раздумать	V,NFIN
@@ -5268,12 +5268,12 @@
 приспосабливало	V,PST,SG,NEUT
 
 скомандовав	V.CVB,PST
-скомандуем	V,FUT,1,PL
-скомандую	V,FUT,1,SG
-скомандуете	V,FUT,2,PL
-скомандуешь	V,FUT,2,SG
-скомандуют	V,FUT,3,PL
-скомандует	V,FUT,3,SG
+скомандуем	V,PRS,1,PL
+скомандую	V,PRS,1,SG
+скомандуете	V,PRS,2,PL
+скомандуешь	V,PRS,2,SG
+скомандуют	V,PRS,3,PL
+скомандует	V,PRS,3,SG
 скомандуйте	V,IMP,2,PL
 скомандуй	V,IMP,2,SG
 скомандовать	V,NFIN
@@ -5283,12 +5283,12 @@
 скомандовало	V,PST,SG,NEUT
 
 сыскав	V.CVB,PST
-сыщем	V,FUT,1,PL
-сыщу	V,FUT,1,SG
-сыщете	V,FUT,2,PL
-сыщешь	V,FUT,2,SG
-сыщут	V,FUT,3,PL
-сыщет	V,FUT,3,SG
+сыщем	V,PRS,1,PL
+сыщу	V,PRS,1,SG
+сыщете	V,PRS,2,PL
+сыщешь	V,PRS,2,SG
+сыщут	V,PRS,3,PL
+сыщет	V,PRS,3,SG
 сыщите	V,IMP,2,PL
 сыщи	V,IMP,2,SG
 сыскать	V,NFIN
@@ -5298,12 +5298,12 @@
 сыскало	V,PST,SG,NEUT
 
 распухши	V.CVB,PST
-распухнем	V,FUT,1,PL
-распухну	V,FUT,1,SG
-распухнете	V,FUT,2,PL
-распухнешь	V,FUT,2,SG
-распухнут	V,FUT,3,PL
-распухнет	V,FUT,3,SG
+распухнем	V,PRS,1,PL
+распухну	V,PRS,1,SG
+распухнете	V,PRS,2,PL
+распухнешь	V,PRS,2,SG
+распухнут	V,PRS,3,PL
+распухнет	V,PRS,3,SG
 распухните	V,IMP,2,PL
 распухни	V,IMP,2,SG
 распухнуть	V,NFIN
@@ -5329,12 +5329,12 @@
 грохало	V,PST,SG,NEUT
 
 подогнав	V.CVB,PST
-подгоним	V,FUT,1,PL
-подгоню	V,FUT,1,SG
-подгоните	V,FUT,2,PL
-подгонишь	V,FUT,2,SG
-подгонят	V,FUT,3,PL
-подгонит	V,FUT,3,SG
+подгоним	V,PRS,1,PL
+подгоню	V,PRS,1,SG
+подгоните	V,PRS,2,PL
+подгонишь	V,PRS,2,SG
+подгонят	V,PRS,3,PL
+подгонит	V,PRS,3,SG
 подгоните	V,IMP,2,PL
 подгони	V,IMP,2,SG
 подогнать	V,NFIN
@@ -5360,12 +5360,12 @@
 нейтрализовало	V,PST,SG,NEUT
 
 рявкнув	V.CVB,PST
-рявкнем	V,FUT,1,PL
-рявкну	V,FUT,1,SG
-рявкнете	V,FUT,2,PL
-рявкнешь	V,FUT,2,SG
-рявкнут	V,FUT,3,PL
-рявкнет	V,FUT,3,SG
+рявкнем	V,PRS,1,PL
+рявкну	V,PRS,1,SG
+рявкнете	V,PRS,2,PL
+рявкнешь	V,PRS,2,SG
+рявкнут	V,PRS,3,PL
+рявкнет	V,PRS,3,SG
 рявкните	V,IMP,2,PL
 рявкни	V,IMP,2,SG
 рявкнуть	V,NFIN
@@ -5407,12 +5407,12 @@
 крестило	V,PST,SG,NEUT
 
 взвыв	V.CVB,PST
-взвоем	V,FUT,1,PL
-взвою	V,FUT,1,SG
-взвоете	V,FUT,2,PL
-взвоешь	V,FUT,2,SG
-взвоют	V,FUT,3,PL
-взвоет	V,FUT,3,SG
+взвоем	V,PRS,1,PL
+взвою	V,PRS,1,SG
+взвоете	V,PRS,2,PL
+взвоешь	V,PRS,2,SG
+взвоют	V,PRS,3,PL
+взвоет	V,PRS,3,SG
 взвойте	V,IMP,2,PL
 взвой	V,IMP,2,SG
 взвыть	V,NFIN
@@ -5438,12 +5438,12 @@
 выручало	V,PST,SG,NEUT
 
 вздохнув	V.CVB,PST
-вздохнем	V,FUT,1,PL
-вздохну	V,FUT,1,SG
-вздохнете	V,FUT,2,PL
-вздохнешь	V,FUT,2,SG
-вздохнут	V,FUT,3,PL
-вздохнет	V,FUT,3,SG
+вздохнем	V,PRS,1,PL
+вздохну	V,PRS,1,SG
+вздохнете	V,PRS,2,PL
+вздохнешь	V,PRS,2,SG
+вздохнут	V,PRS,3,PL
+вздохнет	V,PRS,3,SG
 вздохните	V,IMP,2,PL
 вздохни	V,IMP,2,SG
 вздохнуть	V,NFIN
@@ -5453,12 +5453,12 @@
 вздохнуло	V,PST,SG,NEUT
 
 обвисши	V.CVB,PST
-обвиснем	V,FUT,1,PL
-обвисну	V,FUT,1,SG
-обвиснете	V,FUT,2,PL
-обвиснешь	V,FUT,2,SG
-обвиснут	V,FUT,3,PL
-обвиснет	V,FUT,3,SG
+обвиснем	V,PRS,1,PL
+обвисну	V,PRS,1,SG
+обвиснете	V,PRS,2,PL
+обвиснешь	V,PRS,2,SG
+обвиснут	V,PRS,3,PL
+обвиснет	V,PRS,3,SG
 обвисните	V,IMP,2,PL
 обвисни	V,IMP,2,SG
 обвиснуть	V,NFIN
@@ -5468,12 +5468,12 @@
 обвисло	V,PST,SG,NEUT
 
 уцепившись	V.CVB,PST
-уцепимся	V,FUT,1,PL
-уцеплюсь	V,FUT,1,SG
-уцепитесь	V,FUT,2,PL
-уцепишься	V,FUT,2,SG
-уцепятся	V,FUT,3,PL
-уцепится	V,FUT,3,SG
+уцепимся	V,PRS,1,PL
+уцеплюсь	V,PRS,1,SG
+уцепитесь	V,PRS,2,PL
+уцепишься	V,PRS,2,SG
+уцепятся	V,PRS,3,PL
+уцепится	V,PRS,3,SG
 уцепитесь	V,IMP,2,PL
 уцепись	V,IMP,2,SG
 уцепиться	V,NFIN
@@ -5515,12 +5515,12 @@
 запечатывало	V,PST,SG,NEUT
 
 дунув	V.CVB,PST
-дунем	V,FUT,1,PL
-дуну	V,FUT,1,SG
-дунете	V,FUT,2,PL
-дунешь	V,FUT,2,SG
-дунут	V,FUT,3,PL
-дунет	V,FUT,3,SG
+дунем	V,PRS,1,PL
+дуну	V,PRS,1,SG
+дунете	V,PRS,2,PL
+дунешь	V,PRS,2,SG
+дунут	V,PRS,3,PL
+дунет	V,PRS,3,SG
 дуньте	V,IMP,2,PL
 дунь	V,IMP,2,SG
 дунуть	V,NFIN
@@ -5562,12 +5562,12 @@
 притихало	V,PST,SG,NEUT
 
 проросши	V.CVB,PST
-прорастем	V,FUT,1,PL
-прорасту	V,FUT,1,SG
-прорастете	V,FUT,2,PL
-прорастешь	V,FUT,2,SG
-прорастут	V,FUT,3,PL
-прорастет	V,FUT,3,SG
+прорастем	V,PRS,1,PL
+прорасту	V,PRS,1,SG
+прорастете	V,PRS,2,PL
+прорастешь	V,PRS,2,SG
+прорастут	V,PRS,3,PL
+прорастет	V,PRS,3,SG
 прорастите	V,IMP,2,PL
 прорасти	V,IMP,2,SG
 прорасти	V,NFIN
@@ -5625,12 +5625,12 @@
 сказывало	V,PST,SG,NEUT
 
 выкрутив	V.CVB,PST
-выкрутим	V,FUT,1,PL
-выкручу	V,FUT,1,SG
-выкрутите	V,FUT,2,PL
-выкрутишь	V,FUT,2,SG
-выкрутят	V,FUT,3,PL
-выкрутит	V,FUT,3,SG
+выкрутим	V,PRS,1,PL
+выкручу	V,PRS,1,SG
+выкрутите	V,PRS,2,PL
+выкрутишь	V,PRS,2,SG
+выкрутят	V,PRS,3,PL
+выкрутит	V,PRS,3,SG
 выкрутите	V,IMP,2,PL
 выкрути	V,IMP,2,SG
 выкрутить	V,NFIN
@@ -5656,12 +5656,12 @@
 любопытствовало	V,PST,SG,NEUT
 
 размахнувшись	V.CVB,PST
-размахнемся	V,FUT,1,PL
-размахнусь	V,FUT,1,SG
-размахнетесь	V,FUT,2,PL
-размахнешься	V,FUT,2,SG
-размахнутся	V,FUT,3,PL
-размахнется	V,FUT,3,SG
+размахнемся	V,PRS,1,PL
+размахнусь	V,PRS,1,SG
+размахнетесь	V,PRS,2,PL
+размахнешься	V,PRS,2,SG
+размахнутся	V,PRS,3,PL
+размахнется	V,PRS,3,SG
 размахнитесь	V,IMP,2,PL
 размахнись	V,IMP,2,SG
 размахнуться	V,NFIN
@@ -5735,12 +5735,12 @@
 публиковалось	V,PST,SG,NEUT
 
 сшибив	V.CVB,PST
-сшибем	V,FUT,1,PL
-сшибу	V,FUT,1,SG
-сшибете	V,FUT,2,PL
-сшибешь	V,FUT,2,SG
-сшибут	V,FUT,3,PL
-сшибет	V,FUT,3,SG
+сшибем	V,PRS,1,PL
+сшибу	V,PRS,1,SG
+сшибете	V,PRS,2,PL
+сшибешь	V,PRS,2,SG
+сшибут	V,PRS,3,PL
+сшибет	V,PRS,3,SG
 сшибите	V,IMP,2,PL
 сшиби	V,IMP,2,SG
 сшибить	V,NFIN
@@ -5830,12 +5830,12 @@
 приподнимало	V,PST,SG,NEUT
 
 выяснившись	V.CVB,PST
-выяснимся	V,FUT,1,PL
-выяснюсь	V,FUT,1,SG
-выяснитесь	V,FUT,2,PL
-выяснишься	V,FUT,2,SG
-выяснятся	V,FUT,3,PL
-выяснится	V,FUT,3,SG
+выяснимся	V,PRS,1,PL
+выяснюсь	V,PRS,1,SG
+выяснитесь	V,PRS,2,PL
+выяснишься	V,PRS,2,SG
+выяснятся	V,PRS,3,PL
+выяснится	V,PRS,3,SG
 выяснитесь	V,IMP,2,PL
 выяснись	V,IMP,2,SG
 выясниться	V,NFIN
@@ -5845,12 +5845,12 @@
 выяснилось	V,PST,SG,NEUT
 
 подевавшись	V.CVB,PST
-подеваемся	V,FUT,1,PL
-подеваюсь	V,FUT,1,SG
-подеваетесь	V,FUT,2,PL
-подеваешься	V,FUT,2,SG
-подеваются	V,FUT,3,PL
-подевается	V,FUT,3,SG
+подеваемся	V,PRS,1,PL
+подеваюсь	V,PRS,1,SG
+подеваетесь	V,PRS,2,PL
+подеваешься	V,PRS,2,SG
+подеваются	V,PRS,3,PL
+подевается	V,PRS,3,SG
 подевайтесь	V,IMP,2,PL
 подевайся	V,IMP,2,SG
 подеваться	V,NFIN
@@ -5876,12 +5876,12 @@
 аннексировало	V,PST,SG,NEUT
 
 прокисши	V.CVB,PST
-прокиснем	V,FUT,1,PL
-прокисну	V,FUT,1,SG
-прокиснете	V,FUT,2,PL
-прокиснешь	V,FUT,2,SG
-прокиснут	V,FUT,3,PL
-прокиснет	V,FUT,3,SG
+прокиснем	V,PRS,1,PL
+прокисну	V,PRS,1,SG
+прокиснете	V,PRS,2,PL
+прокиснешь	V,PRS,2,SG
+прокиснут	V,PRS,3,PL
+прокиснет	V,PRS,3,SG
 прокисните	V,IMP,2,PL
 прокисни	V,IMP,2,SG
 прокиснуть	V,NFIN
@@ -5891,12 +5891,12 @@
 прокисло	V,PST,SG,NEUT
 
 злоумыслив	V.CVB,PST
-злоумыслим	V,FUT,1,PL
-злоумыслю	V,FUT,1,SG
-злоумыслите	V,FUT,2,PL
-злоумыслишь	V,FUT,2,SG
-злоумыслят	V,FUT,3,PL
-злоумыслит	V,FUT,3,SG
+злоумыслим	V,PRS,1,PL
+злоумыслю	V,PRS,1,SG
+злоумыслите	V,PRS,2,PL
+злоумыслишь	V,PRS,2,SG
+злоумыслят	V,PRS,3,PL
+злоумыслит	V,PRS,3,SG
 злоумыслите	V,IMP,2,PL
 злоумысли	V,IMP,2,SG
 злоумыслить	V,NFIN
@@ -5922,12 +5922,12 @@
 реконструировало	V,PST,SG,NEUT
 
 закивав	V.CVB,PST
-закиваем	V,FUT,1,PL
-закиваю	V,FUT,1,SG
-закиваете	V,FUT,2,PL
-закиваешь	V,FUT,2,SG
-закивают	V,FUT,3,PL
-закивает	V,FUT,3,SG
+закиваем	V,PRS,1,PL
+закиваю	V,PRS,1,SG
+закиваете	V,PRS,2,PL
+закиваешь	V,PRS,2,SG
+закивают	V,PRS,3,PL
+закивает	V,PRS,3,SG
 закивайте	V,IMP,2,PL
 закивай	V,IMP,2,SG
 закивать	V,NFIN
@@ -5937,12 +5937,12 @@
 закивало	V,PST,SG,NEUT
 
 улёгшись	V.CVB,PST
-уляжемся	V,FUT,1,PL
-улягусь	V,FUT,1,SG
-уляжетесь	V,FUT,2,PL
-уляжешься	V,FUT,2,SG
-улягутся	V,FUT,3,PL
-уляжется	V,FUT,3,SG
+уляжемся	V,PRS,1,PL
+улягусь	V,PRS,1,SG
+уляжетесь	V,PRS,2,PL
+уляжешься	V,PRS,2,SG
+улягутся	V,PRS,3,PL
+уляжется	V,PRS,3,SG
 улягтесь	V,IMP,2,PL
 улягся	V,IMP,2,SG
 улечься	V,NFIN
@@ -5968,12 +5968,12 @@
 выполнялось	V,PST,SG,NEUT
 
 исцарапав	V.CVB,PST
-исцарапаем	V,FUT,1,PL
-исцарапаю	V,FUT,1,SG
-исцарапаете	V,FUT,2,PL
-исцарапаешь	V,FUT,2,SG
-исцарапают	V,FUT,3,PL
-исцарапает	V,FUT,3,SG
+исцарапаем	V,PRS,1,PL
+исцарапаю	V,PRS,1,SG
+исцарапаете	V,PRS,2,PL
+исцарапаешь	V,PRS,2,SG
+исцарапают	V,PRS,3,PL
+исцарапает	V,PRS,3,SG
 исцарапайте	V,IMP,2,PL
 исцарапай	V,IMP,2,SG
 исцарапать	V,NFIN
@@ -5983,12 +5983,12 @@
 исцарапало	V,PST,SG,NEUT
 
 продержавшись	V.CVB,PST
-продержимся	V,FUT,1,PL
-продержусь	V,FUT,1,SG
-продержитесь	V,FUT,2,PL
-продержишься	V,FUT,2,SG
-продержатся	V,FUT,3,PL
-продержится	V,FUT,3,SG
+продержимся	V,PRS,1,PL
+продержусь	V,PRS,1,SG
+продержитесь	V,PRS,2,PL
+продержишься	V,PRS,2,SG
+продержатся	V,PRS,3,PL
+продержится	V,PRS,3,SG
 продержитесь	V,IMP,2,PL
 продержись	V,IMP,2,SG
 продержаться	V,NFIN
@@ -5998,12 +5998,12 @@
 продержалось	V,PST,SG,NEUT
 
 захохотав	V.CVB,PST
-захохочем	V,FUT,1,PL
-захохочу	V,FUT,1,SG
-захохочете	V,FUT,2,PL
-захохочешь	V,FUT,2,SG
-захохочут	V,FUT,3,PL
-захохочет	V,FUT,3,SG
+захохочем	V,PRS,1,PL
+захохочу	V,PRS,1,SG
+захохочете	V,PRS,2,PL
+захохочешь	V,PRS,2,SG
+захохочут	V,PRS,3,PL
+захохочет	V,PRS,3,SG
 захохочите	V,IMP,2,PL
 захохочи	V,IMP,2,SG
 захохотать	V,NFIN
@@ -6013,12 +6013,12 @@
 захохотало	V,PST,SG,NEUT
 
 отомстив	V.CVB,PST
-отомстим	V,FUT,1,PL
-отомщу	V,FUT,1,SG
-отомстите	V,FUT,2,PL
-отомстишь	V,FUT,2,SG
-отомстят	V,FUT,3,PL
-отомстит	V,FUT,3,SG
+отомстим	V,PRS,1,PL
+отомщу	V,PRS,1,SG
+отомстите	V,PRS,2,PL
+отомстишь	V,PRS,2,SG
+отомстят	V,PRS,3,PL
+отомстит	V,PRS,3,SG
 отомстите	V,IMP,2,PL
 отомсти	V,IMP,2,SG
 отомстить	V,NFIN
@@ -6076,12 +6076,12 @@
 хлопало	V,PST,SG,NEUT
 
 вздёрнув	V.CVB,PST
-вздернем	V,FUT,1,PL
-вздерну	V,FUT,1,SG
-вздернете	V,FUT,2,PL
-вздернешь	V,FUT,2,SG
-вздернут	V,FUT,3,PL
-вздернет	V,FUT,3,SG
+вздернем	V,PRS,1,PL
+вздерну	V,PRS,1,SG
+вздернете	V,PRS,2,PL
+вздернешь	V,PRS,2,SG
+вздернут	V,PRS,3,PL
+вздернет	V,PRS,3,SG
 вздёрните	V,IMP,2,PL
 вздёрни	V,IMP,2,SG
 вздёрнуть	V,NFIN
@@ -6091,12 +6091,12 @@
 вздёрнуло	V,PST,SG,NEUT
 
 внедрившись	V.CVB,PST
-внедримся	V,FUT,1,PL
-внедрюсь	V,FUT,1,SG
-внедритесь	V,FUT,2,PL
-внедришься	V,FUT,2,SG
-внедрятся	V,FUT,3,PL
-внедрится	V,FUT,3,SG
+внедримся	V,PRS,1,PL
+внедрюсь	V,PRS,1,SG
+внедритесь	V,PRS,2,PL
+внедришься	V,PRS,2,SG
+внедрятся	V,PRS,3,PL
+внедрится	V,PRS,3,SG
 внедритесь	V,IMP,2,PL
 внедрись	V,IMP,2,SG
 внедриться	V,NFIN
@@ -6154,12 +6154,12 @@
 клубилось	V,PST,SG,NEUT
 
 вписав	V.CVB,PST
-впишем	V,FUT,1,PL
-впишу	V,FUT,1,SG
-впишете	V,FUT,2,PL
-впишешь	V,FUT,2,SG
-впишут	V,FUT,3,PL
-впишет	V,FUT,3,SG
+впишем	V,PRS,1,PL
+впишу	V,PRS,1,SG
+впишете	V,PRS,2,PL
+впишешь	V,PRS,2,SG
+впишут	V,PRS,3,PL
+впишет	V,PRS,3,SG
 впишите	V,IMP,2,PL
 впиши	V,IMP,2,SG
 вписать	V,NFIN
@@ -6169,12 +6169,12 @@
 вписало	V,PST,SG,NEUT
 
 приручившись	V.CVB,PST
-приручимся	V,FUT,1,PL
-приручусь	V,FUT,1,SG
-приручитесь	V,FUT,2,PL
-приручишься	V,FUT,2,SG
-приручатся	V,FUT,3,PL
-приручится	V,FUT,3,SG
+приручимся	V,PRS,1,PL
+приручусь	V,PRS,1,SG
+приручитесь	V,PRS,2,PL
+приручишься	V,PRS,2,SG
+приручатся	V,PRS,3,PL
+приручится	V,PRS,3,SG
 приручитесь	V,IMP,2,PL
 приручись	V,IMP,2,SG
 приручиться	V,NFIN
@@ -6216,12 +6216,12 @@
 подбоченивалось	V,PST,SG,NEUT
 
 соскользнув	V.CVB,PST
-соскользнем	V,FUT,1,PL
-соскользну	V,FUT,1,SG
-соскользнете	V,FUT,2,PL
-соскользнешь	V,FUT,2,SG
-соскользнут	V,FUT,3,PL
-соскользнет	V,FUT,3,SG
+соскользнем	V,PRS,1,PL
+соскользну	V,PRS,1,SG
+соскользнете	V,PRS,2,PL
+соскользнешь	V,PRS,2,SG
+соскользнут	V,PRS,3,PL
+соскользнет	V,PRS,3,SG
 соскользните	V,IMP,2,PL
 соскользни	V,IMP,2,SG
 соскользнуть	V,NFIN
@@ -6231,12 +6231,12 @@
 соскользнуло	V,PST,SG,NEUT
 
 попятив	V.CVB,PST
-попятим	V,FUT,1,PL
-попячу	V,FUT,1,SG
-попятите	V,FUT,2,PL
-попятишь	V,FUT,2,SG
-попятят	V,FUT,3,PL
-попятит	V,FUT,3,SG
+попятим	V,PRS,1,PL
+попячу	V,PRS,1,SG
+попятите	V,PRS,2,PL
+попятишь	V,PRS,2,SG
+попятят	V,PRS,3,PL
+попятит	V,PRS,3,SG
 попятьте	V,IMP,2,PL
 попять	V,IMP,2,SG
 попятить	V,NFIN
@@ -6262,12 +6262,12 @@
 шпарило	V,PST,SG,NEUT
 
 воззвав	V.CVB,PST
-воззовем	V,FUT,1,PL
-воззову	V,FUT,1,SG
-воззовете	V,FUT,2,PL
-воззовешь	V,FUT,2,SG
-воззовут	V,FUT,3,PL
-воззовет	V,FUT,3,SG
+воззовем	V,PRS,1,PL
+воззову	V,PRS,1,SG
+воззовете	V,PRS,2,PL
+воззовешь	V,PRS,2,SG
+воззовут	V,PRS,3,PL
+воззовет	V,PRS,3,SG
 воззовите	V,IMP,2,PL
 воззови	V,IMP,2,SG
 воззвать	V,NFIN
@@ -6309,12 +6309,12 @@
 ярило	V,PST,SG,NEUT
 
 осуществившись	V.CVB,PST
-осуществимся	V,FUT,1,PL
-осуществлюсь	V,FUT,1,SG
-осуществитесь	V,FUT,2,PL
-осуществишься	V,FUT,2,SG
-осуществятся	V,FUT,3,PL
-осуществится	V,FUT,3,SG
+осуществимся	V,PRS,1,PL
+осуществлюсь	V,PRS,1,SG
+осуществитесь	V,PRS,2,PL
+осуществишься	V,PRS,2,SG
+осуществятся	V,PRS,3,PL
+осуществится	V,PRS,3,SG
 осуществитесь	V,IMP,2,PL
 осуществись	V,IMP,2,SG
 осуществиться	V,NFIN
@@ -6324,12 +6324,12 @@
 осуществилось	V,PST,SG,NEUT
 
 заручившись	V.CVB,PST
-заручимся	V,FUT,1,PL
-заручусь	V,FUT,1,SG
-заручитесь	V,FUT,2,PL
-заручишься	V,FUT,2,SG
-заручатся	V,FUT,3,PL
-заручится	V,FUT,3,SG
+заручимся	V,PRS,1,PL
+заручусь	V,PRS,1,SG
+заручитесь	V,PRS,2,PL
+заручишься	V,PRS,2,SG
+заручатся	V,PRS,3,PL
+заручится	V,PRS,3,SG
 заручитесь	V,IMP,2,PL
 заручись	V,IMP,2,SG
 заручиться	V,NFIN
@@ -6355,12 +6355,12 @@
 раздувало	V,PST,SG,NEUT
 
 упразднив	V.CVB,PST
-упраздним	V,FUT,1,PL
-упраздню	V,FUT,1,SG
-упраздните	V,FUT,2,PL
-упразднишь	V,FUT,2,SG
-упразднят	V,FUT,3,PL
-упразднит	V,FUT,3,SG
+упраздним	V,PRS,1,PL
+упраздню	V,PRS,1,SG
+упраздните	V,PRS,2,PL
+упразднишь	V,PRS,2,SG
+упразднят	V,PRS,3,PL
+упразднит	V,PRS,3,SG
 упраздните	V,IMP,2,PL
 упраздни	V,IMP,2,SG
 упразднить	V,NFIN
@@ -6370,12 +6370,12 @@
 упразднило	V,PST,SG,NEUT
 
 заиндевев	V.CVB,PST
-заиндевеем	V,FUT,1,PL
-заиндевею	V,FUT,1,SG
-заиндевеете	V,FUT,2,PL
-заиндевеешь	V,FUT,2,SG
-заиндевеют	V,FUT,3,PL
-заиндевеет	V,FUT,3,SG
+заиндевеем	V,PRS,1,PL
+заиндевею	V,PRS,1,SG
+заиндевеете	V,PRS,2,PL
+заиндевеешь	V,PRS,2,SG
+заиндевеют	V,PRS,3,PL
+заиндевеет	V,PRS,3,SG
 заиндевейте	V,IMP,2,PL
 заиндевей	V,IMP,2,SG
 заиндеветь	V,NFIN
@@ -6385,12 +6385,12 @@
 заиндевело	V,PST,SG,NEUT
 
 завершившись	V.CVB,PST
-завершимся	V,FUT,1,PL
-завершусь	V,FUT,1,SG
-завершитесь	V,FUT,2,PL
-завершишься	V,FUT,2,SG
-завершатся	V,FUT,3,PL
-завершится	V,FUT,3,SG
+завершимся	V,PRS,1,PL
+завершусь	V,PRS,1,SG
+завершитесь	V,PRS,2,PL
+завершишься	V,PRS,2,SG
+завершатся	V,PRS,3,PL
+завершится	V,PRS,3,SG
 завершитесь	V,IMP,2,PL
 завершись	V,IMP,2,SG
 завершиться	V,NFIN
@@ -6400,12 +6400,12 @@
 завершилось	V,PST,SG,NEUT
 
 натворив	V.CVB,PST
-натворим	V,FUT,1,PL
-натворю	V,FUT,1,SG
-натворите	V,FUT,2,PL
-натворишь	V,FUT,2,SG
-натворят	V,FUT,3,PL
-натворит	V,FUT,3,SG
+натворим	V,PRS,1,PL
+натворю	V,PRS,1,SG
+натворите	V,PRS,2,PL
+натворишь	V,PRS,2,SG
+натворят	V,PRS,3,PL
+натворит	V,PRS,3,SG
 натворите	V,IMP,2,PL
 натвори	V,IMP,2,SG
 натворить	V,NFIN
@@ -6415,12 +6415,12 @@
 натворило	V,PST,SG,NEUT
 
 причинив	V.CVB,PST
-причиним	V,FUT,1,PL
-причиню	V,FUT,1,SG
-причините	V,FUT,2,PL
-причинишь	V,FUT,2,SG
-причинят	V,FUT,3,PL
-причинит	V,FUT,3,SG
+причиним	V,PRS,1,PL
+причиню	V,PRS,1,SG
+причините	V,PRS,2,PL
+причинишь	V,PRS,2,SG
+причинят	V,PRS,3,PL
+причинит	V,PRS,3,SG
 причините	V,IMP,2,PL
 причини	V,IMP,2,SG
 причинить	V,NFIN
@@ -6446,12 +6446,12 @@
 предвкушало	V,PST,SG,NEUT
 
 прострочив	V.CVB,PST
-прострочим	V,FUT,1,PL
-прострочу	V,FUT,1,SG
-прострочите	V,FUT,2,PL
-прострочишь	V,FUT,2,SG
-прострочат	V,FUT,3,PL
-прострочит	V,FUT,3,SG
+прострочим	V,PRS,1,PL
+прострочу	V,PRS,1,SG
+прострочите	V,PRS,2,PL
+прострочишь	V,PRS,2,SG
+прострочат	V,PRS,3,PL
+прострочит	V,PRS,3,SG
 прострочите	V,IMP,2,PL
 прострочи	V,IMP,2,SG
 прострочить	V,NFIN
@@ -6461,12 +6461,12 @@
 прострочило	V,PST,SG,NEUT
 
 усугубив	V.CVB,PST
-усугубим	V,FUT,1,PL
-усугублю	V,FUT,1,SG
-усугубите	V,FUT,2,PL
-усугубишь	V,FUT,2,SG
-усугубят	V,FUT,3,PL
-усугубит	V,FUT,3,SG
+усугубим	V,PRS,1,PL
+усугублю	V,PRS,1,SG
+усугубите	V,PRS,2,PL
+усугубишь	V,PRS,2,SG
+усугубят	V,PRS,3,PL
+усугубит	V,PRS,3,SG
 усугубите	V,IMP,2,PL
 усугуби	V,IMP,2,SG
 усугубить	V,NFIN
@@ -6476,12 +6476,12 @@
 усугубило	V,PST,SG,NEUT
 
 одевшись	V.CVB,PST
-оденемся	V,FUT,1,PL
-оденусь	V,FUT,1,SG
-оденетесь	V,FUT,2,PL
-оденешься	V,FUT,2,SG
-оденутся	V,FUT,3,PL
-оденется	V,FUT,3,SG
+оденемся	V,PRS,1,PL
+оденусь	V,PRS,1,SG
+оденетесь	V,PRS,2,PL
+оденешься	V,PRS,2,SG
+оденутся	V,PRS,3,PL
+оденется	V,PRS,3,SG
 оденьтесь	V,IMP,2,PL
 оденься	V,IMP,2,SG
 одеться	V,NFIN
@@ -6507,12 +6507,12 @@
 вооружалось	V,PST,SG,NEUT
 
 чокнувшись	V.CVB,PST
-чокнемся	V,FUT,1,PL
-чокнусь	V,FUT,1,SG
-чокнетесь	V,FUT,2,PL
-чокнешься	V,FUT,2,SG
-чокнутся	V,FUT,3,PL
-чокнется	V,FUT,3,SG
+чокнемся	V,PRS,1,PL
+чокнусь	V,PRS,1,SG
+чокнетесь	V,PRS,2,PL
+чокнешься	V,PRS,2,SG
+чокнутся	V,PRS,3,PL
+чокнется	V,PRS,3,SG
 чокнитесь	V,IMP,2,PL
 чокнись	V,IMP,2,SG
 чокнуться	V,NFIN
@@ -6522,12 +6522,12 @@
 чокнулось	V,PST,SG,NEUT
 
 спросившись	V.CVB,PST
-спросимся	V,FUT,1,PL
-спрошусь	V,FUT,1,SG
-спроситесь	V,FUT,2,PL
-спросишься	V,FUT,2,SG
-спросятся	V,FUT,3,PL
-спросится	V,FUT,3,SG
+спросимся	V,PRS,1,PL
+спрошусь	V,PRS,1,SG
+спроситесь	V,PRS,2,PL
+спросишься	V,PRS,2,SG
+спросятся	V,PRS,3,PL
+спросится	V,PRS,3,SG
 спроситесь	V,IMP,2,PL
 спросись	V,IMP,2,SG
 спроситься	V,NFIN
@@ -6537,12 +6537,12 @@
 спросилось	V,PST,SG,NEUT
 
 прильнув	V.CVB,PST
-прильнем	V,FUT,1,PL
-прильну	V,FUT,1,SG
-прильнете	V,FUT,2,PL
-прильнешь	V,FUT,2,SG
-прильнут	V,FUT,3,PL
-прильнет	V,FUT,3,SG
+прильнем	V,PRS,1,PL
+прильну	V,PRS,1,SG
+прильнете	V,PRS,2,PL
+прильнешь	V,PRS,2,SG
+прильнут	V,PRS,3,PL
+прильнет	V,PRS,3,SG
 прильните	V,IMP,2,PL
 прильни	V,IMP,2,SG
 прильнуть	V,NFIN
@@ -6568,12 +6568,12 @@
 светилось	V,PST,SG,NEUT
 
 загудев	V.CVB,PST
-загудим	V,FUT,1,PL
-загужу	V,FUT,1,SG
-загудите	V,FUT,2,PL
-загудишь	V,FUT,2,SG
-загудят	V,FUT,3,PL
-загудит	V,FUT,3,SG
+загудим	V,PRS,1,PL
+загужу	V,PRS,1,SG
+загудите	V,PRS,2,PL
+загудишь	V,PRS,2,SG
+загудят	V,PRS,3,PL
+загудит	V,PRS,3,SG
 загудите	V,IMP,2,PL
 загуди	V,IMP,2,SG
 загудеть	V,NFIN
@@ -6631,12 +6631,12 @@
 напевало	V,PST,SG,NEUT
 
 надвинув	V.CVB,PST
-надвинем	V,FUT,1,PL
-надвину	V,FUT,1,SG
-надвинете	V,FUT,2,PL
-надвинешь	V,FUT,2,SG
-надвинут	V,FUT,3,PL
-надвинет	V,FUT,3,SG
+надвинем	V,PRS,1,PL
+надвину	V,PRS,1,SG
+надвинете	V,PRS,2,PL
+надвинешь	V,PRS,2,SG
+надвинут	V,PRS,3,PL
+надвинет	V,PRS,3,SG
 надвиньте	V,IMP,2,PL
 надвинь	V,IMP,2,SG
 надвинуть	V,NFIN
@@ -6646,12 +6646,12 @@
 надвинуло	V,PST,SG,NEUT
 
 сбросив	V.CVB,PST
-сбросим	V,FUT,1,PL
-сброшу	V,FUT,1,SG
-сбросите	V,FUT,2,PL
-сбросишь	V,FUT,2,SG
-сбросят	V,FUT,3,PL
-сбросит	V,FUT,3,SG
+сбросим	V,PRS,1,PL
+сброшу	V,PRS,1,SG
+сбросите	V,PRS,2,PL
+сбросишь	V,PRS,2,SG
+сбросят	V,PRS,3,PL
+сбросит	V,PRS,3,SG
 сбросьте	V,IMP,2,PL
 сбрось	V,IMP,2,SG
 сбросить	V,NFIN
@@ -6677,12 +6677,12 @@
 смешивалось	V,PST,SG,NEUT
 
 укусив	V.CVB,PST
-укусим	V,FUT,1,PL
-укушу	V,FUT,1,SG
-укусите	V,FUT,2,PL
-укусишь	V,FUT,2,SG
-укусят	V,FUT,3,PL
-укусит	V,FUT,3,SG
+укусим	V,PRS,1,PL
+укушу	V,PRS,1,SG
+укусите	V,PRS,2,PL
+укусишь	V,PRS,2,SG
+укусят	V,PRS,3,PL
+укусит	V,PRS,3,SG
 укусите	V,IMP,2,PL
 укуси	V,IMP,2,SG
 укусить	V,NFIN
@@ -6740,12 +6740,12 @@
 усеивало	V,PST,SG,NEUT
 
 забоявшись	V.CVB,PST
-забоимся	V,FUT,1,PL
-забоюсь	V,FUT,1,SG
-забоитесь	V,FUT,2,PL
-забоишься	V,FUT,2,SG
-забоятся	V,FUT,3,PL
-забоится	V,FUT,3,SG
+забоимся	V,PRS,1,PL
+забоюсь	V,PRS,1,SG
+забоитесь	V,PRS,2,PL
+забоишься	V,PRS,2,SG
+забоятся	V,PRS,3,PL
+забоится	V,PRS,3,SG
 забойтесь	V,IMP,2,PL
 забойся	V,IMP,2,SG
 забояться	V,NFIN
@@ -6787,12 +6787,12 @@
 топало	V,PST,SG,NEUT
 
 застрелившись	V.CVB,PST
-застрелимся	V,FUT,1,PL
-застрелюсь	V,FUT,1,SG
-застрелитесь	V,FUT,2,PL
-застрелишься	V,FUT,2,SG
-застрелятся	V,FUT,3,PL
-застрелится	V,FUT,3,SG
+застрелимся	V,PRS,1,PL
+застрелюсь	V,PRS,1,SG
+застрелитесь	V,PRS,2,PL
+застрелишься	V,PRS,2,SG
+застрелятся	V,PRS,3,PL
+застрелится	V,PRS,3,SG
 застрелитесь	V,IMP,2,PL
 застрелись	V,IMP,2,SG
 застрелиться	V,NFIN
@@ -6802,12 +6802,12 @@
 застрелилось	V,PST,SG,NEUT
 
 процитировавшись	V.CVB,PST
-процитируемся	V,FUT,1,PL
-процитируюсь	V,FUT,1,SG
-процитируетесь	V,FUT,2,PL
-процитируешься	V,FUT,2,SG
-процитируются	V,FUT,3,PL
-процитируется	V,FUT,3,SG
+процитируемся	V,PRS,1,PL
+процитируюсь	V,PRS,1,SG
+процитируетесь	V,PRS,2,PL
+процитируешься	V,PRS,2,SG
+процитируются	V,PRS,3,PL
+процитируется	V,PRS,3,SG
 процитируйтесь	V,IMP,2,PL
 процитируйся	V,IMP,2,SG
 процитироваться	V,NFIN
@@ -6817,12 +6817,12 @@
 процитировалось	V,PST,SG,NEUT
 
 взглянув	V.CVB,PST
-взглянем	V,FUT,1,PL
-взгляну	V,FUT,1,SG
-взглянете	V,FUT,2,PL
-взглянешь	V,FUT,2,SG
-взглянут	V,FUT,3,PL
-взглянет	V,FUT,3,SG
+взглянем	V,PRS,1,PL
+взгляну	V,PRS,1,SG
+взглянете	V,PRS,2,PL
+взглянешь	V,PRS,2,SG
+взглянут	V,PRS,3,PL
+взглянет	V,PRS,3,SG
 взгляните	V,IMP,2,PL
 взгляни	V,IMP,2,SG
 взглянуть	V,NFIN
@@ -6848,12 +6848,12 @@
 вдыхало	V,PST,SG,NEUT
 
 выговорив	V.CVB,PST
-выговорим	V,FUT,1,PL
-выговорю	V,FUT,1,SG
-выговорите	V,FUT,2,PL
-выговоришь	V,FUT,2,SG
-выговорят	V,FUT,3,PL
-выговорит	V,FUT,3,SG
+выговорим	V,PRS,1,PL
+выговорю	V,PRS,1,SG
+выговорите	V,PRS,2,PL
+выговоришь	V,PRS,2,SG
+выговорят	V,PRS,3,PL
+выговорит	V,PRS,3,SG
 выговорите	V,IMP,2,PL
 выговори	V,IMP,2,SG
 выговорить	V,NFIN
@@ -6863,12 +6863,12 @@
 выговорило	V,PST,SG,NEUT
 
 расстегнув	V.CVB,PST
-расстегнем	V,FUT,1,PL
-расстегну	V,FUT,1,SG
-расстегнете	V,FUT,2,PL
-расстегнешь	V,FUT,2,SG
-расстегнут	V,FUT,3,PL
-расстегнет	V,FUT,3,SG
+расстегнем	V,PRS,1,PL
+расстегну	V,PRS,1,SG
+расстегнете	V,PRS,2,PL
+расстегнешь	V,PRS,2,SG
+расстегнут	V,PRS,3,PL
+расстегнет	V,PRS,3,SG
 расстегните	V,IMP,2,PL
 расстегни	V,IMP,2,SG
 расстегнуть	V,NFIN
@@ -6878,12 +6878,12 @@
 расстегнуло	V,PST,SG,NEUT
 
 связавшись	V.CVB,PST
-свяжемся	V,FUT,1,PL
-свяжусь	V,FUT,1,SG
-свяжетесь	V,FUT,2,PL
-свяжешься	V,FUT,2,SG
-свяжутся	V,FUT,3,PL
-свяжется	V,FUT,3,SG
+свяжемся	V,PRS,1,PL
+свяжусь	V,PRS,1,SG
+свяжетесь	V,PRS,2,PL
+свяжешься	V,PRS,2,SG
+свяжутся	V,PRS,3,PL
+свяжется	V,PRS,3,SG
 свяжитесь	V,IMP,2,PL
 свяжись	V,IMP,2,SG
 связаться	V,NFIN
@@ -6925,12 +6925,12 @@
 вылечивало	V,PST,SG,NEUT
 
 порешив	V.CVB,PST
-порешим	V,FUT,1,PL
-порешу	V,FUT,1,SG
-порешите	V,FUT,2,PL
-порешишь	V,FUT,2,SG
-порешат	V,FUT,3,PL
-порешит	V,FUT,3,SG
+порешим	V,PRS,1,PL
+порешу	V,PRS,1,SG
+порешите	V,PRS,2,PL
+порешишь	V,PRS,2,SG
+порешат	V,PRS,3,PL
+порешит	V,PRS,3,SG
 порешите	V,IMP,2,PL
 пореши	V,IMP,2,SG
 порешить	V,NFIN
@@ -6988,12 +6988,12 @@
 вовлекало	V,PST,SG,NEUT
 
 засекретив	V.CVB,PST
-засекретим	V,FUT,1,PL
-засекречу	V,FUT,1,SG
-засекретите	V,FUT,2,PL
-засекретишь	V,FUT,2,SG
-засекретят	V,FUT,3,PL
-засекретит	V,FUT,3,SG
+засекретим	V,PRS,1,PL
+засекречу	V,PRS,1,SG
+засекретите	V,PRS,2,PL
+засекретишь	V,PRS,2,SG
+засекретят	V,PRS,3,PL
+засекретит	V,PRS,3,SG
 засекретьте	V,IMP,2,PL
 засекреть	V,IMP,2,SG
 засекретить	V,NFIN
@@ -7019,12 +7019,12 @@
 резервировало	V,PST,SG,NEUT
 
 различившись	V.CVB,PST
-различимся	V,FUT,1,PL
-различусь	V,FUT,1,SG
-различитесь	V,FUT,2,PL
-различишься	V,FUT,2,SG
-различатся	V,FUT,3,PL
-различится	V,FUT,3,SG
+различимся	V,PRS,1,PL
+различусь	V,PRS,1,SG
+различитесь	V,PRS,2,PL
+различишься	V,PRS,2,SG
+различатся	V,PRS,3,PL
+различится	V,PRS,3,SG
 различитесь	V,IMP,2,PL
 различись	V,IMP,2,SG
 различиться	V,NFIN
@@ -7050,12 +7050,12 @@
 вселяло	V,PST,SG,NEUT
 
 искривив	V.CVB,PST
-искривим	V,FUT,1,PL
-искривлю	V,FUT,1,SG
-искривите	V,FUT,2,PL
-искривишь	V,FUT,2,SG
-искривят	V,FUT,3,PL
-искривит	V,FUT,3,SG
+искривим	V,PRS,1,PL
+искривлю	V,PRS,1,SG
+искривите	V,PRS,2,PL
+искривишь	V,PRS,2,SG
+искривят	V,PRS,3,PL
+искривит	V,PRS,3,SG
 искривите	V,IMP,2,PL
 искриви	V,IMP,2,SG
 искривить	V,NFIN
@@ -7113,12 +7113,12 @@
 конфисковало	V,PST,SG,NEUT
 
 взрыв	V.CVB,PST
-взроем	V,FUT,1,PL
-взрою	V,FUT,1,SG
-взроете	V,FUT,2,PL
-взроешь	V,FUT,2,SG
-взроют	V,FUT,3,PL
-взроет	V,FUT,3,SG
+взроем	V,PRS,1,PL
+взрою	V,PRS,1,SG
+взроете	V,PRS,2,PL
+взроешь	V,PRS,2,SG
+взроют	V,PRS,3,PL
+взроет	V,PRS,3,SG
 взройте	V,IMP,2,PL
 взрой	V,IMP,2,SG
 взрыть	V,NFIN
@@ -7160,12 +7160,12 @@
 иронизировало	V,PST,SG,NEUT
 
 размазав	V.CVB,PST
-размажем	V,FUT,1,PL
-размажу	V,FUT,1,SG
-размажете	V,FUT,2,PL
-размажешь	V,FUT,2,SG
-размажут	V,FUT,3,PL
-размажет	V,FUT,3,SG
+размажем	V,PRS,1,PL
+размажу	V,PRS,1,SG
+размажете	V,PRS,2,PL
+размажешь	V,PRS,2,SG
+размажут	V,PRS,3,PL
+размажет	V,PRS,3,SG
 размажьте	V,IMP,2,PL
 размажь	V,IMP,2,SG
 размазать	V,NFIN
@@ -7207,12 +7207,12 @@
 вонзалось	V,PST,SG,NEUT
 
 сагитировав	V.CVB,PST
-сагитируем	V,FUT,1,PL
-сагитирую	V,FUT,1,SG
-сагитируете	V,FUT,2,PL
-сагитируешь	V,FUT,2,SG
-сагитируют	V,FUT,3,PL
-сагитирует	V,FUT,3,SG
+сагитируем	V,PRS,1,PL
+сагитирую	V,PRS,1,SG
+сагитируете	V,PRS,2,PL
+сагитируешь	V,PRS,2,SG
+сагитируют	V,PRS,3,PL
+сагитирует	V,PRS,3,SG
 сагитируйте	V,IMP,2,PL
 сагитируй	V,IMP,2,SG
 сагитировать	V,NFIN
@@ -7238,12 +7238,12 @@
 подразделялось	V,PST,SG,NEUT
 
 отводившись	V.CVB,PST
-отводимся	V,FUT,1,PL
-отвожусь	V,FUT,1,SG
-отводитесь	V,FUT,2,PL
-отводишься	V,FUT,2,SG
-отводятся	V,FUT,3,PL
-отводится	V,FUT,3,SG
+отводимся	V,PRS,1,PL
+отвожусь	V,PRS,1,SG
+отводитесь	V,PRS,2,PL
+отводишься	V,PRS,2,SG
+отводятся	V,PRS,3,PL
+отводится	V,PRS,3,SG
 отводитесь	V,IMP,2,PL
 отводись	V,IMP,2,SG
 отводиться	V,NFIN
@@ -7253,12 +7253,12 @@
 отводилось	V,PST,SG,NEUT
 
 переселив	V.CVB,PST
-переселим	V,FUT,1,PL
-переселю	V,FUT,1,SG
-переселите	V,FUT,2,PL
-переселишь	V,FUT,2,SG
-переселят	V,FUT,3,PL
-переселит	V,FUT,3,SG
+переселим	V,PRS,1,PL
+переселю	V,PRS,1,SG
+переселите	V,PRS,2,PL
+переселишь	V,PRS,2,SG
+переселят	V,PRS,3,PL
+переселит	V,PRS,3,SG
 переселите	V,IMP,2,PL
 пересели	V,IMP,2,SG
 переселить	V,NFIN
@@ -7284,12 +7284,12 @@
 кочевало	V,PST,SG,NEUT
 
 обшив	V.CVB,PST
-обошьем	V,FUT,1,PL
-обошью	V,FUT,1,SG
-обошьете	V,FUT,2,PL
-обошьешь	V,FUT,2,SG
-обошьют	V,FUT,3,PL
-обошьет	V,FUT,3,SG
+обошьем	V,PRS,1,PL
+обошью	V,PRS,1,SG
+обошьете	V,PRS,2,PL
+обошьешь	V,PRS,2,SG
+обошьют	V,PRS,3,PL
+обошьет	V,PRS,3,SG
 обшейте	V,IMP,2,PL
 обшей	V,IMP,2,SG
 обшить	V,NFIN
@@ -7315,12 +7315,12 @@
 просматривалось	V,PST,SG,NEUT
 
 отсеяв	V.CVB,PST
-отсеем	V,FUT,1,PL
-отсею	V,FUT,1,SG
-отсеете	V,FUT,2,PL
-отсеешь	V,FUT,2,SG
-отсеют	V,FUT,3,PL
-отсеет	V,FUT,3,SG
+отсеем	V,PRS,1,PL
+отсею	V,PRS,1,SG
+отсеете	V,PRS,2,PL
+отсеешь	V,PRS,2,SG
+отсеют	V,PRS,3,PL
+отсеет	V,PRS,3,SG
 отсейте	V,IMP,2,PL
 отсей	V,IMP,2,SG
 отсеять	V,NFIN
@@ -7330,12 +7330,12 @@
 отсеяло	V,PST,SG,NEUT
 
 отрегулировав	V.CVB,PST
-отрегулируем	V,FUT,1,PL
-отрегулирую	V,FUT,1,SG
-отрегулируете	V,FUT,2,PL
-отрегулируешь	V,FUT,2,SG
-отрегулируют	V,FUT,3,PL
-отрегулирует	V,FUT,3,SG
+отрегулируем	V,PRS,1,PL
+отрегулирую	V,PRS,1,SG
+отрегулируете	V,PRS,2,PL
+отрегулируешь	V,PRS,2,SG
+отрегулируют	V,PRS,3,PL
+отрегулирует	V,PRS,3,SG
 отрегулируйте	V,IMP,2,PL
 отрегулируй	V,IMP,2,SG
 отрегулировать	V,NFIN
@@ -7361,12 +7361,12 @@
 отапливало	V,PST,SG,NEUT
 
 посмеявшись	V.CVB,PST
-посмеемся	V,FUT,1,PL
-посмеюсь	V,FUT,1,SG
-посмеетесь	V,FUT,2,PL
-посмеешься	V,FUT,2,SG
-посмеются	V,FUT,3,PL
-посмеется	V,FUT,3,SG
+посмеемся	V,PRS,1,PL
+посмеюсь	V,PRS,1,SG
+посмеетесь	V,PRS,2,PL
+посмеешься	V,PRS,2,SG
+посмеются	V,PRS,3,PL
+посмеется	V,PRS,3,SG
 посмейтесь	V,IMP,2,PL
 посмейся	V,IMP,2,SG
 посмеяться	V,NFIN
@@ -7376,12 +7376,12 @@
 посмеялось	V,PST,SG,NEUT
 
 подкормив	V.CVB,PST
-подкормим	V,FUT,1,PL
-подкормлю	V,FUT,1,SG
-подкормите	V,FUT,2,PL
-подкормишь	V,FUT,2,SG
-подкормят	V,FUT,3,PL
-подкормит	V,FUT,3,SG
+подкормим	V,PRS,1,PL
+подкормлю	V,PRS,1,SG
+подкормите	V,PRS,2,PL
+подкормишь	V,PRS,2,SG
+подкормят	V,PRS,3,PL
+подкормит	V,PRS,3,SG
 подкормите	V,IMP,2,PL
 подкорми	V,IMP,2,SG
 подкормить	V,NFIN
@@ -7391,12 +7391,12 @@
 подкормило	V,PST,SG,NEUT
 
 отсняв	V.CVB,PST
-отснимем	V,FUT,1,PL
-отсниму	V,FUT,1,SG
-отснимете	V,FUT,2,PL
-отснимешь	V,FUT,2,SG
-отснимут	V,FUT,3,PL
-отснимет	V,FUT,3,SG
+отснимем	V,PRS,1,PL
+отсниму	V,PRS,1,SG
+отснимете	V,PRS,2,PL
+отснимешь	V,PRS,2,SG
+отснимут	V,PRS,3,PL
+отснимет	V,PRS,3,SG
 отснимите	V,IMP,2,PL
 отсними	V,IMP,2,SG
 отснять	V,NFIN
@@ -7406,12 +7406,12 @@
 отсняло	V,PST,SG,NEUT
 
 спроектировав	V.CVB,PST
-спроектируем	V,FUT,1,PL
-спроектирую	V,FUT,1,SG
-спроектируете	V,FUT,2,PL
-спроектируешь	V,FUT,2,SG
-спроектируют	V,FUT,3,PL
-спроектирует	V,FUT,3,SG
+спроектируем	V,PRS,1,PL
+спроектирую	V,PRS,1,SG
+спроектируете	V,PRS,2,PL
+спроектируешь	V,PRS,2,SG
+спроектируют	V,PRS,3,PL
+спроектирует	V,PRS,3,SG
 спроектируйте	V,IMP,2,PL
 спроектируй	V,IMP,2,SG
 спроектировать	V,NFIN
@@ -7421,12 +7421,12 @@
 спроектировало	V,PST,SG,NEUT
 
 одарив	V.CVB,PST
-одарим	V,FUT,1,PL
-одарю	V,FUT,1,SG
-одарите	V,FUT,2,PL
-одаришь	V,FUT,2,SG
-одарят	V,FUT,3,PL
-одарит	V,FUT,3,SG
+одарим	V,PRS,1,PL
+одарю	V,PRS,1,SG
+одарите	V,PRS,2,PL
+одаришь	V,PRS,2,SG
+одарят	V,PRS,3,PL
+одарит	V,PRS,3,SG
 одарите	V,IMP,2,PL
 одари	V,IMP,2,SG
 одарить	V,NFIN
@@ -7484,12 +7484,12 @@
 глядело	V,PST,SG,NEUT
 
 поколебав	V.CVB,PST
-поколеблем	V,FUT,1,PL
-поколеблю	V,FUT,1,SG
-поколеблете	V,FUT,2,PL
-поколеблешь	V,FUT,2,SG
-поколеблют	V,FUT,3,PL
-поколеблет	V,FUT,3,SG
+поколеблем	V,PRS,1,PL
+поколеблю	V,PRS,1,SG
+поколеблете	V,PRS,2,PL
+поколеблешь	V,PRS,2,SG
+поколеблют	V,PRS,3,PL
+поколеблет	V,PRS,3,SG
 поколеблите	V,IMP,2,PL
 поколебли	V,IMP,2,SG
 поколебать	V,NFIN
@@ -7499,12 +7499,12 @@
 поколебало	V,PST,SG,NEUT
 
 завладев	V.CVB,PST
-завладеем	V,FUT,1,PL
-завладею	V,FUT,1,SG
-завладеете	V,FUT,2,PL
-завладеешь	V,FUT,2,SG
-завладеют	V,FUT,3,PL
-завладеет	V,FUT,3,SG
+завладеем	V,PRS,1,PL
+завладею	V,PRS,1,SG
+завладеете	V,PRS,2,PL
+завладеешь	V,PRS,2,SG
+завладеют	V,PRS,3,PL
+завладеет	V,PRS,3,SG
 завладейте	V,IMP,2,PL
 завладей	V,IMP,2,SG
 завладеть	V,NFIN
@@ -7514,12 +7514,12 @@
 завладело	V,PST,SG,NEUT
 
 прекратившись	V.CVB,PST
-прекратимся	V,FUT,1,PL
-прекращусь	V,FUT,1,SG
-прекратитесь	V,FUT,2,PL
-прекратишься	V,FUT,2,SG
-прекратятся	V,FUT,3,PL
-прекратится	V,FUT,3,SG
+прекратимся	V,PRS,1,PL
+прекращусь	V,PRS,1,SG
+прекратитесь	V,PRS,2,PL
+прекратишься	V,PRS,2,SG
+прекратятся	V,PRS,3,PL
+прекратится	V,PRS,3,SG
 прекратитесь	V,IMP,2,PL
 прекратись	V,IMP,2,SG
 прекратиться	V,NFIN
@@ -7529,12 +7529,12 @@
 прекратилось	V,PST,SG,NEUT
 
 назрев	V.CVB,PST
-назреем	V,FUT,1,PL
-назрею	V,FUT,1,SG
-назреете	V,FUT,2,PL
-назреешь	V,FUT,2,SG
-назреют	V,FUT,3,PL
-назреет	V,FUT,3,SG
+назреем	V,PRS,1,PL
+назрею	V,PRS,1,SG
+назреете	V,PRS,2,PL
+назреешь	V,PRS,2,SG
+назреют	V,PRS,3,PL
+назреет	V,PRS,3,SG
 назрейте	V,IMP,2,PL
 назрей	V,IMP,2,SG
 назреть	V,NFIN
@@ -7560,12 +7560,12 @@
 развлекало	V,PST,SG,NEUT
 
 доставшись	V.CVB,PST
-достанемся	V,FUT,1,PL
-достанусь	V,FUT,1,SG
-достанетесь	V,FUT,2,PL
-достанешься	V,FUT,2,SG
-достанутся	V,FUT,3,PL
-достанется	V,FUT,3,SG
+достанемся	V,PRS,1,PL
+достанусь	V,PRS,1,SG
+достанетесь	V,PRS,2,PL
+достанешься	V,PRS,2,SG
+достанутся	V,PRS,3,PL
+достанется	V,PRS,3,SG
 достаньтесь	V,IMP,2,PL
 достанься	V,IMP,2,SG
 достаться	V,NFIN
@@ -7607,12 +7607,12 @@
 вытравляло	V,PST,SG,NEUT
 
 вытравив	V.CVB,PST
-вытравим	V,FUT,1,PL
-вытравлю	V,FUT,1,SG
-вытравите	V,FUT,2,PL
-вытравишь	V,FUT,2,SG
-вытравят	V,FUT,3,PL
-вытравит	V,FUT,3,SG
+вытравим	V,PRS,1,PL
+вытравлю	V,PRS,1,SG
+вытравите	V,PRS,2,PL
+вытравишь	V,PRS,2,SG
+вытравят	V,PRS,3,PL
+вытравит	V,PRS,3,SG
 вытравите	V,IMP,2,PL
 вытрави	V,IMP,2,SG
 вытравить	V,NFIN
@@ -7718,12 +7718,12 @@
 кувыркалось	V,PST,SG,NEUT
 
 пустив	V.CVB,PST
-пустим	V,FUT,1,PL
-пущу	V,FUT,1,SG
-пустите	V,FUT,2,PL
-пустишь	V,FUT,2,SG
-пустят	V,FUT,3,PL
-пустит	V,FUT,3,SG
+пустим	V,PRS,1,PL
+пущу	V,PRS,1,SG
+пустите	V,PRS,2,PL
+пустишь	V,PRS,2,SG
+пустят	V,PRS,3,PL
+пустит	V,PRS,3,SG
 пустите	V,IMP,2,PL
 пусти	V,IMP,2,SG
 пустить	V,NFIN
@@ -7749,12 +7749,12 @@
 скатывало	V,PST,SG,NEUT
 
 сменившись	V.CVB,PST
-сменимся	V,FUT,1,PL
-сменюсь	V,FUT,1,SG
-сменитесь	V,FUT,2,PL
-сменишься	V,FUT,2,SG
-сменятся	V,FUT,3,PL
-сменится	V,FUT,3,SG
+сменимся	V,PRS,1,PL
+сменюсь	V,PRS,1,SG
+сменитесь	V,PRS,2,PL
+сменишься	V,PRS,2,SG
+сменятся	V,PRS,3,PL
+сменится	V,PRS,3,SG
 сменитесь	V,IMP,2,PL
 сменись	V,IMP,2,SG
 смениться	V,NFIN
@@ -7764,12 +7764,12 @@
 сменилось	V,PST,SG,NEUT
 
 взмокши	V.CVB,PST
-взмокнем	V,FUT,1,PL
-взмокну	V,FUT,1,SG
-взмокнете	V,FUT,2,PL
-взмокнешь	V,FUT,2,SG
-взмокнут	V,FUT,3,PL
-взмокнет	V,FUT,3,SG
+взмокнем	V,PRS,1,PL
+взмокну	V,PRS,1,SG
+взмокнете	V,PRS,2,PL
+взмокнешь	V,PRS,2,SG
+взмокнут	V,PRS,3,PL
+взмокнет	V,PRS,3,SG
 взмокните	V,IMP,2,PL
 взмокни	V,IMP,2,SG
 взмокнуть	V,NFIN
@@ -7795,12 +7795,12 @@
 застраивалось	V,PST,SG,NEUT
 
 воспретив	V.CVB,PST
-воспретим	V,FUT,1,PL
-воспрещу	V,FUT,1,SG
-воспретите	V,FUT,2,PL
-воспретишь	V,FUT,2,SG
-воспретят	V,FUT,3,PL
-воспретит	V,FUT,3,SG
+воспретим	V,PRS,1,PL
+воспрещу	V,PRS,1,SG
+воспретите	V,PRS,2,PL
+воспретишь	V,PRS,2,SG
+воспретят	V,PRS,3,PL
+воспретит	V,PRS,3,SG
 воспретите	V,IMP,2,PL
 воспрети	V,IMP,2,SG
 воспретить	V,NFIN
@@ -7906,12 +7906,12 @@
 просовывало	V,PST,SG,NEUT
 
 глотнув	V.CVB,PST
-глотнем	V,FUT,1,PL
-глотну	V,FUT,1,SG
-глотнете	V,FUT,2,PL
-глотнешь	V,FUT,2,SG
-глотнут	V,FUT,3,PL
-глотнет	V,FUT,3,SG
+глотнем	V,PRS,1,PL
+глотну	V,PRS,1,SG
+глотнете	V,PRS,2,PL
+глотнешь	V,PRS,2,SG
+глотнут	V,PRS,3,PL
+глотнет	V,PRS,3,SG
 глотните	V,IMP,2,PL
 глотни	V,IMP,2,SG
 глотнуть	V,NFIN
@@ -7921,12 +7921,12 @@
 глотнуло	V,PST,SG,NEUT
 
 отрыв	V.CVB,PST
-отроем	V,FUT,1,PL
-отрою	V,FUT,1,SG
-отроете	V,FUT,2,PL
-отроешь	V,FUT,2,SG
-отроют	V,FUT,3,PL
-отроет	V,FUT,3,SG
+отроем	V,PRS,1,PL
+отрою	V,PRS,1,SG
+отроете	V,PRS,2,PL
+отроешь	V,PRS,2,SG
+отроют	V,PRS,3,PL
+отроет	V,PRS,3,SG
 отройте	V,IMP,2,PL
 отрой	V,IMP,2,SG
 отрыть	V,NFIN
@@ -7936,12 +7936,12 @@
 отрыло	V,PST,SG,NEUT
 
 обосравшись	V.CVB,PST
-обосремся	V,FUT,1,PL
-обосрусь	V,FUT,1,SG
-обосретесь	V,FUT,2,PL
-обосрешься	V,FUT,2,SG
-обосрутся	V,FUT,3,PL
-обосрется	V,FUT,3,SG
+обосремся	V,PRS,1,PL
+обосрусь	V,PRS,1,SG
+обосретесь	V,PRS,2,PL
+обосрешься	V,PRS,2,SG
+обосрутся	V,PRS,3,PL
+обосрется	V,PRS,3,SG
 обосритесь	V,IMP,2,PL
 обосрись	V,IMP,2,SG
 обосраться	V,NFIN
@@ -7951,12 +7951,12 @@
 обосралось	V,PST,SG,NEUT
 
 вынудив	V.CVB,PST
-вынудим	V,FUT,1,PL
-вынужу	V,FUT,1,SG
-вынудите	V,FUT,2,PL
-вынудишь	V,FUT,2,SG
-вынудят	V,FUT,3,PL
-вынудит	V,FUT,3,SG
+вынудим	V,PRS,1,PL
+вынужу	V,PRS,1,SG
+вынудите	V,PRS,2,PL
+вынудишь	V,PRS,2,SG
+вынудят	V,PRS,3,PL
+вынудит	V,PRS,3,SG
 вынудите	V,IMP,2,PL
 вынуди	V,IMP,2,SG
 вынудить	V,NFIN
@@ -7966,12 +7966,12 @@
 вынудило	V,PST,SG,NEUT
 
 дерзнув	V.CVB,PST
-дерзнем	V,FUT,1,PL
-дерзну	V,FUT,1,SG
-дерзнете	V,FUT,2,PL
-дерзнешь	V,FUT,2,SG
-дерзнут	V,FUT,3,PL
-дерзнет	V,FUT,3,SG
+дерзнем	V,PRS,1,PL
+дерзну	V,PRS,1,SG
+дерзнете	V,PRS,2,PL
+дерзнешь	V,PRS,2,SG
+дерзнут	V,PRS,3,PL
+дерзнет	V,PRS,3,SG
 дерзните	V,IMP,2,PL
 дерзни	V,IMP,2,SG
 дерзнуть	V,NFIN
@@ -7997,12 +7997,12 @@
 треножилось	V,PST,SG,NEUT
 
 отгородив	V.CVB,PST
-отгородим	V,FUT,1,PL
-отгорожу	V,FUT,1,SG
-отгородите	V,FUT,2,PL
-отгородишь	V,FUT,2,SG
-отгородят	V,FUT,3,PL
-отгородит	V,FUT,3,SG
+отгородим	V,PRS,1,PL
+отгорожу	V,PRS,1,SG
+отгородите	V,PRS,2,PL
+отгородишь	V,PRS,2,SG
+отгородят	V,PRS,3,PL
+отгородит	V,PRS,3,SG
 отгородите	V,IMP,2,PL
 отгороди	V,IMP,2,SG
 отгородить	V,NFIN
@@ -8028,12 +8028,12 @@
 залезало	V,PST,SG,NEUT
 
 сочинив	V.CVB,PST
-сочиним	V,FUT,1,PL
-сочиню	V,FUT,1,SG
-сочините	V,FUT,2,PL
-сочинишь	V,FUT,2,SG
-сочинят	V,FUT,3,PL
-сочинит	V,FUT,3,SG
+сочиним	V,PRS,1,PL
+сочиню	V,PRS,1,SG
+сочините	V,PRS,2,PL
+сочинишь	V,PRS,2,SG
+сочинят	V,PRS,3,PL
+сочинит	V,PRS,3,SG
 сочините	V,IMP,2,PL
 сочини	V,IMP,2,SG
 сочинить	V,NFIN
@@ -8107,12 +8107,12 @@
 загромождало	V,PST,SG,NEUT
 
 угаснув	V.CVB,PST
-угаснем	V,FUT,1,PL
-угасну	V,FUT,1,SG
-угаснете	V,FUT,2,PL
-угаснешь	V,FUT,2,SG
-угаснут	V,FUT,3,PL
-угаснет	V,FUT,3,SG
+угаснем	V,PRS,1,PL
+угасну	V,PRS,1,SG
+угаснете	V,PRS,2,PL
+угаснешь	V,PRS,2,SG
+угаснут	V,PRS,3,PL
+угаснет	V,PRS,3,SG
 угасните	V,IMP,2,PL
 угасни	V,IMP,2,SG
 угаснуть	V,NFIN
@@ -8122,12 +8122,12 @@
 угасло	V,PST,SG,NEUT
 
 стырив	V.CVB,PST
-стырим	V,FUT,1,PL
-стырю	V,FUT,1,SG
-стырите	V,FUT,2,PL
-стыришь	V,FUT,2,SG
-стырят	V,FUT,3,PL
-стырит	V,FUT,3,SG
+стырим	V,PRS,1,PL
+стырю	V,PRS,1,SG
+стырите	V,PRS,2,PL
+стыришь	V,PRS,2,SG
+стырят	V,PRS,3,PL
+стырит	V,PRS,3,SG
 стырьте	V,IMP,2,PL
 стырь	V,IMP,2,SG
 стырить	V,NFIN
@@ -8169,12 +8169,12 @@
 гнело	V,PST,SG,NEUT
 
 издавшись	V.CVB,PST
-издадимся	V,FUT,1,PL
-издамся	V,FUT,1,SG
-издадитесь	V,FUT,2,PL
-издашься	V,FUT,2,SG
-издадутся	V,FUT,3,PL
-издастся	V,FUT,3,SG
+издадимся	V,PRS,1,PL
+издамся	V,PRS,1,SG
+издадитесь	V,PRS,2,PL
+издашься	V,PRS,2,SG
+издадутся	V,PRS,3,PL
+издастся	V,PRS,3,SG
 издайтесь	V,IMP,2,PL
 издайся	V,IMP,2,SG
 издаться	V,NFIN
@@ -8184,12 +8184,12 @@
 издалось	V,PST,SG,NEUT
 
 набросившись	V.CVB,PST
-набросимся	V,FUT,1,PL
-наброшусь	V,FUT,1,SG
-наброситесь	V,FUT,2,PL
-набросишься	V,FUT,2,SG
-набросятся	V,FUT,3,PL
-набросится	V,FUT,3,SG
+набросимся	V,PRS,1,PL
+наброшусь	V,PRS,1,SG
+наброситесь	V,PRS,2,PL
+набросишься	V,PRS,2,SG
+набросятся	V,PRS,3,PL
+набросится	V,PRS,3,SG
 набросьтесь	V,IMP,2,PL
 набросься	V,IMP,2,SG
 наброситься	V,NFIN
@@ -8231,12 +8231,12 @@
 припирало	V,PST,SG,NEUT
 
 оглядевшись	V.CVB,PST
-оглядимся	V,FUT,1,PL
-огляжусь	V,FUT,1,SG
-оглядитесь	V,FUT,2,PL
-оглядишься	V,FUT,2,SG
-оглядятся	V,FUT,3,PL
-оглядится	V,FUT,3,SG
+оглядимся	V,PRS,1,PL
+огляжусь	V,PRS,1,SG
+оглядитесь	V,PRS,2,PL
+оглядишься	V,PRS,2,SG
+оглядятся	V,PRS,3,PL
+оглядится	V,PRS,3,SG
 оглядитесь	V,IMP,2,PL
 оглядись	V,IMP,2,SG
 оглядеться	V,NFIN
@@ -8246,12 +8246,12 @@
 огляделось	V,PST,SG,NEUT
 
 поучившись	V.CVB,PST
-поучимся	V,FUT,1,PL
-поучусь	V,FUT,1,SG
-поучитесь	V,FUT,2,PL
-поучишься	V,FUT,2,SG
-поучатся	V,FUT,3,PL
-поучится	V,FUT,3,SG
+поучимся	V,PRS,1,PL
+поучусь	V,PRS,1,SG
+поучитесь	V,PRS,2,PL
+поучишься	V,PRS,2,SG
+поучатся	V,PRS,3,PL
+поучится	V,PRS,3,SG
 поучитесь	V,IMP,2,PL
 поучись	V,IMP,2,SG
 поучиться	V,NFIN
@@ -8261,12 +8261,12 @@
 поучилось	V,PST,SG,NEUT
 
 перечеркнув	V.CVB,PST
-перечеркнем	V,FUT,1,PL
-перечеркну	V,FUT,1,SG
-перечеркнете	V,FUT,2,PL
-перечеркнешь	V,FUT,2,SG
-перечеркнут	V,FUT,3,PL
-перечеркнет	V,FUT,3,SG
+перечеркнем	V,PRS,1,PL
+перечеркну	V,PRS,1,SG
+перечеркнете	V,PRS,2,PL
+перечеркнешь	V,PRS,2,SG
+перечеркнут	V,PRS,3,PL
+перечеркнет	V,PRS,3,SG
 перечеркните	V,IMP,2,PL
 перечеркни	V,IMP,2,SG
 перечеркнуть	V,NFIN
@@ -8292,12 +8292,12 @@
 изобиловало	V,PST,SG,NEUT
 
 проскользнув	V.CVB,PST
-проскользнем	V,FUT,1,PL
-проскользну	V,FUT,1,SG
-проскользнете	V,FUT,2,PL
-проскользнешь	V,FUT,2,SG
-проскользнут	V,FUT,3,PL
-проскользнет	V,FUT,3,SG
+проскользнем	V,PRS,1,PL
+проскользну	V,PRS,1,SG
+проскользнете	V,PRS,2,PL
+проскользнешь	V,PRS,2,SG
+проскользнут	V,PRS,3,PL
+проскользнет	V,PRS,3,SG
 проскользните	V,IMP,2,PL
 проскользни	V,IMP,2,SG
 проскользнуть	V,NFIN
@@ -8339,12 +8339,12 @@
 мочило	V,PST,SG,NEUT
 
 попятившись	V.CVB,PST
-попятимся	V,FUT,1,PL
-попячусь	V,FUT,1,SG
-попятитесь	V,FUT,2,PL
-попятишься	V,FUT,2,SG
-попятятся	V,FUT,3,PL
-попятится	V,FUT,3,SG
+попятимся	V,PRS,1,PL
+попячусь	V,PRS,1,SG
+попятитесь	V,PRS,2,PL
+попятишься	V,PRS,2,SG
+попятятся	V,PRS,3,PL
+попятится	V,PRS,3,SG
 попятьтесь	V,IMP,2,PL
 попяться	V,IMP,2,SG
 попятиться	V,NFIN
@@ -8354,12 +8354,12 @@
 попятилось	V,PST,SG,NEUT
 
 раскроив	V.CVB,PST
-раскроим	V,FUT,1,PL
-раскрою	V,FUT,1,SG
-раскроите	V,FUT,2,PL
-раскроишь	V,FUT,2,SG
-раскроят	V,FUT,3,PL
-раскроит	V,FUT,3,SG
+раскроим	V,PRS,1,PL
+раскрою	V,PRS,1,SG
+раскроите	V,PRS,2,PL
+раскроишь	V,PRS,2,SG
+раскроят	V,PRS,3,PL
+раскроит	V,PRS,3,SG
 раскроите	V,IMP,2,PL
 раскрои	V,IMP,2,SG
 раскроить	V,NFIN
@@ -8385,12 +8385,12 @@
 высчитывало	V,PST,SG,NEUT
 
 вдумавшись	V.CVB,PST
-вдумаемся	V,FUT,1,PL
-вдумаюсь	V,FUT,1,SG
-вдумаетесь	V,FUT,2,PL
-вдумаешься	V,FUT,2,SG
-вдумаются	V,FUT,3,PL
-вдумается	V,FUT,3,SG
+вдумаемся	V,PRS,1,PL
+вдумаюсь	V,PRS,1,SG
+вдумаетесь	V,PRS,2,PL
+вдумаешься	V,PRS,2,SG
+вдумаются	V,PRS,3,PL
+вдумается	V,PRS,3,SG
 вдумайтесь	V,IMP,2,PL
 вдумайся	V,IMP,2,SG
 вдуматься	V,NFIN
@@ -8400,12 +8400,12 @@
 вдумалось	V,PST,SG,NEUT
 
 утвердившись	V.CVB,PST
-утвердимся	V,FUT,1,PL
-утвержусь	V,FUT,1,SG
-утвердитесь	V,FUT,2,PL
-утвердишься	V,FUT,2,SG
-утвердятся	V,FUT,3,PL
-утвердится	V,FUT,3,SG
+утвердимся	V,PRS,1,PL
+утвержусь	V,PRS,1,SG
+утвердитесь	V,PRS,2,PL
+утвердишься	V,PRS,2,SG
+утвердятся	V,PRS,3,PL
+утвердится	V,PRS,3,SG
 утвердитесь	V,IMP,2,PL
 утвердись	V,IMP,2,SG
 утвердиться	V,NFIN
@@ -8415,12 +8415,12 @@
 утвердилось	V,PST,SG,NEUT
 
 отодрав	V.CVB,PST
-отдерем	V,FUT,1,PL
-отдеру	V,FUT,1,SG
-отдерете	V,FUT,2,PL
-отдерешь	V,FUT,2,SG
-отдерут	V,FUT,3,PL
-отдерет	V,FUT,3,SG
+отдерем	V,PRS,1,PL
+отдеру	V,PRS,1,SG
+отдерете	V,PRS,2,PL
+отдерешь	V,PRS,2,SG
+отдерут	V,PRS,3,PL
+отдерет	V,PRS,3,SG
 отдерите	V,IMP,2,PL
 отдери	V,IMP,2,SG
 отодрать	V,NFIN
@@ -8430,12 +8430,12 @@
 отодрало	V,PST,SG,NEUT
 
 столпившись	V.CVB,PST
-столпимся	V,FUT,1,PL
-столплюсь	V,FUT,1,SG
-столпитесь	V,FUT,2,PL
-столпишься	V,FUT,2,SG
-столпятся	V,FUT,3,PL
-столпится	V,FUT,3,SG
+столпимся	V,PRS,1,PL
+столплюсь	V,PRS,1,SG
+столпитесь	V,PRS,2,PL
+столпишься	V,PRS,2,SG
+столпятся	V,PRS,3,PL
+столпится	V,PRS,3,SG
 столпитесь	V,IMP,2,PL
 столпись	V,IMP,2,SG
 столпиться	V,NFIN
@@ -8445,12 +8445,12 @@
 столпилось	V,PST,SG,NEUT
 
 обхватив	V.CVB,PST
-обхватим	V,FUT,1,PL
-обхвачу	V,FUT,1,SG
-обхватите	V,FUT,2,PL
-обхватишь	V,FUT,2,SG
-обхватят	V,FUT,3,PL
-обхватит	V,FUT,3,SG
+обхватим	V,PRS,1,PL
+обхвачу	V,PRS,1,SG
+обхватите	V,PRS,2,PL
+обхватишь	V,PRS,2,SG
+обхватят	V,PRS,3,PL
+обхватит	V,PRS,3,SG
 обхватите	V,IMP,2,PL
 обхвати	V,IMP,2,SG
 обхватить	V,NFIN
@@ -8492,12 +8492,12 @@
 парковало	V,PST,SG,NEUT
 
 разучив	V.CVB,PST
-разучим	V,FUT,1,PL
-разучу	V,FUT,1,SG
-разучите	V,FUT,2,PL
-разучишь	V,FUT,2,SG
-разучат	V,FUT,3,PL
-разучит	V,FUT,3,SG
+разучим	V,PRS,1,PL
+разучу	V,PRS,1,SG
+разучите	V,PRS,2,PL
+разучишь	V,PRS,2,SG
+разучат	V,PRS,3,PL
+разучит	V,PRS,3,SG
 разучите	V,IMP,2,PL
 разучи	V,IMP,2,SG
 разучить	V,NFIN
@@ -8507,12 +8507,12 @@
 разучило	V,PST,SG,NEUT
 
 оскорбив	V.CVB,PST
-оскорбим	V,FUT,1,PL
-оскорблю	V,FUT,1,SG
-оскорбите	V,FUT,2,PL
-оскорбишь	V,FUT,2,SG
-оскорбят	V,FUT,3,PL
-оскорбит	V,FUT,3,SG
+оскорбим	V,PRS,1,PL
+оскорблю	V,PRS,1,SG
+оскорбите	V,PRS,2,PL
+оскорбишь	V,PRS,2,SG
+оскорбят	V,PRS,3,PL
+оскорбит	V,PRS,3,SG
 оскорбите	V,IMP,2,PL
 оскорби	V,IMP,2,SG
 оскорбить	V,NFIN
@@ -8538,12 +8538,12 @@
 скорбело	V,PST,SG,NEUT
 
 набухши	V.CVB,PST
-набухнем	V,FUT,1,PL
-набухну	V,FUT,1,SG
-набухнете	V,FUT,2,PL
-набухнешь	V,FUT,2,SG
-набухнут	V,FUT,3,PL
-набухнет	V,FUT,3,SG
+набухнем	V,PRS,1,PL
+набухну	V,PRS,1,SG
+набухнете	V,PRS,2,PL
+набухнешь	V,PRS,2,SG
+набухнут	V,PRS,3,PL
+набухнет	V,PRS,3,SG
 набухните	V,IMP,2,PL
 набухни	V,IMP,2,SG
 набухнуть	V,NFIN
@@ -8569,12 +8569,12 @@
 извещало	V,PST,SG,NEUT
 
 полазав	V.CVB,PST
-полазаем	V,FUT,1,PL
-полазаю	V,FUT,1,SG
-полазаете	V,FUT,2,PL
-полазаешь	V,FUT,2,SG
-полазают	V,FUT,3,PL
-полазает	V,FUT,3,SG
+полазаем	V,PRS,1,PL
+полазаю	V,PRS,1,SG
+полазаете	V,PRS,2,PL
+полазаешь	V,PRS,2,SG
+полазают	V,PRS,3,PL
+полазает	V,PRS,3,SG
 полазайте	V,IMP,2,PL
 полазай	V,IMP,2,SG
 полазать	V,NFIN
@@ -8584,12 +8584,12 @@
 полазало	V,PST,SG,NEUT
 
 поникнув	V.CVB,PST
-поникнем	V,FUT,1,PL
-поникну	V,FUT,1,SG
-поникнете	V,FUT,2,PL
-поникнешь	V,FUT,2,SG
-поникнут	V,FUT,3,PL
-поникнет	V,FUT,3,SG
+поникнем	V,PRS,1,PL
+поникну	V,PRS,1,SG
+поникнете	V,PRS,2,PL
+поникнешь	V,PRS,2,SG
+поникнут	V,PRS,3,PL
+поникнет	V,PRS,3,SG
 поникните	V,IMP,2,PL
 поникни	V,IMP,2,SG
 поникнуть	V,NFIN
@@ -8615,12 +8615,12 @@
 преувеличивало	V,PST,SG,NEUT
 
 поцарапав	V.CVB,PST
-поцарапаем	V,FUT,1,PL
-поцарапаю	V,FUT,1,SG
-поцарапаете	V,FUT,2,PL
-поцарапаешь	V,FUT,2,SG
-поцарапают	V,FUT,3,PL
-поцарапает	V,FUT,3,SG
+поцарапаем	V,PRS,1,PL
+поцарапаю	V,PRS,1,SG
+поцарапаете	V,PRS,2,PL
+поцарапаешь	V,PRS,2,SG
+поцарапают	V,PRS,3,PL
+поцарапает	V,PRS,3,SG
 поцарапайте	V,IMP,2,PL
 поцарапай	V,IMP,2,SG
 поцарапать	V,NFIN
@@ -8630,12 +8630,12 @@
 поцарапало	V,PST,SG,NEUT
 
 подёргав	V.CVB,PST
-подергаем	V,FUT,1,PL
-подергаю	V,FUT,1,SG
-подергаете	V,FUT,2,PL
-подергаешь	V,FUT,2,SG
-подергают	V,FUT,3,PL
-подергает	V,FUT,3,SG
+подергаем	V,PRS,1,PL
+подергаю	V,PRS,1,SG
+подергаете	V,PRS,2,PL
+подергаешь	V,PRS,2,SG
+подергают	V,PRS,3,PL
+подергает	V,PRS,3,SG
 подёргайте	V,IMP,2,PL
 подёргай	V,IMP,2,SG
 подёргать	V,NFIN
@@ -8645,12 +8645,12 @@
 подёргало	V,PST,SG,NEUT
 
 покивав	V.CVB,PST
-покиваем	V,FUT,1,PL
-покиваю	V,FUT,1,SG
-покиваете	V,FUT,2,PL
-покиваешь	V,FUT,2,SG
-покивают	V,FUT,3,PL
-покивает	V,FUT,3,SG
+покиваем	V,PRS,1,PL
+покиваю	V,PRS,1,SG
+покиваете	V,PRS,2,PL
+покиваешь	V,PRS,2,SG
+покивают	V,PRS,3,PL
+покивает	V,PRS,3,SG
 покивайте	V,IMP,2,PL
 покивай	V,IMP,2,SG
 покивать	V,NFIN
@@ -8660,12 +8660,12 @@
 покивало	V,PST,SG,NEUT
 
 задавшись	V.CVB,PST
-зададимся	V,FUT,1,PL
-задамся	V,FUT,1,SG
-зададитесь	V,FUT,2,PL
-задашься	V,FUT,2,SG
-зададутся	V,FUT,3,PL
-задастся	V,FUT,3,SG
+зададимся	V,PRS,1,PL
+задамся	V,PRS,1,SG
+зададитесь	V,PRS,2,PL
+задашься	V,PRS,2,SG
+зададутся	V,PRS,3,PL
+задастся	V,PRS,3,SG
 задайтесь	V,IMP,2,PL
 задайся	V,IMP,2,SG
 задаться	V,NFIN
@@ -8691,12 +8691,12 @@
 смыкалось	V,PST,SG,NEUT
 
 пискнув	V.CVB,PST
-пискнем	V,FUT,1,PL
-пискну	V,FUT,1,SG
-пискнете	V,FUT,2,PL
-пискнешь	V,FUT,2,SG
-пискнут	V,FUT,3,PL
-пискнет	V,FUT,3,SG
+пискнем	V,PRS,1,PL
+пискну	V,PRS,1,SG
+пискнете	V,PRS,2,PL
+пискнешь	V,PRS,2,SG
+пискнут	V,PRS,3,PL
+пискнет	V,PRS,3,SG
 пискните	V,IMP,2,PL
 пискни	V,IMP,2,SG
 пискнуть	V,NFIN
@@ -8706,12 +8706,12 @@
 пискнуло	V,PST,SG,NEUT
 
 нарвавшись	V.CVB,PST
-нарвемся	V,FUT,1,PL
-нарвусь	V,FUT,1,SG
-нарветесь	V,FUT,2,PL
-нарвешься	V,FUT,2,SG
-нарвутся	V,FUT,3,PL
-нарвется	V,FUT,3,SG
+нарвемся	V,PRS,1,PL
+нарвусь	V,PRS,1,SG
+нарветесь	V,PRS,2,PL
+нарвешься	V,PRS,2,SG
+нарвутся	V,PRS,3,PL
+нарвется	V,PRS,3,SG
 нарвитесь	V,IMP,2,PL
 нарвись	V,IMP,2,SG
 нарваться	V,NFIN
@@ -8769,12 +8769,12 @@
 приставало	V,PST,SG,NEUT
 
 перепугав	V.CVB,PST
-перепугаем	V,FUT,1,PL
-перепугаю	V,FUT,1,SG
-перепугаете	V,FUT,2,PL
-перепугаешь	V,FUT,2,SG
-перепугают	V,FUT,3,PL
-перепугает	V,FUT,3,SG
+перепугаем	V,PRS,1,PL
+перепугаю	V,PRS,1,SG
+перепугаете	V,PRS,2,PL
+перепугаешь	V,PRS,2,SG
+перепугают	V,PRS,3,PL
+перепугает	V,PRS,3,SG
 перепугайте	V,IMP,2,PL
 перепугай	V,IMP,2,SG
 перепугать	V,NFIN
@@ -8784,12 +8784,12 @@
 перепугало	V,PST,SG,NEUT
 
 стеснив	V.CVB,PST
-стесним	V,FUT,1,PL
-стесню	V,FUT,1,SG
-стесните	V,FUT,2,PL
-стеснишь	V,FUT,2,SG
-стеснят	V,FUT,3,PL
-стеснит	V,FUT,3,SG
+стесним	V,PRS,1,PL
+стесню	V,PRS,1,SG
+стесните	V,PRS,2,PL
+стеснишь	V,PRS,2,SG
+стеснят	V,PRS,3,PL
+стеснит	V,PRS,3,SG
 стесните	V,IMP,2,PL
 стесни	V,IMP,2,SG
 стеснить	V,NFIN
@@ -8799,12 +8799,12 @@
 стеснило	V,PST,SG,NEUT
 
 подтащив	V.CVB,PST
-подтащим	V,FUT,1,PL
-подтащу	V,FUT,1,SG
-подтащите	V,FUT,2,PL
-подтащишь	V,FUT,2,SG
-подтащат	V,FUT,3,PL
-подтащит	V,FUT,3,SG
+подтащим	V,PRS,1,PL
+подтащу	V,PRS,1,SG
+подтащите	V,PRS,2,PL
+подтащишь	V,PRS,2,SG
+подтащат	V,PRS,3,PL
+подтащит	V,PRS,3,SG
 подтащите	V,IMP,2,PL
 подтащи	V,IMP,2,SG
 подтащить	V,NFIN
@@ -8846,12 +8846,12 @@
 колдовало	V,PST,SG,NEUT
 
 отпихнув	V.CVB,PST
-отпихнем	V,FUT,1,PL
-отпихну	V,FUT,1,SG
-отпихнете	V,FUT,2,PL
-отпихнешь	V,FUT,2,SG
-отпихнут	V,FUT,3,PL
-отпихнет	V,FUT,3,SG
+отпихнем	V,PRS,1,PL
+отпихну	V,PRS,1,SG
+отпихнете	V,PRS,2,PL
+отпихнешь	V,PRS,2,SG
+отпихнут	V,PRS,3,PL
+отпихнет	V,PRS,3,SG
 отпихните	V,IMP,2,PL
 отпихни	V,IMP,2,SG
 отпихнуть	V,NFIN
@@ -8909,12 +8909,12 @@
 публиковало	V,PST,SG,NEUT
 
 взыскав	V.CVB,PST
-взыщем	V,FUT,1,PL
-взыщу	V,FUT,1,SG
-взыщете	V,FUT,2,PL
-взыщешь	V,FUT,2,SG
-взыщут	V,FUT,3,PL
-взыщет	V,FUT,3,SG
+взыщем	V,PRS,1,PL
+взыщу	V,PRS,1,SG
+взыщете	V,PRS,2,PL
+взыщешь	V,PRS,2,SG
+взыщут	V,PRS,3,PL
+взыщет	V,PRS,3,SG
 взыщите	V,IMP,2,PL
 взыщи	V,IMP,2,SG
 взыскать	V,NFIN
@@ -8940,12 +8940,12 @@
 облюбовывало	V,PST,SG,NEUT
 
 прослезившись	V.CVB,PST
-прослезимся	V,FUT,1,PL
-прослежусь	V,FUT,1,SG
-прослезитесь	V,FUT,2,PL
-прослезишься	V,FUT,2,SG
-прослезятся	V,FUT,3,PL
-прослезится	V,FUT,3,SG
+прослезимся	V,PRS,1,PL
+прослежусь	V,PRS,1,SG
+прослезитесь	V,PRS,2,PL
+прослезишься	V,PRS,2,SG
+прослезятся	V,PRS,3,PL
+прослезится	V,PRS,3,SG
 прослезитесь	V,IMP,2,PL
 прослезись	V,IMP,2,SG
 прослезиться	V,NFIN
@@ -8955,12 +8955,12 @@
 прослезилось	V,PST,SG,NEUT
 
 предвосхитив	V.CVB,PST
-предвосхитим	V,FUT,1,PL
-предвосхищу	V,FUT,1,SG
-предвосхитите	V,FUT,2,PL
-предвосхитишь	V,FUT,2,SG
-предвосхитят	V,FUT,3,PL
-предвосхитит	V,FUT,3,SG
+предвосхитим	V,PRS,1,PL
+предвосхищу	V,PRS,1,SG
+предвосхитите	V,PRS,2,PL
+предвосхитишь	V,PRS,2,SG
+предвосхитят	V,PRS,3,PL
+предвосхитит	V,PRS,3,SG
 предвосхитите	V,IMP,2,PL
 предвосхить	V,IMP,2,SG
 предвосхитить	V,NFIN
@@ -8970,12 +8970,12 @@
 предвосхитило	V,PST,SG,NEUT
 
 приручив	V.CVB,PST
-приручим	V,FUT,1,PL
-приручу	V,FUT,1,SG
-приручите	V,FUT,2,PL
-приручишь	V,FUT,2,SG
-приручат	V,FUT,3,PL
-приручит	V,FUT,3,SG
+приручим	V,PRS,1,PL
+приручу	V,PRS,1,SG
+приручите	V,PRS,2,PL
+приручишь	V,PRS,2,SG
+приручат	V,PRS,3,PL
+приручит	V,PRS,3,SG
 приручите	V,IMP,2,PL
 приручи	V,IMP,2,SG
 приручить	V,NFIN
@@ -9017,12 +9017,12 @@
 затемняло	V,PST,SG,NEUT
 
 заблестев	V.CVB,PST
-заблестим	V,FUT,1,PL
-заблещу	V,FUT,1,SG
-заблестите	V,FUT,2,PL
-заблестишь	V,FUT,2,SG
-заблестят	V,FUT,3,PL
-заблестит	V,FUT,3,SG
+заблестим	V,PRS,1,PL
+заблещу	V,PRS,1,SG
+заблестите	V,PRS,2,PL
+заблестишь	V,PRS,2,SG
+заблестят	V,PRS,3,PL
+заблестит	V,PRS,3,SG
 заблестите	V,IMP,2,PL
 заблести	V,IMP,2,SG
 заблестеть	V,NFIN
@@ -9032,12 +9032,12 @@
 заблестело	V,PST,SG,NEUT
 
 отделав	V.CVB,PST
-отделаем	V,FUT,1,PL
-отделаю	V,FUT,1,SG
-отделаете	V,FUT,2,PL
-отделаешь	V,FUT,2,SG
-отделают	V,FUT,3,PL
-отделает	V,FUT,3,SG
+отделаем	V,PRS,1,PL
+отделаю	V,PRS,1,SG
+отделаете	V,PRS,2,PL
+отделаешь	V,PRS,2,SG
+отделают	V,PRS,3,PL
+отделает	V,PRS,3,SG
 отделайте	V,IMP,2,PL
 отделай	V,IMP,2,SG
 отделать	V,NFIN
@@ -9063,12 +9063,12 @@
 раздваивало	V,PST,SG,NEUT
 
 усилившись	V.CVB,PST
-усилимся	V,FUT,1,PL
-усилюсь	V,FUT,1,SG
-усилитесь	V,FUT,2,PL
-усилишься	V,FUT,2,SG
-усилятся	V,FUT,3,PL
-усилится	V,FUT,3,SG
+усилимся	V,PRS,1,PL
+усилюсь	V,PRS,1,SG
+усилитесь	V,PRS,2,PL
+усилишься	V,PRS,2,SG
+усилятся	V,PRS,3,PL
+усилится	V,PRS,3,SG
 усильтесь	V,IMP,2,PL
 усилься	V,IMP,2,SG
 усилиться	V,NFIN
@@ -9094,12 +9094,12 @@
 стреляло	V,PST,SG,NEUT
 
 застроившись	V.CVB,PST
-застроимся	V,FUT,1,PL
-застроюсь	V,FUT,1,SG
-застроитесь	V,FUT,2,PL
-застроишься	V,FUT,2,SG
-застроятся	V,FUT,3,PL
-застроится	V,FUT,3,SG
+застроимся	V,PRS,1,PL
+застроюсь	V,PRS,1,SG
+застроитесь	V,PRS,2,PL
+застроишься	V,PRS,2,SG
+застроятся	V,PRS,3,PL
+застроится	V,PRS,3,SG
 застройтесь	V,IMP,2,PL
 застройся	V,IMP,2,SG
 застроиться	V,NFIN
@@ -9109,12 +9109,12 @@
 застроилось	V,PST,SG,NEUT
 
 покатав	V.CVB,PST
-покатаем	V,FUT,1,PL
-покатаю	V,FUT,1,SG
-покатаете	V,FUT,2,PL
-покатаешь	V,FUT,2,SG
-покатают	V,FUT,3,PL
-покатает	V,FUT,3,SG
+покатаем	V,PRS,1,PL
+покатаю	V,PRS,1,SG
+покатаете	V,PRS,2,PL
+покатаешь	V,PRS,2,SG
+покатают	V,PRS,3,PL
+покатает	V,PRS,3,SG
 покатайте	V,IMP,2,PL
 покатай	V,IMP,2,SG
 покатать	V,NFIN
@@ -9124,12 +9124,12 @@
 покатало	V,PST,SG,NEUT
 
 повозившись	V.CVB,PST
-повозимся	V,FUT,1,PL
-повожусь	V,FUT,1,SG
-повозитесь	V,FUT,2,PL
-повозишься	V,FUT,2,SG
-повозятся	V,FUT,3,PL
-повозится	V,FUT,3,SG
+повозимся	V,PRS,1,PL
+повожусь	V,PRS,1,SG
+повозитесь	V,PRS,2,PL
+повозишься	V,PRS,2,SG
+повозятся	V,PRS,3,PL
+повозится	V,PRS,3,SG
 повозитесь	V,IMP,2,PL
 повозись	V,IMP,2,SG
 повозиться	V,NFIN
@@ -9139,12 +9139,12 @@
 повозилось	V,PST,SG,NEUT
 
 захватив	V.CVB,PST
-захватим	V,FUT,1,PL
-захвачу	V,FUT,1,SG
-захватите	V,FUT,2,PL
-захватишь	V,FUT,2,SG
-захватят	V,FUT,3,PL
-захватит	V,FUT,3,SG
+захватим	V,PRS,1,PL
+захвачу	V,PRS,1,SG
+захватите	V,PRS,2,PL
+захватишь	V,PRS,2,SG
+захватят	V,PRS,3,PL
+захватит	V,PRS,3,SG
 захватите	V,IMP,2,PL
 захвати	V,IMP,2,SG
 захватить	V,NFIN
@@ -9170,12 +9170,12 @@
 стреноживало	V,PST,SG,NEUT
 
 пресёкши	V.CVB,PST
-пресечем	V,FUT,1,PL
-пресеку	V,FUT,1,SG
-пресечете	V,FUT,2,PL
-пресечешь	V,FUT,2,SG
-пресекут	V,FUT,3,PL
-пресечет	V,FUT,3,SG
+пресечем	V,PRS,1,PL
+пресеку	V,PRS,1,SG
+пресечете	V,PRS,2,PL
+пресечешь	V,PRS,2,SG
+пресекут	V,PRS,3,PL
+пресечет	V,PRS,3,SG
 пресеките	V,IMP,2,PL
 пресеки	V,IMP,2,SG
 пресечь	V,NFIN
@@ -9201,12 +9201,12 @@
 утирало	V,PST,SG,NEUT
 
 выдохшись	V.CVB,PST
-выдохнемся	V,FUT,1,PL
-выдохнусь	V,FUT,1,SG
-выдохнетесь	V,FUT,2,PL
-выдохнешься	V,FUT,2,SG
-выдохнутся	V,FUT,3,PL
-выдохнется	V,FUT,3,SG
+выдохнемся	V,PRS,1,PL
+выдохнусь	V,PRS,1,SG
+выдохнетесь	V,PRS,2,PL
+выдохнешься	V,PRS,2,SG
+выдохнутся	V,PRS,3,PL
+выдохнется	V,PRS,3,SG
 выдохнитесь	V,IMP,2,PL
 выдохнись	V,IMP,2,SG
 выдохнуться	V,NFIN
@@ -9232,12 +9232,12 @@
 усугубляло	V,PST,SG,NEUT
 
 сознавшись	V.CVB,PST
-сознаемся	V,FUT,1,PL
-сознаюсь	V,FUT,1,SG
-сознаетесь	V,FUT,2,PL
-сознаешься	V,FUT,2,SG
-сознаются	V,FUT,3,PL
-сознается	V,FUT,3,SG
+сознаемся	V,PRS,1,PL
+сознаюсь	V,PRS,1,SG
+сознаетесь	V,PRS,2,PL
+сознаешься	V,PRS,2,SG
+сознаются	V,PRS,3,PL
+сознается	V,PRS,3,SG
 сознайтесь	V,IMP,2,PL
 сознайся	V,IMP,2,SG
 сознаться	V,NFIN
@@ -9247,12 +9247,12 @@
 созналось	V,PST,SG,NEUT
 
 засчитав	V.CVB,PST
-засчитаем	V,FUT,1,PL
-засчитаю	V,FUT,1,SG
-засчитаете	V,FUT,2,PL
-засчитаешь	V,FUT,2,SG
-засчитают	V,FUT,3,PL
-засчитает	V,FUT,3,SG
+засчитаем	V,PRS,1,PL
+засчитаю	V,PRS,1,SG
+засчитаете	V,PRS,2,PL
+засчитаешь	V,PRS,2,SG
+засчитают	V,PRS,3,PL
+засчитает	V,PRS,3,SG
 засчитайте	V,IMP,2,PL
 засчитай	V,IMP,2,SG
 засчитать	V,NFIN
@@ -9294,12 +9294,12 @@
 прогорало	V,PST,SG,NEUT
 
 побагровев	V.CVB,PST
-побагровеем	V,FUT,1,PL
-побагровею	V,FUT,1,SG
-побагровеете	V,FUT,2,PL
-побагровеешь	V,FUT,2,SG
-побагровеют	V,FUT,3,PL
-побагровеет	V,FUT,3,SG
+побагровеем	V,PRS,1,PL
+побагровею	V,PRS,1,SG
+побагровеете	V,PRS,2,PL
+побагровеешь	V,PRS,2,SG
+побагровеют	V,PRS,3,PL
+побагровеет	V,PRS,3,SG
 побагровейте	V,IMP,2,PL
 побагровей	V,IMP,2,SG
 побагроветь	V,NFIN
@@ -9341,12 +9341,12 @@
 красило	V,PST,SG,NEUT
 
 сослав	V.CVB,PST
-сошлем	V,FUT,1,PL
-сошлю	V,FUT,1,SG
-сошлете	V,FUT,2,PL
-сошлешь	V,FUT,2,SG
-сошлют	V,FUT,3,PL
-сошлет	V,FUT,3,SG
+сошлем	V,PRS,1,PL
+сошлю	V,PRS,1,SG
+сошлете	V,PRS,2,PL
+сошлешь	V,PRS,2,SG
+сошлют	V,PRS,3,PL
+сошлет	V,PRS,3,SG
 сошлите	V,IMP,2,PL
 сошли	V,IMP,2,SG
 сослать	V,NFIN
@@ -9356,12 +9356,12 @@
 сослало	V,PST,SG,NEUT
 
 заскакав	V.CVB,PST
-заскачем	V,FUT,1,PL
-заскачу	V,FUT,1,SG
-заскачете	V,FUT,2,PL
-заскачешь	V,FUT,2,SG
-заскачут	V,FUT,3,PL
-заскачет	V,FUT,3,SG
+заскачем	V,PRS,1,PL
+заскачу	V,PRS,1,SG
+заскачете	V,PRS,2,PL
+заскачешь	V,PRS,2,SG
+заскачут	V,PRS,3,PL
+заскачет	V,PRS,3,SG
 заскачите	V,IMP,2,PL
 заскачи	V,IMP,2,SG
 заскакать	V,NFIN
@@ -9387,12 +9387,12 @@
 кидалось	V,PST,SG,NEUT
 
 заведясь	V.CVB,PST
-заведемся	V,FUT,1,PL
-заведусь	V,FUT,1,SG
-заведетесь	V,FUT,2,PL
-заведешься	V,FUT,2,SG
-заведутся	V,FUT,3,PL
-заведется	V,FUT,3,SG
+заведемся	V,PRS,1,PL
+заведусь	V,PRS,1,SG
+заведетесь	V,PRS,2,PL
+заведешься	V,PRS,2,SG
+заведутся	V,PRS,3,PL
+заведется	V,PRS,3,SG
 заведитесь	V,IMP,2,PL
 заведись	V,IMP,2,SG
 завестись	V,NFIN
@@ -9418,12 +9418,12 @@
 смягчало	V,PST,SG,NEUT
 
 изъяснив	V.CVB,PST
-изъясним	V,FUT,1,PL
-изъясню	V,FUT,1,SG
-изъясните	V,FUT,2,PL
-изъяснишь	V,FUT,2,SG
-изъяснят	V,FUT,3,PL
-изъяснит	V,FUT,3,SG
+изъясним	V,PRS,1,PL
+изъясню	V,PRS,1,SG
+изъясните	V,PRS,2,PL
+изъяснишь	V,PRS,2,SG
+изъяснят	V,PRS,3,PL
+изъяснит	V,PRS,3,SG
 изъясните	V,IMP,2,PL
 изъясни	V,IMP,2,SG
 изъяснить	V,NFIN
@@ -9433,12 +9433,12 @@
 изъяснило	V,PST,SG,NEUT
 
 раскатив	V.CVB,PST
-раскатим	V,FUT,1,PL
-раскачу	V,FUT,1,SG
-раскатите	V,FUT,2,PL
-раскатишь	V,FUT,2,SG
-раскатят	V,FUT,3,PL
-раскатит	V,FUT,3,SG
+раскатим	V,PRS,1,PL
+раскачу	V,PRS,1,SG
+раскатите	V,PRS,2,PL
+раскатишь	V,PRS,2,SG
+раскатят	V,PRS,3,PL
+раскатит	V,PRS,3,SG
 раскатите	V,IMP,2,PL
 раскати	V,IMP,2,SG
 раскатить	V,NFIN
@@ -9448,12 +9448,12 @@
 раскатило	V,PST,SG,NEUT
 
 зашив	V.CVB,PST
-зашьем	V,FUT,1,PL
-зашью	V,FUT,1,SG
-зашьете	V,FUT,2,PL
-зашьешь	V,FUT,2,SG
-зашьют	V,FUT,3,PL
-зашьет	V,FUT,3,SG
+зашьем	V,PRS,1,PL
+зашью	V,PRS,1,SG
+зашьете	V,PRS,2,PL
+зашьешь	V,PRS,2,SG
+зашьют	V,PRS,3,PL
+зашьет	V,PRS,3,SG
 зашейте	V,IMP,2,PL
 зашей	V,IMP,2,SG
 зашить	V,NFIN
@@ -9463,12 +9463,12 @@
 зашило	V,PST,SG,NEUT
 
 поведав	V.CVB,PST
-поведаем	V,FUT,1,PL
-поведаю	V,FUT,1,SG
-поведаете	V,FUT,2,PL
-поведаешь	V,FUT,2,SG
-поведают	V,FUT,3,PL
-поведает	V,FUT,3,SG
+поведаем	V,PRS,1,PL
+поведаю	V,PRS,1,SG
+поведаете	V,PRS,2,PL
+поведаешь	V,PRS,2,SG
+поведают	V,PRS,3,PL
+поведает	V,PRS,3,SG
 поведайте	V,IMP,2,PL
 поведай	V,IMP,2,SG
 поведать	V,NFIN
@@ -9494,12 +9494,12 @@
 ухватывалось	V,PST,SG,NEUT
 
 вскинув	V.CVB,PST
-вскинем	V,FUT,1,PL
-вскину	V,FUT,1,SG
-вскинете	V,FUT,2,PL
-вскинешь	V,FUT,2,SG
-вскинут	V,FUT,3,PL
-вскинет	V,FUT,3,SG
+вскинем	V,PRS,1,PL
+вскину	V,PRS,1,SG
+вскинете	V,PRS,2,PL
+вскинешь	V,PRS,2,SG
+вскинут	V,PRS,3,PL
+вскинет	V,PRS,3,SG
 вскиньте	V,IMP,2,PL
 вскинь	V,IMP,2,SG
 вскинуть	V,NFIN
@@ -9541,12 +9541,12 @@
 отбивалось	V,PST,SG,NEUT
 
 прорыв	V.CVB,PST
-пророем	V,FUT,1,PL
-пророю	V,FUT,1,SG
-пророете	V,FUT,2,PL
-пророешь	V,FUT,2,SG
-пророют	V,FUT,3,PL
-пророет	V,FUT,3,SG
+пророем	V,PRS,1,PL
+пророю	V,PRS,1,SG
+пророете	V,PRS,2,PL
+пророешь	V,PRS,2,SG
+пророют	V,PRS,3,PL
+пророет	V,PRS,3,SG
 проройте	V,IMP,2,PL
 пророй	V,IMP,2,SG
 прорыть	V,NFIN
@@ -9556,12 +9556,12 @@
 прорыло	V,PST,SG,NEUT
 
 разрисовав	V.CVB,PST
-разрисуем	V,FUT,1,PL
-разрисую	V,FUT,1,SG
-разрисуете	V,FUT,2,PL
-разрисуешь	V,FUT,2,SG
-разрисуют	V,FUT,3,PL
-разрисует	V,FUT,3,SG
+разрисуем	V,PRS,1,PL
+разрисую	V,PRS,1,SG
+разрисуете	V,PRS,2,PL
+разрисуешь	V,PRS,2,SG
+разрисуют	V,PRS,3,PL
+разрисует	V,PRS,3,SG
 разрисуйте	V,IMP,2,PL
 разрисуй	V,IMP,2,SG
 разрисовать	V,NFIN
@@ -9571,12 +9571,12 @@
 разрисовало	V,PST,SG,NEUT
 
 избив	V.CVB,PST
-изобьем	V,FUT,1,PL
-изобью	V,FUT,1,SG
-изобьете	V,FUT,2,PL
-изобьешь	V,FUT,2,SG
-изобьют	V,FUT,3,PL
-изобьет	V,FUT,3,SG
+изобьем	V,PRS,1,PL
+изобью	V,PRS,1,SG
+изобьете	V,PRS,2,PL
+изобьешь	V,PRS,2,SG
+изобьют	V,PRS,3,PL
+изобьет	V,PRS,3,SG
 избейте	V,IMP,2,PL
 избей	V,IMP,2,SG
 избить	V,NFIN
@@ -9650,12 +9650,12 @@
 повышалось	V,PST,SG,NEUT
 
 поправившись	V.CVB,PST
-поправимся	V,FUT,1,PL
-поправлюсь	V,FUT,1,SG
-поправитесь	V,FUT,2,PL
-поправишься	V,FUT,2,SG
-поправятся	V,FUT,3,PL
-поправится	V,FUT,3,SG
+поправимся	V,PRS,1,PL
+поправлюсь	V,PRS,1,SG
+поправитесь	V,PRS,2,PL
+поправишься	V,PRS,2,SG
+поправятся	V,PRS,3,PL
+поправится	V,PRS,3,SG
 поправьтесь	V,IMP,2,PL
 поправься	V,IMP,2,SG
 поправиться	V,NFIN
@@ -9697,12 +9697,12 @@
 наматывало	V,PST,SG,NEUT
 
 договорив	V.CVB,PST
-договорим	V,FUT,1,PL
-договорю	V,FUT,1,SG
-договорите	V,FUT,2,PL
-договоришь	V,FUT,2,SG
-договорят	V,FUT,3,PL
-договорит	V,FUT,3,SG
+договорим	V,PRS,1,PL
+договорю	V,PRS,1,SG
+договорите	V,PRS,2,PL
+договоришь	V,PRS,2,SG
+договорят	V,PRS,3,PL
+договорит	V,PRS,3,SG
 договорите	V,IMP,2,PL
 договори	V,IMP,2,SG
 договорить	V,NFIN
@@ -9760,12 +9760,12 @@
 достигалось	V,PST,SG,NEUT
 
 потухнув	V.CVB,PST
-потухнем	V,FUT,1,PL
-потухну	V,FUT,1,SG
-потухнете	V,FUT,2,PL
-потухнешь	V,FUT,2,SG
-потухнут	V,FUT,3,PL
-потухнет	V,FUT,3,SG
+потухнем	V,PRS,1,PL
+потухну	V,PRS,1,SG
+потухнете	V,PRS,2,PL
+потухнешь	V,PRS,2,SG
+потухнут	V,PRS,3,PL
+потухнет	V,PRS,3,SG
 потухните	V,IMP,2,PL
 потухни	V,IMP,2,SG
 потухнуть	V,NFIN
@@ -9775,12 +9775,12 @@
 потухло	V,PST,SG,NEUT
 
 удержавшись	V.CVB,PST
-удержимся	V,FUT,1,PL
-удержусь	V,FUT,1,SG
-удержитесь	V,FUT,2,PL
-удержишься	V,FUT,2,SG
-удержатся	V,FUT,3,PL
-удержится	V,FUT,3,SG
+удержимся	V,PRS,1,PL
+удержусь	V,PRS,1,SG
+удержитесь	V,PRS,2,PL
+удержишься	V,PRS,2,SG
+удержатся	V,PRS,3,PL
+удержится	V,PRS,3,SG
 удержитесь	V,IMP,2,PL
 удержись	V,IMP,2,SG
 удержаться	V,NFIN
@@ -9790,12 +9790,12 @@
 удержалось	V,PST,SG,NEUT
 
 ободрив	V.CVB,PST
-ободрим	V,FUT,1,PL
-ободрю	V,FUT,1,SG
-ободрите	V,FUT,2,PL
-ободришь	V,FUT,2,SG
-ободрят	V,FUT,3,PL
-ободрит	V,FUT,3,SG
+ободрим	V,PRS,1,PL
+ободрю	V,PRS,1,SG
+ободрите	V,PRS,2,PL
+ободришь	V,PRS,2,SG
+ободрят	V,PRS,3,PL
+ободрит	V,PRS,3,SG
 ободрите	V,IMP,2,PL
 ободри	V,IMP,2,SG
 ободрить	V,NFIN
@@ -9837,12 +9837,12 @@
 упражняло	V,PST,SG,NEUT
 
 набросав	V.CVB,PST
-набросаем	V,FUT,1,PL
-набросаю	V,FUT,1,SG
-набросаете	V,FUT,2,PL
-набросаешь	V,FUT,2,SG
-набросают	V,FUT,3,PL
-набросает	V,FUT,3,SG
+набросаем	V,PRS,1,PL
+набросаю	V,PRS,1,SG
+набросаете	V,PRS,2,PL
+набросаешь	V,PRS,2,SG
+набросают	V,PRS,3,PL
+набросает	V,PRS,3,SG
 набросайте	V,IMP,2,PL
 набросай	V,IMP,2,SG
 набросать	V,NFIN
@@ -9852,12 +9852,12 @@
 набросало	V,PST,SG,NEUT
 
 излучив	V.CVB,PST
-излучим	V,FUT,1,PL
-излучу	V,FUT,1,SG
-излучите	V,FUT,2,PL
-излучишь	V,FUT,2,SG
-излучат	V,FUT,3,PL
-излучит	V,FUT,3,SG
+излучим	V,PRS,1,PL
+излучу	V,PRS,1,SG
+излучите	V,PRS,2,PL
+излучишь	V,PRS,2,SG
+излучат	V,PRS,3,PL
+излучит	V,PRS,3,SG
 излучите	V,IMP,2,PL
 излучи	V,IMP,2,SG
 излучить	V,NFIN
@@ -9867,12 +9867,12 @@
 излучило	V,PST,SG,NEUT
 
 вляпавшись	V.CVB,PST
-вляпаемся	V,FUT,1,PL
-вляпаюсь	V,FUT,1,SG
-вляпаетесь	V,FUT,2,PL
-вляпаешься	V,FUT,2,SG
-вляпаются	V,FUT,3,PL
-вляпается	V,FUT,3,SG
+вляпаемся	V,PRS,1,PL
+вляпаюсь	V,PRS,1,SG
+вляпаетесь	V,PRS,2,PL
+вляпаешься	V,PRS,2,SG
+вляпаются	V,PRS,3,PL
+вляпается	V,PRS,3,SG
 вляпайтесь	V,IMP,2,PL
 вляпайся	V,IMP,2,SG
 вляпаться	V,NFIN
@@ -9882,12 +9882,12 @@
 вляпалось	V,PST,SG,NEUT
 
 помирив	V.CVB,PST
-помирим	V,FUT,1,PL
-помирю	V,FUT,1,SG
-помирите	V,FUT,2,PL
-помиришь	V,FUT,2,SG
-помирят	V,FUT,3,PL
-помирит	V,FUT,3,SG
+помирим	V,PRS,1,PL
+помирю	V,PRS,1,SG
+помирите	V,PRS,2,PL
+помиришь	V,PRS,2,SG
+помирят	V,PRS,3,PL
+помирит	V,PRS,3,SG
 помирите	V,IMP,2,PL
 помири	V,IMP,2,SG
 помирить	V,NFIN
@@ -9897,12 +9897,12 @@
 помирило	V,PST,SG,NEUT
 
 отклонив	V.CVB,PST
-отклоним	V,FUT,1,PL
-отклоню	V,FUT,1,SG
-отклоните	V,FUT,2,PL
-отклонишь	V,FUT,2,SG
-отклонят	V,FUT,3,PL
-отклонит	V,FUT,3,SG
+отклоним	V,PRS,1,PL
+отклоню	V,PRS,1,SG
+отклоните	V,PRS,2,PL
+отклонишь	V,PRS,2,SG
+отклонят	V,PRS,3,PL
+отклонит	V,PRS,3,SG
 отклоните	V,IMP,2,PL
 отклони	V,IMP,2,SG
 отклонить	V,NFIN
@@ -9960,12 +9960,12 @@
 рукополагало	V,PST,SG,NEUT
 
 рассвирепев	V.CVB,PST
-рассвирепеем	V,FUT,1,PL
-рассвирепею	V,FUT,1,SG
-рассвирепеете	V,FUT,2,PL
-рассвирепеешь	V,FUT,2,SG
-рассвирепеют	V,FUT,3,PL
-рассвирепеет	V,FUT,3,SG
+рассвирепеем	V,PRS,1,PL
+рассвирепею	V,PRS,1,SG
+рассвирепеете	V,PRS,2,PL
+рассвирепеешь	V,PRS,2,SG
+рассвирепеют	V,PRS,3,PL
+рассвирепеет	V,PRS,3,SG
 рассвирепейте	V,IMP,2,PL
 рассвирепей	V,IMP,2,SG
 рассвирепеть	V,NFIN
@@ -10007,12 +10007,12 @@
 радовало	V,PST,SG,NEUT
 
 придвинувшись	V.CVB,PST
-придвинемся	V,FUT,1,PL
-придвинусь	V,FUT,1,SG
-придвинетесь	V,FUT,2,PL
-придвинешься	V,FUT,2,SG
-придвинутся	V,FUT,3,PL
-придвинется	V,FUT,3,SG
+придвинемся	V,PRS,1,PL
+придвинусь	V,PRS,1,SG
+придвинетесь	V,PRS,2,PL
+придвинешься	V,PRS,2,SG
+придвинутся	V,PRS,3,PL
+придвинется	V,PRS,3,SG
 придвиньтесь	V,IMP,2,PL
 придвинься	V,IMP,2,SG
 придвинуться	V,NFIN
@@ -10022,12 +10022,12 @@
 придвинулось	V,PST,SG,NEUT
 
 задохнувшись	V.CVB,PST
-задохнемся	V,FUT,1,PL
-задохнусь	V,FUT,1,SG
-задохнетесь	V,FUT,2,PL
-задохнешься	V,FUT,2,SG
-задохнутся	V,FUT,3,PL
-задохнется	V,FUT,3,SG
+задохнемся	V,PRS,1,PL
+задохнусь	V,PRS,1,SG
+задохнетесь	V,PRS,2,PL
+задохнешься	V,PRS,2,SG
+задохнутся	V,PRS,3,PL
+задохнется	V,PRS,3,SG
 задохнитесь	V,IMP,2,PL
 задохнись	V,IMP,2,SG
 задохнуться	V,NFIN
@@ -10037,12 +10037,12 @@
 задохнулось	V,PST,SG,NEUT
 
 сроднив	V.CVB,PST
-сродним	V,FUT,1,PL
-сродню	V,FUT,1,SG
-сродните	V,FUT,2,PL
-сроднишь	V,FUT,2,SG
-сроднят	V,FUT,3,PL
-сроднит	V,FUT,3,SG
+сродним	V,PRS,1,PL
+сродню	V,PRS,1,SG
+сродните	V,PRS,2,PL
+сроднишь	V,PRS,2,SG
+сроднят	V,PRS,3,PL
+сроднит	V,PRS,3,SG
 сродните	V,IMP,2,PL
 сродни	V,IMP,2,SG
 сроднить	V,NFIN
@@ -10068,12 +10068,12 @@
 зыкало	V,PST,SG,NEUT
 
 осев	V.CVB,PST
-осядем	V,FUT,1,PL
-осяду	V,FUT,1,SG
-осядете	V,FUT,2,PL
-осядешь	V,FUT,2,SG
-осядут	V,FUT,3,PL
-осядет	V,FUT,3,SG
+осядем	V,PRS,1,PL
+осяду	V,PRS,1,SG
+осядете	V,PRS,2,PL
+осядешь	V,PRS,2,SG
+осядут	V,PRS,3,PL
+осядет	V,PRS,3,SG
 осядьте	V,IMP,2,PL
 осядь	V,IMP,2,SG
 осесть	V,NFIN
@@ -10131,12 +10131,12 @@
 ассоциировалось	V,PST,SG,NEUT
 
 увязнув	V.CVB,PST
-увязнем	V,FUT,1,PL
-увязну	V,FUT,1,SG
-увязнете	V,FUT,2,PL
-увязнешь	V,FUT,2,SG
-увязнут	V,FUT,3,PL
-увязнет	V,FUT,3,SG
+увязнем	V,PRS,1,PL
+увязну	V,PRS,1,SG
+увязнете	V,PRS,2,PL
+увязнешь	V,PRS,2,SG
+увязнут	V,PRS,3,PL
+увязнет	V,PRS,3,SG
 увязните	V,IMP,2,PL
 увязни	V,IMP,2,SG
 увязнуть	V,NFIN
@@ -10146,12 +10146,12 @@
 увязло	V,PST,SG,NEUT
 
 ломившись	V.CVB,PST
-ломимся	V,FUT,1,PL
-ломлюсь	V,FUT,1,SG
-ломитесь	V,FUT,2,PL
-ломишься	V,FUT,2,SG
-ломятся	V,FUT,3,PL
-ломится	V,FUT,3,SG
+ломимся	V,PRS,1,PL
+ломлюсь	V,PRS,1,SG
+ломитесь	V,PRS,2,PL
+ломишься	V,PRS,2,SG
+ломятся	V,PRS,3,PL
+ломится	V,PRS,3,SG
 ломитесь	V,IMP,2,PL
 ломись	V,IMP,2,SG
 ломиться	V,NFIN
@@ -10161,12 +10161,12 @@
 ломилось	V,PST,SG,NEUT
 
 заночевав	V.CVB,PST
-заночуем	V,FUT,1,PL
-заночую	V,FUT,1,SG
-заночуете	V,FUT,2,PL
-заночуешь	V,FUT,2,SG
-заночуют	V,FUT,3,PL
-заночует	V,FUT,3,SG
+заночуем	V,PRS,1,PL
+заночую	V,PRS,1,SG
+заночуете	V,PRS,2,PL
+заночуешь	V,PRS,2,SG
+заночуют	V,PRS,3,PL
+заночует	V,PRS,3,SG
 заночуйте	V,IMP,2,PL
 заночуй	V,IMP,2,SG
 заночевать	V,NFIN
@@ -10304,12 +10304,12 @@
 сужало	V,PST,SG,NEUT
 
 сцепив	V.CVB,PST
-сцепим	V,FUT,1,PL
-сцеплю	V,FUT,1,SG
-сцепите	V,FUT,2,PL
-сцепишь	V,FUT,2,SG
-сцепят	V,FUT,3,PL
-сцепит	V,FUT,3,SG
+сцепим	V,PRS,1,PL
+сцеплю	V,PRS,1,SG
+сцепите	V,PRS,2,PL
+сцепишь	V,PRS,2,SG
+сцепят	V,PRS,3,PL
+сцепит	V,PRS,3,SG
 сцепите	V,IMP,2,PL
 сцепи	V,IMP,2,SG
 сцепить	V,NFIN
@@ -10319,12 +10319,12 @@
 сцепило	V,PST,SG,NEUT
 
 притихнув	V.CVB,PST
-притихнем	V,FUT,1,PL
-притихну	V,FUT,1,SG
-притихнете	V,FUT,2,PL
-притихнешь	V,FUT,2,SG
-притихнут	V,FUT,3,PL
-притихнет	V,FUT,3,SG
+притихнем	V,PRS,1,PL
+притихну	V,PRS,1,SG
+притихнете	V,PRS,2,PL
+притихнешь	V,PRS,2,SG
+притихнут	V,PRS,3,PL
+притихнет	V,PRS,3,SG
 притихните	V,IMP,2,PL
 притихни	V,IMP,2,SG
 притихнуть	V,NFIN
@@ -10334,12 +10334,12 @@
 притихло	V,PST,SG,NEUT
 
 прицепив	V.CVB,PST
-прицепим	V,FUT,1,PL
-прицеплю	V,FUT,1,SG
-прицепите	V,FUT,2,PL
-прицепишь	V,FUT,2,SG
-прицепят	V,FUT,3,PL
-прицепит	V,FUT,3,SG
+прицепим	V,PRS,1,PL
+прицеплю	V,PRS,1,SG
+прицепите	V,PRS,2,PL
+прицепишь	V,PRS,2,SG
+прицепят	V,PRS,3,PL
+прицепит	V,PRS,3,SG
 прицепите	V,IMP,2,PL
 прицепи	V,IMP,2,SG
 прицепить	V,NFIN
@@ -10349,12 +10349,12 @@
 прицепило	V,PST,SG,NEUT
 
 замахав	V.CVB,PST
-замашем	V,FUT,1,PL
-замашу	V,FUT,1,SG
-замашете	V,FUT,2,PL
-замашешь	V,FUT,2,SG
-замашут	V,FUT,3,PL
-замашет	V,FUT,3,SG
+замашем	V,PRS,1,PL
+замашу	V,PRS,1,SG
+замашете	V,PRS,2,PL
+замашешь	V,PRS,2,SG
+замашут	V,PRS,3,PL
+замашет	V,PRS,3,SG
 замашите	V,IMP,2,PL
 замаши	V,IMP,2,SG
 замахать	V,NFIN
@@ -10396,12 +10396,12 @@
 гоготало	V,PST,SG,NEUT
 
 пощёлкав	V.CVB,PST
-пощелкаем	V,FUT,1,PL
-пощелкаю	V,FUT,1,SG
-пощелкаете	V,FUT,2,PL
-пощелкаешь	V,FUT,2,SG
-пощелкают	V,FUT,3,PL
-пощелкает	V,FUT,3,SG
+пощелкаем	V,PRS,1,PL
+пощелкаю	V,PRS,1,SG
+пощелкаете	V,PRS,2,PL
+пощелкаешь	V,PRS,2,SG
+пощелкают	V,PRS,3,PL
+пощелкает	V,PRS,3,SG
 пощёлкайте	V,IMP,2,PL
 пощёлкай	V,IMP,2,SG
 пощёлкать	V,NFIN
@@ -10411,12 +10411,12 @@
 пощёлкало	V,PST,SG,NEUT
 
 вцепившись	V.CVB,PST
-вцепимся	V,FUT,1,PL
-вцеплюсь	V,FUT,1,SG
-вцепитесь	V,FUT,2,PL
-вцепишься	V,FUT,2,SG
-вцепятся	V,FUT,3,PL
-вцепится	V,FUT,3,SG
+вцепимся	V,PRS,1,PL
+вцеплюсь	V,PRS,1,SG
+вцепитесь	V,PRS,2,PL
+вцепишься	V,PRS,2,SG
+вцепятся	V,PRS,3,PL
+вцепится	V,PRS,3,SG
 вцепитесь	V,IMP,2,PL
 вцепись	V,IMP,2,SG
 вцепиться	V,NFIN
@@ -10506,12 +10506,12 @@
 подключалось	V,PST,SG,NEUT
 
 истерзав	V.CVB,PST
-истерзаем	V,FUT,1,PL
-истерзаю	V,FUT,1,SG
-истерзаете	V,FUT,2,PL
-истерзаешь	V,FUT,2,SG
-истерзают	V,FUT,3,PL
-истерзает	V,FUT,3,SG
+истерзаем	V,PRS,1,PL
+истерзаю	V,PRS,1,SG
+истерзаете	V,PRS,2,PL
+истерзаешь	V,PRS,2,SG
+истерзают	V,PRS,3,PL
+истерзает	V,PRS,3,SG
 истерзайте	V,IMP,2,PL
 истерзай	V,IMP,2,SG
 истерзать	V,NFIN
@@ -10537,12 +10537,12 @@
 пробиралось	V,PST,SG,NEUT
 
 напутав	V.CVB,PST
-напутаем	V,FUT,1,PL
-напутаю	V,FUT,1,SG
-напутаете	V,FUT,2,PL
-напутаешь	V,FUT,2,SG
-напутают	V,FUT,3,PL
-напутает	V,FUT,3,SG
+напутаем	V,PRS,1,PL
+напутаю	V,PRS,1,SG
+напутаете	V,PRS,2,PL
+напутаешь	V,PRS,2,SG
+напутают	V,PRS,3,PL
+напутает	V,PRS,3,SG
 напутайте	V,IMP,2,PL
 напутай	V,IMP,2,SG
 напутать	V,NFIN
@@ -10568,12 +10568,12 @@
 пробивало	V,PST,SG,NEUT
 
 опорочив	V.CVB,PST
-опорочим	V,FUT,1,PL
-опорочу	V,FUT,1,SG
-опорочите	V,FUT,2,PL
-опорочишь	V,FUT,2,SG
-опорочат	V,FUT,3,PL
-опорочит	V,FUT,3,SG
+опорочим	V,PRS,1,PL
+опорочу	V,PRS,1,SG
+опорочите	V,PRS,2,PL
+опорочишь	V,PRS,2,SG
+опорочат	V,PRS,3,PL
+опорочит	V,PRS,3,SG
 опорочьте	V,IMP,2,PL
 опорочь	V,IMP,2,SG
 опорочить	V,NFIN
@@ -10583,12 +10583,12 @@
 опорочило	V,PST,SG,NEUT
 
 задумав	V.CVB,PST
-задумаем	V,FUT,1,PL
-задумаю	V,FUT,1,SG
-задумаете	V,FUT,2,PL
-задумаешь	V,FUT,2,SG
-задумают	V,FUT,3,PL
-задумает	V,FUT,3,SG
+задумаем	V,PRS,1,PL
+задумаю	V,PRS,1,SG
+задумаете	V,PRS,2,PL
+задумаешь	V,PRS,2,SG
+задумают	V,PRS,3,PL
+задумает	V,PRS,3,SG
 задумайте	V,IMP,2,PL
 задумай	V,IMP,2,SG
 задумать	V,NFIN
@@ -10598,12 +10598,12 @@
 задумало	V,PST,SG,NEUT
 
 прикрывшись	V.CVB,PST
-прикроемся	V,FUT,1,PL
-прикроюсь	V,FUT,1,SG
-прикроетесь	V,FUT,2,PL
-прикроешься	V,FUT,2,SG
-прикроются	V,FUT,3,PL
-прикроется	V,FUT,3,SG
+прикроемся	V,PRS,1,PL
+прикроюсь	V,PRS,1,SG
+прикроетесь	V,PRS,2,PL
+прикроешься	V,PRS,2,SG
+прикроются	V,PRS,3,PL
+прикроется	V,PRS,3,SG
 прикройтесь	V,IMP,2,PL
 прикройся	V,IMP,2,SG
 прикрыться	V,NFIN
@@ -10613,12 +10613,12 @@
 прикрылось	V,PST,SG,NEUT
 
 злоупотребив	V.CVB,PST
-злоупотребим	V,FUT,1,PL
-злоупотреблю	V,FUT,1,SG
-злоупотребите	V,FUT,2,PL
-злоупотребишь	V,FUT,2,SG
-злоупотребят	V,FUT,3,PL
-злоупотребит	V,FUT,3,SG
+злоупотребим	V,PRS,1,PL
+злоупотреблю	V,PRS,1,SG
+злоупотребите	V,PRS,2,PL
+злоупотребишь	V,PRS,2,SG
+злоупотребят	V,PRS,3,PL
+злоупотребит	V,PRS,3,SG
 злоупотребите	V,IMP,2,PL
 злоупотреби	V,IMP,2,SG
 злоупотребить	V,NFIN
@@ -10628,12 +10628,12 @@
 злоупотребило	V,PST,SG,NEUT
 
 расписав	V.CVB,PST
-распишем	V,FUT,1,PL
-распишу	V,FUT,1,SG
-распишете	V,FUT,2,PL
-распишешь	V,FUT,2,SG
-распишут	V,FUT,3,PL
-распишет	V,FUT,3,SG
+распишем	V,PRS,1,PL
+распишу	V,PRS,1,SG
+распишете	V,PRS,2,PL
+распишешь	V,PRS,2,SG
+распишут	V,PRS,3,PL
+распишет	V,PRS,3,SG
 распишите	V,IMP,2,PL
 распиши	V,IMP,2,SG
 расписать	V,NFIN
@@ -10643,12 +10643,12 @@
 расписало	V,PST,SG,NEUT
 
 ожесточив	V.CVB,PST
-ожесточим	V,FUT,1,PL
-ожесточу	V,FUT,1,SG
-ожесточите	V,FUT,2,PL
-ожесточишь	V,FUT,2,SG
-ожесточат	V,FUT,3,PL
-ожесточит	V,FUT,3,SG
+ожесточим	V,PRS,1,PL
+ожесточу	V,PRS,1,SG
+ожесточите	V,PRS,2,PL
+ожесточишь	V,PRS,2,SG
+ожесточат	V,PRS,3,PL
+ожесточит	V,PRS,3,SG
 ожесточите	V,IMP,2,PL
 ожесточи	V,IMP,2,SG
 ожесточить	V,NFIN
@@ -10658,12 +10658,12 @@
 ожесточило	V,PST,SG,NEUT
 
 опухши	V.CVB,PST
-опухнем	V,FUT,1,PL
-опухну	V,FUT,1,SG
-опухнете	V,FUT,2,PL
-опухнешь	V,FUT,2,SG
-опухнут	V,FUT,3,PL
-опухнет	V,FUT,3,SG
+опухнем	V,PRS,1,PL
+опухну	V,PRS,1,SG
+опухнете	V,PRS,2,PL
+опухнешь	V,PRS,2,SG
+опухнут	V,PRS,3,PL
+опухнет	V,PRS,3,SG
 опухните	V,IMP,2,PL
 опухни	V,IMP,2,SG
 опухнуть	V,NFIN
@@ -10673,12 +10673,12 @@
 опухло	V,PST,SG,NEUT
 
 соотнеся	V.CVB,PST
-соотнесем	V,FUT,1,PL
-соотнесу	V,FUT,1,SG
-соотнесете	V,FUT,2,PL
-соотнесешь	V,FUT,2,SG
-соотнесут	V,FUT,3,PL
-соотнесет	V,FUT,3,SG
+соотнесем	V,PRS,1,PL
+соотнесу	V,PRS,1,SG
+соотнесете	V,PRS,2,PL
+соотнесешь	V,PRS,2,SG
+соотнесут	V,PRS,3,PL
+соотнесет	V,PRS,3,SG
 соотнесите	V,IMP,2,PL
 соотнеси	V,IMP,2,SG
 соотнести	V,NFIN
@@ -10688,12 +10688,12 @@
 соотнесло	V,PST,SG,NEUT
 
 стёршись	V.CVB,PST
-сотремся	V,FUT,1,PL
-сотрусь	V,FUT,1,SG
-сотретесь	V,FUT,2,PL
-сотрешься	V,FUT,2,SG
-сотрутся	V,FUT,3,PL
-сотрется	V,FUT,3,SG
+сотремся	V,PRS,1,PL
+сотрусь	V,PRS,1,SG
+сотретесь	V,PRS,2,PL
+сотрешься	V,PRS,2,SG
+сотрутся	V,PRS,3,PL
+сотрется	V,PRS,3,SG
 сотритесь	V,IMP,2,PL
 сотрись	V,IMP,2,SG
 стереться	V,NFIN
@@ -10719,12 +10719,12 @@
 вздымалось	V,PST,SG,NEUT
 
 вложившись	V.CVB,PST
-вложимся	V,FUT,1,PL
-вложусь	V,FUT,1,SG
-вложитесь	V,FUT,2,PL
-вложишься	V,FUT,2,SG
-вложатся	V,FUT,3,PL
-вложится	V,FUT,3,SG
+вложимся	V,PRS,1,PL
+вложусь	V,PRS,1,SG
+вложитесь	V,PRS,2,PL
+вложишься	V,PRS,2,SG
+вложатся	V,PRS,3,PL
+вложится	V,PRS,3,SG
 вложитесь	V,IMP,2,PL
 вложись	V,IMP,2,SG
 вложиться	V,NFIN
@@ -10734,12 +10734,12 @@
 вложилось	V,PST,SG,NEUT
 
 исписав	V.CVB,PST
-испишем	V,FUT,1,PL
-испишу	V,FUT,1,SG
-испишете	V,FUT,2,PL
-испишешь	V,FUT,2,SG
-испишут	V,FUT,3,PL
-испишет	V,FUT,3,SG
+испишем	V,PRS,1,PL
+испишу	V,PRS,1,SG
+испишете	V,PRS,2,PL
+испишешь	V,PRS,2,SG
+испишут	V,PRS,3,PL
+испишет	V,PRS,3,SG
 испишите	V,IMP,2,PL
 испиши	V,IMP,2,SG
 исписать	V,NFIN
@@ -10845,12 +10845,12 @@
 трясло	V,PST,SG,NEUT
 
 набредя	V.CVB,PST
-набредем	V,FUT,1,PL
-набреду	V,FUT,1,SG
-набредете	V,FUT,2,PL
-набредешь	V,FUT,2,SG
-набредут	V,FUT,3,PL
-набредет	V,FUT,3,SG
+набредем	V,PRS,1,PL
+набреду	V,PRS,1,SG
+набредете	V,PRS,2,PL
+набредешь	V,PRS,2,SG
+набредут	V,PRS,3,PL
+набредет	V,PRS,3,SG
 набредите	V,IMP,2,PL
 набреди	V,IMP,2,SG
 набрести	V,NFIN
@@ -10924,12 +10924,12 @@
 отбрасывало	V,PST,SG,NEUT
 
 охуев	V.CVB,PST
-охуеем	V,FUT,1,PL
-охуею	V,FUT,1,SG
-охуеете	V,FUT,2,PL
-охуеешь	V,FUT,2,SG
-охуеют	V,FUT,3,PL
-охуеет	V,FUT,3,SG
+охуеем	V,PRS,1,PL
+охуею	V,PRS,1,SG
+охуеете	V,PRS,2,PL
+охуеешь	V,PRS,2,SG
+охуеют	V,PRS,3,PL
+охуеет	V,PRS,3,SG
 охуейте	V,IMP,2,PL
 охуей	V,IMP,2,SG
 охуеть	V,NFIN
@@ -10955,12 +10955,12 @@
 прицеливалось	V,PST,SG,NEUT
 
 кинувшись	V.CVB,PST
-кинемся	V,FUT,1,PL
-кинусь	V,FUT,1,SG
-кинетесь	V,FUT,2,PL
-кинешься	V,FUT,2,SG
-кинутся	V,FUT,3,PL
-кинется	V,FUT,3,SG
+кинемся	V,PRS,1,PL
+кинусь	V,PRS,1,SG
+кинетесь	V,PRS,2,PL
+кинешься	V,PRS,2,SG
+кинутся	V,PRS,3,PL
+кинется	V,PRS,3,SG
 киньтесь	V,IMP,2,PL
 кинься	V,IMP,2,SG
 кинуться	V,NFIN
@@ -10970,12 +10970,12 @@
 кинулось	V,PST,SG,NEUT
 
 наглядевшись	V.CVB,PST
-наглядимся	V,FUT,1,PL
-нагляжусь	V,FUT,1,SG
-наглядитесь	V,FUT,2,PL
-наглядишься	V,FUT,2,SG
-наглядятся	V,FUT,3,PL
-наглядится	V,FUT,3,SG
+наглядимся	V,PRS,1,PL
+нагляжусь	V,PRS,1,SG
+наглядитесь	V,PRS,2,PL
+наглядишься	V,PRS,2,SG
+наглядятся	V,PRS,3,PL
+наглядится	V,PRS,3,SG
 наглядитесь	V,IMP,2,PL
 наглядись	V,IMP,2,SG
 наглядеться	V,NFIN
@@ -10985,12 +10985,12 @@
 нагляделось	V,PST,SG,NEUT
 
 рассердив	V.CVB,PST
-рассердим	V,FUT,1,PL
-рассержу	V,FUT,1,SG
-рассердите	V,FUT,2,PL
-рассердишь	V,FUT,2,SG
-рассердят	V,FUT,3,PL
-рассердит	V,FUT,3,SG
+рассердим	V,PRS,1,PL
+рассержу	V,PRS,1,SG
+рассердите	V,PRS,2,PL
+рассердишь	V,PRS,2,SG
+рассердят	V,PRS,3,PL
+рассердит	V,PRS,3,SG
 рассердите	V,IMP,2,PL
 рассерди	V,IMP,2,SG
 рассердить	V,NFIN
@@ -11000,12 +11000,12 @@
 рассердило	V,PST,SG,NEUT
 
 перезнакомив	V.CVB,PST
-перезнакомим	V,FUT,1,PL
-перезнакомлю	V,FUT,1,SG
-перезнакомите	V,FUT,2,PL
-перезнакомишь	V,FUT,2,SG
-перезнакомят	V,FUT,3,PL
-перезнакомит	V,FUT,3,SG
+перезнакомим	V,PRS,1,PL
+перезнакомлю	V,PRS,1,SG
+перезнакомите	V,PRS,2,PL
+перезнакомишь	V,PRS,2,SG
+перезнакомят	V,PRS,3,PL
+перезнакомит	V,PRS,3,SG
 перезнакомьте	V,IMP,2,PL
 перезнакомь	V,IMP,2,SG
 перезнакомить	V,NFIN
@@ -11207,12 +11207,12 @@
 грубило	V,PST,SG,NEUT
 
 поскрёбши	V.CVB,PST
-поскребем	V,FUT,1,PL
-поскребу	V,FUT,1,SG
-поскребете	V,FUT,2,PL
-поскребешь	V,FUT,2,SG
-поскребут	V,FUT,3,PL
-поскребет	V,FUT,3,SG
+поскребем	V,PRS,1,PL
+поскребу	V,PRS,1,SG
+поскребете	V,PRS,2,PL
+поскребешь	V,PRS,2,SG
+поскребут	V,PRS,3,PL
+поскребет	V,PRS,3,SG
 поскребите	V,IMP,2,PL
 поскреби	V,IMP,2,SG
 поскрести	V,NFIN
@@ -11238,12 +11238,12 @@
 преобразовывало	V,PST,SG,NEUT
 
 оформившись	V.CVB,PST
-оформимся	V,FUT,1,PL
-оформлюсь	V,FUT,1,SG
-оформитесь	V,FUT,2,PL
-оформишься	V,FUT,2,SG
-оформятся	V,FUT,3,PL
-оформится	V,FUT,3,SG
+оформимся	V,PRS,1,PL
+оформлюсь	V,PRS,1,SG
+оформитесь	V,PRS,2,PL
+оформишься	V,PRS,2,SG
+оформятся	V,PRS,3,PL
+оформится	V,PRS,3,SG
 оформитесь	V,IMP,2,PL
 оформись	V,IMP,2,SG
 оформиться	V,NFIN
@@ -11253,12 +11253,12 @@
 оформилось	V,PST,SG,NEUT
 
 выловив	V.CVB,PST
-выловим	V,FUT,1,PL
-выловлю	V,FUT,1,SG
-выловите	V,FUT,2,PL
-выловишь	V,FUT,2,SG
-выловят	V,FUT,3,PL
-выловит	V,FUT,3,SG
+выловим	V,PRS,1,PL
+выловлю	V,PRS,1,SG
+выловите	V,PRS,2,PL
+выловишь	V,PRS,2,SG
+выловят	V,PRS,3,PL
+выловит	V,PRS,3,SG
 выловите	V,IMP,2,PL
 вылови	V,IMP,2,SG
 выловить	V,NFIN
@@ -11300,12 +11300,12 @@
 выпрямляло	V,PST,SG,NEUT
 
 отмахав	V.CVB,PST
-отмашем	V,FUT,1,PL
-отмашу	V,FUT,1,SG
-отмашете	V,FUT,2,PL
-отмашешь	V,FUT,2,SG
-отмахают	V,FUT,3,PL
-отмашет	V,FUT,3,SG
+отмашем	V,PRS,1,PL
+отмашу	V,PRS,1,SG
+отмашете	V,PRS,2,PL
+отмашешь	V,PRS,2,SG
+отмахают	V,PRS,3,PL
+отмашет	V,PRS,3,SG
 отмахайте	V,IMP,2,PL
 отмаши	V,IMP,2,SG
 отмахать	V,NFIN
@@ -11347,12 +11347,12 @@
 деформировало	V,PST,SG,NEUT
 
 подкупив	V.CVB,PST
-подкупим	V,FUT,1,PL
-подкуплю	V,FUT,1,SG
-подкупите	V,FUT,2,PL
-подкупишь	V,FUT,2,SG
-подкупят	V,FUT,3,PL
-подкупит	V,FUT,3,SG
+подкупим	V,PRS,1,PL
+подкуплю	V,PRS,1,SG
+подкупите	V,PRS,2,PL
+подкупишь	V,PRS,2,SG
+подкупят	V,PRS,3,PL
+подкупит	V,PRS,3,SG
 подкупите	V,IMP,2,PL
 подкупи	V,IMP,2,SG
 подкупить	V,NFIN
@@ -11362,12 +11362,12 @@
 подкупило	V,PST,SG,NEUT
 
 накрывшись	V.CVB,PST
-накроемся	V,FUT,1,PL
-накроюсь	V,FUT,1,SG
-накроетесь	V,FUT,2,PL
-накроешься	V,FUT,2,SG
-накроются	V,FUT,3,PL
-накроется	V,FUT,3,SG
+накроемся	V,PRS,1,PL
+накроюсь	V,PRS,1,SG
+накроетесь	V,PRS,2,PL
+накроешься	V,PRS,2,SG
+накроются	V,PRS,3,PL
+накроется	V,PRS,3,SG
 накройтесь	V,IMP,2,PL
 накройся	V,IMP,2,SG
 накрыться	V,NFIN
@@ -11377,12 +11377,12 @@
 накрылось	V,PST,SG,NEUT
 
 окровавив	V.CVB,PST
-окровавим	V,FUT,1,PL
-окровавлю	V,FUT,1,SG
-окровавите	V,FUT,2,PL
-окровавишь	V,FUT,2,SG
-окровавят	V,FUT,3,PL
-окровавит	V,FUT,3,SG
+окровавим	V,PRS,1,PL
+окровавлю	V,PRS,1,SG
+окровавите	V,PRS,2,PL
+окровавишь	V,PRS,2,SG
+окровавят	V,PRS,3,PL
+окровавит	V,PRS,3,SG
 окровавьте	V,IMP,2,PL
 окровавь	V,IMP,2,SG
 окровавить	V,NFIN
@@ -11392,12 +11392,12 @@
 окровавило	V,PST,SG,NEUT
 
 добывшись	V.CVB,PST
-добудемся	V,FUT,1,PL
-добудусь	V,FUT,1,SG
-добудетесь	V,FUT,2,PL
-добудешься	V,FUT,2,SG
-добудутся	V,FUT,3,PL
-добудется	V,FUT,3,SG
+добудемся	V,PRS,1,PL
+добудусь	V,PRS,1,SG
+добудетесь	V,PRS,2,PL
+добудешься	V,PRS,2,SG
+добудутся	V,PRS,3,PL
+добудется	V,PRS,3,SG
 добудьтесь	V,IMP,2,PL
 добудься	V,IMP,2,SG
 добыться	V,NFIN
@@ -11455,12 +11455,12 @@
 свешивалось	V,PST,SG,NEUT
 
 пролежав	V.CVB,PST
-пролежим	V,FUT,1,PL
-пролежу	V,FUT,1,SG
-пролежите	V,FUT,2,PL
-пролежишь	V,FUT,2,SG
-пролежат	V,FUT,3,PL
-пролежит	V,FUT,3,SG
+пролежим	V,PRS,1,PL
+пролежу	V,PRS,1,SG
+пролежите	V,PRS,2,PL
+пролежишь	V,PRS,2,SG
+пролежат	V,PRS,3,PL
+пролежит	V,PRS,3,SG
 пролежите	V,IMP,2,PL
 пролежи	V,IMP,2,SG
 пролежать	V,NFIN
@@ -11470,12 +11470,12 @@
 пролежало	V,PST,SG,NEUT
 
 мигнув	V.CVB,PST
-мигнем	V,FUT,1,PL
-мигну	V,FUT,1,SG
-мигнете	V,FUT,2,PL
-мигнешь	V,FUT,2,SG
-мигнут	V,FUT,3,PL
-мигнет	V,FUT,3,SG
+мигнем	V,PRS,1,PL
+мигну	V,PRS,1,SG
+мигнете	V,PRS,2,PL
+мигнешь	V,PRS,2,SG
+мигнут	V,PRS,3,PL
+мигнет	V,PRS,3,SG
 мигните	V,IMP,2,PL
 мигни	V,IMP,2,SG
 мигнуть	V,NFIN
@@ -11485,12 +11485,12 @@
 мигнуло	V,PST,SG,NEUT
 
 буркнув	V.CVB,PST
-буркнем	V,FUT,1,PL
-буркну	V,FUT,1,SG
-буркнете	V,FUT,2,PL
-буркнешь	V,FUT,2,SG
-буркнут	V,FUT,3,PL
-буркнет	V,FUT,3,SG
+буркнем	V,PRS,1,PL
+буркну	V,PRS,1,SG
+буркнете	V,PRS,2,PL
+буркнешь	V,PRS,2,SG
+буркнут	V,PRS,3,PL
+буркнет	V,PRS,3,SG
 буркните	V,IMP,2,PL
 буркни	V,IMP,2,SG
 буркнуть	V,NFIN
@@ -11500,12 +11500,12 @@
 буркнуло	V,PST,SG,NEUT
 
 подстригши	V.CVB,PST
-подстрижем	V,FUT,1,PL
-подстригу	V,FUT,1,SG
-подстрижете	V,FUT,2,PL
-подстрижешь	V,FUT,2,SG
-подстригут	V,FUT,3,PL
-подстрижет	V,FUT,3,SG
+подстрижем	V,PRS,1,PL
+подстригу	V,PRS,1,SG
+подстрижете	V,PRS,2,PL
+подстрижешь	V,PRS,2,SG
+подстригут	V,PRS,3,PL
+подстрижет	V,PRS,3,SG
 подстригите	V,IMP,2,PL
 подстриги	V,IMP,2,SG
 подстричь	V,NFIN
@@ -11515,12 +11515,12 @@
 подстригло	V,PST,SG,NEUT
 
 хмыкнув	V.CVB,PST
-хмыкнем	V,FUT,1,PL
-хмыкну	V,FUT,1,SG
-хмыкнете	V,FUT,2,PL
-хмыкнешь	V,FUT,2,SG
-хмыкнут	V,FUT,3,PL
-хмыкнет	V,FUT,3,SG
+хмыкнем	V,PRS,1,PL
+хмыкну	V,PRS,1,SG
+хмыкнете	V,PRS,2,PL
+хмыкнешь	V,PRS,2,SG
+хмыкнут	V,PRS,3,PL
+хмыкнет	V,PRS,3,SG
 хмыкните	V,IMP,2,PL
 хмыкни	V,IMP,2,SG
 хмыкнуть	V,NFIN
@@ -11562,12 +11562,12 @@
 перекрещивалось	V,PST,SG,NEUT
 
 подвернувшись	V.CVB,PST
-подвернемся	V,FUT,1,PL
-подвернусь	V,FUT,1,SG
-подвернетесь	V,FUT,2,PL
-подвернешься	V,FUT,2,SG
-подвернутся	V,FUT,3,PL
-подвернется	V,FUT,3,SG
+подвернемся	V,PRS,1,PL
+подвернусь	V,PRS,1,SG
+подвернетесь	V,PRS,2,PL
+подвернешься	V,PRS,2,SG
+подвернутся	V,PRS,3,PL
+подвернется	V,PRS,3,SG
 подвернитесь	V,IMP,2,PL
 подвернись	V,IMP,2,SG
 подвернуться	V,NFIN
@@ -11593,12 +11593,12 @@
 впечатляло	V,PST,SG,NEUT
 
 обстроившись	V.CVB,PST
-обстроимся	V,FUT,1,PL
-обстроюсь	V,FUT,1,SG
-обстроитесь	V,FUT,2,PL
-обстроишься	V,FUT,2,SG
-обстроятся	V,FUT,3,PL
-обстроится	V,FUT,3,SG
+обстроимся	V,PRS,1,PL
+обстроюсь	V,PRS,1,SG
+обстроитесь	V,PRS,2,PL
+обстроишься	V,PRS,2,SG
+обстроятся	V,PRS,3,PL
+обстроится	V,PRS,3,SG
 обстройтесь	V,IMP,2,PL
 обстройся	V,IMP,2,SG
 обстроиться	V,NFIN
@@ -11608,12 +11608,12 @@
 обстроилось	V,PST,SG,NEUT
 
 умножив	V.CVB,PST
-умножим	V,FUT,1,PL
-умножу	V,FUT,1,SG
-умножите	V,FUT,2,PL
-умножишь	V,FUT,2,SG
-умножат	V,FUT,3,PL
-умножит	V,FUT,3,SG
+умножим	V,PRS,1,PL
+умножу	V,PRS,1,SG
+умножите	V,PRS,2,PL
+умножишь	V,PRS,2,SG
+умножат	V,PRS,3,PL
+умножит	V,PRS,3,SG
 умножьте	V,IMP,2,PL
 умножь	V,IMP,2,SG
 умножить	V,NFIN
@@ -11655,12 +11655,12 @@
 затормаживало	V,PST,SG,NEUT
 
 застрелив	V.CVB,PST
-застрелим	V,FUT,1,PL
-застрелю	V,FUT,1,SG
-застрелите	V,FUT,2,PL
-застрелишь	V,FUT,2,SG
-застрелят	V,FUT,3,PL
-застрелит	V,FUT,3,SG
+застрелим	V,PRS,1,PL
+застрелю	V,PRS,1,SG
+застрелите	V,PRS,2,PL
+застрелишь	V,PRS,2,SG
+застрелят	V,PRS,3,PL
+застрелит	V,PRS,3,SG
 застрелите	V,IMP,2,PL
 застрели	V,IMP,2,SG
 застрелить	V,NFIN
@@ -11686,12 +11686,12 @@
 дымило	V,PST,SG,NEUT
 
 доверившись	V.CVB,PST
-доверимся	V,FUT,1,PL
-доверюсь	V,FUT,1,SG
-доверитесь	V,FUT,2,PL
-доверишься	V,FUT,2,SG
-доверятся	V,FUT,3,PL
-доверится	V,FUT,3,SG
+доверимся	V,PRS,1,PL
+доверюсь	V,PRS,1,SG
+доверитесь	V,PRS,2,PL
+доверишься	V,PRS,2,SG
+доверятся	V,PRS,3,PL
+доверится	V,PRS,3,SG
 доверьтесь	V,IMP,2,PL
 доверься	V,IMP,2,SG
 довериться	V,NFIN
@@ -11717,12 +11717,12 @@
 просчитывало	V,PST,SG,NEUT
 
 фыркнув	V.CVB,PST
-фыркнем	V,FUT,1,PL
-фыркну	V,FUT,1,SG
-фыркнете	V,FUT,2,PL
-фыркнешь	V,FUT,2,SG
-фыркнут	V,FUT,3,PL
-фыркнет	V,FUT,3,SG
+фыркнем	V,PRS,1,PL
+фыркну	V,PRS,1,SG
+фыркнете	V,PRS,2,PL
+фыркнешь	V,PRS,2,SG
+фыркнут	V,PRS,3,PL
+фыркнет	V,PRS,3,SG
 фыркните	V,IMP,2,PL
 фыркни	V,IMP,2,SG
 фыркнуть	V,NFIN
@@ -11796,12 +11796,12 @@
 иллюстрировало	V,PST,SG,NEUT
 
 завербовав	V.CVB,PST
-завербуем	V,FUT,1,PL
-завербую	V,FUT,1,SG
-завербуете	V,FUT,2,PL
-завербуешь	V,FUT,2,SG
-завербуют	V,FUT,3,PL
-завербует	V,FUT,3,SG
+завербуем	V,PRS,1,PL
+завербую	V,PRS,1,SG
+завербуете	V,PRS,2,PL
+завербуешь	V,PRS,2,SG
+завербуют	V,PRS,3,PL
+завербует	V,PRS,3,SG
 завербуйте	V,IMP,2,PL
 завербуй	V,IMP,2,SG
 завербовать	V,NFIN
@@ -11811,12 +11811,12 @@
 завербовало	V,PST,SG,NEUT
 
 вдавшись	V.CVB,PST
-вдадимся	V,FUT,1,PL
-вдамся	V,FUT,1,SG
-вдадитесь	V,FUT,2,PL
-вдашься	V,FUT,2,SG
-вдадутся	V,FUT,3,PL
-вдастся	V,FUT,3,SG
+вдадимся	V,PRS,1,PL
+вдамся	V,PRS,1,SG
+вдадитесь	V,PRS,2,PL
+вдашься	V,PRS,2,SG
+вдадутся	V,PRS,3,PL
+вдастся	V,PRS,3,SG
 вдайтесь	V,IMP,2,PL
 вдайся	V,IMP,2,SG
 вдаться	V,NFIN
@@ -11826,12 +11826,12 @@
 вдалось	V,PST,SG,NEUT
 
 пододвинув	V.CVB,PST
-пододвинем	V,FUT,1,PL
-пододвину	V,FUT,1,SG
-пододвинете	V,FUT,2,PL
-пододвинешь	V,FUT,2,SG
-пододвинут	V,FUT,3,PL
-пододвинет	V,FUT,3,SG
+пододвинем	V,PRS,1,PL
+пододвину	V,PRS,1,SG
+пододвинете	V,PRS,2,PL
+пододвинешь	V,PRS,2,SG
+пододвинут	V,PRS,3,PL
+пододвинет	V,PRS,3,SG
 пододвиньте	V,IMP,2,PL
 пододвинь	V,IMP,2,SG
 пододвинуть	V,NFIN
@@ -11841,12 +11841,12 @@
 пододвинуло	V,PST,SG,NEUT
 
 изложившись	V.CVB,PST
-изложимся	V,FUT,1,PL
-изложусь	V,FUT,1,SG
-изложитесь	V,FUT,2,PL
-изложишься	V,FUT,2,SG
-изложатся	V,FUT,3,PL
-изложится	V,FUT,3,SG
+изложимся	V,PRS,1,PL
+изложусь	V,PRS,1,SG
+изложитесь	V,PRS,2,PL
+изложишься	V,PRS,2,SG
+изложатся	V,PRS,3,PL
+изложится	V,PRS,3,SG
 изложитесь	V,IMP,2,PL
 изложись	V,IMP,2,SG
 изложиться	V,NFIN
@@ -11856,12 +11856,12 @@
 изложилось	V,PST,SG,NEUT
 
 скушав	V.CVB,PST
-скушаем	V,FUT,1,PL
-скушаю	V,FUT,1,SG
-скушаете	V,FUT,2,PL
-скушаешь	V,FUT,2,SG
-скушают	V,FUT,3,PL
-скушает	V,FUT,3,SG
+скушаем	V,PRS,1,PL
+скушаю	V,PRS,1,SG
+скушаете	V,PRS,2,PL
+скушаешь	V,PRS,2,SG
+скушают	V,PRS,3,PL
+скушает	V,PRS,3,SG
 скушайте	V,IMP,2,PL
 скушай	V,IMP,2,SG
 скушать	V,NFIN
@@ -11871,12 +11871,12 @@
 скушало	V,PST,SG,NEUT
 
 испещрив	V.CVB,PST
-испещрим	V,FUT,1,PL
-испещрю	V,FUT,1,SG
-испещрите	V,FUT,2,PL
-испещришь	V,FUT,2,SG
-испещрят	V,FUT,3,PL
-испещрит	V,FUT,3,SG
+испещрим	V,PRS,1,PL
+испещрю	V,PRS,1,SG
+испещрите	V,PRS,2,PL
+испещришь	V,PRS,2,SG
+испещрят	V,PRS,3,PL
+испещрит	V,PRS,3,SG
 испещрите	V,IMP,2,PL
 испещри	V,IMP,2,SG
 испещрить	V,NFIN
@@ -11886,12 +11886,12 @@
 испещрило	V,PST,SG,NEUT
 
 пихнув	V.CVB,PST
-пихнем	V,FUT,1,PL
-пихну	V,FUT,1,SG
-пихнете	V,FUT,2,PL
-пихнешь	V,FUT,2,SG
-пихнут	V,FUT,3,PL
-пихнет	V,FUT,3,SG
+пихнем	V,PRS,1,PL
+пихну	V,PRS,1,SG
+пихнете	V,PRS,2,PL
+пихнешь	V,PRS,2,SG
+пихнут	V,PRS,3,PL
+пихнет	V,PRS,3,SG
 пихните	V,IMP,2,PL
 пихни	V,IMP,2,SG
 пихнуть	V,NFIN
@@ -11901,12 +11901,12 @@
 пихнуло	V,PST,SG,NEUT
 
 швырнув	V.CVB,PST
-швырнем	V,FUT,1,PL
-швырну	V,FUT,1,SG
-швырнете	V,FUT,2,PL
-швырнешь	V,FUT,2,SG
-швырнут	V,FUT,3,PL
-швырнет	V,FUT,3,SG
+швырнем	V,PRS,1,PL
+швырну	V,PRS,1,SG
+швырнете	V,PRS,2,PL
+швырнешь	V,PRS,2,SG
+швырнут	V,PRS,3,PL
+швырнет	V,PRS,3,SG
 швырните	V,IMP,2,PL
 швырни	V,IMP,2,SG
 швырнуть	V,NFIN
@@ -11916,12 +11916,12 @@
 швырнуло	V,PST,SG,NEUT
 
 ощупав	V.CVB,PST
-ощупаем	V,FUT,1,PL
-ощупаю	V,FUT,1,SG
-ощупаете	V,FUT,2,PL
-ощупаешь	V,FUT,2,SG
-ощупают	V,FUT,3,PL
-ощупает	V,FUT,3,SG
+ощупаем	V,PRS,1,PL
+ощупаю	V,PRS,1,SG
+ощупаете	V,PRS,2,PL
+ощупаешь	V,PRS,2,SG
+ощупают	V,PRS,3,PL
+ощупает	V,PRS,3,SG
 ощупайте	V,IMP,2,PL
 ощупай	V,IMP,2,SG
 ощупать	V,NFIN
@@ -11931,12 +11931,12 @@
 ощупало	V,PST,SG,NEUT
 
 устарев	V.CVB,PST
-устареем	V,FUT,1,PL
-устарею	V,FUT,1,SG
-устареете	V,FUT,2,PL
-устареешь	V,FUT,2,SG
-устареют	V,FUT,3,PL
-устареет	V,FUT,3,SG
+устареем	V,PRS,1,PL
+устарею	V,PRS,1,SG
+устареете	V,PRS,2,PL
+устареешь	V,PRS,2,SG
+устареют	V,PRS,3,PL
+устареет	V,PRS,3,SG
 устарейте	V,IMP,2,PL
 устарей	V,IMP,2,SG
 устареть	V,NFIN
@@ -11994,12 +11994,12 @@
 крепилось	V,PST,SG,NEUT
 
 похваставшись	V.CVB,PST
-похвастаемся	V,FUT,1,PL
-похвастаюсь	V,FUT,1,SG
-похвастаетесь	V,FUT,2,PL
-похвастаешься	V,FUT,2,SG
-похвастаются	V,FUT,3,PL
-похвастается	V,FUT,3,SG
+похвастаемся	V,PRS,1,PL
+похвастаюсь	V,PRS,1,SG
+похвастаетесь	V,PRS,2,PL
+похвастаешься	V,PRS,2,SG
+похвастаются	V,PRS,3,PL
+похвастается	V,PRS,3,SG
 похвастайтесь	V,IMP,2,PL
 похвастайся	V,IMP,2,SG
 похвастаться	V,NFIN
@@ -12009,12 +12009,12 @@
 похвасталось	V,PST,SG,NEUT
 
 привалившись	V.CVB,PST
-привалимся	V,FUT,1,PL
-привалюсь	V,FUT,1,SG
-привалитесь	V,FUT,2,PL
-привалишься	V,FUT,2,SG
-привалятся	V,FUT,3,PL
-привалится	V,FUT,3,SG
+привалимся	V,PRS,1,PL
+привалюсь	V,PRS,1,SG
+привалитесь	V,PRS,2,PL
+привалишься	V,PRS,2,SG
+привалятся	V,PRS,3,PL
+привалится	V,PRS,3,SG
 привалитесь	V,IMP,2,PL
 привались	V,IMP,2,SG
 привалиться	V,NFIN
@@ -12040,12 +12040,12 @@
 лепетало	V,PST,SG,NEUT
 
 понаблюдав	V.CVB,PST
-понаблюдаем	V,FUT,1,PL
-понаблюдаю	V,FUT,1,SG
-понаблюдаете	V,FUT,2,PL
-понаблюдаешь	V,FUT,2,SG
-понаблюдают	V,FUT,3,PL
-понаблюдает	V,FUT,3,SG
+понаблюдаем	V,PRS,1,PL
+понаблюдаю	V,PRS,1,SG
+понаблюдаете	V,PRS,2,PL
+понаблюдаешь	V,PRS,2,SG
+понаблюдают	V,PRS,3,PL
+понаблюдает	V,PRS,3,SG
 понаблюдайте	V,IMP,2,PL
 понаблюдай	V,IMP,2,SG
 понаблюдать	V,NFIN
@@ -12055,12 +12055,12 @@
 понаблюдало	V,PST,SG,NEUT
 
 выбрив	V.CVB,PST
-выбреем	V,FUT,1,PL
-выбрею	V,FUT,1,SG
-выбреете	V,FUT,2,PL
-выбреешь	V,FUT,2,SG
-выбреют	V,FUT,3,PL
-выбреет	V,FUT,3,SG
+выбреем	V,PRS,1,PL
+выбрею	V,PRS,1,SG
+выбреете	V,PRS,2,PL
+выбреешь	V,PRS,2,SG
+выбреют	V,PRS,3,PL
+выбреет	V,PRS,3,SG
 выбрейте	V,IMP,2,PL
 выбрей	V,IMP,2,SG
 выбрить	V,NFIN
@@ -12070,12 +12070,12 @@
 выбрило	V,PST,SG,NEUT
 
 угодив	V.CVB,PST
-угодим	V,FUT,1,PL
-угожу	V,FUT,1,SG
-угодите	V,FUT,2,PL
-угодишь	V,FUT,2,SG
-угодят	V,FUT,3,PL
-угодит	V,FUT,3,SG
+угодим	V,PRS,1,PL
+угожу	V,PRS,1,SG
+угодите	V,PRS,2,PL
+угодишь	V,PRS,2,SG
+угодят	V,PRS,3,PL
+угодит	V,PRS,3,SG
 угодите	V,IMP,2,PL
 угоди	V,IMP,2,SG
 угодить	V,NFIN
@@ -12085,12 +12085,12 @@
 угодило	V,PST,SG,NEUT
 
 высчитав	V.CVB,PST
-высчитаем	V,FUT,1,PL
-высчитаю	V,FUT,1,SG
-высчитаете	V,FUT,2,PL
-высчитаешь	V,FUT,2,SG
-высчитают	V,FUT,3,PL
-высчитает	V,FUT,3,SG
+высчитаем	V,PRS,1,PL
+высчитаю	V,PRS,1,SG
+высчитаете	V,PRS,2,PL
+высчитаешь	V,PRS,2,SG
+высчитают	V,PRS,3,PL
+высчитает	V,PRS,3,SG
 высчитайте	V,IMP,2,PL
 высчитай	V,IMP,2,SG
 высчитать	V,NFIN
@@ -12132,12 +12132,12 @@
 стеблось	V,PST,SG,NEUT
 
 воззрившись	V.CVB,PST
-воззримся	V,FUT,1,PL
-воззрюсь	V,FUT,1,SG
-воззритесь	V,FUT,2,PL
-воззришься	V,FUT,2,SG
-воззрятся	V,FUT,3,PL
-воззрится	V,FUT,3,SG
+воззримся	V,PRS,1,PL
+воззрюсь	V,PRS,1,SG
+воззритесь	V,PRS,2,PL
+воззришься	V,PRS,2,SG
+воззрятся	V,PRS,3,PL
+воззрится	V,PRS,3,SG
 воззритесь	V,IMP,2,PL
 воззрись	V,IMP,2,SG
 воззриться	V,NFIN
@@ -12147,12 +12147,12 @@
 воззрилось	V,PST,SG,NEUT
 
 сконфузившись	V.CVB,PST
-сконфузимся	V,FUT,1,PL
-сконфужусь	V,FUT,1,SG
-сконфузитесь	V,FUT,2,PL
-сконфузишься	V,FUT,2,SG
-сконфузятся	V,FUT,3,PL
-сконфузится	V,FUT,3,SG
+сконфузимся	V,PRS,1,PL
+сконфужусь	V,PRS,1,SG
+сконфузитесь	V,PRS,2,PL
+сконфузишься	V,PRS,2,SG
+сконфузятся	V,PRS,3,PL
+сконфузится	V,PRS,3,SG
 сконфузьтесь	V,IMP,2,PL
 сконфузься	V,IMP,2,SG
 сконфузиться	V,NFIN
@@ -12178,12 +12178,12 @@
 стонало	V,PST,SG,NEUT
 
 уместившись	V.CVB,PST
-уместимся	V,FUT,1,PL
-умещусь	V,FUT,1,SG
-уместитесь	V,FUT,2,PL
-уместишься	V,FUT,2,SG
-уместятся	V,FUT,3,PL
-уместится	V,FUT,3,SG
+уместимся	V,PRS,1,PL
+умещусь	V,PRS,1,SG
+уместитесь	V,PRS,2,PL
+уместишься	V,PRS,2,SG
+уместятся	V,PRS,3,PL
+уместится	V,PRS,3,SG
 уместитесь	V,IMP,2,PL
 уместись	V,IMP,2,SG
 уместиться	V,NFIN
@@ -12193,12 +12193,12 @@
 уместилось	V,PST,SG,NEUT
 
 споткнувшись	V.CVB,PST
-споткнемся	V,FUT,1,PL
-споткнусь	V,FUT,1,SG
-споткнетесь	V,FUT,2,PL
-споткнешься	V,FUT,2,SG
-споткнутся	V,FUT,3,PL
-споткнется	V,FUT,3,SG
+споткнемся	V,PRS,1,PL
+споткнусь	V,PRS,1,SG
+споткнетесь	V,PRS,2,PL
+споткнешься	V,PRS,2,SG
+споткнутся	V,PRS,3,PL
+споткнется	V,PRS,3,SG
 споткнитесь	V,IMP,2,PL
 споткнись	V,IMP,2,SG
 споткнуться	V,NFIN
@@ -12256,12 +12256,12 @@
 оживляло	V,PST,SG,NEUT
 
 отшатнувшись	V.CVB,PST
-отшатнемся	V,FUT,1,PL
-отшатнусь	V,FUT,1,SG
-отшатнетесь	V,FUT,2,PL
-отшатнешься	V,FUT,2,SG
-отшатнутся	V,FUT,3,PL
-отшатнется	V,FUT,3,SG
+отшатнемся	V,PRS,1,PL
+отшатнусь	V,PRS,1,SG
+отшатнетесь	V,PRS,2,PL
+отшатнешься	V,PRS,2,SG
+отшатнутся	V,PRS,3,PL
+отшатнется	V,PRS,3,SG
 отшатнитесь	V,IMP,2,PL
 отшатнись	V,IMP,2,SG
 отшатнуться	V,NFIN
@@ -12287,12 +12287,12 @@
 договаривало	V,PST,SG,NEUT
 
 переодев	V.CVB,PST
-переоденем	V,FUT,1,PL
-переодену	V,FUT,1,SG
-переоденете	V,FUT,2,PL
-переоденешь	V,FUT,2,SG
-переоденут	V,FUT,3,PL
-переоденет	V,FUT,3,SG
+переоденем	V,PRS,1,PL
+переодену	V,PRS,1,SG
+переоденете	V,PRS,2,PL
+переоденешь	V,PRS,2,SG
+переоденут	V,PRS,3,PL
+переоденет	V,PRS,3,SG
 переоденьте	V,IMP,2,PL
 переодень	V,IMP,2,SG
 переодеть	V,NFIN
@@ -12302,12 +12302,12 @@
 переодело	V,PST,SG,NEUT
 
 потребовавшись	V.CVB,PST
-потребуемся	V,FUT,1,PL
-потребуюсь	V,FUT,1,SG
-потребуетесь	V,FUT,2,PL
-потребуешься	V,FUT,2,SG
-потребуются	V,FUT,3,PL
-потребуется	V,FUT,3,SG
+потребуемся	V,PRS,1,PL
+потребуюсь	V,PRS,1,SG
+потребуетесь	V,PRS,2,PL
+потребуешься	V,PRS,2,SG
+потребуются	V,PRS,3,PL
+потребуется	V,PRS,3,SG
 потребуйтесь	V,IMP,2,PL
 потребуйся	V,IMP,2,SG
 потребоваться	V,NFIN
@@ -12333,12 +12333,12 @@
 сближалось	V,PST,SG,NEUT
 
 посодействовав	V.CVB,PST
-посодействуем	V,FUT,1,PL
-посодействую	V,FUT,1,SG
-посодействуете	V,FUT,2,PL
-посодействуешь	V,FUT,2,SG
-посодействуют	V,FUT,3,PL
-посодействует	V,FUT,3,SG
+посодействуем	V,PRS,1,PL
+посодействую	V,PRS,1,SG
+посодействуете	V,PRS,2,PL
+посодействуешь	V,PRS,2,SG
+посодействуют	V,PRS,3,PL
+посодействует	V,PRS,3,SG
 посодействуйте	V,IMP,2,PL
 посодействуй	V,IMP,2,SG
 посодействовать	V,NFIN
@@ -12348,12 +12348,12 @@
 посодействовало	V,PST,SG,NEUT
 
 натолкнув	V.CVB,PST
-натолкнем	V,FUT,1,PL
-натолкну	V,FUT,1,SG
-натолкнете	V,FUT,2,PL
-натолкнешь	V,FUT,2,SG
-натолкнут	V,FUT,3,PL
-натолкнет	V,FUT,3,SG
+натолкнем	V,PRS,1,PL
+натолкну	V,PRS,1,SG
+натолкнете	V,PRS,2,PL
+натолкнешь	V,PRS,2,SG
+натолкнут	V,PRS,3,PL
+натолкнет	V,PRS,3,SG
 натолкните	V,IMP,2,PL
 натолкни	V,IMP,2,SG
 натолкнуть	V,NFIN
@@ -12363,12 +12363,12 @@
 натолкнуло	V,PST,SG,NEUT
 
 зацепив	V.CVB,PST
-зацепим	V,FUT,1,PL
-зацеплю	V,FUT,1,SG
-зацепите	V,FUT,2,PL
-зацепишь	V,FUT,2,SG
-зацепят	V,FUT,3,PL
-зацепит	V,FUT,3,SG
+зацепим	V,PRS,1,PL
+зацеплю	V,PRS,1,SG
+зацепите	V,PRS,2,PL
+зацепишь	V,PRS,2,SG
+зацепят	V,PRS,3,PL
+зацепит	V,PRS,3,SG
 зацепите	V,IMP,2,PL
 зацепи	V,IMP,2,SG
 зацепить	V,NFIN
@@ -12378,12 +12378,12 @@
 зацепило	V,PST,SG,NEUT
 
 упёршись	V.CVB,PST
-упремся	V,FUT,1,PL
-упрусь	V,FUT,1,SG
-упретесь	V,FUT,2,PL
-упрешься	V,FUT,2,SG
-упрутся	V,FUT,3,PL
-упрется	V,FUT,3,SG
+упремся	V,PRS,1,PL
+упрусь	V,PRS,1,SG
+упретесь	V,PRS,2,PL
+упрешься	V,PRS,2,SG
+упрутся	V,PRS,3,PL
+упрется	V,PRS,3,SG
 упритесь	V,IMP,2,PL
 упрись	V,IMP,2,SG
 упереться	V,NFIN
@@ -12425,12 +12425,12 @@
 избаловывало	V,PST,SG,NEUT
 
 захворав	V.CVB,PST
-захвораем	V,FUT,1,PL
-захвораю	V,FUT,1,SG
-захвораете	V,FUT,2,PL
-захвораешь	V,FUT,2,SG
-захворают	V,FUT,3,PL
-захворает	V,FUT,3,SG
+захвораем	V,PRS,1,PL
+захвораю	V,PRS,1,SG
+захвораете	V,PRS,2,PL
+захвораешь	V,PRS,2,SG
+захворают	V,PRS,3,PL
+захворает	V,PRS,3,SG
 захворайте	V,IMP,2,PL
 захворай	V,IMP,2,SG
 захворать	V,NFIN
@@ -12440,12 +12440,12 @@
 захворало	V,PST,SG,NEUT
 
 доняв	V.CVB,PST
-доймем	V,FUT,1,PL
-дойму	V,FUT,1,SG
-доймете	V,FUT,2,PL
-доймешь	V,FUT,2,SG
-доймут	V,FUT,3,PL
-доймет	V,FUT,3,SG
+доймем	V,PRS,1,PL
+дойму	V,PRS,1,SG
+доймете	V,PRS,2,PL
+доймешь	V,PRS,2,SG
+доймут	V,PRS,3,PL
+доймет	V,PRS,3,SG
 доймите	V,IMP,2,PL
 дойми	V,IMP,2,SG
 донять	V,NFIN
@@ -12455,12 +12455,12 @@
 доняло	V,PST,SG,NEUT
 
 застигнув	V.CVB,PST
-застигнем	V,FUT,1,PL
-застигну	V,FUT,1,SG
-застигнете	V,FUT,2,PL
-застигнешь	V,FUT,2,SG
-застигнут	V,FUT,3,PL
-застигнет	V,FUT,3,SG
+застигнем	V,PRS,1,PL
+застигну	V,PRS,1,SG
+застигнете	V,PRS,2,PL
+застигнешь	V,PRS,2,SG
+застигнут	V,PRS,3,PL
+застигнет	V,PRS,3,SG
 застигните	V,IMP,2,PL
 застигни	V,IMP,2,SG
 застигнуть	V,NFIN
@@ -12550,12 +12550,12 @@
 лукавило	V,PST,SG,NEUT
 
 разветвившись	V.CVB,PST
-разветвимся	V,FUT,1,PL
-разветвлюсь	V,FUT,1,SG
-разветвитесь	V,FUT,2,PL
-разветвишься	V,FUT,2,SG
-разветвятся	V,FUT,3,PL
-разветвится	V,FUT,3,SG
+разветвимся	V,PRS,1,PL
+разветвлюсь	V,PRS,1,SG
+разветвитесь	V,PRS,2,PL
+разветвишься	V,PRS,2,SG
+разветвятся	V,PRS,3,PL
+разветвится	V,PRS,3,SG
 разветвитесь	V,IMP,2,PL
 разветвись	V,IMP,2,SG
 разветвиться	V,NFIN
@@ -12565,12 +12565,12 @@
 разветвилось	V,PST,SG,NEUT
 
 укрывшись	V.CVB,PST
-укроемся	V,FUT,1,PL
-укроюсь	V,FUT,1,SG
-укроетесь	V,FUT,2,PL
-укроешься	V,FUT,2,SG
-укроются	V,FUT,3,PL
-укроется	V,FUT,3,SG
+укроемся	V,PRS,1,PL
+укроюсь	V,PRS,1,SG
+укроетесь	V,PRS,2,PL
+укроешься	V,PRS,2,SG
+укроются	V,PRS,3,PL
+укроется	V,PRS,3,SG
 укройтесь	V,IMP,2,PL
 укройся	V,IMP,2,SG
 укрыться	V,NFIN
@@ -12580,12 +12580,12 @@
 укрылось	V,PST,SG,NEUT
 
 переключив	V.CVB,PST
-переключим	V,FUT,1,PL
-переключу	V,FUT,1,SG
-переключите	V,FUT,2,PL
-переключишь	V,FUT,2,SG
-переключат	V,FUT,3,PL
-переключит	V,FUT,3,SG
+переключим	V,PRS,1,PL
+переключу	V,PRS,1,SG
+переключите	V,PRS,2,PL
+переключишь	V,PRS,2,SG
+переключат	V,PRS,3,PL
+переключит	V,PRS,3,SG
 переключите	V,IMP,2,PL
 переключи	V,IMP,2,SG
 переключить	V,NFIN
@@ -12643,12 +12643,12 @@
 серебрилось	V,PST,SG,NEUT
 
 вспыхнув	V.CVB,PST
-вспыхнем	V,FUT,1,PL
-вспыхну	V,FUT,1,SG
-вспыхнете	V,FUT,2,PL
-вспыхнешь	V,FUT,2,SG
-вспыхнут	V,FUT,3,PL
-вспыхнет	V,FUT,3,SG
+вспыхнем	V,PRS,1,PL
+вспыхну	V,PRS,1,SG
+вспыхнете	V,PRS,2,PL
+вспыхнешь	V,PRS,2,SG
+вспыхнут	V,PRS,3,PL
+вспыхнет	V,PRS,3,SG
 вспыхните	V,IMP,2,PL
 вспыхни	V,IMP,2,SG
 вспыхнуть	V,NFIN
@@ -12690,12 +12690,12 @@
 заглушало	V,PST,SG,NEUT
 
 порозовев	V.CVB,PST
-порозовеем	V,FUT,1,PL
-порозовею	V,FUT,1,SG
-порозовеете	V,FUT,2,PL
-порозовеешь	V,FUT,2,SG
-порозовеют	V,FUT,3,PL
-порозовеет	V,FUT,3,SG
+порозовеем	V,PRS,1,PL
+порозовею	V,PRS,1,SG
+порозовеете	V,PRS,2,PL
+порозовеешь	V,PRS,2,SG
+порозовеют	V,PRS,3,PL
+порозовеет	V,PRS,3,SG
 порозовейте	V,IMP,2,PL
 порозовей	V,IMP,2,SG
 порозоветь	V,NFIN
@@ -12705,12 +12705,12 @@
 порозовело	V,PST,SG,NEUT
 
 запачкав	V.CVB,PST
-запачкаем	V,FUT,1,PL
-запачкаю	V,FUT,1,SG
-запачкаете	V,FUT,2,PL
-запачкаешь	V,FUT,2,SG
-запачкают	V,FUT,3,PL
-запачкает	V,FUT,3,SG
+запачкаем	V,PRS,1,PL
+запачкаю	V,PRS,1,SG
+запачкаете	V,PRS,2,PL
+запачкаешь	V,PRS,2,SG
+запачкают	V,PRS,3,PL
+запачкает	V,PRS,3,SG
 запачкайте	V,IMP,2,PL
 запачкай	V,IMP,2,SG
 запачкать	V,NFIN
@@ -12736,12 +12736,12 @@
 верстало	V,PST,SG,NEUT
 
 намокши	V.CVB,PST
-намокнем	V,FUT,1,PL
-намокну	V,FUT,1,SG
-намокнете	V,FUT,2,PL
-намокнешь	V,FUT,2,SG
-намокнут	V,FUT,3,PL
-намокнет	V,FUT,3,SG
+намокнем	V,PRS,1,PL
+намокну	V,PRS,1,SG
+намокнете	V,PRS,2,PL
+намокнешь	V,PRS,2,SG
+намокнут	V,PRS,3,PL
+намокнет	V,PRS,3,SG
 намокните	V,IMP,2,PL
 намокни	V,IMP,2,SG
 намокнуть	V,NFIN
@@ -12751,12 +12751,12 @@
 намокло	V,PST,SG,NEUT
 
 рубанув	V.CVB,PST
-рубанем	V,FUT,1,PL
-рубану	V,FUT,1,SG
-рубанете	V,FUT,2,PL
-рубанешь	V,FUT,2,SG
-рубанут	V,FUT,3,PL
-рубанет	V,FUT,3,SG
+рубанем	V,PRS,1,PL
+рубану	V,PRS,1,SG
+рубанете	V,PRS,2,PL
+рубанешь	V,PRS,2,SG
+рубанут	V,PRS,3,PL
+рубанет	V,PRS,3,SG
 рубаните	V,IMP,2,PL
 рубани	V,IMP,2,SG
 рубануть	V,NFIN
@@ -12782,12 +12782,12 @@
 пререкалось	V,PST,SG,NEUT
 
 поколотив	V.CVB,PST
-поколотим	V,FUT,1,PL
-поколочу	V,FUT,1,SG
-поколотите	V,FUT,2,PL
-поколотишь	V,FUT,2,SG
-поколотят	V,FUT,3,PL
-поколотит	V,FUT,3,SG
+поколотим	V,PRS,1,PL
+поколочу	V,PRS,1,SG
+поколотите	V,PRS,2,PL
+поколотишь	V,PRS,2,SG
+поколотят	V,PRS,3,PL
+поколотит	V,PRS,3,SG
 поколотите	V,IMP,2,PL
 поколоти	V,IMP,2,SG
 поколотить	V,NFIN
@@ -12797,12 +12797,12 @@
 поколотило	V,PST,SG,NEUT
 
 удостоверившись	V.CVB,PST
-удостоверимся	V,FUT,1,PL
-удостоверюсь	V,FUT,1,SG
-удостоверитесь	V,FUT,2,PL
-удостоверишься	V,FUT,2,SG
-удостоверятся	V,FUT,3,PL
-удостоверится	V,FUT,3,SG
+удостоверимся	V,PRS,1,PL
+удостоверюсь	V,PRS,1,SG
+удостоверитесь	V,PRS,2,PL
+удостоверишься	V,PRS,2,SG
+удостоверятся	V,PRS,3,PL
+удостоверится	V,PRS,3,SG
 удостоверьтесь	V,IMP,2,PL
 удостоверься	V,IMP,2,SG
 удостовериться	V,NFIN
@@ -12908,12 +12908,12 @@
 поджаривало	V,PST,SG,NEUT
 
 замигав	V.CVB,PST
-замигаем	V,FUT,1,PL
-замигаю	V,FUT,1,SG
-замигаете	V,FUT,2,PL
-замигаешь	V,FUT,2,SG
-замигают	V,FUT,3,PL
-замигает	V,FUT,3,SG
+замигаем	V,PRS,1,PL
+замигаю	V,PRS,1,SG
+замигаете	V,PRS,2,PL
+замигаешь	V,PRS,2,SG
+замигают	V,PRS,3,PL
+замигает	V,PRS,3,SG
 замигайте	V,IMP,2,PL
 замигай	V,IMP,2,SG
 замигать	V,NFIN
@@ -12955,12 +12955,12 @@
 пробуждалось	V,PST,SG,NEUT
 
 высвободив	V.CVB,PST
-высвободим	V,FUT,1,PL
-высвобожу	V,FUT,1,SG
-высвободите	V,FUT,2,PL
-высвободишь	V,FUT,2,SG
-высвободят	V,FUT,3,PL
-высвободит	V,FUT,3,SG
+высвободим	V,PRS,1,PL
+высвобожу	V,PRS,1,SG
+высвободите	V,PRS,2,PL
+высвободишь	V,PRS,2,SG
+высвободят	V,PRS,3,PL
+высвободит	V,PRS,3,SG
 высвободите	V,IMP,2,PL
 высвободи	V,IMP,2,SG
 высвободить	V,NFIN
@@ -12970,12 +12970,12 @@
 высвободило	V,PST,SG,NEUT
 
 пересадив	V.CVB,PST
-пересадим	V,FUT,1,PL
-пересажу	V,FUT,1,SG
-пересадите	V,FUT,2,PL
-пересадишь	V,FUT,2,SG
-пересадят	V,FUT,3,PL
-пересадит	V,FUT,3,SG
+пересадим	V,PRS,1,PL
+пересажу	V,PRS,1,SG
+пересадите	V,PRS,2,PL
+пересадишь	V,PRS,2,SG
+пересадят	V,PRS,3,PL
+пересадит	V,PRS,3,SG
 пересадите	V,IMP,2,PL
 пересади	V,IMP,2,SG
 пересадить	V,NFIN
@@ -12985,12 +12985,12 @@
 пересадило	V,PST,SG,NEUT
 
 возымев	V.CVB,PST
-возымеем	V,FUT,1,PL
-возымею	V,FUT,1,SG
-возымеете	V,FUT,2,PL
-возымеешь	V,FUT,2,SG
-возымеют	V,FUT,3,PL
-возымеет	V,FUT,3,SG
+возымеем	V,PRS,1,PL
+возымею	V,PRS,1,SG
+возымеете	V,PRS,2,PL
+возымеешь	V,PRS,2,SG
+возымеют	V,PRS,3,PL
+возымеет	V,PRS,3,SG
 возымейте	V,IMP,2,PL
 возымей	V,IMP,2,SG
 возыметь	V,NFIN
@@ -13064,12 +13064,12 @@
 отдавалось	V,PST,SG,NEUT
 
 прилёгши	V.CVB,PST
-приляжем	V,FUT,1,PL
-прилягу	V,FUT,1,SG
-приляжете	V,FUT,2,PL
-приляжешь	V,FUT,2,SG
-прилягут	V,FUT,3,PL
-приляжет	V,FUT,3,SG
+приляжем	V,PRS,1,PL
+прилягу	V,PRS,1,SG
+приляжете	V,PRS,2,PL
+приляжешь	V,PRS,2,SG
+прилягут	V,PRS,3,PL
+приляжет	V,PRS,3,SG
 прилягте	V,IMP,2,PL
 приляг	V,IMP,2,SG
 прилечь	V,NFIN
@@ -13095,12 +13095,12 @@
 прямило	V,PST,SG,NEUT
 
 разорвавшись	V.CVB,PST
-разорвемся	V,FUT,1,PL
-разорвусь	V,FUT,1,SG
-разорветесь	V,FUT,2,PL
-разорвешься	V,FUT,2,SG
-разорвутся	V,FUT,3,PL
-разорвется	V,FUT,3,SG
+разорвемся	V,PRS,1,PL
+разорвусь	V,PRS,1,SG
+разорветесь	V,PRS,2,PL
+разорвешься	V,PRS,2,SG
+разорвутся	V,PRS,3,PL
+разорвется	V,PRS,3,SG
 разорвитесь	V,IMP,2,PL
 разорвись	V,IMP,2,SG
 разорваться	V,NFIN
@@ -13126,12 +13126,12 @@
 супило	V,PST,SG,NEUT
 
 зацепившись	V.CVB,PST
-зацепимся	V,FUT,1,PL
-зацеплюсь	V,FUT,1,SG
-зацепитесь	V,FUT,2,PL
-зацепишься	V,FUT,2,SG
-зацепятся	V,FUT,3,PL
-зацепится	V,FUT,3,SG
+зацепимся	V,PRS,1,PL
+зацеплюсь	V,PRS,1,SG
+зацепитесь	V,PRS,2,PL
+зацепишься	V,PRS,2,SG
+зацепятся	V,PRS,3,PL
+зацепится	V,PRS,3,SG
 зацепитесь	V,IMP,2,PL
 зацепись	V,IMP,2,SG
 зацепиться	V,NFIN
@@ -13157,12 +13157,12 @@
 предвещало	V,PST,SG,NEUT
 
 распространившись	V.CVB,PST
-распространимся	V,FUT,1,PL
-распространюсь	V,FUT,1,SG
-распространитесь	V,FUT,2,PL
-распространишься	V,FUT,2,SG
-распространятся	V,FUT,3,PL
-распространится	V,FUT,3,SG
+распространимся	V,PRS,1,PL
+распространюсь	V,PRS,1,SG
+распространитесь	V,PRS,2,PL
+распространишься	V,PRS,2,SG
+распространятся	V,PRS,3,PL
+распространится	V,PRS,3,SG
 распространитесь	V,IMP,2,PL
 распространись	V,IMP,2,SG
 распространиться	V,NFIN
@@ -13188,12 +13188,12 @@
 удалялось	V,PST,SG,NEUT
 
 зазвучав	V.CVB,PST
-зазвучим	V,FUT,1,PL
-зазвучу	V,FUT,1,SG
-зазвучите	V,FUT,2,PL
-зазвучишь	V,FUT,2,SG
-зазвучат	V,FUT,3,PL
-зазвучит	V,FUT,3,SG
+зазвучим	V,PRS,1,PL
+зазвучу	V,PRS,1,SG
+зазвучите	V,PRS,2,PL
+зазвучишь	V,PRS,2,SG
+зазвучат	V,PRS,3,PL
+зазвучит	V,PRS,3,SG
 зазвучите	V,IMP,2,PL
 зазвучи	V,IMP,2,SG
 зазвучать	V,NFIN
@@ -13235,12 +13235,12 @@
 исчерпывало	V,PST,SG,NEUT
 
 покарав	V.CVB,PST
-покараем	V,FUT,1,PL
-покараю	V,FUT,1,SG
-покараете	V,FUT,2,PL
-покараешь	V,FUT,2,SG
-покарают	V,FUT,3,PL
-покарает	V,FUT,3,SG
+покараем	V,PRS,1,PL
+покараю	V,PRS,1,SG
+покараете	V,PRS,2,PL
+покараешь	V,PRS,2,SG
+покарают	V,PRS,3,PL
+покарает	V,PRS,3,SG
 покарайте	V,IMP,2,PL
 покарай	V,IMP,2,SG
 покарать	V,NFIN
@@ -13250,12 +13250,12 @@
 покарало	V,PST,SG,NEUT
 
 распластав	V.CVB,PST
-распластаем	V,FUT,1,PL
-распластаю	V,FUT,1,SG
-распластаете	V,FUT,2,PL
-распластаешь	V,FUT,2,SG
-распластают	V,FUT,3,PL
-распластает	V,FUT,3,SG
+распластаем	V,PRS,1,PL
+распластаю	V,PRS,1,SG
+распластаете	V,PRS,2,PL
+распластаешь	V,PRS,2,SG
+распластают	V,PRS,3,PL
+распластает	V,PRS,3,SG
 распластайте	V,IMP,2,PL
 распластай	V,IMP,2,SG
 распластать	V,NFIN
@@ -13281,12 +13281,12 @@
 приживалось	V,PST,SG,NEUT
 
 запрограммировав	V.CVB,PST
-запрограммируем	V,FUT,1,PL
-запрограммирую	V,FUT,1,SG
-запрограммируете	V,FUT,2,PL
-запрограммируешь	V,FUT,2,SG
-запрограммируют	V,FUT,3,PL
-запрограммирует	V,FUT,3,SG
+запрограммируем	V,PRS,1,PL
+запрограммирую	V,PRS,1,SG
+запрограммируете	V,PRS,2,PL
+запрограммируешь	V,PRS,2,SG
+запрограммируют	V,PRS,3,PL
+запрограммирует	V,PRS,3,SG
 запрограммируйте	V,IMP,2,PL
 запрограммируй	V,IMP,2,SG
 запрограммировать	V,NFIN
@@ -13296,12 +13296,12 @@
 запрограммировало	V,PST,SG,NEUT
 
 пропев	V.CVB,PST
-пропоем	V,FUT,1,PL
-пропою	V,FUT,1,SG
-пропоете	V,FUT,2,PL
-пропоешь	V,FUT,2,SG
-пропоют	V,FUT,3,PL
-пропоет	V,FUT,3,SG
+пропоем	V,PRS,1,PL
+пропою	V,PRS,1,SG
+пропоете	V,PRS,2,PL
+пропоешь	V,PRS,2,SG
+пропоют	V,PRS,3,PL
+пропоет	V,PRS,3,SG
 пропойте	V,IMP,2,PL
 пропой	V,IMP,2,SG
 пропеть	V,NFIN
@@ -13327,12 +13327,12 @@
 вдавливало	V,PST,SG,NEUT
 
 надушив	V.CVB,PST
-надушим	V,FUT,1,PL
-надушу	V,FUT,1,SG
-надушите	V,FUT,2,PL
-надушишь	V,FUT,2,SG
-надушат	V,FUT,3,PL
-надушит	V,FUT,3,SG
+надушим	V,PRS,1,PL
+надушу	V,PRS,1,SG
+надушите	V,PRS,2,PL
+надушишь	V,PRS,2,SG
+надушат	V,PRS,3,PL
+надушит	V,PRS,3,SG
 надушите	V,IMP,2,PL
 надуши	V,IMP,2,SG
 надушить	V,NFIN
@@ -13342,12 +13342,12 @@
 надушило	V,PST,SG,NEUT
 
 озябши	V.CVB,PST
-озябнем	V,FUT,1,PL
-озябну	V,FUT,1,SG
-озябнете	V,FUT,2,PL
-озябнешь	V,FUT,2,SG
-озябнут	V,FUT,3,PL
-озябнет	V,FUT,3,SG
+озябнем	V,PRS,1,PL
+озябну	V,PRS,1,SG
+озябнете	V,PRS,2,PL
+озябнешь	V,PRS,2,SG
+озябнут	V,PRS,3,PL
+озябнет	V,PRS,3,SG
 озябните	V,IMP,2,PL
 озябни	V,IMP,2,SG
 озябнуть	V,NFIN
@@ -13357,12 +13357,12 @@
 озябло	V,PST,SG,NEUT
 
 блеснув	V.CVB,PST
-блеснем	V,FUT,1,PL
-блесну	V,FUT,1,SG
-блеснете	V,FUT,2,PL
-блеснешь	V,FUT,2,SG
-блеснут	V,FUT,3,PL
-блеснет	V,FUT,3,SG
+блеснем	V,PRS,1,PL
+блесну	V,PRS,1,SG
+блеснете	V,PRS,2,PL
+блеснешь	V,PRS,2,SG
+блеснут	V,PRS,3,PL
+блеснет	V,PRS,3,SG
 блесните	V,IMP,2,PL
 блесни	V,IMP,2,SG
 блеснуть	V,NFIN
@@ -13372,12 +13372,12 @@
 блеснуло	V,PST,SG,NEUT
 
 очертив	V.CVB,PST
-очертим	V,FUT,1,PL
-очерчу	V,FUT,1,SG
-очертите	V,FUT,2,PL
-очертишь	V,FUT,2,SG
-очертят	V,FUT,3,PL
-очертит	V,FUT,3,SG
+очертим	V,PRS,1,PL
+очерчу	V,PRS,1,SG
+очертите	V,PRS,2,PL
+очертишь	V,PRS,2,SG
+очертят	V,PRS,3,PL
+очертит	V,PRS,3,SG
 очертите	V,IMP,2,PL
 очерти	V,IMP,2,SG
 очертить	V,NFIN
@@ -13403,12 +13403,12 @@
 оборонялось	V,PST,SG,NEUT
 
 пукнув	V.CVB,PST
-пукнем	V,FUT,1,PL
-пукну	V,FUT,1,SG
-пукнете	V,FUT,2,PL
-пукнешь	V,FUT,2,SG
-пукнут	V,FUT,3,PL
-пукнет	V,FUT,3,SG
+пукнем	V,PRS,1,PL
+пукну	V,PRS,1,SG
+пукнете	V,PRS,2,PL
+пукнешь	V,PRS,2,SG
+пукнут	V,PRS,3,PL
+пукнет	V,PRS,3,SG
 пукните	V,IMP,2,PL
 пукни	V,IMP,2,SG
 пукнуть	V,NFIN
@@ -13418,12 +13418,12 @@
 пукнуло	V,PST,SG,NEUT
 
 отчудив	V.CVB,PST
-отчудим	V,FUT,1,PL
-отчужу	V,FUT,1,SG
-отчудите	V,FUT,2,PL
-отчудишь	V,FUT,2,SG
-отчудят	V,FUT,3,PL
-отчудит	V,FUT,3,SG
+отчудим	V,PRS,1,PL
+отчужу	V,PRS,1,SG
+отчудите	V,PRS,2,PL
+отчудишь	V,PRS,2,SG
+отчудят	V,PRS,3,PL
+отчудит	V,PRS,3,SG
 отчудите	V,IMP,2,PL
 отчуди	V,IMP,2,SG
 отчудить	V,NFIN
@@ -13513,12 +13513,12 @@
 натирало	V,PST,SG,NEUT
 
 отравившись	V.CVB,PST
-отравимся	V,FUT,1,PL
-отравлюсь	V,FUT,1,SG
-отравитесь	V,FUT,2,PL
-отравишься	V,FUT,2,SG
-отравятся	V,FUT,3,PL
-отравится	V,FUT,3,SG
+отравимся	V,PRS,1,PL
+отравлюсь	V,PRS,1,SG
+отравитесь	V,PRS,2,PL
+отравишься	V,PRS,2,SG
+отравятся	V,PRS,3,PL
+отравится	V,PRS,3,SG
 отравитесь	V,IMP,2,PL
 отравись	V,IMP,2,SG
 отравиться	V,NFIN
@@ -13544,12 +13544,12 @@
 звенело	V,PST,SG,NEUT
 
 вогнав	V.CVB,PST
-вгоним	V,FUT,1,PL
-вгоню	V,FUT,1,SG
-вгоните	V,FUT,2,PL
-вгонишь	V,FUT,2,SG
-вгонят	V,FUT,3,PL
-вгонит	V,FUT,3,SG
+вгоним	V,PRS,1,PL
+вгоню	V,PRS,1,SG
+вгоните	V,PRS,2,PL
+вгонишь	V,PRS,2,SG
+вгонят	V,PRS,3,PL
+вгонит	V,PRS,3,SG
 вгоните	V,IMP,2,PL
 вгони	V,IMP,2,SG
 вогнать	V,NFIN
@@ -13591,12 +13591,12 @@
 ослабевало	V,PST,SG,NEUT
 
 погодив	V.CVB,PST
-погодим	V,FUT,1,PL
-погожу	V,FUT,1,SG
-погодите	V,FUT,2,PL
-погодишь	V,FUT,2,SG
-погодят	V,FUT,3,PL
-погодит	V,FUT,3,SG
+погодим	V,PRS,1,PL
+погожу	V,PRS,1,SG
+погодите	V,PRS,2,PL
+погодишь	V,PRS,2,SG
+погодят	V,PRS,3,PL
+погодит	V,PRS,3,SG
 погодите	V,IMP,2,PL
 погоди	V,IMP,2,SG
 погодить	V,NFIN
@@ -13606,12 +13606,12 @@
 погодило	V,PST,SG,NEUT
 
 разбомбив	V.CVB,PST
-разбомбим	V,FUT,1,PL
-разбомблю	V,FUT,1,SG
-разбомбите	V,FUT,2,PL
-разбомбишь	V,FUT,2,SG
-разбомбят	V,FUT,3,PL
-разбомбит	V,FUT,3,SG
+разбомбим	V,PRS,1,PL
+разбомблю	V,PRS,1,SG
+разбомбите	V,PRS,2,PL
+разбомбишь	V,PRS,2,SG
+разбомбят	V,PRS,3,PL
+разбомбит	V,PRS,3,SG
 разбомбите	V,IMP,2,PL
 разбомби	V,IMP,2,SG
 разбомбить	V,NFIN
@@ -13621,12 +13621,12 @@
 разбомбило	V,PST,SG,NEUT
 
 мелькнув	V.CVB,PST
-мелькнем	V,FUT,1,PL
-мелькну	V,FUT,1,SG
-мелькнете	V,FUT,2,PL
-мелькнешь	V,FUT,2,SG
-мелькнут	V,FUT,3,PL
-мелькнет	V,FUT,3,SG
+мелькнем	V,PRS,1,PL
+мелькну	V,PRS,1,SG
+мелькнете	V,PRS,2,PL
+мелькнешь	V,PRS,2,SG
+мелькнут	V,PRS,3,PL
+мелькнет	V,PRS,3,SG
 мелькните	V,IMP,2,PL
 мелькни	V,IMP,2,SG
 мелькнуть	V,NFIN
@@ -13636,12 +13636,12 @@
 мелькнуло	V,PST,SG,NEUT
 
 свергнув	V.CVB,PST
-свергнем	V,FUT,1,PL
-свергну	V,FUT,1,SG
-свергнете	V,FUT,2,PL
-свергнешь	V,FUT,2,SG
-свергнут	V,FUT,3,PL
-свергнет	V,FUT,3,SG
+свергнем	V,PRS,1,PL
+свергну	V,PRS,1,SG
+свергнете	V,PRS,2,PL
+свергнешь	V,PRS,2,SG
+свергнут	V,PRS,3,PL
+свергнет	V,PRS,3,SG
 свергните	V,IMP,2,PL
 свергни	V,IMP,2,SG
 свергнуть	V,NFIN
@@ -13683,12 +13683,12 @@
 дробило	V,PST,SG,NEUT
 
 отключив	V.CVB,PST
-отключим	V,FUT,1,PL
-отключу	V,FUT,1,SG
-отключите	V,FUT,2,PL
-отключишь	V,FUT,2,SG
-отключат	V,FUT,3,PL
-отключит	V,FUT,3,SG
+отключим	V,PRS,1,PL
+отключу	V,PRS,1,SG
+отключите	V,PRS,2,PL
+отключишь	V,PRS,2,SG
+отключат	V,PRS,3,PL
+отключит	V,PRS,3,SG
 отключите	V,IMP,2,PL
 отключи	V,IMP,2,SG
 отключить	V,NFIN
@@ -13714,12 +13714,12 @@
 обозревало	V,PST,SG,NEUT
 
 опьянев	V.CVB,PST
-опьянеем	V,FUT,1,PL
-опьянею	V,FUT,1,SG
-опьянеете	V,FUT,2,PL
-опьянеешь	V,FUT,2,SG
-опьянеют	V,FUT,3,PL
-опьянеет	V,FUT,3,SG
+опьянеем	V,PRS,1,PL
+опьянею	V,PRS,1,SG
+опьянеете	V,PRS,2,PL
+опьянеешь	V,PRS,2,SG
+опьянеют	V,PRS,3,PL
+опьянеет	V,PRS,3,SG
 опьянейте	V,IMP,2,PL
 опьяней	V,IMP,2,SG
 опьянеть	V,NFIN
@@ -13729,12 +13729,12 @@
 опьянело	V,PST,SG,NEUT
 
 засияв	V.CVB,PST
-засияем	V,FUT,1,PL
-засияю	V,FUT,1,SG
-засияете	V,FUT,2,PL
-засияешь	V,FUT,2,SG
-засияют	V,FUT,3,PL
-засияет	V,FUT,3,SG
+засияем	V,PRS,1,PL
+засияю	V,PRS,1,SG
+засияете	V,PRS,2,PL
+засияешь	V,PRS,2,SG
+засияют	V,PRS,3,PL
+засияет	V,PRS,3,SG
 засияйте	V,IMP,2,PL
 засияй	V,IMP,2,SG
 засиять	V,NFIN
@@ -13744,12 +13744,12 @@
 засияло	V,PST,SG,NEUT
 
 развившись	V.CVB,PST
-разовьемся	V,FUT,1,PL
-разовьюсь	V,FUT,1,SG
-разовьетесь	V,FUT,2,PL
-разовьешься	V,FUT,2,SG
-разовьются	V,FUT,3,PL
-разовьется	V,FUT,3,SG
+разовьемся	V,PRS,1,PL
+разовьюсь	V,PRS,1,SG
+разовьетесь	V,PRS,2,PL
+разовьешься	V,PRS,2,SG
+разовьются	V,PRS,3,PL
+разовьется	V,PRS,3,SG
 развейтесь	V,IMP,2,PL
 развейся	V,IMP,2,SG
 развиться	V,NFIN
@@ -13759,12 +13759,12 @@
 развилось	V,PST,SG,NEUT
 
 выронив	V.CVB,PST
-выроним	V,FUT,1,PL
-выроню	V,FUT,1,SG
-выроните	V,FUT,2,PL
-выронишь	V,FUT,2,SG
-выронят	V,FUT,3,PL
-выронит	V,FUT,3,SG
+выроним	V,PRS,1,PL
+выроню	V,PRS,1,SG
+выроните	V,PRS,2,PL
+выронишь	V,PRS,2,SG
+выронят	V,PRS,3,PL
+выронит	V,PRS,3,SG
 выроните	V,IMP,2,PL
 вырони	V,IMP,2,SG
 выронить	V,NFIN
@@ -13822,12 +13822,12 @@
 разочаровывало	V,PST,SG,NEUT
 
 приколов	V.CVB,PST
-приколем	V,FUT,1,PL
-приколю	V,FUT,1,SG
-приколете	V,FUT,2,PL
-приколешь	V,FUT,2,SG
-приколют	V,FUT,3,PL
-приколет	V,FUT,3,SG
+приколем	V,PRS,1,PL
+приколю	V,PRS,1,SG
+приколете	V,PRS,2,PL
+приколешь	V,PRS,2,SG
+приколют	V,PRS,3,PL
+приколет	V,PRS,3,SG
 приколите	V,IMP,2,PL
 приколи	V,IMP,2,SG
 приколоть	V,NFIN
@@ -13837,12 +13837,12 @@
 прикололо	V,PST,SG,NEUT
 
 облизав	V.CVB,PST
-оближем	V,FUT,1,PL
-оближу	V,FUT,1,SG
-оближете	V,FUT,2,PL
-оближешь	V,FUT,2,SG
-оближут	V,FUT,3,PL
-оближет	V,FUT,3,SG
+оближем	V,PRS,1,PL
+оближу	V,PRS,1,SG
+оближете	V,PRS,2,PL
+оближешь	V,PRS,2,SG
+оближут	V,PRS,3,PL
+оближет	V,PRS,3,SG
 оближите	V,IMP,2,PL
 оближи	V,IMP,2,SG
 облизать	V,NFIN
@@ -13852,12 +13852,12 @@
 облизало	V,PST,SG,NEUT
 
 наскочив	V.CVB,PST
-наскочим	V,FUT,1,PL
-наскочу	V,FUT,1,SG
-наскочите	V,FUT,2,PL
-наскочишь	V,FUT,2,SG
-наскочат	V,FUT,3,PL
-наскочит	V,FUT,3,SG
+наскочим	V,PRS,1,PL
+наскочу	V,PRS,1,SG
+наскочите	V,PRS,2,PL
+наскочишь	V,PRS,2,SG
+наскочат	V,PRS,3,PL
+наскочит	V,PRS,3,SG
 наскочите	V,IMP,2,PL
 наскочи	V,IMP,2,SG
 наскочить	V,NFIN
@@ -13883,12 +13883,12 @@
 отчуждало	V,PST,SG,NEUT
 
 протрезвев	V.CVB,PST
-протрезвеем	V,FUT,1,PL
-протрезвею	V,FUT,1,SG
-протрезвеете	V,FUT,2,PL
-протрезвеешь	V,FUT,2,SG
-протрезвеют	V,FUT,3,PL
-протрезвеет	V,FUT,3,SG
+протрезвеем	V,PRS,1,PL
+протрезвею	V,PRS,1,SG
+протрезвеете	V,PRS,2,PL
+протрезвеешь	V,PRS,2,SG
+протрезвеют	V,PRS,3,PL
+протрезвеет	V,PRS,3,SG
 протрезвейте	V,IMP,2,PL
 протрезвей	V,IMP,2,SG
 протрезветь	V,NFIN
@@ -13930,12 +13930,12 @@
 покрывало	V,PST,SG,NEUT
 
 умудрившись	V.CVB,PST
-умудримся	V,FUT,1,PL
-умудрюсь	V,FUT,1,SG
-умудритесь	V,FUT,2,PL
-умудришься	V,FUT,2,SG
-умудрятся	V,FUT,3,PL
-умудрится	V,FUT,3,SG
+умудримся	V,PRS,1,PL
+умудрюсь	V,PRS,1,SG
+умудритесь	V,PRS,2,PL
+умудришься	V,PRS,2,SG
+умудрятся	V,PRS,3,PL
+умудрится	V,PRS,3,SG
 умудритесь	V,IMP,2,PL
 умудрись	V,IMP,2,SG
 умудриться	V,NFIN
@@ -13961,12 +13961,12 @@
 трактовало	V,PST,SG,NEUT
 
 занеся	V.CVB,PST
-занесем	V,FUT,1,PL
-занесу	V,FUT,1,SG
-занесете	V,FUT,2,PL
-занесешь	V,FUT,2,SG
-занесут	V,FUT,3,PL
-занесет	V,FUT,3,SG
+занесем	V,PRS,1,PL
+занесу	V,PRS,1,SG
+занесете	V,PRS,2,PL
+занесешь	V,PRS,2,SG
+занесут	V,PRS,3,PL
+занесет	V,PRS,3,SG
 занесите	V,IMP,2,PL
 занеси	V,IMP,2,SG
 занести	V,NFIN
@@ -14072,12 +14072,12 @@
 гневило	V,PST,SG,NEUT
 
 прикатив	V.CVB,PST
-прикатим	V,FUT,1,PL
-прикачу	V,FUT,1,SG
-прикатите	V,FUT,2,PL
-прикатишь	V,FUT,2,SG
-прикатят	V,FUT,3,PL
-прикатит	V,FUT,3,SG
+прикатим	V,PRS,1,PL
+прикачу	V,PRS,1,SG
+прикатите	V,PRS,2,PL
+прикатишь	V,PRS,2,SG
+прикатят	V,PRS,3,PL
+прикатит	V,PRS,3,SG
 прикатите	V,IMP,2,PL
 прикати	V,IMP,2,SG
 прикатить	V,NFIN
@@ -14087,12 +14087,12 @@
 прикатило	V,PST,SG,NEUT
 
 перекинувшись	V.CVB,PST
-перекинемся	V,FUT,1,PL
-перекинусь	V,FUT,1,SG
-перекинетесь	V,FUT,2,PL
-перекинешься	V,FUT,2,SG
-перекинутся	V,FUT,3,PL
-перекинется	V,FUT,3,SG
+перекинемся	V,PRS,1,PL
+перекинусь	V,PRS,1,SG
+перекинетесь	V,PRS,2,PL
+перекинешься	V,PRS,2,SG
+перекинутся	V,PRS,3,PL
+перекинется	V,PRS,3,SG
 перекиньтесь	V,IMP,2,PL
 перекинься	V,IMP,2,SG
 перекинуться	V,NFIN
@@ -14102,12 +14102,12 @@
 перекинулось	V,PST,SG,NEUT
 
 протерев	V.CVB,PST
-протрем	V,FUT,1,PL
-протру	V,FUT,1,SG
-протрете	V,FUT,2,PL
-протрешь	V,FUT,2,SG
-протрут	V,FUT,3,PL
-протрет	V,FUT,3,SG
+протрем	V,PRS,1,PL
+протру	V,PRS,1,SG
+протрете	V,PRS,2,PL
+протрешь	V,PRS,2,SG
+протрут	V,PRS,3,PL
+протрет	V,PRS,3,SG
 протрите	V,IMP,2,PL
 протри	V,IMP,2,SG
 протереть	V,NFIN
@@ -14149,12 +14149,12 @@
 трезвело	V,PST,SG,NEUT
 
 взвизгнув	V.CVB,PST
-взвизгнем	V,FUT,1,PL
-взвизгну	V,FUT,1,SG
-взвизгнете	V,FUT,2,PL
-взвизгнешь	V,FUT,2,SG
-взвизгнут	V,FUT,3,PL
-взвизгнет	V,FUT,3,SG
+взвизгнем	V,PRS,1,PL
+взвизгну	V,PRS,1,SG
+взвизгнете	V,PRS,2,PL
+взвизгнешь	V,PRS,2,SG
+взвизгнут	V,PRS,3,PL
+взвизгнет	V,PRS,3,SG
 взвизгните	V,IMP,2,PL
 взвизгни	V,IMP,2,SG
 взвизгнуть	V,NFIN
@@ -14164,12 +14164,12 @@
 взвизгнуло	V,PST,SG,NEUT
 
 сотрясши	V.CVB,PST
-сотрясем	V,FUT,1,PL
-сотрясу	V,FUT,1,SG
-сотрясете	V,FUT,2,PL
-сотрясешь	V,FUT,2,SG
-сотрясут	V,FUT,3,PL
-сотрясет	V,FUT,3,SG
+сотрясем	V,PRS,1,PL
+сотрясу	V,PRS,1,SG
+сотрясете	V,PRS,2,PL
+сотрясешь	V,PRS,2,SG
+сотрясут	V,PRS,3,PL
+сотрясет	V,PRS,3,SG
 сотрясите	V,IMP,2,PL
 сотряси	V,IMP,2,SG
 сотрясти	V,NFIN
@@ -14179,12 +14179,12 @@
 сотрясло	V,PST,SG,NEUT
 
 провалившись	V.CVB,PST
-провалимся	V,FUT,1,PL
-провалюсь	V,FUT,1,SG
-провалитесь	V,FUT,2,PL
-провалишься	V,FUT,2,SG
-провалятся	V,FUT,3,PL
-провалится	V,FUT,3,SG
+провалимся	V,PRS,1,PL
+провалюсь	V,PRS,1,SG
+провалитесь	V,PRS,2,PL
+провалишься	V,PRS,2,SG
+провалятся	V,PRS,3,PL
+провалится	V,PRS,3,SG
 провалитесь	V,IMP,2,PL
 провались	V,IMP,2,SG
 провалиться	V,NFIN
@@ -14210,12 +14210,12 @@
 игралось	V,PST,SG,NEUT
 
 отылив	V.CVB,PST
-отылим	V,FUT,1,PL
-отылю	V,FUT,1,SG
-отылите	V,FUT,2,PL
-отылишь	V,FUT,2,SG
-отылят	V,FUT,3,PL
-отылит	V,FUT,3,SG
+отылим	V,PRS,1,PL
+отылю	V,PRS,1,SG
+отылите	V,PRS,2,PL
+отылишь	V,PRS,2,SG
+отылят	V,PRS,3,PL
+отылит	V,PRS,3,SG
 отыльте	V,IMP,2,PL
 отыль	V,IMP,2,SG
 отылить	V,NFIN
@@ -14225,12 +14225,12 @@
 отылило	V,PST,SG,NEUT
 
 уделив	V.CVB,PST
-уделим	V,FUT,1,PL
-уделю	V,FUT,1,SG
-уделите	V,FUT,2,PL
-уделишь	V,FUT,2,SG
-уделят	V,FUT,3,PL
-уделит	V,FUT,3,SG
+уделим	V,PRS,1,PL
+уделю	V,PRS,1,SG
+уделите	V,PRS,2,PL
+уделишь	V,PRS,2,SG
+уделят	V,PRS,3,PL
+уделит	V,PRS,3,SG
 уделите	V,IMP,2,PL
 удели	V,IMP,2,SG
 уделить	V,NFIN
@@ -14240,12 +14240,12 @@
 уделило	V,PST,SG,NEUT
 
 вовлёкши	V.CVB,PST
-вовлечем	V,FUT,1,PL
-вовлеку	V,FUT,1,SG
-вовлечете	V,FUT,2,PL
-вовлечешь	V,FUT,2,SG
-вовлекут	V,FUT,3,PL
-вовлечет	V,FUT,3,SG
+вовлечем	V,PRS,1,PL
+вовлеку	V,PRS,1,SG
+вовлечете	V,PRS,2,PL
+вовлечешь	V,PRS,2,SG
+вовлекут	V,PRS,3,PL
+вовлечет	V,PRS,3,SG
 вовлеките	V,IMP,2,PL
 вовлеки	V,IMP,2,SG
 вовлечь	V,NFIN
@@ -14255,12 +14255,12 @@
 вовлекло	V,PST,SG,NEUT
 
 высмотрев	V.CVB,PST
-высмотрим	V,FUT,1,PL
-высмотрю	V,FUT,1,SG
-высмотрите	V,FUT,2,PL
-высмотришь	V,FUT,2,SG
-высмотрят	V,FUT,3,PL
-высмотрит	V,FUT,3,SG
+высмотрим	V,PRS,1,PL
+высмотрю	V,PRS,1,SG
+высмотрите	V,PRS,2,PL
+высмотришь	V,PRS,2,SG
+высмотрят	V,PRS,3,PL
+высмотрит	V,PRS,3,SG
 высмотрите	V,IMP,2,PL
 высмотри	V,IMP,2,SG
 высмотреть	V,NFIN
@@ -14286,12 +14286,12 @@
 грохотало	V,PST,SG,NEUT
 
 почудачив	V.CVB,PST
-почудачим	V,FUT,1,PL
-почудачу	V,FUT,1,SG
-почудачите	V,FUT,2,PL
-почудачишь	V,FUT,2,SG
-почудачат	V,FUT,3,PL
-почудачит	V,FUT,3,SG
+почудачим	V,PRS,1,PL
+почудачу	V,PRS,1,SG
+почудачите	V,PRS,2,PL
+почудачишь	V,PRS,2,SG
+почудачат	V,PRS,3,PL
+почудачит	V,PRS,3,SG
 почудачьте	V,IMP,2,PL
 почудачь	V,IMP,2,SG
 почудачить	V,NFIN
@@ -14333,12 +14333,12 @@
 керосинило	V,PST,SG,NEUT
 
 переложив	V.CVB,PST
-переложим	V,FUT,1,PL
-переложу	V,FUT,1,SG
-переложите	V,FUT,2,PL
-переложишь	V,FUT,2,SG
-переложат	V,FUT,3,PL
-переложит	V,FUT,3,SG
+переложим	V,PRS,1,PL
+переложу	V,PRS,1,SG
+переложите	V,PRS,2,PL
+переложишь	V,PRS,2,SG
+переложат	V,PRS,3,PL
+переложит	V,PRS,3,SG
 переложите	V,IMP,2,PL
 переложи	V,IMP,2,SG
 переложить	V,NFIN
@@ -14364,12 +14364,12 @@
 мотало	V,PST,SG,NEUT
 
 зажмурив	V.CVB,PST
-зажмурим	V,FUT,1,PL
-зажмурю	V,FUT,1,SG
-зажмурите	V,FUT,2,PL
-зажмуришь	V,FUT,2,SG
-зажмурят	V,FUT,3,PL
-зажмурит	V,FUT,3,SG
+зажмурим	V,PRS,1,PL
+зажмурю	V,PRS,1,SG
+зажмурите	V,PRS,2,PL
+зажмуришь	V,PRS,2,SG
+зажмурят	V,PRS,3,PL
+зажмурит	V,PRS,3,SG
 зажмурьте	V,IMP,2,PL
 зажмурь	V,IMP,2,SG
 зажмурить	V,NFIN
@@ -14395,12 +14395,12 @@
 сторонилось	V,PST,SG,NEUT
 
 побрезговав	V.CVB,PST
-побрезгуем	V,FUT,1,PL
-побрезгую	V,FUT,1,SG
-побрезгуете	V,FUT,2,PL
-побрезгуешь	V,FUT,2,SG
-побрезгуют	V,FUT,3,PL
-побрезгует	V,FUT,3,SG
+побрезгуем	V,PRS,1,PL
+побрезгую	V,PRS,1,SG
+побрезгуете	V,PRS,2,PL
+побрезгуешь	V,PRS,2,SG
+побрезгуют	V,PRS,3,PL
+побрезгует	V,PRS,3,SG
 побрезгуйте	V,IMP,2,PL
 побрезгуй	V,IMP,2,SG
 побрезговать	V,NFIN
@@ -14410,12 +14410,12 @@
 побрезговало	V,PST,SG,NEUT
 
 смонтировав	V.CVB,PST
-смонтируем	V,FUT,1,PL
-смонтирую	V,FUT,1,SG
-смонтируете	V,FUT,2,PL
-смонтируешь	V,FUT,2,SG
-смонтируют	V,FUT,3,PL
-смонтирует	V,FUT,3,SG
+смонтируем	V,PRS,1,PL
+смонтирую	V,PRS,1,SG
+смонтируете	V,PRS,2,PL
+смонтируешь	V,PRS,2,SG
+смонтируют	V,PRS,3,PL
+смонтирует	V,PRS,3,SG
 смонтируйте	V,IMP,2,PL
 смонтируй	V,IMP,2,SG
 смонтировать	V,NFIN
@@ -14457,12 +14457,12 @@
 колыхалось	V,PST,SG,NEUT
 
 подрочив	V.CVB,PST
-подрочим	V,FUT,1,PL
-подрочу	V,FUT,1,SG
-подрочите	V,FUT,2,PL
-подрочишь	V,FUT,2,SG
-подрочат	V,FUT,3,PL
-подрочит	V,FUT,3,SG
+подрочим	V,PRS,1,PL
+подрочу	V,PRS,1,SG
+подрочите	V,PRS,2,PL
+подрочишь	V,PRS,2,SG
+подрочат	V,PRS,3,PL
+подрочит	V,PRS,3,SG
 подрочите	V,IMP,2,PL
 подрочи	V,IMP,2,SG
 подрочить	V,NFIN
@@ -14488,12 +14488,12 @@
 выпиливало	V,PST,SG,NEUT
 
 загоревшись	V.CVB,PST
-загоримся	V,FUT,1,PL
-загорюсь	V,FUT,1,SG
-загоритесь	V,FUT,2,PL
-загоришься	V,FUT,2,SG
-загорятся	V,FUT,3,PL
-загорится	V,FUT,3,SG
+загоримся	V,PRS,1,PL
+загорюсь	V,PRS,1,SG
+загоритесь	V,PRS,2,PL
+загоришься	V,PRS,2,SG
+загорятся	V,PRS,3,PL
+загорится	V,PRS,3,SG
 загоритесь	V,IMP,2,PL
 загорись	V,IMP,2,SG
 загореться	V,NFIN
@@ -14503,12 +14503,12 @@
 загорелось	V,PST,SG,NEUT
 
 переспав	V.CVB,PST
-переспим	V,FUT,1,PL
-пересплю	V,FUT,1,SG
-переспите	V,FUT,2,PL
-переспишь	V,FUT,2,SG
-переспят	V,FUT,3,PL
-переспит	V,FUT,3,SG
+переспим	V,PRS,1,PL
+пересплю	V,PRS,1,SG
+переспите	V,PRS,2,PL
+переспишь	V,PRS,2,SG
+переспят	V,PRS,3,PL
+переспит	V,PRS,3,SG
 переспите	V,IMP,2,PL
 переспи	V,IMP,2,SG
 переспать	V,NFIN
@@ -14534,12 +14534,12 @@
 благоухало	V,PST,SG,NEUT
 
 продавшись	V.CVB,PST
-продадимся	V,FUT,1,PL
-продамся	V,FUT,1,SG
-продадитесь	V,FUT,2,PL
-продашься	V,FUT,2,SG
-продадутся	V,FUT,3,PL
-продастся	V,FUT,3,SG
+продадимся	V,PRS,1,PL
+продамся	V,PRS,1,SG
+продадитесь	V,PRS,2,PL
+продашься	V,PRS,2,SG
+продадутся	V,PRS,3,PL
+продастся	V,PRS,3,SG
 продайтесь	V,IMP,2,PL
 продайся	V,IMP,2,SG
 продаться	V,NFIN
@@ -14581,12 +14581,12 @@
 смещалось	V,PST,SG,NEUT
 
 втянувшись	V.CVB,PST
-втянемся	V,FUT,1,PL
-втянусь	V,FUT,1,SG
-втянетесь	V,FUT,2,PL
-втянешься	V,FUT,2,SG
-втянутся	V,FUT,3,PL
-втянется	V,FUT,3,SG
+втянемся	V,PRS,1,PL
+втянусь	V,PRS,1,SG
+втянетесь	V,PRS,2,PL
+втянешься	V,PRS,2,SG
+втянутся	V,PRS,3,PL
+втянется	V,PRS,3,SG
 втянитесь	V,IMP,2,PL
 втянись	V,IMP,2,SG
 втянуться	V,NFIN
@@ -14596,12 +14596,12 @@
 втянулось	V,PST,SG,NEUT
 
 вымокши	V.CVB,PST
-вымокнем	V,FUT,1,PL
-вымокну	V,FUT,1,SG
-вымокнете	V,FUT,2,PL
-вымокнешь	V,FUT,2,SG
-вымокнут	V,FUT,3,PL
-вымокнет	V,FUT,3,SG
+вымокнем	V,PRS,1,PL
+вымокну	V,PRS,1,SG
+вымокнете	V,PRS,2,PL
+вымокнешь	V,PRS,2,SG
+вымокнут	V,PRS,3,PL
+вымокнет	V,PRS,3,SG
 вымокните	V,IMP,2,PL
 вымокни	V,IMP,2,SG
 вымокнуть	V,NFIN
@@ -14611,12 +14611,12 @@
 вымокло	V,PST,SG,NEUT
 
 шарахнувшись	V.CVB,PST
-шарахнемся	V,FUT,1,PL
-шарахнусь	V,FUT,1,SG
-шарахнетесь	V,FUT,2,PL
-шарахнешься	V,FUT,2,SG
-шарахнутся	V,FUT,3,PL
-шарахнется	V,FUT,3,SG
+шарахнемся	V,PRS,1,PL
+шарахнусь	V,PRS,1,SG
+шарахнетесь	V,PRS,2,PL
+шарахнешься	V,PRS,2,SG
+шарахнутся	V,PRS,3,PL
+шарахнется	V,PRS,3,SG
 шарахнитесь	V,IMP,2,PL
 шарахнись	V,IMP,2,SG
 шарахнуться	V,NFIN
@@ -14674,12 +14674,12 @@
 встраивало	V,PST,SG,NEUT
 
 угомонив	V.CVB,PST
-угомоним	V,FUT,1,PL
-угомоню	V,FUT,1,SG
-угомоните	V,FUT,2,PL
-угомонишь	V,FUT,2,SG
-угомонят	V,FUT,3,PL
-угомонит	V,FUT,3,SG
+угомоним	V,PRS,1,PL
+угомоню	V,PRS,1,SG
+угомоните	V,PRS,2,PL
+угомонишь	V,PRS,2,SG
+угомонят	V,PRS,3,PL
+угомонит	V,PRS,3,SG
 угомоните	V,IMP,2,PL
 угомони	V,IMP,2,SG
 угомонить	V,NFIN
@@ -14705,12 +14705,12 @@
 поджимало	V,PST,SG,NEUT
 
 слопав	V.CVB,PST
-слопаем	V,FUT,1,PL
-слопаю	V,FUT,1,SG
-слопаете	V,FUT,2,PL
-слопаешь	V,FUT,2,SG
-слопают	V,FUT,3,PL
-слопает	V,FUT,3,SG
+слопаем	V,PRS,1,PL
+слопаю	V,PRS,1,SG
+слопаете	V,PRS,2,PL
+слопаешь	V,PRS,2,SG
+слопают	V,PRS,3,PL
+слопает	V,PRS,3,SG
 слопайте	V,IMP,2,PL
 слопай	V,IMP,2,SG
 слопать	V,NFIN
@@ -14720,12 +14720,12 @@
 слопало	V,PST,SG,NEUT
 
 расплакавшись	V.CVB,PST
-расплачемся	V,FUT,1,PL
-расплачусь	V,FUT,1,SG
-расплачетесь	V,FUT,2,PL
-расплачешься	V,FUT,2,SG
-расплачутся	V,FUT,3,PL
-расплачется	V,FUT,3,SG
+расплачемся	V,PRS,1,PL
+расплачусь	V,PRS,1,SG
+расплачетесь	V,PRS,2,PL
+расплачешься	V,PRS,2,SG
+расплачутся	V,PRS,3,PL
+расплачется	V,PRS,3,SG
 расплачьтесь	V,IMP,2,PL
 расплачься	V,IMP,2,SG
 расплакаться	V,NFIN
@@ -14783,12 +14783,12 @@
 оголяло	V,PST,SG,NEUT
 
 вывалившись	V.CVB,PST
-вывалимся	V,FUT,1,PL
-вывалюсь	V,FUT,1,SG
-вывалитесь	V,FUT,2,PL
-вывалишься	V,FUT,2,SG
-вывалятся	V,FUT,3,PL
-вывалится	V,FUT,3,SG
+вывалимся	V,PRS,1,PL
+вывалюсь	V,PRS,1,SG
+вывалитесь	V,PRS,2,PL
+вывалишься	V,PRS,2,SG
+вывалятся	V,PRS,3,PL
+вывалится	V,PRS,3,SG
 вывалитесь	V,IMP,2,PL
 вывались	V,IMP,2,SG
 вывалиться	V,NFIN
@@ -14798,12 +14798,12 @@
 вывалилось	V,PST,SG,NEUT
 
 снизойдя	V.CVB,PST
-снизойдем	V,FUT,1,PL
-снизойду	V,FUT,1,SG
-снизойдете	V,FUT,2,PL
-снизойдешь	V,FUT,2,SG
-снизойдут	V,FUT,3,PL
-снизойдет	V,FUT,3,SG
+снизойдем	V,PRS,1,PL
+снизойду	V,PRS,1,SG
+снизойдете	V,PRS,2,PL
+снизойдешь	V,PRS,2,SG
+снизойдут	V,PRS,3,PL
+снизойдет	V,PRS,3,SG
 снизойдите	V,IMP,2,PL
 снизойди	V,IMP,2,SG
 снизойти	V,NFIN
@@ -14861,12 +14861,12 @@
 сумасшествовало	V,PST,SG,NEUT
 
 разгромив	V.CVB,PST
-разгромим	V,FUT,1,PL
-разгромлю	V,FUT,1,SG
-разгромите	V,FUT,2,PL
-разгромишь	V,FUT,2,SG
-разгромят	V,FUT,3,PL
-разгромит	V,FUT,3,SG
+разгромим	V,PRS,1,PL
+разгромлю	V,PRS,1,SG
+разгромите	V,PRS,2,PL
+разгромишь	V,PRS,2,SG
+разгромят	V,PRS,3,PL
+разгромит	V,PRS,3,SG
 разгромите	V,IMP,2,PL
 разгроми	V,IMP,2,SG
 разгромить	V,NFIN
@@ -14924,12 +14924,12 @@
 запрягало	V,PST,SG,NEUT
 
 сконцентрировав	V.CVB,PST
-сконцентрируем	V,FUT,1,PL
-сконцентрирую	V,FUT,1,SG
-сконцентрируете	V,FUT,2,PL
-сконцентрируешь	V,FUT,2,SG
-сконцентрируют	V,FUT,3,PL
-сконцентрирует	V,FUT,3,SG
+сконцентрируем	V,PRS,1,PL
+сконцентрирую	V,PRS,1,SG
+сконцентрируете	V,PRS,2,PL
+сконцентрируешь	V,PRS,2,SG
+сконцентрируют	V,PRS,3,PL
+сконцентрирует	V,PRS,3,SG
 сконцентрируйте	V,IMP,2,PL
 сконцентрируй	V,IMP,2,SG
 сконцентрировать	V,NFIN
@@ -14939,12 +14939,12 @@
 сконцентрировало	V,PST,SG,NEUT
 
 содрав	V.CVB,PST
-сдерем	V,FUT,1,PL
-сдеру	V,FUT,1,SG
-сдерете	V,FUT,2,PL
-сдерешь	V,FUT,2,SG
-сдерут	V,FUT,3,PL
-сдерет	V,FUT,3,SG
+сдерем	V,PRS,1,PL
+сдеру	V,PRS,1,SG
+сдерете	V,PRS,2,PL
+сдерешь	V,PRS,2,SG
+сдерут	V,PRS,3,PL
+сдерет	V,PRS,3,SG
 сдерите	V,IMP,2,PL
 сдери	V,IMP,2,SG
 содрать	V,NFIN
@@ -14954,12 +14954,12 @@
 содрало	V,PST,SG,NEUT
 
 вывалявшись	V.CVB,PST
-вываляемся	V,FUT,1,PL
-вываляюсь	V,FUT,1,SG
-вываляетесь	V,FUT,2,PL
-вываляешься	V,FUT,2,SG
-вываляются	V,FUT,3,PL
-вываляется	V,FUT,3,SG
+вываляемся	V,PRS,1,PL
+вываляюсь	V,PRS,1,SG
+вываляетесь	V,PRS,2,PL
+вываляешься	V,PRS,2,SG
+вываляются	V,PRS,3,PL
+вываляется	V,PRS,3,SG
 вываляйтесь	V,IMP,2,PL
 вываляйся	V,IMP,2,SG
 вываляться	V,NFIN
@@ -15001,12 +15001,12 @@
 тщилось	V,PST,SG,NEUT
 
 заржавев	V.CVB,PST
-заржавеем	V,FUT,1,PL
-заржавею	V,FUT,1,SG
-заржавеете	V,FUT,2,PL
-заржавеешь	V,FUT,2,SG
-заржавеют	V,FUT,3,PL
-заржавеет	V,FUT,3,SG
+заржавеем	V,PRS,1,PL
+заржавею	V,PRS,1,SG
+заржавеете	V,PRS,2,PL
+заржавеешь	V,PRS,2,SG
+заржавеют	V,PRS,3,PL
+заржавеет	V,PRS,3,SG
 заржавейте	V,IMP,2,PL
 заржавей	V,IMP,2,SG
 заржаветь	V,NFIN
@@ -15016,12 +15016,12 @@
 заржавело	V,PST,SG,NEUT
 
 оторвавшись	V.CVB,PST
-оторвемся	V,FUT,1,PL
-оторвусь	V,FUT,1,SG
-оторветесь	V,FUT,2,PL
-оторвешься	V,FUT,2,SG
-оторвутся	V,FUT,3,PL
-оторвется	V,FUT,3,SG
+оторвемся	V,PRS,1,PL
+оторвусь	V,PRS,1,SG
+оторветесь	V,PRS,2,PL
+оторвешься	V,PRS,2,SG
+оторвутся	V,PRS,3,PL
+оторвется	V,PRS,3,SG
 оторвитесь	V,IMP,2,PL
 оторвись	V,IMP,2,SG
 оторваться	V,NFIN
@@ -15031,12 +15031,12 @@
 оторвалось	V,PST,SG,NEUT
 
 упомянув	V.CVB,PST
-упомянем	V,FUT,1,PL
-упомяну	V,FUT,1,SG
-упомянете	V,FUT,2,PL
-упомянешь	V,FUT,2,SG
-упомянут	V,FUT,3,PL
-упомянет	V,FUT,3,SG
+упомянем	V,PRS,1,PL
+упомяну	V,PRS,1,SG
+упомянете	V,PRS,2,PL
+упомянешь	V,PRS,2,SG
+упомянут	V,PRS,3,PL
+упомянет	V,PRS,3,SG
 упомяните	V,IMP,2,PL
 упомяни	V,IMP,2,SG
 упомянуть	V,NFIN
@@ -15046,12 +15046,12 @@
 упомянуло	V,PST,SG,NEUT
 
 сокрушив	V.CVB,PST
-сокрушим	V,FUT,1,PL
-сокрушу	V,FUT,1,SG
-сокрушите	V,FUT,2,PL
-сокрушишь	V,FUT,2,SG
-сокрушат	V,FUT,3,PL
-сокрушит	V,FUT,3,SG
+сокрушим	V,PRS,1,PL
+сокрушу	V,PRS,1,SG
+сокрушите	V,PRS,2,PL
+сокрушишь	V,PRS,2,SG
+сокрушат	V,PRS,3,PL
+сокрушит	V,PRS,3,SG
 сокрушите	V,IMP,2,PL
 сокруши	V,IMP,2,SG
 сокрушить	V,NFIN
@@ -15093,12 +15093,12 @@
 дорожало	V,PST,SG,NEUT
 
 блеванув	V.CVB,PST
-блеванем	V,FUT,1,PL
-блевану	V,FUT,1,SG
-блеванете	V,FUT,2,PL
-блеванешь	V,FUT,2,SG
-блеванут	V,FUT,3,PL
-блеванет	V,FUT,3,SG
+блеванем	V,PRS,1,PL
+блевану	V,PRS,1,SG
+блеванете	V,PRS,2,PL
+блеванешь	V,PRS,2,SG
+блеванут	V,PRS,3,PL
+блеванет	V,PRS,3,SG
 блеваните	V,IMP,2,PL
 блевани	V,IMP,2,SG
 блевануть	V,NFIN
@@ -15108,12 +15108,12 @@
 блевануло	V,PST,SG,NEUT
 
 заплетясь	V.CVB,PST
-заплетемся	V,FUT,1,PL
-заплетусь	V,FUT,1,SG
-заплететесь	V,FUT,2,PL
-заплетешься	V,FUT,2,SG
-заплетутся	V,FUT,3,PL
-заплетется	V,FUT,3,SG
+заплетемся	V,PRS,1,PL
+заплетусь	V,PRS,1,SG
+заплететесь	V,PRS,2,PL
+заплетешься	V,PRS,2,SG
+заплетутся	V,PRS,3,PL
+заплетется	V,PRS,3,SG
 заплетитесь	V,IMP,2,PL
 заплетись	V,IMP,2,SG
 заплестись	V,NFIN
@@ -15139,12 +15139,12 @@
 вздёргивало	V,PST,SG,NEUT
 
 отставив	V.CVB,PST
-отставим	V,FUT,1,PL
-отставлю	V,FUT,1,SG
-отставите	V,FUT,2,PL
-отставишь	V,FUT,2,SG
-отставят	V,FUT,3,PL
-отставит	V,FUT,3,SG
+отставим	V,PRS,1,PL
+отставлю	V,PRS,1,SG
+отставите	V,PRS,2,PL
+отставишь	V,PRS,2,SG
+отставят	V,PRS,3,PL
+отставит	V,PRS,3,SG
 отставьте	V,IMP,2,PL
 отставь	V,IMP,2,SG
 отставить	V,NFIN
@@ -15154,12 +15154,12 @@
 отставило	V,PST,SG,NEUT
 
 подыскав	V.CVB,PST
-подыщем	V,FUT,1,PL
-подыщу	V,FUT,1,SG
-подыщете	V,FUT,2,PL
-подыщешь	V,FUT,2,SG
-подыщут	V,FUT,3,PL
-подыщет	V,FUT,3,SG
+подыщем	V,PRS,1,PL
+подыщу	V,PRS,1,SG
+подыщете	V,PRS,2,PL
+подыщешь	V,PRS,2,SG
+подыщут	V,PRS,3,PL
+подыщет	V,PRS,3,SG
 подыщите	V,IMP,2,PL
 подыщи	V,IMP,2,SG
 подыскать	V,NFIN
@@ -15217,12 +15217,12 @@
 приваливало	V,PST,SG,NEUT
 
 вознамерившись	V.CVB,PST
-вознамеримся	V,FUT,1,PL
-вознамерюсь	V,FUT,1,SG
-вознамеритесь	V,FUT,2,PL
-вознамеришься	V,FUT,2,SG
-вознамерятся	V,FUT,3,PL
-вознамерится	V,FUT,3,SG
+вознамеримся	V,PRS,1,PL
+вознамерюсь	V,PRS,1,SG
+вознамеритесь	V,PRS,2,PL
+вознамеришься	V,PRS,2,SG
+вознамерятся	V,PRS,3,PL
+вознамерится	V,PRS,3,SG
 вознамерьтесь	V,IMP,2,PL
 вознамерься	V,IMP,2,SG
 вознамериться	V,NFIN
@@ -15232,12 +15232,12 @@
 вознамерилось	V,PST,SG,NEUT
 
 изогнувшись	V.CVB,PST
-изогнемся	V,FUT,1,PL
-изогнусь	V,FUT,1,SG
-изогнетесь	V,FUT,2,PL
-изогнешься	V,FUT,2,SG
-изогнутся	V,FUT,3,PL
-изогнется	V,FUT,3,SG
+изогнемся	V,PRS,1,PL
+изогнусь	V,PRS,1,SG
+изогнетесь	V,PRS,2,PL
+изогнешься	V,PRS,2,SG
+изогнутся	V,PRS,3,PL
+изогнется	V,PRS,3,SG
 изогнитесь	V,IMP,2,PL
 изогнись	V,IMP,2,SG
 изогнуться	V,NFIN
@@ -15247,73 +15247,12 @@
 изогнулось	V,PST,SG,NEUT
 
 записавшись	V.CVB,PST
-запишемся	V,FUT,1,PL
-запишусь	V,FUT,1,SG
-запишетесь	V,FUT,2,PL
-запишешься	V,FUT,2,SG
-запишутся	V,FUT,3,PL
-запишется	V,FUT,3,SG
-запишитесь	V,IMP,2,PL
-запишись	V,IMP,2,SG
-записаться	V,NFIN
-записались	V,PST,PL
-записалась	V,PST,SG,FEM
-записался	V,PST,SG,MASC
-записалось	V,PST,SG,NEUT
-
-сломаясь	V.CVB,PRS
-сломавшись	V.CVB,PST
-сломайтесь	V,IMP,2,PL
-сломайся	V,IMP,2,SG
-сломаться	V,NFIN
-сломаемся	V,PRS,1,PL
-сломаюсь	V,PRS,1,SG
-сломаетесь	V,PRS,2,PL
-сломаешься	V,PRS,2,SG
-сломаются	V,PRS,3,PL
-сломается	V,PRS,3,SG
-сломались	V,PST,PL
-сломалась	V,PST,SG,FEM
-сломался	V,PST,SG,MASC
-сломалось	V,PST,SG,NEUT
-
-порхая	V.CVB,PRS
-порхав	V.CVB,PST
-порхайте	V,IMP,2,PL
-порхай	V,IMP,2,SG
-порхать	V,NFIN
-порхаем	V,PRS,1,PL
-порхаю	V,PRS,1,SG
-порхаете	V,PRS,2,PL
-порхаешь	V,PRS,2,SG
-вознамериться	V,NFIN
-вознамерились	V,PST,PL
-вознамерилась	V,PST,SG,FEM
-вознамерился	V,PST,SG,MASC
-вознамерилось	V,PST,SG,NEUT
-
-изогнувшись	V.CVB,PST
-изогнемся	V,FUT,1,PL
-изогнусь	V,FUT,1,SG
-изогнетесь	V,FUT,2,PL
-изогнешься	V,FUT,2,SG
-изогнутся	V,FUT,3,PL
-изогнется	V,FUT,3,SG
-изогнитесь	V,IMP,2,PL
-изогнись	V,IMP,2,SG
-изогнуться	V,NFIN
-изогнулись	V,PST,PL
-изогнулась	V,PST,SG,FEM
-изогнулся	V,PST,SG,MASC
-изогнулось	V,PST,SG,NEUT
-
-записавшись	V.CVB,PST
-запишемся	V,FUT,1,PL
-запишусь	V,FUT,1,SG
-запишетесь	V,FUT,2,PL
-запишешься	V,FUT,2,SG
-запишутся	V,FUT,3,PL
-запишется	V,FUT,3,SG
+запишемся	V,PRS,1,PL
+запишусь	V,PRS,1,SG
+запишетесь	V,PRS,2,PL
+запишешься	V,PRS,2,SG
+запишутся	V,PRS,3,PL
+запишется	V,PRS,3,SG
 запишитесь	V,IMP,2,PL
 запишись	V,IMP,2,SG
 записаться	V,NFIN
@@ -15371,12 +15310,12 @@
 прицепляло	V,PST,SG,NEUT
 
 состарив	V.CVB,PST
-состарим	V,FUT,1,PL
-состарю	V,FUT,1,SG
-состарите	V,FUT,2,PL
-состаришь	V,FUT,2,SG
-состарят	V,FUT,3,PL
-состарит	V,FUT,3,SG
+состарим	V,PRS,1,PL
+состарю	V,PRS,1,SG
+состарите	V,PRS,2,PL
+состаришь	V,PRS,2,SG
+состарят	V,PRS,3,PL
+состарит	V,PRS,3,SG
 состарьте	V,IMP,2,PL
 состарь	V,IMP,2,SG
 состарить	V,NFIN
@@ -15416,4 +15355,3 @@
 соперничала	V,PST,SG,FEM
 соперничал	V,PST,SG,MASC
 соперничало	V,PST,SG,NEUT
-
