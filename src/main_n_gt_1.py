@@ -24,6 +24,7 @@ def get_covered_labels(data):
         assert len(labels)==2
         covered_labels.add(labels[0])
         covered_labels.add(labels[1])
+    print(f'{len(covered_labels)} covered labels.')
     return covered_labels
 
 def pack_params(train_module):
@@ -48,7 +49,7 @@ if __name__ == '__main__':
     addition = argv[2] if len(argv)==3 else ''
     assert language in meta, paradigm in meta
     if OrigData:
-        os.path.join(inflec_data_dir, f'{language}.um.{paradigm}.3.txt')
+        data_path = os.path.join(inflec_data_dir, f'{language}.um.{paradigm}.3.txt')
         model_path = os.path.join(model_dir_path, f'{language}.um.{paradigm}_model')
         write_path = os.path.join(model_dir_path, f'{language}.um.{paradigm}_output.txt')
 
@@ -63,7 +64,6 @@ if __name__ == '__main__':
         data, added_examples = train_n_gt_1.my_readdata(data_path)
 
     covered_labels = get_covered_labels(data)
-    print(f'{len(covered_labels)} covered labels.')
     added_examples_per_label = create_examples_per_label(added_examples)
     train_n_gt_1.init()
     train_n_gt_1.train(train_n_gt_1.model, data)
