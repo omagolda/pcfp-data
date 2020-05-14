@@ -6,8 +6,8 @@ from hyper_params import *
 
 def get_meta():
     if OnlySup:
-        return language+paradigm + '_only5sup'
-    meta = language+paradigm + '_all-ns_5sup'
+        return language+paradigm + f'_only{Supervision}sup'
+    meta = language+paradigm + f'_all-ns_{Supervision}sup'
     if minidict:
         meta += '_minidict'
     meta += f'_enhance_{enhance_iters}'
@@ -82,7 +82,3 @@ if __name__ == '__main__':
     # test_n_gt_1.model.populate(model_path)
     all_labels = list(answers[0].keys())
     accuracy = test_n_gt_1.test(data, None, answers, write_path, added_examples, added_examples_per_label, covered_labels)
-
-
-
-

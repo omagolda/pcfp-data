@@ -9,6 +9,7 @@ minidict = True
 enhance_iters = 0
 OrigData = False
 OnlySup = False
+Supervision = 5
 
 # HPs from train
 EPOCHS=50
