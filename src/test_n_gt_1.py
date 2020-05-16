@@ -220,11 +220,11 @@ def weight_vote(outputs, relation_distrusts, labels_distrust):
         return Counter(outputs).most_common()[0][0]
 
     elif set(relation_distrusts) != {None}:
-        rds = [d for d in relation_distrusts if d is not None]
+        rds = [d if d is not None else 10000000 for d in relation_distrusts]
         return outputs[relation_distrusts.index(min(rds))]
 
     elif set(labels_distrust) != {None}:
-        lds = [d for d in labels_distrust if d is not None]
+        lds = [d if d is not None else 10000000 for d in labels_distrust]
         return outputs[labels_distrust.index(min(lds))]
 
     else:
