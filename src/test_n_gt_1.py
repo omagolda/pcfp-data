@@ -208,6 +208,7 @@ def readtestdata(fn):
     return data
 
 def vote(outputs):
+    outputs = [output for output in outputs if output]
     return Counter(outputs).most_common()[0][0]
 
 def weight_vote(outputs, relation_distrusts, labels_distrust):
@@ -231,7 +232,9 @@ def weight_vote(outputs, relation_distrusts, labels_distrust):
 
 def test(partial_data, all_labels, answers, write_path, relations_distrust, labels_distrust, covered_labels=None):
     with open(write_path, 'w', encoding='utf8') as f:
+        predicts = []
         for i, d in enumerate(partial_data):
+            p = {}
             dy.renew_cg()
             forms = [[c for c in wf] + ['+'] + l.split(',')
                      for l,wf in d.items() if wf != None]
@@ -246,32 +249,36 @@ def test(partial_data, all_labels, answers, write_path, relations_distrust, labe
             for l in all_relevant_labels:
                 # if d[l] == None:
                 if d.get(l, None) == None:
+
                     if covered_labels and ';'.join(l.split(',')) not in covered_labels:
                         continue
                     inputs = [f + ['+'] + l.split(',') for f in forms]
                     relations = []
                     outputs = []
                     for i, input in enumerate(inputs):
+                        relations.append(labels[i] + ' ' + ';'.join(l.split(',')))
                         try:
                             outputs.append(generate(input, enc_fwd_lstm, enc_bwd_lstm, dec_lstm))
-                            relations.append(labels[i]+' '+';'.join(l.split(',')))
                         except KeyError:
-                            continue
-                    if len(outputs)<=0:
-                        continue
+                            outputs.append(None)
+                    if len([output for output in outputs if output])<=0:
+                        p[l] = None
                     if WeightInVote:
-                        d[l] = weight_vote(outputs,
+                        p[l] = weight_vote(outputs,
                                            [relations_distrust.get(relation, None) for relation in relations],
                                            [labels_distrust.get(relation.split()[0], None) for relation in relations])
                     else:
-                        d[l] = vote(outputs)
+                        p[l] = vote(outputs)
             for l in d:
                 print("%s\t%s" % (d[l],l), file=f)
+            for l in p:
+                print("%s\t%s" % (p[l], l), file=f)
             print('', file=f)
+            predicts.append(p)
 
     corrects = 0
     tot = 0
-    for i, d in enumerate(partial_data):
+    for i, d in enumerate(predicts):
         for l in d:
             tot += 1
             if d[l] == answers[i][l]:
