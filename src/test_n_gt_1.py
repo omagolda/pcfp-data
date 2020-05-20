@@ -263,6 +263,7 @@ def test(partial_data, all_labels, answers, write_path, relations_distrust, labe
                             outputs.append(None)
                     if len([output for output in outputs if output])<=0:
                         p[l] = None
+                        continue
                     if WeightInVote:
                         p[l] = weight_vote(outputs,
                                            [relations_distrust.get(relation, None) for relation in relations],
