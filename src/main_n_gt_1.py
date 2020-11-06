@@ -4,15 +4,15 @@ from sys import argv
 import os
 from hyper_params import *
 
-def get_meta():
-    if OnlySup:
-        return language+paradigm + f'_only{Supervision}sup'
-    meta = language+paradigm + f'_all-ns_{Supervision}sup'
-    if minidict:
-        meta += '_minidict'
-    meta += f'_enhance_{enhance_iters}'
-    meta += '_max'
-    return meta
+# def get_meta():
+#     if OnlySup:
+#         return language+paradigm + f'_only{Supervision}sup'
+#     meta = language+paradigm + f'_all-ns_{Supervision}sup'
+#     if minidict:
+#         meta += '_minidict'
+#     meta += f'_enhance_{enhance_iters}'
+#     meta += '_max'
+#     return meta
 
 def get_covered_labels(data):
     if not include_only_covered_labels:
@@ -46,19 +46,18 @@ def create_examples_per_label(added_examples):
     return added_examples_per_label
 
 if __name__ == '__main__':
-    meta = get_meta()
-    assert language+paradigm in meta
-    addition = argv[2] if len(argv)==3 else ''
-    assert language in meta, paradigm in meta
+    # meta = get_meta()
+    assert language+paradigm in exp_dir
     if OrigData:
         data_path = os.path.join(inflec_data_dir, f'{language}.um.{paradigm}.3.txt')
         model_path = os.path.join(model_dir_path, f'{language}.um.{paradigm}_model')
         write_path = os.path.join(model_dir_path, f'{language}.um.{paradigm}_output.txt')
 
     else:
-        data_path = os.path.join(algo_outputs_path, f'data_{meta}.txt')
-        model_path = os.path.join(model_dir_path, f'{meta}{addition}_model')
-        write_path = os.path.join(model_dir_path, f'{meta}{addition}_output.txt')
+        meta = '_'.join(exp_dir.split('_')[1:]) + f'_{scoring_threshold}'
+        data_path = os.path.join(algo_outputs_path, exp_dir, f'inflec_data_{scoring_threshold}.txt')
+        model_path = os.path.join(model_dir_path, f'{meta}_model')
+        write_path = os.path.join(model_dir_path, f'{meta}_output.txt')
 
     if OrigData:
         data, added_examples = train_n_gt_1.readdata(data_path)
