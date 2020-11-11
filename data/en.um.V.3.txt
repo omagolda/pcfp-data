@@ -1,0 +1,6000 @@
+	V,3,SG,PRS
+	V,NFIN
+twisted	V,PST
+twisting	V,V.PTCP,PRS
+twisted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+stilled	V,PST
+stilling	V,V.PTCP,PRS
+stilled	V,V.PTCP,PST
+
+hunts	V,3,SG,PRS
+hunt	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+hunted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+put	V,NFIN
+put	V,PST
+putting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+opens	V,3,SG,PRS
+open	V,NFIN
+	V,PST
+opening	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+string	V,NFIN
+strung	V,PST
+	V,V.PTCP,PRS
+strung	V,V.PTCP,PST
+
+drives	V,3,SG,PRS
+	V,NFIN
+	V,PST
+driving	V,V.PTCP,PRS
+driven	V,V.PTCP,PST
+
+gardens	V,3,SG,PRS
+garden	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+gardened	V,V.PTCP,PST
+
+	V,3,SG,PRS
+rent	V,NFIN
+rented	V,PST
+renting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+respects	V,3,SG,PRS
+respect	V,NFIN
+	V,PST
+respecting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+taxes	V,3,SG,PRS
+tax	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+taxed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+enter	V,NFIN
+entered	V,PST
+	V,V.PTCP,PRS
+entered	V,V.PTCP,PST
+
+triggers	V,3,SG,PRS
+	V,NFIN
+triggered	V,PST
+	V,V.PTCP,PRS
+triggered	V,V.PTCP,PST
+
+mails	V,3,SG,PRS
+	V,NFIN
+mailed	V,PST
+mailing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+prepares	V,3,SG,PRS
+prepare	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+prepared	V,V.PTCP,PST
+
+punishes	V,3,SG,PRS
+	V,NFIN
+punished	V,PST
+punishing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+courts	V,3,SG,PRS
+court	V,NFIN
+	V,PST
+courting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+goldens	V,3,SG,PRS
+	V,NFIN
+goldened	V,PST
+goldening	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+study	V,NFIN
+studied	V,PST
+	V,V.PTCP,PRS
+studied	V,V.PTCP,PST
+
+showers	V,3,SG,PRS
+shower	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+showered	V,V.PTCP,PST
+
+	V,3,SG,PRS
+dare	V,NFIN
+dared	V,PST
+daring	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+books	V,3,SG,PRS
+	V,NFIN
+booked	V,PST
+	V,V.PTCP,PRS
+booked	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+belonged	V,PST
+belonging	V,V.PTCP,PRS
+belonged	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+litted	V,PST
+litting	V,V.PTCP,PRS
+litted	V,V.PTCP,PST
+
+brings	V,3,SG,PRS
+bring	V,NFIN
+	V,PST
+bringing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+dresses	V,3,SG,PRS
+dress	V,NFIN
+	V,PST
+dressing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+post	V,NFIN
+	V,PST
+posting	V,V.PTCP,PRS
+posted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+dig	V,NFIN
+dug	V,PST
+	V,V.PTCP,PRS
+dug	V,V.PTCP,PST
+
+	V,3,SG,PRS
+love	V,NFIN
+	V,PST
+loving	V,V.PTCP,PRS
+loved	V,V.PTCP,PST
+
+	V,3,SG,PRS
+license	V,NFIN
+licensed	V,PST
+	V,V.PTCP,PRS
+licensed	V,V.PTCP,PST
+
+companies	V,3,SG,PRS
+company	V,NFIN
+companied	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+shared	V,PST
+sharing	V,V.PTCP,PRS
+shared	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+fired	V,PST
+firing	V,V.PTCP,PRS
+fired	V,V.PTCP,PST
+
+	V,3,SG,PRS
+piss	V,NFIN
+pissed	V,PST
+	V,V.PTCP,PRS
+pissed	V,V.PTCP,PST
+
+recognizes	V,3,SG,PRS
+	V,NFIN
+	V,PST
+recognizing	V,V.PTCP,PRS
+recognized	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+deserved	V,PST
+deserving	V,V.PTCP,PRS
+deserved	V,V.PTCP,PST
+
+suspects	V,3,SG,PRS
+suspect	V,NFIN
+	V,PST
+suspecting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+skip	V,NFIN
+	V,PST
+skipping	V,V.PTCP,PRS
+skipped	V,V.PTCP,PST
+
+fasts	V,3,SG,PRS
+	V,NFIN
+	V,PST
+fasting	V,V.PTCP,PRS
+fasted	V,V.PTCP,PST
+
+admits	V,3,SG,PRS
+admit	V,NFIN
+admitted	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+disappears	V,3,SG,PRS
+	V,NFIN
+	V,PST
+disappearing	V,V.PTCP,PRS
+disappeared	V,V.PTCP,PST
+
+shames	V,3,SG,PRS
+shame	V,NFIN
+	V,PST
+shaming	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+mined	V,PST
+mining	V,V.PTCP,PRS
+mined	V,V.PTCP,PST
+
+rings	V,3,SG,PRS
+	V,NFIN
+	V,PST
+ringing	V,V.PTCP,PRS
+rung	V,V.PTCP,PST
+
+colors	V,3,SG,PRS
+color	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+colored	V,V.PTCP,PST
+
+balances	V,3,SG,PRS
+balance	V,NFIN
+balanced	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+polites	V,3,SG,PRS
+	V,NFIN
+polited	V,PST
+	V,V.PTCP,PRS
+polited	V,V.PTCP,PST
+
+lifts	V,3,SG,PRS
+	V,NFIN
+lifted	V,PST
+	V,V.PTCP,PRS
+lifted	V,V.PTCP,PST
+
+uses	V,3,SG,PRS
+	V,NFIN
+	V,PST
+using	V,V.PTCP,PRS
+used	V,V.PTCP,PST
+
+releases	V,3,SG,PRS
+release	V,NFIN
+	V,PST
+releasing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+learn	V,NFIN
+learnt	V,PST
+learning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+senses	V,3,SG,PRS
+	V,NFIN
+sensed	V,PST
+	V,V.PTCP,PRS
+sensed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+committed	V,PST
+committing	V,V.PTCP,PRS
+committed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+shy	V,NFIN
+	V,PST
+shying	V,V.PTCP,PRS
+shied	V,V.PTCP,PST
+
+milks	V,3,SG,PRS
+	V,NFIN
+milked	V,PST
+milking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+straights	V,3,SG,PRS
+straight	V,NFIN
+	V,PST
+straighting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+list	V,NFIN
+list	V,PST
+	V,V.PTCP,PRS
+list	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+owed	V,PST
+owing	V,V.PTCP,PRS
+owed	V,V.PTCP,PST
+
+shapes	V,3,SG,PRS
+	V,NFIN
+	V,PST
+shaping	V,V.PTCP,PRS
+shapen	V,V.PTCP,PST
+
+sports	V,3,SG,PRS
+	V,NFIN
+sported	V,PST
+	V,V.PTCP,PRS
+sported	V,V.PTCP,PST
+
+causes	V,3,SG,PRS
+	V,NFIN
+caused	V,PST
+	V,V.PTCP,PRS
+caused	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+waited	V,PST
+waiting	V,V.PTCP,PRS
+waited	V,V.PTCP,PST
+
+	V,3,SG,PRS
+parent	V,NFIN
+parented	V,PST
+	V,V.PTCP,PRS
+parented	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+answered	V,PST
+answering	V,V.PTCP,PRS
+answered	V,V.PTCP,PST
+
+	V,3,SG,PRS
+fill	V,NFIN
+filled	V,PST
+filling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+suggests	V,3,SG,PRS
+suggest	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+suggested	V,V.PTCP,PST
+
+fishes	V,3,SG,PRS
+fish	V,NFIN
+fished	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+dries	V,3,SG,PRS
+dry	V,NFIN
+	V,PST
+drying	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+arrests	V,3,SG,PRS
+arrest	V,NFIN
+	V,PST
+arresting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+closes	V,3,SG,PRS
+close	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+closed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+spit	V,NFIN
+	V,PST
+spitting	V,V.PTCP,PRS
+spit	V,V.PTCP,PST
+
+junks	V,3,SG,PRS
+	V,NFIN
+junked	V,PST
+junking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+out	V,NFIN
+	V,PST
+outing	V,V.PTCP,PRS
+outed	V,V.PTCP,PST
+
+chickens	V,3,SG,PRS
+	V,NFIN
+	V,PST
+chickening	V,V.PTCP,PRS
+chickened	V,V.PTCP,PST
+
+prices	V,3,SG,PRS
+	V,NFIN
+priced	V,PST
+	V,V.PTCP,PRS
+priced	V,V.PTCP,PST
+
+buddies	V,3,SG,PRS
+	V,NFIN
+buddied	V,PST
+buddying	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+ruins	V,3,SG,PRS
+	V,NFIN
+ruined	V,PST
+ruining	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+masses	V,3,SG,PRS
+	V,NFIN
+	V,PST
+massing	V,V.PTCP,PRS
+massed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+jump	V,NFIN
+jumped	V,PST
+	V,V.PTCP,PRS
+jumped	V,V.PTCP,PST
+
+	V,3,SG,PRS
+star	V,NFIN
+starred	V,PST
+	V,V.PTCP,PRS
+starred	V,V.PTCP,PST
+
+lowers	V,3,SG,PRS
+lower	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+lowered	V,V.PTCP,PST
+
+recalls	V,3,SG,PRS
+	V,NFIN
+recalled	V,PST
+recalling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+thee	V,NFIN
+theed	V,PST
+theeing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+clues	V,3,SG,PRS
+	V,NFIN
+clued	V,PST
+cluing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+upset	V,PST
+upsetting	V,V.PTCP,PRS
+upset	V,V.PTCP,PST
+
+traces	V,3,SG,PRS
+trace	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+traced	V,V.PTCP,PST
+
+	V,3,SG,PRS
+peg	V,NFIN
+pegged	V,PST
+pegging	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+wreck	V,NFIN
+	V,PST
+wrecking	V,V.PTCP,PRS
+wrecked	V,V.PTCP,PST
+
+	V,3,SG,PRS
+finish	V,NFIN
+finished	V,PST
+finishing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+chat	V,NFIN
+chatted	V,PST
+	V,V.PTCP,PRS
+chatted	V,V.PTCP,PST
+
+values	V,3,SG,PRS
+value	V,NFIN
+	V,PST
+valuing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+pictures	V,3,SG,PRS
+picture	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+pictured	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+practiced	V,PST
+practicing	V,V.PTCP,PRS
+practiced	V,V.PTCP,PST
+
+televisions	V,3,SG,PRS
+	V,NFIN
+	V,PST
+televisioning	V,V.PTCP,PRS
+televisioned	V,V.PTCP,PST
+
+swims	V,3,SG,PRS
+	V,NFIN
+swum	V,PST
+swimming	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+winds	V,3,SG,PRS
+	V,NFIN
+wound	V,PST
+	V,V.PTCP,PRS
+wound	V,V.PTCP,PST
+
+frames	V,3,SG,PRS
+	V,NFIN
+framed	V,PST
+framing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+borns	V,3,SG,PRS
+born	V,NFIN
+	V,PST
+bornin	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+celebrated	V,PST
+celebrating	V,V.PTCP,PRS
+celebrated	V,V.PTCP,PST
+
+shocks	V,3,SG,PRS
+shock	V,NFIN
+shocked	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+dumps	V,3,SG,PRS
+dump	V,NFIN
+dumped	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+bust	V,NFIN
+	V,PST
+busting	V,V.PTCP,PRS
+busted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+lap	V,NFIN
+lapped	V,PST
+	V,V.PTCP,PRS
+lapped	V,V.PTCP,PST
+
+shelters	V,3,SG,PRS
+shelter	V,NFIN
+	V,PST
+sheltering	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+corrects	V,3,SG,PRS
+correct	V,NFIN
+	V,PST
+correcting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+uniforms	V,3,SG,PRS
+	V,NFIN
+	V,PST
+uniforming	V,V.PTCP,PRS
+uniformed	V,V.PTCP,PST
+
+tails	V,3,SG,PRS
+tail	V,NFIN
+	V,PST
+tailing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+interrupts	V,3,SG,PRS
+	V,NFIN
+interrupted	V,PST
+interrupting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+numbers	V,3,SG,PRS
+	V,NFIN
+	V,PST
+numbering	V,V.PTCP,PRS
+numbered	V,V.PTCP,PST
+
+wears	V,3,SG,PRS
+	V,NFIN
+	V,PST
+wearing	V,V.PTCP,PRS
+worn	V,V.PTCP,PST
+
+draws	V,3,SG,PRS
+	V,NFIN
+drew	V,PST
+drawing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+pools	V,3,SG,PRS
+pool	V,NFIN
+	V,PST
+pooling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+murder	V,NFIN
+murdered	V,PST
+murdering	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+blesses	V,3,SG,PRS
+bless	V,NFIN
+blest	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+quarters	V,3,SG,PRS
+	V,NFIN
+quartered	V,PST
+quartering	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+insult	V,NFIN
+	V,PST
+insulting	V,V.PTCP,PRS
+insulted	V,V.PTCP,PST
+
+blocks	V,3,SG,PRS
+block	V,NFIN
+	V,PST
+blocking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+anger	V,NFIN
+angered	V,PST
+	V,V.PTCP,PRS
+angered	V,V.PTCP,PST
+
+camps	V,3,SG,PRS
+	V,NFIN
+	V,PST
+camping	V,V.PTCP,PRS
+camped	V,V.PTCP,PST
+
+	V,3,SG,PRS
+minor	V,NFIN
+	V,PST
+minoring	V,V.PTCP,PRS
+minored	V,V.PTCP,PST
+
+	V,3,SG,PRS
+wave	V,NFIN
+	V,PST
+waving	V,V.PTCP,PRS
+waved	V,V.PTCP,PST
+
+avoids	V,3,SG,PRS
+avoid	V,NFIN
+	V,PST
+avoiding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+phone	V,NFIN
+phoned	V,PST
+phoning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+denies	V,3,SG,PRS
+	V,NFIN
+denied	V,PST
+	V,V.PTCP,PRS
+denied	V,V.PTCP,PST
+
+wounds	V,3,SG,PRS
+wound	V,NFIN
+wounded	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+attacks	V,3,SG,PRS
+attack	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+attacked	V,V.PTCP,PST
+
+	V,3,SG,PRS
+mud	V,NFIN
+mudded	V,PST
+	V,V.PTCP,PRS
+mudded	V,V.PTCP,PST
+
+honors	V,3,SG,PRS
+	V,NFIN
+honored	V,PST
+honoring	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+couch	V,NFIN
+	V,PST
+couching	V,V.PTCP,PRS
+couched	V,V.PTCP,PST
+
+	V,3,SG,PRS
+warrant	V,NFIN
+warranted	V,PST
+warranting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+allow	V,NFIN
+allowed	V,PST
+allowing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+pit	V,NFIN
+pitted	V,PST
+pitting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+punk	V,NFIN
+punked	V,PST
+punking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+hires	V,3,SG,PRS
+	V,NFIN
+hired	V,PST
+	V,V.PTCP,PRS
+hired	V,V.PTCP,PST
+
+accesses	V,3,SG,PRS
+	V,NFIN
+accessed	V,PST
+	V,V.PTCP,PRS
+accessed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+tubbed	V,PST
+tubbing	V,V.PTCP,PRS
+tubbed	V,V.PTCP,PST
+
+maps	V,3,SG,PRS
+	V,NFIN
+	V,PST
+mapping	V,V.PTCP,PRS
+mapped	V,V.PTCP,PST
+
+	V,3,SG,PRS
+lock	V,NFIN
+	V,PST
+locking	V,V.PTCP,PRS
+locked	V,V.PTCP,PST
+
+	V,3,SG,PRS
+pound	V,NFIN
+pounded	V,PST
+	V,V.PTCP,PRS
+pounded	V,V.PTCP,PST
+
+houses	V,3,SG,PRS
+	V,NFIN
+	V,PST
+housing	V,V.PTCP,PRS
+housed	V,V.PTCP,PST
+
+replaces	V,3,SG,PRS
+	V,NFIN
+	V,PST
+replacing	V,V.PTCP,PRS
+replaced	V,V.PTCP,PST
+
+fakes	V,3,SG,PRS
+	V,NFIN
+faked	V,PST
+	V,V.PTCP,PRS
+faked	V,V.PTCP,PST
+
+expects	V,3,SG,PRS
+expect	V,NFIN
+	V,PST
+expecting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+bridges	V,3,SG,PRS
+	V,NFIN
+bridged	V,PST
+bridging	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+introduces	V,3,SG,PRS
+	V,NFIN
+introduced	V,PST
+introducing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+tortures	V,3,SG,PRS
+torture	V,NFIN
+tortured	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+drag	V,NFIN
+drug	V,PST
+	V,V.PTCP,PRS
+drug	V,V.PTCP,PST
+
+	V,3,SG,PRS
+behave	V,NFIN
+behaved	V,PST
+	V,V.PTCP,PRS
+behaved	V,V.PTCP,PST
+
+	V,3,SG,PRS
+schedule	V,NFIN
+scheduled	V,PST
+	V,V.PTCP,PRS
+scheduled	V,V.PTCP,PST
+
+	V,3,SG,PRS
+rise	V,NFIN
+rose	V,PST
+rising	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+grade	V,NFIN
+	V,PST
+grading	V,V.PTCP,PRS
+graded	V,V.PTCP,PST
+
+vices	V,3,SG,PRS
+	V,NFIN
+viced	V,PST
+vicing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+apologize	V,NFIN
+apologized	V,PST
+apologizing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+support	V,NFIN
+supported	V,PST
+	V,V.PTCP,PRS
+supported	V,V.PTCP,PST
+
+	V,3,SG,PRS
+style	V,NFIN
+styled	V,PST
+styling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+smell	V,NFIN
+smelt	V,PST
+	V,V.PTCP,PRS
+smelt	V,V.PTCP,PST
+
+	V,3,SG,PRS
+brave	V,NFIN
+	V,PST
+braving	V,V.PTCP,PRS
+braved	V,V.PTCP,PST
+
+	V,3,SG,PRS
+express	V,NFIN
+expressed	V,PST
+expressing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+guests	V,3,SG,PRS
+guest	V,NFIN
+	V,PST
+guesting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+damn	V,NFIN
+damned	V,PST
+damning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+audition	V,NFIN
+auditioned	V,PST
+	V,V.PTCP,PRS
+auditioned	V,V.PTCP,PST
+
+monkeys	V,3,SG,PRS
+monkey	V,NFIN
+	V,PST
+monkeying	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+forgave	V,PST
+forgiving	V,V.PTCP,PRS
+forgiven	V,V.PTCP,PST
+
+presences	V,3,SG,PRS
+	V,NFIN
+presenced	V,PST
+	V,V.PTCP,PRS
+presenced	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+relaxed	V,PST
+relaxing	V,V.PTCP,PRS
+relaxed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+secure	V,NFIN
+	V,PST
+securing	V,V.PTCP,PRS
+secured	V,V.PTCP,PST
+
+faxes	V,3,SG,PRS
+fax	V,NFIN
+faxed	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+mate	V,NFIN
+mated	V,PST
+	V,V.PTCP,PRS
+mated	V,V.PTCP,PST
+
+casts	V,3,SG,PRS
+cast	V,NFIN
+	V,PST
+casting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+bond	V,NFIN
+bonded	V,PST
+	V,V.PTCP,PRS
+bonded	V,V.PTCP,PST
+
+defends	V,3,SG,PRS
+	V,NFIN
+defended	V,PST
+defending	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+boards	V,3,SG,PRS
+board	V,NFIN
+	V,PST
+boarding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+castles	V,3,SG,PRS
+castle	V,NFIN
+castled	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+crossed	V,PST
+crossing	V,V.PTCP,PRS
+crossed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+coast	V,NFIN
+	V,PST
+coasting	V,V.PTCP,PRS
+coasted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+form	V,NFIN
+formed	V,PST
+	V,V.PTCP,PRS
+formed	V,V.PTCP,PST
+
+debates	V,3,SG,PRS
+	V,NFIN
+debated	V,PST
+debating	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+swears	V,3,SG,PRS
+swear	V,NFIN
+swore	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+ends	V,3,SG,PRS
+	V,NFIN
+ended	V,PST
+ending	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+bomb	V,NFIN
+bombed	V,PST
+bombing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+chains	V,3,SG,PRS
+chain	V,NFIN
+chained	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+shit	V,NFIN
+shit	V,PST
+shitting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+bottled	V,PST
+bottling	V,V.PTCP,PRS
+bottled	V,V.PTCP,PST
+
+springs	V,3,SG,PRS
+spring	V,NFIN
+sprung	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+flesh	V,NFIN
+	V,PST
+fleshing	V,V.PTCP,PRS
+fleshed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+ba	V,NFIN
+baed	V,PST
+	V,V.PTCP,PRS
+baed	V,V.PTCP,PST
+
+plates	V,3,SG,PRS
+plate	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+plated	V,V.PTCP,PST
+
+	V,3,SG,PRS
+sacrifice	V,NFIN
+	V,PST
+sacrificing	V,V.PTCP,PRS
+sacrificed	V,V.PTCP,PST
+
+dances	V,3,SG,PRS
+dance	V,NFIN
+danced	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+noticed	V,PST
+noticing	V,V.PTCP,PRS
+noticed	V,V.PTCP,PST
+
+chills	V,3,SG,PRS
+chill	V,NFIN
+chilled	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+bail	V,NFIN
+bailed	V,PST
+	V,V.PTCP,PRS
+bailed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+meet	V,NFIN
+	V,PST
+meeting	V,V.PTCP,PRS
+met	V,V.PTCP,PST
+
+eats	V,3,SG,PRS
+	V,NFIN
+et	V,PST
+	V,V.PTCP,PRS
+eaten	V,V.PTCP,PST
+
+figures	V,3,SG,PRS
+figure	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+figured	V,V.PTCP,PST
+
+	V,3,SG,PRS
+source	V,NFIN
+sourced	V,PST
+sourcing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+checks	V,3,SG,PRS
+	V,NFIN
+checked	V,PST
+checking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+helps	V,3,SG,PRS
+	V,NFIN
+holp	V,PST
+	V,V.PTCP,PRS
+holpen	V,V.PTCP,PST
+
+hugs	V,3,SG,PRS
+hug	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+hugged	V,V.PTCP,PST
+
+	V,3,SG,PRS
+hope	V,NFIN
+	V,PST
+hoping	V,V.PTCP,PRS
+hoped	V,V.PTCP,PST
+
+	V,3,SG,PRS
+alien	V,NFIN
+aliened	V,PST
+aliening	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+supers	V,3,SG,PRS
+super	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+supered	V,V.PTCP,PST
+
+bangs	V,3,SG,PRS
+bang	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+banged	V,V.PTCP,PST
+
+becomes	V,3,SG,PRS
+	V,NFIN
+becomed	V,PST
+becoming	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+ship	V,NFIN
+shipped	V,PST
+	V,V.PTCP,PRS
+shipped	V,V.PTCP,PST
+
+bitters	V,3,SG,PRS
+bitter	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+bittered	V,V.PTCP,PST
+
+tosses	V,3,SG,PRS
+toss	V,NFIN
+tost	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+cheats	V,3,SG,PRS
+	V,NFIN
+cheated	V,PST
+	V,V.PTCP,PRS
+cheated	V,V.PTCP,PST
+
+provides	V,3,SG,PRS
+	V,NFIN
+provided	V,PST
+	V,V.PTCP,PRS
+provided	V,V.PTCP,PST
+
+fates	V,3,SG,PRS
+fate	V,NFIN
+fated	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+groups	V,3,SG,PRS
+group	V,NFIN
+	V,PST
+grouping	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+needs	V,3,SG,PRS
+	V,NFIN
+needed	V,PST
+needing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+screws	V,3,SG,PRS
+	V,NFIN
+screwed	V,PST
+	V,V.PTCP,PRS
+screwed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+candled	V,PST
+candling	V,V.PTCP,PRS
+candled	V,V.PTCP,PST
+
+amens	V,3,SG,PRS
+	V,NFIN
+amened	V,PST
+	V,V.PTCP,PRS
+amened	V,V.PTCP,PST
+
+ignores	V,3,SG,PRS
+	V,NFIN
+ignored	V,PST
+ignoring	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+interferes	V,3,SG,PRS
+interfere	V,NFIN
+interfered	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+times	V,3,SG,PRS
+	V,NFIN
+timed	V,PST
+	V,V.PTCP,PRS
+timed	V,V.PTCP,PST
+
+laughs	V,3,SG,PRS
+laugh	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+laughed	V,V.PTCP,PST
+
+gooses	V,3,SG,PRS
+goose	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+goosed	V,V.PTCP,PST
+
+cheers	V,3,SG,PRS
+	V,NFIN
+	V,PST
+cheering	V,V.PTCP,PRS
+cheered	V,V.PTCP,PST
+
+	V,3,SG,PRS
+blast	V,NFIN
+blasted	V,PST
+blasting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+reacts	V,3,SG,PRS
+	V,NFIN
+	V,PST
+reacting	V,V.PTCP,PRS
+reacted	V,V.PTCP,PST
+
+deserts	V,3,SG,PRS
+	V,NFIN
+deserted	V,PST
+deserting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+realized	V,PST
+realizing	V,V.PTCP,PRS
+realized	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+egged	V,PST
+egging	V,V.PTCP,PRS
+egged	V,V.PTCP,PST
+
+jams	V,3,SG,PRS
+	V,NFIN
+	V,PST
+jamming	V,V.PTCP,PRS
+jammed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+lip	V,NFIN
+	V,PST
+lipping	V,V.PTCP,PRS
+lipped	V,V.PTCP,PST
+
+argues	V,3,SG,PRS
+argue	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+argued	V,V.PTCP,PST
+
+appears	V,3,SG,PRS
+appear	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+appeared	V,V.PTCP,PST
+
+breaks	V,3,SG,PRS
+break	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+broken	V,V.PTCP,PST
+
+separates	V,3,SG,PRS
+separate	V,NFIN
+separated	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+cheaps	V,3,SG,PRS
+	V,NFIN
+	V,PST
+cheaping	V,V.PTCP,PRS
+cheaped	V,V.PTCP,PST
+
+pillows	V,3,SG,PRS
+	V,NFIN
+pillowed	V,PST
+pillowing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+owns	V,3,SG,PRS
+own	V,NFIN
+	V,PST
+owning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+wrap	V,NFIN
+wrapt	V,PST
+	V,V.PTCP,PRS
+wrapt	V,V.PTCP,PST
+
+warms	V,3,SG,PRS
+	V,NFIN
+warmed	V,PST
+	V,V.PTCP,PRS
+warmed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+performed	V,PST
+performing	V,V.PTCP,PRS
+performed	V,V.PTCP,PST
+
+rats	V,3,SG,PRS
+	V,NFIN
+ratted	V,PST
+ratting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+excepted	V,PST
+excepting	V,V.PTCP,PRS
+excepted	V,V.PTCP,PST
+
+files	V,3,SG,PRS
+file	V,NFIN
+	V,PST
+filing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+saw	V,PST
+seeing	V,V.PTCP,PRS
+seen	V,V.PTCP,PST
+
+foxes	V,3,SG,PRS
+	V,NFIN
+foxed	V,PST
+foxing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+processes	V,3,SG,PRS
+	V,NFIN
+processed	V,PST
+processing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+hurts	V,3,SG,PRS
+	V,NFIN
+hurt	V,PST
+	V,V.PTCP,PRS
+hurt	V,V.PTCP,PST
+
+worries	V,3,SG,PRS
+worry	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+worried	V,V.PTCP,PST
+
+	V,3,SG,PRS
+age	V,NFIN
+aged	V,PST
+	V,V.PTCP,PRS
+aged	V,V.PTCP,PST
+
+	V,3,SG,PRS
+rule	V,NFIN
+ruled	V,PST
+ruling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+doubts	V,3,SG,PRS
+	V,NFIN
+doubted	V,PST
+doubting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+lecture	V,NFIN
+lectured	V,PST
+	V,V.PTCP,PRS
+lectured	V,V.PTCP,PST
+
+stones	V,3,SG,PRS
+stone	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+stoned	V,V.PTCP,PST
+
+flies	V,3,SG,PRS
+fly	V,NFIN
+flied	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+propose	V,NFIN
+proposed	V,PST
+proposing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+hip	V,NFIN
+	V,PST
+hipping	V,V.PTCP,PRS
+hipped	V,V.PTCP,PST
+
+	V,3,SG,PRS
+set	V,NFIN
+	V,PST
+setting	V,V.PTCP,PRS
+set	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+countered	V,PST
+countering	V,V.PTCP,PRS
+countered	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+chaptered	V,PST
+chaptering	V,V.PTCP,PRS
+chaptered	V,V.PTCP,PST
+
+	V,3,SG,PRS
+vote	V,NFIN
+	V,PST
+voting	V,V.PTCP,PRS
+voted	V,V.PTCP,PST
+
+charms	V,3,SG,PRS
+	V,NFIN
+charmed	V,PST
+	V,V.PTCP,PRS
+charmed	V,V.PTCP,PST
+
+heads	V,3,SG,PRS
+head	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+headed	V,V.PTCP,PST
+
+welcomes	V,3,SG,PRS
+welcome	V,NFIN
+welcomed	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+favors	V,3,SG,PRS
+	V,NFIN
+favored	V,PST
+favoring	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+badges	V,3,SG,PRS
+	V,NFIN
+	V,PST
+badging	V,V.PTCP,PRS
+badged	V,V.PTCP,PST
+
+	V,3,SG,PRS
+describe	V,NFIN
+described	V,PST
+	V,V.PTCP,PRS
+described	V,V.PTCP,PST
+
+paces	V,3,SG,PRS
+pace	V,NFIN
+paced	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+secret	V,NFIN
+secretted	V,PST
+	V,V.PTCP,PRS
+secretted	V,V.PTCP,PST
+
+shows	V,3,SG,PRS
+	V,NFIN
+showed	V,PST
+showing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+lunch	V,NFIN
+lunched	V,PST
+lunching	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+returns	V,3,SG,PRS
+return	V,NFIN
+returned	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+proofs	V,3,SG,PRS
+proof	V,NFIN
+	V,PST
+proofing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+creates	V,3,SG,PRS
+create	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+created	V,V.PTCP,PST
+
+shadows	V,3,SG,PRS
+shadow	V,NFIN
+shadowed	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+pray	V,NFIN
+	V,PST
+praying	V,V.PTCP,PRS
+prayed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+bound	V,NFIN
+bounded	V,PST
+bounding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+explains	V,3,SG,PRS
+explain	V,NFIN
+	V,PST
+explaining	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+nonsenses	V,3,SG,PRS
+	V,NFIN
+	V,PST
+nonsensing	V,V.PTCP,PRS
+nonsensed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+supplied	V,PST
+supplying	V,V.PTCP,PRS
+supplied	V,V.PTCP,PST
+
+	V,3,SG,PRS
+run	V,NFIN
+ran	V,PST
+	V,V.PTCP,PRS
+run	V,V.PTCP,PST
+
+empties	V,3,SG,PRS
+empty	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+emptied	V,V.PTCP,PST
+
+	V,3,SG,PRS
+buy	V,NFIN
+bought	V,PST
+	V,V.PTCP,PRS
+bought	V,V.PTCP,PST
+
+flashes	V,3,SG,PRS
+flash	V,NFIN
+flashed	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+darn	V,NFIN
+	V,PST
+darning	V,V.PTCP,PRS
+darned	V,V.PTCP,PST
+
+airs	V,3,SG,PRS
+	V,NFIN
+aired	V,PST
+airing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+station	V,NFIN
+stationed	V,PST
+	V,V.PTCP,PRS
+stationed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+bugged	V,PST
+bugging	V,V.PTCP,PRS
+bugged	V,V.PTCP,PST
+
+courages	V,3,SG,PRS
+	V,NFIN
+couraged	V,PST
+couraging	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+topped	V,PST
+topping	V,V.PTCP,PRS
+topped	V,V.PTCP,PST
+
+parks	V,3,SG,PRS
+	V,NFIN
+	V,PST
+parking	V,V.PTCP,PRS
+parked	V,V.PTCP,PST
+
+chairs	V,3,SG,PRS
+chair	V,NFIN
+	V,PST
+chairing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+prefers	V,3,SG,PRS
+	V,NFIN
+preferred	V,PST
+preferring	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+managed	V,PST
+managing	V,V.PTCP,PRS
+managed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+costume	V,NFIN
+costumed	V,PST
+	V,V.PTCP,PRS
+costumed	V,V.PTCP,PST
+
+neighbors	V,3,SG,PRS
+neighbor	V,NFIN
+	V,PST
+neighboring	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+background	V,NFIN
+backgrounded	V,PST
+	V,V.PTCP,PRS
+backgrounded	V,V.PTCP,PST
+
+	V,3,SG,PRS
+unlike	V,NFIN
+unliked	V,PST
+unliking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+clubs	V,3,SG,PRS
+club	V,NFIN
+	V,PST
+clubbing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+troubles	V,3,SG,PRS
+trouble	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+troubled	V,V.PTCP,PST
+
+	V,3,SG,PRS
+thing	V,NFIN
+thinged	V,PST
+	V,V.PTCP,PRS
+thinged	V,V.PTCP,PST
+
+moves	V,3,SG,PRS
+	V,NFIN
+moved	V,PST
+	V,V.PTCP,PRS
+moved	V,V.PTCP,PST
+
+crushes	V,3,SG,PRS
+	V,NFIN
+crushed	V,PST
+	V,V.PTCP,PRS
+crushed	V,V.PTCP,PST
+
+trusts	V,3,SG,PRS
+trust	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+trusted	V,V.PTCP,PST
+
+garbages	V,3,SG,PRS
+	V,NFIN
+	V,PST
+garbaging	V,V.PTCP,PRS
+garbaged	V,V.PTCP,PST
+
+requests	V,3,SG,PRS
+request	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+requested	V,V.PTCP,PST
+
+banks	V,3,SG,PRS
+bank	V,NFIN
+banked	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+plan	V,NFIN
+	V,PST
+planning	V,V.PTCP,PRS
+planned	V,V.PTCP,PST
+
+videoes	V,3,SG,PRS
+	V,NFIN
+	V,PST
+videoing	V,V.PTCP,PRS
+videoed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+browned	V,PST
+browning	V,V.PTCP,PRS
+browned	V,V.PTCP,PST
+
+	V,3,SG,PRS
+sweat	V,NFIN
+	V,PST
+sweating	V,V.PTCP,PRS
+sweated	V,V.PTCP,PST
+
+tones	V,3,SG,PRS
+	V,NFIN
+toned	V,PST
+toning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+note	V,NFIN
+	V,PST
+noting	V,V.PTCP,PRS
+noted	V,V.PTCP,PST
+
+spots	V,3,SG,PRS
+	V,NFIN
+	V,PST
+spotting	V,V.PTCP,PRS
+spotted	V,V.PTCP,PST
+
+thanks	V,3,SG,PRS
+thank	V,NFIN
+thanked	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+mobs	V,3,SG,PRS
+mob	V,NFIN
+	V,PST
+mobbing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+raise	V,NFIN
+raised	V,PST
+	V,V.PTCP,PRS
+raised	V,V.PTCP,PST
+
+	V,3,SG,PRS
+kiss	V,NFIN
+	V,PST
+kissing	V,V.PTCP,PRS
+kissed	V,V.PTCP,PST
+
+attends	V,3,SG,PRS
+attend	V,NFIN
+attended	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+stript	V,PST
+stripping	V,V.PTCP,PRS
+stript	V,V.PTCP,PST
+
+pulses	V,3,SG,PRS
+	V,NFIN
+pulsed	V,PST
+	V,V.PTCP,PRS
+pulsed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+palace	V,NFIN
+	V,PST
+palacing	V,V.PTCP,PRS
+palaced	V,V.PTCP,PST
+
+	V,3,SG,PRS
+visit	V,NFIN
+visited	V,PST
+	V,V.PTCP,PRS
+visited	V,V.PTCP,PST
+
+strokes	V,3,SG,PRS
+	V,NFIN
+stroked	V,PST
+	V,V.PTCP,PRS
+stroked	V,V.PTCP,PST
+
+staffs	V,3,SG,PRS
+	V,NFIN
+	V,PST
+staffing	V,V.PTCP,PRS
+staffed	V,V.PTCP,PST
+
+angles	V,3,SG,PRS
+	V,NFIN
+angled	V,PST
+angling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+pops	V,3,SG,PRS
+pop	V,NFIN
+	V,PST
+popping	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+rounded	V,PST
+rounding	V,V.PTCP,PRS
+rounded	V,V.PTCP,PST
+
+steadies	V,3,SG,PRS
+	V,NFIN
+steadied	V,PST
+	V,V.PTCP,PRS
+steadied	V,V.PTCP,PST
+
+barns	V,3,SG,PRS
+	V,NFIN
+barned	V,PST
+barning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+types	V,3,SG,PRS
+type	V,NFIN
+	V,PST
+typing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+half	V,NFIN
+halved	V,PST
+	V,V.PTCP,PRS
+halved	V,V.PTCP,PST
+
+buzzes	V,3,SG,PRS
+	V,NFIN
+	V,PST
+buzzing	V,V.PTCP,PRS
+buzzed	V,V.PTCP,PST
+
+splits	V,3,SG,PRS
+	V,NFIN
+split	V,PST
+splitting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+bets	V,3,SG,PRS
+	V,NFIN
+bet	V,PST
+	V,V.PTCP,PRS
+bet	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+demanded	V,PST
+demanding	V,V.PTCP,PRS
+demanded	V,V.PTCP,PST
+
+ties	V,3,SG,PRS
+tie	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+tied	V,V.PTCP,PST
+
+	V,3,SG,PRS
+burn	V,NFIN
+burnt	V,PST
+burning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+calls	V,3,SG,PRS
+	V,NFIN
+called	V,PST
+calling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+protects	V,3,SG,PRS
+protect	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+protected	V,V.PTCP,PST
+
+	V,3,SG,PRS
+warn	V,NFIN
+warned	V,PST
+warning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+questions	V,3,SG,PRS
+	V,NFIN
+questioned	V,PST
+questioning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+package	V,NFIN
+packaged	V,PST
+packaging	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+lose	V,NFIN
+	V,PST
+losing	V,V.PTCP,PRS
+lost	V,V.PTCP,PST
+
+messages	V,3,SG,PRS
+message	V,NFIN
+messaged	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+revenges	V,3,SG,PRS
+revenge	V,NFIN
+	V,PST
+revenging	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+counted	V,PST
+counting	V,V.PTCP,PRS
+counted	V,V.PTCP,PST
+
+sticks	V,3,SG,PRS
+	V,NFIN
+stuck	V,PST
+	V,V.PTCP,PRS
+stuck	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+traditioned	V,PST
+traditioning	V,V.PTCP,PRS
+traditioned	V,V.PTCP,PST
+
+	V,3,SG,PRS
+offer	V,NFIN
+	V,PST
+offering	V,V.PTCP,PRS
+offered	V,V.PTCP,PST
+
+	V,3,SG,PRS
+minister	V,NFIN
+ministered	V,PST
+ministering	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+handled	V,PST
+handling	V,V.PTCP,PRS
+handled	V,V.PTCP,PST
+
+stamps	V,3,SG,PRS
+	V,NFIN
+stamped	V,PST
+	V,V.PTCP,PRS
+stamped	V,V.PTCP,PST
+
+plays	V,3,SG,PRS
+play	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+played	V,V.PTCP,PST
+
+designs	V,3,SG,PRS
+	V,NFIN
+	V,PST
+designing	V,V.PTCP,PRS
+designed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+clock	V,NFIN
+clocked	V,PST
+clocking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+judges	V,3,SG,PRS
+	V,NFIN
+	V,PST
+judging	V,V.PTCP,PRS
+judged	V,V.PTCP,PST
+
+	V,3,SG,PRS
+scratch	V,NFIN
+scratched	V,PST
+scratching	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+pays	V,3,SG,PRS
+pay	V,NFIN
+	V,PST
+paying	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+campaigns	V,3,SG,PRS
+campaign	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+campaigned	V,V.PTCP,PST
+
+	V,3,SG,PRS
+smile	V,NFIN
+smiled	V,PST
+	V,V.PTCP,PRS
+smiled	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+thicked	V,PST
+thicking	V,V.PTCP,PRS
+thicked	V,V.PTCP,PST
+
+	V,3,SG,PRS
+test	V,NFIN
+tested	V,PST
+testing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+touched	V,PST
+touching	V,V.PTCP,PRS
+touched	V,V.PTCP,PST
+
+	V,3,SG,PRS
+weird	V,NFIN
+weirded	V,PST
+weirding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+edges	V,3,SG,PRS
+	V,NFIN
+	V,PST
+edging	V,V.PTCP,PRS
+edged	V,V.PTCP,PST
+
+	V,3,SG,PRS
+space	V,NFIN
+	V,PST
+spacing	V,V.PTCP,PRS
+spaced	V,V.PTCP,PST
+
+nails	V,3,SG,PRS
+nail	V,NFIN
+	V,PST
+nailing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+clowns	V,3,SG,PRS
+clown	V,NFIN
+clowned	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+tension	V,NFIN
+	V,PST
+tensioning	V,V.PTCP,PRS
+tensioned	V,V.PTCP,PST
+
+	V,3,SG,PRS
+victory	V,NFIN
+victoried	V,PST
+	V,V.PTCP,PRS
+victoried	V,V.PTCP,PST
+
+	V,3,SG,PRS
+mirror	V,NFIN
+mirrored	V,PST
+	V,V.PTCP,PRS
+mirrored	V,V.PTCP,PST
+
+blows	V,3,SG,PRS
+blow	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+blown	V,V.PTCP,PST
+
+adults	V,3,SG,PRS
+	V,NFIN
+	V,PST
+adulting	V,V.PTCP,PRS
+adulted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+hit	V,NFIN
+hit	V,PST
+hitting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+tales	V,3,SG,PRS
+tale	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+taled	V,V.PTCP,PST
+
+hosts	V,3,SG,PRS
+	V,NFIN
+hosted	V,PST
+	V,V.PTCP,PRS
+hosted	V,V.PTCP,PST
+
+musts	V,3,SG,PRS
+must	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+musted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+grounded	V,PST
+grounding	V,V.PTCP,PRS
+grounded	V,V.PTCP,PST
+
+leads	V,3,SG,PRS
+lead	V,NFIN
+led	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+crawl	V,NFIN
+crawled	V,PST
+crawling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+bucks	V,3,SG,PRS
+buck	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+bucked	V,V.PTCP,PST
+
+centers	V,3,SG,PRS
+	V,NFIN
+centered	V,PST
+centering	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+won	V,PST
+winning	V,V.PTCP,PRS
+won	V,V.PTCP,PST
+
+	V,3,SG,PRS
+look	V,NFIN
+	V,PST
+looking	V,V.PTCP,PRS
+looked	V,V.PTCP,PST
+
+reaches	V,3,SG,PRS
+reach	V,NFIN
+reached	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+tricks	V,3,SG,PRS
+trick	V,NFIN
+	V,PST
+tricking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+tour	V,NFIN
+toured	V,PST
+	V,V.PTCP,PRS
+toured	V,V.PTCP,PST
+
+	V,3,SG,PRS
+journey	V,NFIN
+journeyed	V,PST
+	V,V.PTCP,PRS
+journeyed	V,V.PTCP,PST
+
+stresses	V,3,SG,PRS
+	V,NFIN
+	V,PST
+stressing	V,V.PTCP,PRS
+stressed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+permanented	V,PST
+permanenting	V,V.PTCP,PRS
+permanented	V,V.PTCP,PST
+
+seats	V,3,SG,PRS
+	V,NFIN
+	V,PST
+seating	V,V.PTCP,PRS
+seated	V,V.PTCP,PST
+
+	V,3,SG,PRS
+bargain	V,NFIN
+bargained	V,PST
+	V,V.PTCP,PRS
+bargained	V,V.PTCP,PST
+
+	V,3,SG,PRS
+swing	V,NFIN
+	V,PST
+swinging	V,V.PTCP,PRS
+swung	V,V.PTCP,PST
+
+chases	V,3,SG,PRS
+	V,NFIN
+chased	V,PST
+	V,V.PTCP,PRS
+chased	V,V.PTCP,PST
+
+salts	V,3,SG,PRS
+salt	V,NFIN
+	V,PST
+salting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+tips	V,3,SG,PRS
+tip	V,NFIN
+tipped	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+holes	V,3,SG,PRS
+	V,NFIN
+	V,PST
+holing	V,V.PTCP,PRS
+holed	V,V.PTCP,PST
+
+adventures	V,3,SG,PRS
+	V,NFIN
+adventured	V,PST
+adventuring	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+fixes	V,3,SG,PRS
+	V,NFIN
+	V,PST
+fixing	V,V.PTCP,PRS
+fixt	V,V.PTCP,PST
+
+	V,3,SG,PRS
+gum	V,NFIN
+gummed	V,PST
+	V,V.PTCP,PRS
+gummed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+beef	V,NFIN
+beefed	V,PST
+beefing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+watch	V,NFIN
+watched	V,PST
+watching	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+rathers	V,3,SG,PRS
+	V,NFIN
+rathered	V,PST
+rathering	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+addresses	V,3,SG,PRS
+address	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+addrest	V,V.PTCP,PST
+
+feeds	V,3,SG,PRS
+	V,NFIN
+fed	V,PST
+feeding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+beats	V,3,SG,PRS
+beat	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+beat	V,V.PTCP,PST
+
+chooses	V,3,SG,PRS
+	V,NFIN
+chose	V,PST
+	V,V.PTCP,PRS
+chosen	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+mouthed	V,PST
+mouthing	V,V.PTCP,PRS
+mouthed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+admired	V,PST
+admiring	V,V.PTCP,PRS
+admired	V,V.PTCP,PST
+
+	V,3,SG,PRS
+hook	V,NFIN
+	V,PST
+hooking	V,V.PTCP,PRS
+hooked	V,V.PTCP,PST
+
+traps	V,3,SG,PRS
+trap	V,NFIN
+	V,PST
+trapping	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+think	V,NFIN
+thought	V,PST
+	V,V.PTCP,PRS
+thought	V,V.PTCP,PST
+
+results	V,3,SG,PRS
+result	V,NFIN
+resulted	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+lives	V,3,SG,PRS
+live	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+lived	V,V.PTCP,PST
+
+	V,3,SG,PRS
+trash	V,NFIN
+	V,PST
+trashing	V,V.PTCP,PRS
+trashed	V,V.PTCP,PST
+
+settles	V,3,SG,PRS
+settle	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+settled	V,V.PTCP,PST
+
+noises	V,3,SG,PRS
+noise	V,NFIN
+	V,PST
+noising	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+codes	V,3,SG,PRS
+code	V,NFIN
+	V,PST
+coding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+levels	V,3,SG,PRS
+level	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+levelled	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+netted	V,PST
+netting	V,V.PTCP,PRS
+netted	V,V.PTCP,PST
+
+habits	V,3,SG,PRS
+habit	V,NFIN
+habited	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+carries	V,3,SG,PRS
+carry	V,NFIN
+	V,PST
+carrying	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+nap	V,NFIN
+napped	V,PST
+napping	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+stretch	V,NFIN
+stretched	V,PST
+stretching	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+exchanged	V,PST
+exchanging	V,V.PTCP,PRS
+exchanged	V,V.PTCP,PST
+
+funds	V,3,SG,PRS
+	V,NFIN
+	V,PST
+funding	V,V.PTCP,PRS
+funded	V,V.PTCP,PST
+
+doors	V,3,SG,PRS
+door	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+doored	V,V.PTCP,PST
+
+sins	V,3,SG,PRS
+sin	V,NFIN
+	V,PST
+sinning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+pretended	V,PST
+pretending	V,V.PTCP,PRS
+pretended	V,V.PTCP,PST
+
+freaks	V,3,SG,PRS
+freak	V,NFIN
+freaked	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+nuts	V,3,SG,PRS
+nut	V,NFIN
+	V,PST
+nutting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+averages	V,3,SG,PRS
+	V,NFIN
+averaged	V,PST
+	V,V.PTCP,PRS
+averaged	V,V.PTCP,PST
+
+wants	V,3,SG,PRS
+want	V,NFIN
+	V,PST
+wanting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+sings	V,3,SG,PRS
+	V,NFIN
+sang	V,PST
+	V,V.PTCP,PRS
+sung	V,V.PTCP,PST
+
+rewards	V,3,SG,PRS
+	V,NFIN
+	V,PST
+rewarding	V,V.PTCP,PRS
+rewarded	V,V.PTCP,PST
+
+	V,3,SG,PRS
+compliment	V,NFIN
+complimented	V,PST
+	V,V.PTCP,PRS
+complimented	V,V.PTCP,PST
+
+bills	V,3,SG,PRS
+bill	V,NFIN
+billed	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+rests	V,3,SG,PRS
+	V,NFIN
+rested	V,PST
+	V,V.PTCP,PRS
+rested	V,V.PTCP,PST
+
+packs	V,3,SG,PRS
+pack	V,NFIN
+packed	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+contest	V,NFIN
+	V,PST
+contesting	V,V.PTCP,PRS
+contested	V,V.PTCP,PST
+
+tastes	V,3,SG,PRS
+taste	V,NFIN
+tasted	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+spoils	V,3,SG,PRS
+spoil	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+spoilt	V,V.PTCP,PST
+
+bikes	V,3,SG,PRS
+	V,NFIN
+biked	V,PST
+biking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+rowed	V,PST
+rowing	V,V.PTCP,PRS
+rowed	V,V.PTCP,PST
+
+worthies	V,3,SG,PRS
+worthy	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+worthied	V,V.PTCP,PST
+
+cows	V,3,SG,PRS
+	V,NFIN
+cowed	V,PST
+cowing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+spied	V,PST
+spying	V,V.PTCP,PRS
+spied	V,V.PTCP,PST
+
+butters	V,3,SG,PRS
+butter	V,NFIN
+	V,PST
+buttering	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+brands	V,3,SG,PRS
+brand	V,NFIN
+	V,PST
+branding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+issue	V,NFIN
+issued	V,PST
+issuing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+scores	V,3,SG,PRS
+score	V,NFIN
+scored	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+guide	V,NFIN
+	V,PST
+guiding	V,V.PTCP,PRS
+guided	V,V.PTCP,PST
+
+comes	V,3,SG,PRS
+	V,NFIN
+came	V,PST
+coming	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+crack	V,NFIN
+cracked	V,PST
+	V,V.PTCP,PRS
+cracked	V,V.PTCP,PST
+
+whips	V,3,SG,PRS
+whip	V,NFIN
+whipped	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+wheels	V,3,SG,PRS
+	V,NFIN
+wheeled	V,PST
+wheeling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+exist	V,NFIN
+	V,PST
+existing	V,V.PTCP,PRS
+existed	V,V.PTCP,PST
+
+floors	V,3,SG,PRS
+	V,NFIN
+	V,PST
+flooring	V,V.PTCP,PRS
+floored	V,V.PTCP,PST
+
+rates	V,3,SG,PRS
+rate	V,NFIN
+rated	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+arranges	V,3,SG,PRS
+arrange	V,NFIN
+	V,PST
+arranging	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+hands	V,3,SG,PRS
+hand	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+handed	V,V.PTCP,PST
+
+boos	V,3,SG,PRS
+	V,NFIN
+booed	V,PST
+booing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+reasoned	V,PST
+reasoning	V,V.PTCP,PRS
+reasoned	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+changed	V,PST
+changing	V,V.PTCP,PRS
+changed	V,V.PTCP,PST
+
+frees	V,3,SG,PRS
+free	V,NFIN
+freed	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+assumes	V,3,SG,PRS
+assume	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+assumed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+silence	V,NFIN
+silenced	V,PST
+	V,V.PTCP,PRS
+silenced	V,V.PTCP,PST
+
+travels	V,3,SG,PRS
+travel	V,NFIN
+	V,PST
+travelling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+blinds	V,3,SG,PRS
+	V,NFIN
+blinded	V,PST
+blinding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+chip	V,NFIN
+chipped	V,PST
+chipping	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+scream	V,NFIN
+screamed	V,PST
+	V,V.PTCP,PRS
+screamed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+character	V,NFIN
+charactered	V,PST
+charactering	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+blankets	V,3,SG,PRS
+	V,NFIN
+blanketed	V,PST
+	V,V.PTCP,PRS
+blanketed	V,V.PTCP,PST
+
+cares	V,3,SG,PRS
+	V,NFIN
+cared	V,PST
+	V,V.PTCP,PRS
+cared	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+proved	V,PST
+proving	V,V.PTCP,PRS
+proven	V,V.PTCP,PST
+
+	V,3,SG,PRS
+subject	V,NFIN
+subjected	V,PST
+subjecting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+schools	V,3,SG,PRS
+school	V,NFIN
+	V,PST
+schooling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+imaged	V,PST
+imaging	V,V.PTCP,PRS
+imaged	V,V.PTCP,PST
+
+tools	V,3,SG,PRS
+tool	V,NFIN
+	V,PST
+tooling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+solves	V,3,SG,PRS
+	V,NFIN
+	V,PST
+solving	V,V.PTCP,PRS
+solved	V,V.PTCP,PST
+
+breads	V,3,SG,PRS
+bread	V,NFIN
+	V,PST
+breading	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+hates	V,3,SG,PRS
+hate	V,NFIN
+	V,PST
+hating	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+acts	V,3,SG,PRS
+	V,NFIN
+	V,PST
+acting	V,V.PTCP,PRS
+acted	V,V.PTCP,PST
+
+garages	V,3,SG,PRS
+	V,NFIN
+	V,PST
+garaging	V,V.PTCP,PRS
+garaged	V,V.PTCP,PST
+
+booms	V,3,SG,PRS
+	V,NFIN
+	V,PST
+booming	V,V.PTCP,PRS
+boomed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+ganged	V,PST
+ganging	V,V.PTCP,PRS
+ganged	V,V.PTCP,PST
+
+	V,3,SG,PRS
+forget	V,NFIN
+forgot	V,PST
+forgetting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+engined	V,PST
+engining	V,V.PTCP,PRS
+engined	V,V.PTCP,PST
+
+challenges	V,3,SG,PRS
+	V,NFIN
+challenged	V,PST
+challenging	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+ables	V,3,SG,PRS
+	V,NFIN
+abled	V,PST
+abling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+contacts	V,3,SG,PRS
+	V,NFIN
+	V,PST
+contacting	V,V.PTCP,PRS
+contacted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+advantaged	V,PST
+advantaging	V,V.PTCP,PRS
+advantaged	V,V.PTCP,PST
+
+stomachs	V,3,SG,PRS
+	V,NFIN
+	V,PST
+stomaching	V,V.PTCP,PRS
+stomached	V,V.PTCP,PST
+
+wings	V,3,SG,PRS
+	V,NFIN
+winged	V,PST
+winging	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+motived	V,PST
+motiving	V,V.PTCP,PRS
+motived	V,V.PTCP,PST
+
+	V,3,SG,PRS
+concentrate	V,NFIN
+	V,PST
+concentrating	V,V.PTCP,PRS
+concentrated	V,V.PTCP,PST
+
+	V,3,SG,PRS
+match	V,NFIN
+	V,PST
+matching	V,V.PTCP,PRS
+matched	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+sentenced	V,PST
+sentencing	V,V.PTCP,PRS
+sentenced	V,V.PTCP,PST
+
+	V,3,SG,PRS
+fruit	V,NFIN
+fruited	V,PST
+	V,V.PTCP,PRS
+fruited	V,V.PTCP,PST
+
+soaps	V,3,SG,PRS
+soap	V,NFIN
+	V,PST
+soaping	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+messes	V,3,SG,PRS
+	V,NFIN
+messed	V,PST
+	V,V.PTCP,PRS
+messed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+disappoint	V,NFIN
+	V,PST
+disappointing	V,V.PTCP,PRS
+disappointed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+guess	V,NFIN
+guessed	V,PST
+	V,V.PTCP,PRS
+guessed	V,V.PTCP,PST
+
+pockets	V,3,SG,PRS
+pocket	V,NFIN
+pocketed	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+shakes	V,3,SG,PRS
+shake	V,NFIN
+shook	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+presented	V,PST
+presenting	V,V.PTCP,PRS
+presented	V,V.PTCP,PST
+
+guarantees	V,3,SG,PRS
+	V,NFIN
+guaranteed	V,PST
+	V,V.PTCP,PRS
+guaranteed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+destroyed	V,PST
+destroying	V,V.PTCP,PRS
+destroyed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+tend	V,NFIN
+tended	V,PST
+tending	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+threatens	V,3,SG,PRS
+	V,NFIN
+threatened	V,PST
+threatening	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+fights	V,3,SG,PRS
+fight	V,NFIN
+fought	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+sues	V,3,SG,PRS
+	V,NFIN
+sued	V,PST
+suing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+parts	V,3,SG,PRS
+part	V,NFIN
+	V,PST
+parting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+fines	V,3,SG,PRS
+fine	V,NFIN
+fined	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+pilot	V,NFIN
+piloted	V,PST
+	V,V.PTCP,PRS
+piloted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+curst	V,PST
+cursing	V,V.PTCP,PRS
+curst	V,V.PTCP,PST
+
+removes	V,3,SG,PRS
+remove	V,NFIN
+	V,PST
+removing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+flowered	V,PST
+flowering	V,V.PTCP,PRS
+flowered	V,V.PTCP,PST
+
+overnights	V,3,SG,PRS
+	V,NFIN
+overnighted	V,PST
+	V,V.PTCP,PRS
+overnighted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+phase	V,NFIN
+phased	V,PST
+	V,V.PTCP,PRS
+phased	V,V.PTCP,PST
+
+presses	V,3,SG,PRS
+press	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+prest	V,V.PTCP,PST
+
+responds	V,3,SG,PRS
+respond	V,NFIN
+	V,PST
+responding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+feel	V,NFIN
+felt	V,PST
+	V,V.PTCP,PRS
+felt	V,V.PTCP,PST
+
+remains	V,3,SG,PRS
+remain	V,NFIN
+remained	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+strikes	V,3,SG,PRS
+strike	V,NFIN
+	V,PST
+striking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+bigs	V,3,SG,PRS
+	V,NFIN
+bigged	V,PST
+bigging	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+fool	V,NFIN
+fooled	V,PST
+fooling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+bullshit	V,NFIN
+bullshit	V,PST
+	V,V.PTCP,PRS
+bullshit	V,V.PTCP,PST
+
+	V,3,SG,PRS
+stable	V,NFIN
+stabled	V,PST
+	V,V.PTCP,PRS
+stabled	V,V.PTCP,PST
+
+	V,3,SG,PRS
+excuse	V,NFIN
+excused	V,PST
+excusing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+sorted	V,PST
+sorting	V,V.PTCP,PRS
+sorted	V,V.PTCP,PST
+
+bands	V,3,SG,PRS
+band	V,NFIN
+banded	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+continued	V,PST
+continuing	V,V.PTCP,PRS
+continued	V,V.PTCP,PST
+
+trains	V,3,SG,PRS
+	V,NFIN
+trained	V,PST
+training	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+toys	V,3,SG,PRS
+	V,NFIN
+toyed	V,PST
+toying	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+programs	V,3,SG,PRS
+	V,NFIN
+	V,PST
+programming	V,V.PTCP,PRS
+programmed	V,V.PTCP,PST
+
+ducks	V,3,SG,PRS
+	V,NFIN
+ducked	V,PST
+ducking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+snows	V,3,SG,PRS
+	V,NFIN
+snowed	V,PST
+snowing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+quiets	V,3,SG,PRS
+	V,NFIN
+quieted	V,PST
+	V,V.PTCP,PRS
+quieted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+mentioned	V,PST
+mentioning	V,V.PTCP,PRS
+mentioned	V,V.PTCP,PST
+
+	V,3,SG,PRS
+grief	V,NFIN
+griefed	V,PST
+	V,V.PTCP,PRS
+griefed	V,V.PTCP,PST
+
+tennises	V,3,SG,PRS
+	V,NFIN
+tennised	V,PST
+tennising	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+blames	V,3,SG,PRS
+	V,NFIN
+blamed	V,PST
+	V,V.PTCP,PRS
+blamed	V,V.PTCP,PST
+
+cleans	V,3,SG,PRS
+	V,NFIN
+cleaned	V,PST
+	V,V.PTCP,PRS
+cleaned	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+balled	V,PST
+balling	V,V.PTCP,PRS
+balled	V,V.PTCP,PST
+
+sluts	V,3,SG,PRS
+	V,NFIN
+slutted	V,PST
+	V,V.PTCP,PRS
+slutted	V,V.PTCP,PST
+
+tunes	V,3,SG,PRS
+	V,NFIN
+tuned	V,PST
+	V,V.PTCP,PRS
+tuned	V,V.PTCP,PST
+
+	V,3,SG,PRS
+nature	V,NFIN
+natured	V,PST
+naturing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+ropes	V,3,SG,PRS
+rope	V,NFIN
+roped	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+escorts	V,3,SG,PRS
+escort	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+escorted	V,V.PTCP,PST
+
+hangs	V,3,SG,PRS
+hang	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+hung	V,V.PTCP,PST
+
+pardons	V,3,SG,PRS
+	V,NFIN
+pardoned	V,PST
+	V,V.PTCP,PRS
+pardoned	V,V.PTCP,PST
+
+	V,3,SG,PRS
+grab	V,NFIN
+grabbed	V,PST
+	V,V.PTCP,PRS
+grabbed	V,V.PTCP,PST
+
+bears	V,3,SG,PRS
+bear	V,NFIN
+bore	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+load	V,NFIN
+loaded	V,PST
+loading	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+hurry	V,NFIN
+hurried	V,PST
+	V,V.PTCP,PRS
+hurried	V,V.PTCP,PST
+
+	V,3,SG,PRS
+corner	V,NFIN
+cornered	V,PST
+cornering	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+violents	V,3,SG,PRS
+violent	V,NFIN
+	V,PST
+violenting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+thous	V,3,SG,PRS
+	V,NFIN
+thoued	V,PST
+thouing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+regret	V,NFIN
+regretted	V,PST
+regretting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+divorces	V,3,SG,PRS
+divorce	V,NFIN
+divorced	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+boxes	V,3,SG,PRS
+	V,NFIN
+	V,PST
+boxing	V,V.PTCP,PRS
+boxed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+basket	V,NFIN
+basketed	V,PST
+	V,V.PTCP,PRS
+basketed	V,V.PTCP,PST
+
+names	V,3,SG,PRS
+	V,NFIN
+named	V,PST
+	V,V.PTCP,PRS
+named	V,V.PTCP,PST
+
+appreciates	V,3,SG,PRS
+appreciate	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+appreciated	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+spent	V,PST
+spending	V,V.PTCP,PRS
+spent	V,V.PTCP,PST
+
+	V,3,SG,PRS
+paint	V,NFIN
+painted	V,PST
+	V,V.PTCP,PRS
+painted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+turn	V,NFIN
+turned	V,PST
+turning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+pages	V,3,SG,PRS
+page	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+paged	V,V.PTCP,PST
+
+conditions	V,3,SG,PRS
+condition	V,NFIN
+conditioned	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+waitresses	V,3,SG,PRS
+	V,NFIN
+waitressed	V,PST
+waitressing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+lay	V,NFIN
+laid	V,PST
+	V,V.PTCP,PRS
+laid	V,V.PTCP,PST
+
+fancies	V,3,SG,PRS
+	V,NFIN
+	V,PST
+fancying	V,V.PTCP,PRS
+fancied	V,V.PTCP,PST
+
+	V,3,SG,PRS
+insist	V,NFIN
+insisted	V,PST
+insisting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+fears	V,3,SG,PRS
+	V,NFIN
+feared	V,PST
+fearing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+sinks	V,3,SG,PRS
+	V,NFIN
+	V,PST
+sinking	V,V.PTCP,PRS
+sunk	V,V.PTCP,PST
+
+assaults	V,3,SG,PRS
+assault	V,NFIN
+	V,PST
+assaulting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+bunches	V,3,SG,PRS
+bunch	V,NFIN
+bunched	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+lands	V,3,SG,PRS
+land	V,NFIN
+	V,PST
+landing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+awoke	V,PST
+awaking	V,V.PTCP,PRS
+awoke	V,V.PTCP,PST
+
+	V,3,SG,PRS
+focus	V,NFIN
+focussed	V,PST
+focussing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+meant	V,PST
+meaning	V,V.PTCP,PRS
+meant	V,V.PTCP,PST
+
+traffics	V,3,SG,PRS
+traffic	V,NFIN
+trafficked	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+marches	V,3,SG,PRS
+	V,NFIN
+	V,PST
+marching	V,V.PTCP,PRS
+marched	V,V.PTCP,PST
+
+proceeds	V,3,SG,PRS
+	V,NFIN
+proceeded	V,PST
+proceeding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+creeps	V,3,SG,PRS
+	V,NFIN
+crope	V,PST
+creeping	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+believes	V,3,SG,PRS
+	V,NFIN
+believed	V,PST
+believing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+speeds	V,3,SG,PRS
+speed	V,NFIN
+	V,PST
+speeding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+washes	V,3,SG,PRS
+wash	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+washed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+suffer	V,NFIN
+suffered	V,PST
+suffering	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+treated	V,PST
+treating	V,V.PTCP,PRS
+treated	V,V.PTCP,PST
+
+	V,3,SG,PRS
+beg	V,NFIN
+	V,PST
+begging	V,V.PTCP,PRS
+begged	V,V.PTCP,PST
+
+tapes	V,3,SG,PRS
+	V,NFIN
+taped	V,PST
+taping	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+points	V,3,SG,PRS
+point	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+pointed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+gift	V,NFIN
+gifted	V,PST
+gifting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+report	V,NFIN
+reported	V,PST
+	V,V.PTCP,PRS
+reported	V,V.PTCP,PST
+
+telephones	V,3,SG,PRS
+	V,NFIN
+	V,PST
+telephoning	V,V.PTCP,PRS
+telephoned	V,V.PTCP,PST
+
+bites	V,3,SG,PRS
+bite	V,NFIN
+bit	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+square	V,NFIN
+	V,PST
+squaring	V,V.PTCP,PRS
+squared	V,V.PTCP,PST
+
+cuts	V,3,SG,PRS
+cut	V,NFIN
+	V,PST
+cutting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+sell	V,NFIN
+sold	V,PST
+selling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+begins	V,3,SG,PRS
+	V,NFIN
+began	V,PST
+beginning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+births	V,3,SG,PRS
+birth	V,NFIN
+birthed	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+snap	V,NFIN
+snapt	V,PST
+snapping	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+steal	V,NFIN
+stole	V,PST
+stealing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+sugar	V,NFIN
+	V,PST
+sugaring	V,V.PTCP,PRS
+sugared	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+transferred	V,PST
+transferring	V,V.PTCP,PRS
+transferred	V,V.PTCP,PST
+
+	V,3,SG,PRS
+bird	V,NFIN
+birded	V,PST
+birding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+alerts	V,3,SG,PRS
+alert	V,NFIN
+	V,PST
+alerting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+models	V,3,SG,PRS
+	V,NFIN
+modelled	V,PST
+	V,V.PTCP,PRS
+modelled	V,V.PTCP,PST
+
+shoots	V,3,SG,PRS
+	V,NFIN
+shot	V,PST
+shooting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+passed	V,PST
+passing	V,V.PTCP,PRS
+passed	V,V.PTCP,PST
+
+intends	V,3,SG,PRS
+	V,NFIN
+intended	V,PST
+	V,V.PTCP,PRS
+intended	V,V.PTCP,PST
+
+juices	V,3,SG,PRS
+	V,NFIN
+juiced	V,PST
+juicing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+likes	V,3,SG,PRS
+like	V,NFIN
+	V,PST
+liking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+rolls	V,3,SG,PRS
+	V,NFIN
+	V,PST
+rolling	V,V.PTCP,PRS
+rolled	V,V.PTCP,PST
+
+	V,3,SG,PRS
+kick	V,NFIN
+kicked	V,PST
+	V,V.PTCP,PRS
+kicked	V,V.PTCP,PST
+
+	V,3,SG,PRS
+pet	V,NFIN
+petted	V,PST
+petting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+send	V,NFIN
+sent	V,PST
+	V,V.PTCP,PRS
+sent	V,V.PTCP,PST
+
+crashes	V,3,SG,PRS
+crash	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+crashed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+other	V,NFIN
+	V,PST
+othering	V,V.PTCP,PRS
+othered	V,V.PTCP,PST
+
+	V,3,SG,PRS
+district	V,NFIN
+districted	V,PST
+	V,V.PTCP,PRS
+districted	V,V.PTCP,PST
+
+trails	V,3,SG,PRS
+	V,NFIN
+	V,PST
+trailing	V,V.PTCP,PRS
+trailed	V,V.PTCP,PST
+
+reviews	V,3,SG,PRS
+review	V,NFIN
+	V,PST
+reviewing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+coats	V,3,SG,PRS
+coat	V,NFIN
+coated	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+interviews	V,3,SG,PRS
+	V,NFIN
+interviewed	V,PST
+interviewing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+just	V,NFIN
+justed	V,PST
+	V,V.PTCP,PRS
+justed	V,V.PTCP,PST
+
+gigs	V,3,SG,PRS
+gig	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+gigged	V,V.PTCP,PST
+
+gives	V,3,SG,PRS
+give	V,NFIN
+	V,PST
+giving	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+testifies	V,3,SG,PRS
+testify	V,NFIN
+	V,PST
+testifying	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+progresses	V,3,SG,PRS
+	V,NFIN
+progressed	V,PST
+progressing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+mixes	V,3,SG,PRS
+	V,NFIN
+mixt	V,PST
+	V,V.PTCP,PRS
+mixt	V,V.PTCP,PST
+
+rushes	V,3,SG,PRS
+rush	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+rushed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+stake	V,NFIN
+	V,PST
+staking	V,V.PTCP,PRS
+staked	V,V.PTCP,PST
+
+	V,3,SG,PRS
+fail	V,NFIN
+	V,PST
+failing	V,V.PTCP,PRS
+failed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+agree	V,NFIN
+agreed	V,PST
+agreeing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+efforts	V,3,SG,PRS
+	V,NFIN
+efforted	V,PST
+	V,V.PTCP,PRS
+efforted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+pressure	V,NFIN
+pressured	V,PST
+	V,V.PTCP,PRS
+pressured	V,V.PTCP,PST
+
+	V,3,SG,PRS
+party	V,NFIN
+partied	V,PST
+	V,V.PTCP,PRS
+partied	V,V.PTCP,PST
+
+jerks	V,3,SG,PRS
+	V,NFIN
+jerked	V,PST
+	V,V.PTCP,PRS
+jerked	V,V.PTCP,PST
+
+wastes	V,3,SG,PRS
+waste	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+wasted	V,V.PTCP,PST
+
+happens	V,3,SG,PRS
+happen	V,NFIN
+	V,PST
+happening	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+concerns	V,3,SG,PRS
+	V,NFIN
+concerned	V,PST
+concerning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+tenses	V,3,SG,PRS
+	V,NFIN
+tensed	V,PST
+	V,V.PTCP,PRS
+tensed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+grow	V,NFIN
+grew	V,PST
+growing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+reads	V,3,SG,PRS
+	V,NFIN
+read	V,PST
+	V,V.PTCP,PRS
+read	V,V.PTCP,PST
+
+pitches	V,3,SG,PRS
+pitch	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+pitched	V,V.PTCP,PST
+
+glories	V,3,SG,PRS
+glory	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+gloried	V,V.PTCP,PST
+
+	V,3,SG,PRS
+cream	V,NFIN
+	V,PST
+creaming	V,V.PTCP,PRS
+creamed	V,V.PTCP,PST
+
+claims	V,3,SG,PRS
+	V,NFIN
+	V,PST
+claiming	V,V.PTCP,PRS
+claimed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+cover	V,NFIN
+	V,PST
+covering	V,V.PTCP,PRS
+covered	V,V.PTCP,PST
+
+drinks	V,3,SG,PRS
+drink	V,NFIN
+	V,PST
+drinking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+misses	V,3,SG,PRS
+miss	V,NFIN
+	V,PST
+missing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+squeeze	V,NFIN
+squeezed	V,PST
+	V,V.PTCP,PRS
+squeezed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+control	V,NFIN
+	V,PST
+controlling	V,V.PTCP,PRS
+controlled	V,V.PTCP,PST
+
+	V,3,SG,PRS
+lobby	V,NFIN
+lobbied	V,PST
+	V,V.PTCP,PRS
+lobbied	V,V.PTCP,PST
+
+	V,3,SG,PRS
+whew	V,NFIN
+whewed	V,PST
+	V,V.PTCP,PRS
+whewed	V,V.PTCP,PST
+
+dies	V,3,SG,PRS
+die	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+died	V,V.PTCP,PST
+
+foots	V,3,SG,PRS
+foot	V,NFIN
+	V,PST
+footing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+purposes	V,3,SG,PRS
+purpose	V,NFIN
+	V,PST
+purposing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+twinned	V,PST
+twinning	V,V.PTCP,PRS
+twinned	V,V.PTCP,PST
+
+channels	V,3,SG,PRS
+	V,NFIN
+channelled	V,PST
+channelling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+take	V,NFIN
+took	V,PST
+	V,V.PTCP,PRS
+taken	V,V.PTCP,PST
+
+rides	V,3,SG,PRS
+ride	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+ridden	V,V.PTCP,PST
+
+represents	V,3,SG,PRS
+represent	V,NFIN
+represented	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+approach	V,NFIN
+	V,PST
+approaching	V,V.PTCP,PRS
+approached	V,V.PTCP,PST
+
+punches	V,3,SG,PRS
+punch	V,NFIN
+	V,PST
+punching	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+spell	V,NFIN
+	V,PST
+spelling	V,V.PTCP,PRS
+spelt	V,V.PTCP,PST
+
+popcorns	V,3,SG,PRS
+	V,NFIN
+	V,PST
+popcorning	V,V.PTCP,PRS
+popcorned	V,V.PTCP,PST
+
+	V,3,SG,PRS
+alarm	V,NFIN
+alarmed	V,PST
+	V,V.PTCP,PRS
+alarmed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+smooth	V,NFIN
+	V,PST
+smoothing	V,V.PTCP,PRS
+smoothed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+version	V,NFIN
+versioned	V,PST
+versioning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+print	V,NFIN
+printed	V,PST
+	V,V.PTCP,PRS
+printed	V,V.PTCP,PST
+
+tags	V,3,SG,PRS
+tag	V,NFIN
+	V,PST
+tagging	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+campus	V,NFIN
+campused	V,PST
+	V,V.PTCP,PRS
+campused	V,V.PTCP,PST
+
+yards	V,3,SG,PRS
+	V,NFIN
+	V,PST
+yarding	V,V.PTCP,PRS
+yarded	V,V.PTCP,PST
+
+sneaks	V,3,SG,PRS
+	V,NFIN
+snuck	V,PST
+sneaking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+ghosted	V,PST
+ghosting	V,V.PTCP,PRS
+ghosted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+glassed	V,PST
+glassing	V,V.PTCP,PRS
+glassed	V,V.PTCP,PST
+
+hops	V,3,SG,PRS
+	V,NFIN
+hopped	V,PST
+	V,V.PTCP,PRS
+hopped	V,V.PTCP,PST
+
+	V,3,SG,PRS
+flag	V,NFIN
+flagged	V,PST
+	V,V.PTCP,PRS
+flagged	V,V.PTCP,PST
+
+	V,3,SG,PRS
+word	V,NFIN
+	V,PST
+wording	V,V.PTCP,PRS
+worded	V,V.PTCP,PST
+
+ands	V,3,SG,PRS
+	V,NFIN
+anded	V,PST
+anding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+woos	V,3,SG,PRS
+woo	V,NFIN
+wooed	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+suit	V,NFIN
+	V,PST
+suiting	V,V.PTCP,PRS
+suited	V,V.PTCP,PST
+
+examples	V,3,SG,PRS
+example	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+exampled	V,V.PTCP,PST
+
+approves	V,3,SG,PRS
+	V,NFIN
+approved	V,PST
+approving	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+convince	V,NFIN
+	V,PST
+convincing	V,V.PTCP,PRS
+convinced	V,V.PTCP,PST
+
+counsels	V,3,SG,PRS
+	V,NFIN
+	V,PST
+counselling	V,V.PTCP,PRS
+counselled	V,V.PTCP,PST
+
+	V,3,SG,PRS
+lack	V,NFIN
+	V,PST
+lacking	V,V.PTCP,PRS
+lacked	V,V.PTCP,PST
+
+exercises	V,3,SG,PRS
+exercise	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+exercised	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+soldiered	V,PST
+soldiering	V,V.PTCP,PRS
+soldiered	V,V.PTCP,PST
+
+	V,3,SG,PRS
+monster	V,NFIN
+	V,PST
+monstering	V,V.PTCP,PRS
+monstered	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+assured	V,PST
+assuring	V,V.PTCP,PRS
+assured	V,V.PTCP,PST
+
+says	V,3,SG,PRS
+	V,NFIN
+sayed	V,PST
+saying	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+state	V,NFIN
+stated	V,PST
+stating	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+comfort	V,NFIN
+comforted	V,PST
+	V,V.PTCP,PRS
+comforted	V,V.PTCP,PST
+
+pairs	V,3,SG,PRS
+	V,NFIN
+paired	V,PST
+pairing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+undergrounds	V,3,SG,PRS
+underground	V,NFIN
+	V,PST
+undergrounding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+collect	V,NFIN
+collected	V,PST
+collecting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+falls	V,3,SG,PRS
+	V,NFIN
+fell	V,PST
+falling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+marries	V,3,SG,PRS
+	V,NFIN
+married	V,PST
+marrying	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+ordered	V,PST
+ordering	V,V.PTCP,PRS
+ordered	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+invited	V,PST
+inviting	V,V.PTCP,PRS
+invited	V,V.PTCP,PST
+
+masks	V,3,SG,PRS
+mask	V,NFIN
+	V,PST
+masking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+scare	V,NFIN
+scared	V,PST
+	V,V.PTCP,PRS
+scared	V,V.PTCP,PST
+
+	V,3,SG,PRS
+panic	V,NFIN
+	V,PST
+panicking	V,V.PTCP,PRS
+panicked	V,V.PTCP,PST
+
+goes	V,3,SG,PRS
+go	V,NFIN
+	V,PST
+going	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+finds	V,3,SG,PRS
+find	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+found	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+commanded	V,PST
+commanding	V,V.PTCP,PRS
+commanded	V,V.PTCP,PST
+
+	V,3,SG,PRS
+bag	V,NFIN
+	V,PST
+bagging	V,V.PTCP,PRS
+bagged	V,V.PTCP,PST
+
+promises	V,3,SG,PRS
+promise	V,NFIN
+promised	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+tears	V,3,SG,PRS
+tear	V,NFIN
+tore	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+cost	V,NFIN
+	V,PST
+costing	V,V.PTCP,PRS
+cost	V,V.PTCP,PST
+
+	V,3,SG,PRS
+kill	V,NFIN
+	V,PST
+killing	V,V.PTCP,PRS
+killed	V,V.PTCP,PST
+
+belts	V,3,SG,PRS
+	V,NFIN
+	V,PST
+belting	V,V.PTCP,PRS
+belted	V,V.PTCP,PST
+
+fits	V,3,SG,PRS
+fit	V,NFIN
+fit	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+meal	V,NFIN
+mealed	V,PST
+mealing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+warehouses	V,3,SG,PRS
+warehouse	V,NFIN
+	V,PST
+warehousing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+networks	V,3,SG,PRS
+	V,NFIN
+	V,PST
+networking	V,V.PTCP,PRS
+networked	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+fanned	V,PST
+fanning	V,V.PTCP,PRS
+fanned	V,V.PTCP,PST
+
+	V,3,SG,PRS
+suppose	V,NFIN
+supposed	V,PST
+supposing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+dukes	V,3,SG,PRS
+	V,NFIN
+duked	V,PST
+	V,V.PTCP,PRS
+duked	V,V.PTCP,PST
+
+stuffs	V,3,SG,PRS
+	V,NFIN
+	V,PST
+stuffing	V,V.PTCP,PRS
+stuffed	V,V.PTCP,PST
+
+targets	V,3,SG,PRS
+	V,NFIN
+targetted	V,PST
+	V,V.PTCP,PRS
+targetted	V,V.PTCP,PST
+
+shuts	V,3,SG,PRS
+shut	V,NFIN
+shut	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+oils	V,3,SG,PRS
+oil	V,NFIN
+oiled	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+trunk	V,NFIN
+trunked	V,PST
+	V,V.PTCP,PRS
+trunked	V,V.PTCP,PST
+
+	V,3,SG,PRS
+fever	V,NFIN
+fevered	V,PST
+	V,V.PTCP,PRS
+fevered	V,V.PTCP,PST
+
+	V,3,SG,PRS
+interest	V,NFIN
+interested	V,PST
+interesting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+let	V,NFIN
+let	V,PST
+	V,V.PTCP,PRS
+let	V,V.PTCP,PST
+
+baths	V,3,SG,PRS
+	V,NFIN
+bathed	V,PST
+	V,V.PTCP,PRS
+bathed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+imagine	V,NFIN
+	V,PST
+imagining	V,V.PTCP,PRS
+imagined	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+buttoned	V,PST
+buttoning	V,V.PTCP,PRS
+buttoned	V,V.PTCP,PST
+
+buds	V,3,SG,PRS
+	V,NFIN
+budded	V,PST
+	V,V.PTCP,PRS
+budded	V,V.PTCP,PST
+
+	V,3,SG,PRS
+know	V,NFIN
+knew	V,PST
+knowing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+contracts	V,3,SG,PRS
+contract	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+contracted	V,V.PTCP,PST
+
+places	V,3,SG,PRS
+	V,NFIN
+placed	V,PST
+placing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+fronts	V,3,SG,PRS
+	V,NFIN
+fronted	V,PST
+fronting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+damage	V,NFIN
+	V,PST
+damaging	V,V.PTCP,PRS
+damaged	V,V.PTCP,PST
+
+considers	V,3,SG,PRS
+	V,NFIN
+	V,PST
+considering	V,V.PTCP,PRS
+considered	V,V.PTCP,PST
+
+	V,3,SG,PRS
+firm	V,NFIN
+	V,PST
+firming	V,V.PTCP,PRS
+firmed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+double	V,NFIN
+	V,PST
+doubling	V,V.PTCP,PRS
+doubled	V,V.PTCP,PST
+
+experiences	V,3,SG,PRS
+	V,NFIN
+	V,PST
+experiencing	V,V.PTCP,PRS
+experienced	V,V.PTCP,PST
+
+	V,3,SG,PRS
+lesson	V,NFIN
+lessoned	V,PST
+	V,V.PTCP,PRS
+lessoned	V,V.PTCP,PST
+
+graves	V,3,SG,PRS
+grave	V,NFIN
+grove	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+screens	V,3,SG,PRS
+	V,NFIN
+screened	V,PST
+	V,V.PTCP,PRS
+screened	V,V.PTCP,PST
+
+stages	V,3,SG,PRS
+	V,NFIN
+	V,PST
+staging	V,V.PTCP,PRS
+staged	V,V.PTCP,PST
+
+rubs	V,3,SG,PRS
+	V,NFIN
+rubbed	V,PST
+	V,V.PTCP,PRS
+rubbed	V,V.PTCP,PST
+
+kids	V,3,SG,PRS
+	V,NFIN
+	V,PST
+kidding	V,V.PTCP,PRS
+kidded	V,V.PTCP,PST
+
+stores	V,3,SG,PRS
+store	V,NFIN
+stored	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+hides	V,3,SG,PRS
+	V,NFIN
+hid	V,PST
+	V,V.PTCP,PRS
+hid	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+sided	V,PST
+siding	V,V.PTCP,PRS
+sided	V,V.PTCP,PST
+
+legs	V,3,SG,PRS
+leg	V,NFIN
+legged	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+throats	V,3,SG,PRS
+throat	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+throated	V,V.PTCP,PST
+
+suicides	V,3,SG,PRS
+suicide	V,NFIN
+	V,PST
+suiciding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+rob	V,NFIN
+robbed	V,PST
+robbing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+wish	V,NFIN
+	V,PST
+wishing	V,V.PTCP,PRS
+wished	V,V.PTCP,PST
+
+mouses	V,3,SG,PRS
+mouse	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+moused	V,V.PTCP,PST
+
+fucks	V,3,SG,PRS
+fuck	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+fucked	V,V.PTCP,PST
+
+bases	V,3,SG,PRS
+base	V,NFIN
+based	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+shrinks	V,3,SG,PRS
+shrink	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+shrunk	V,V.PTCP,PST
+
+pres	V,3,SG,PRS
+	V,NFIN
+preed	V,PST
+preing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+shops	V,3,SG,PRS
+shop	V,NFIN
+shopped	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+towel	V,NFIN
+	V,PST
+towelling	V,V.PTCP,PRS
+towelled	V,V.PTCP,PST
+
+distances	V,3,SG,PRS
+distance	V,NFIN
+distanced	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+pleasure	V,NFIN
+pleasured	V,PST
+	V,V.PTCP,PRS
+pleasured	V,V.PTCP,PST
+
+comments	V,3,SG,PRS
+comment	V,NFIN
+commented	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+step	V,NFIN
+stope	V,PST
+	V,V.PTCP,PRS
+stopen	V,V.PTCP,PST
+
+tries	V,3,SG,PRS
+try	V,NFIN
+tried	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+bury	V,NFIN
+buried	V,PST
+	V,V.PTCP,PRS
+buried	V,V.PTCP,PST
+
+	V,3,SG,PRS
+hint	V,NFIN
+	V,PST
+hinting	V,V.PTCP,PRS
+hinted	V,V.PTCP,PST
+
+leaves	V,3,SG,PRS
+leave	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+left	V,V.PTCP,PST
+
+	V,3,SG,PRS
+field	V,NFIN
+fielded	V,PST
+	V,V.PTCP,PRS
+fielded	V,V.PTCP,PST
+
+pulls	V,3,SG,PRS
+	V,NFIN
+	V,PST
+pulling	V,V.PTCP,PRS
+pulled	V,V.PTCP,PST
+
+tickets	V,3,SG,PRS
+	V,NFIN
+ticketed	V,PST
+ticketing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+ices	V,3,SG,PRS
+ice	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+iced	V,V.PTCP,PST
+
+ooohs	V,3,SG,PRS
+oooh	V,NFIN
+	V,PST
+ooohing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+carol	V,NFIN
+carolled	V,PST
+carolling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+details	V,3,SG,PRS
+	V,NFIN
+detailed	V,PST
+detailing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+battled	V,PST
+battling	V,V.PTCP,PRS
+battled	V,V.PTCP,PST
+
+climbs	V,3,SG,PRS
+climb	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+climbed	V,V.PTCP,PST
+
+chucks	V,3,SG,PRS
+	V,NFIN
+chucked	V,PST
+	V,V.PTCP,PRS
+chucked	V,V.PTCP,PST
+
+grants	V,3,SG,PRS
+	V,NFIN
+	V,PST
+granting	V,V.PTCP,PRS
+granted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+lie	V,NFIN
+lied	V,PST
+lying	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+gut	V,NFIN
+gutted	V,PST
+gutting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+pattern	V,NFIN
+	V,PST
+patterning	V,V.PTCP,PRS
+patterned	V,V.PTCP,PST
+
+shots	V,3,SG,PRS
+shot	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+shotted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+rescued	V,PST
+rescuing	V,V.PTCP,PRS
+rescued	V,V.PTCP,PST
+
+	V,3,SG,PRS
+credit	V,NFIN
+credited	V,PST
+	V,V.PTCP,PRS
+credited	V,V.PTCP,PST
+
+	V,3,SG,PRS
+speak	V,NFIN
+spoke	V,PST
+speaking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+furthers	V,3,SG,PRS
+	V,NFIN
+furthered	V,PST
+	V,V.PTCP,PRS
+furthered	V,V.PTCP,PST
+
+searches	V,3,SG,PRS
+search	V,NFIN
+searched	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+brandy	V,NFIN
+brandied	V,PST
+	V,V.PTCP,PRS
+brandied	V,V.PTCP,PST
+
+pleases	V,3,SG,PRS
+	V,NFIN
+pleased	V,PST
+pleasing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+forces	V,3,SG,PRS
+	V,NFIN
+forced	V,PST
+	V,V.PTCP,PRS
+forced	V,V.PTCP,PST
+
+profiles	V,3,SG,PRS
+profile	V,NFIN
+profiled	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+kits	V,3,SG,PRS
+kit	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+kitted	V,V.PTCP,PST
+
+benefits	V,3,SG,PRS
+benefit	V,NFIN
+benefitted	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+catch	V,NFIN
+caught	V,PST
+catching	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+saints	V,3,SG,PRS
+saint	V,NFIN
+sainted	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+matures	V,3,SG,PRS
+	V,NFIN
+	V,PST
+maturing	V,V.PTCP,PRS
+matured	V,V.PTCP,PST
+
+refuses	V,3,SG,PRS
+refuse	V,NFIN
+refused	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+con	V,NFIN
+	V,PST
+conning	V,V.PTCP,PRS
+conned	V,V.PTCP,PST
+
+adds	V,3,SG,PRS
+add	V,NFIN
+added	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+occasion	V,NFIN
+occasioned	V,PST
+occasioning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+clears	V,3,SG,PRS
+	V,NFIN
+	V,PST
+clearing	V,V.PTCP,PRS
+cleared	V,V.PTCP,PST
+
+tells	V,3,SG,PRS
+tell	V,NFIN
+	V,PST
+telling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+borrows	V,3,SG,PRS
+borrow	V,NFIN
+borrowed	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+cave	V,NFIN
+	V,PST
+caving	V,V.PTCP,PRS
+caved	V,V.PTCP,PST
+
+teaches	V,3,SG,PRS
+	V,NFIN
+taught	V,PST
+	V,V.PTCP,PRS
+taught	V,V.PTCP,PST
+
+	V,3,SG,PRS
+heal	V,NFIN
+hole	V,PST
+healing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+loans	V,3,SG,PRS
+	V,NFIN
+loaned	V,PST
+loaning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+desire	V,NFIN
+	V,PST
+desiring	V,V.PTCP,PRS
+desired	V,V.PTCP,PST
+
+motions	V,3,SG,PRS
+motion	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+motioned	V,V.PTCP,PST
+
+saves	V,3,SG,PRS
+save	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+saved	V,V.PTCP,PST
+
+coaches	V,3,SG,PRS
+	V,NFIN
+coached	V,PST
+coaching	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+enjoyed	V,PST
+enjoying	V,V.PTCP,PRS
+enjoyed	V,V.PTCP,PST
+
+singles	V,3,SG,PRS
+	V,NFIN
+	V,PST
+singling	V,V.PTCP,PRS
+singled	V,V.PTCP,PST
+
+jokes	V,3,SG,PRS
+	V,NFIN
+joked	V,PST
+joking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+nurse	V,NFIN
+	V,PST
+nursing	V,V.PTCP,PRS
+nursed	V,V.PTCP,PST
+
+farms	V,3,SG,PRS
+	V,NFIN
+farmed	V,PST
+farming	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+attempts	V,3,SG,PRS
+attempt	V,NFIN
+	V,PST
+attempting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+flipped	V,PST
+flipping	V,V.PTCP,PRS
+flipped	V,V.PTCP,PST
+
+sucks	V,3,SG,PRS
+suck	V,NFIN
+	V,PST
+sucking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+sauce	V,NFIN
+sauced	V,PST
+	V,V.PTCP,PRS
+sauced	V,V.PTCP,PST
+
+bloods	V,3,SG,PRS
+blood	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+blooded	V,V.PTCP,PST
+
+bests	V,3,SG,PRS
+best	V,NFIN
+	V,PST
+besting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+blackmails	V,3,SG,PRS
+	V,NFIN
+blackmailed	V,PST
+	V,V.PTCP,PRS
+blackmailed	V,V.PTCP,PST
+
+influences	V,3,SG,PRS
+	V,NFIN
+influenced	V,PST
+influencing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+wire	V,NFIN
+	V,PST
+wiring	V,V.PTCP,PRS
+wired	V,V.PTCP,PST
+
+	V,3,SG,PRS
+rain	V,NFIN
+	V,PST
+raining	V,V.PTCP,PRS
+rained	V,V.PTCP,PST
+
+positions	V,3,SG,PRS
+	V,NFIN
+positioned	V,PST
+positioning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+keeps	V,3,SG,PRS
+keep	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+kept	V,V.PTCP,PST
+
+picks	V,3,SG,PRS
+	V,NFIN
+picked	V,PST
+	V,V.PTCP,PRS
+picked	V,V.PTCP,PST
+
+cashes	V,3,SG,PRS
+	V,NFIN
+cashed	V,PST
+cashing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+wets	V,3,SG,PRS
+	V,NFIN
+wet	V,PST
+wetting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+heats	V,3,SG,PRS
+	V,NFIN
+heated	V,PST
+heating	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+potter	V,NFIN
+pottered	V,PST
+	V,V.PTCP,PRS
+pottered	V,V.PTCP,PST
+
+surfaces	V,3,SG,PRS
+	V,NFIN
+surfaced	V,PST
+	V,V.PTCP,PRS
+surfaced	V,V.PTCP,PST
+
+	V,3,SG,PRS
+start	V,NFIN
+started	V,PST
+starting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+longs	V,3,SG,PRS
+	V,NFIN
+	V,PST
+longing	V,V.PTCP,PRS
+longed	V,V.PTCP,PST
+
+drops	V,3,SG,PRS
+drop	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+dropped	V,V.PTCP,PST
+
+	V,3,SG,PRS
+tough	V,NFIN
+toughed	V,PST
+	V,V.PTCP,PRS
+toughed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+barb	V,NFIN
+	V,PST
+barbing	V,V.PTCP,PRS
+barbed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+talk	V,NFIN
+	V,PST
+talking	V,V.PTCP,PRS
+talked	V,V.PTCP,PST
+
+	V,3,SG,PRS
+serve	V,NFIN
+	V,PST
+serving	V,V.PTCP,PRS
+served	V,V.PTCP,PST
+
+	V,3,SG,PRS
+spike	V,NFIN
+	V,PST
+spiking	V,V.PTCP,PRS
+spiked	V,V.PTCP,PST
+
+	V,3,SG,PRS
+follow	V,NFIN
+followed	V,PST
+following	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+truck	V,NFIN
+trucked	V,PST
+	V,V.PTCP,PRS
+trucked	V,V.PTCP,PST
+
+sands	V,3,SG,PRS
+	V,NFIN
+sanded	V,PST
+	V,V.PTCP,PRS
+sanded	V,V.PTCP,PST
+
+	V,3,SG,PRS
+couple	V,NFIN
+coupled	V,PST
+	V,V.PTCP,PRS
+coupled	V,V.PTCP,PST
+
+listens	V,3,SG,PRS
+listen	V,NFIN
+	V,PST
+listening	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+surprises	V,3,SG,PRS
+surprise	V,NFIN
+surprised	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+trips	V,3,SG,PRS
+	V,NFIN
+	V,PST
+tripping	V,V.PTCP,PRS
+tripped	V,V.PTCP,PST
+
+	V,3,SG,PRS
+table	V,NFIN
+tabled	V,PST
+	V,V.PTCP,PRS
+tabled	V,V.PTCP,PST
+
+	V,3,SG,PRS
+get	V,NFIN
+got	V,PST
+getting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+sound	V,NFIN
+sounded	V,PST
+sounding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+repeats	V,3,SG,PRS
+	V,NFIN
+repeated	V,PST
+	V,V.PTCP,PRS
+repeated	V,V.PTCP,PST
+
+cables	V,3,SG,PRS
+cable	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+cabled	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+afforded	V,PST
+affording	V,V.PTCP,PRS
+afforded	V,V.PTCP,PST
+
+	V,3,SG,PRS
+arm	V,NFIN
+	V,PST
+arming	V,V.PTCP,PRS
+armed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+cooked	V,PST
+cooking	V,V.PTCP,PRS
+cooked	V,V.PTCP,PST
+
+guards	V,3,SG,PRS
+guard	V,NFIN
+	V,PST
+guarding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+zones	V,3,SG,PRS
+	V,NFIN
+zoned	V,PST
+zoning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+trade	V,NFIN
+traded	V,PST
+trading	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+eased	V,PST
+easing	V,V.PTCP,PRS
+eased	V,V.PTCP,PST
+
+throws	V,3,SG,PRS
+throw	V,NFIN
+threw	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+stop	V,NFIN
+stopped	V,PST
+stopping	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+signs	V,3,SG,PRS
+	V,NFIN
+signed	V,PST
+signing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+race	V,NFIN
+raced	V,PST
+racing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+discusses	V,3,SG,PRS
+discuss	V,NFIN
+	V,PST
+discussing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+dreams	V,3,SG,PRS
+	V,NFIN
+drempt	V,PST
+	V,V.PTCP,PRS
+drempt	V,V.PTCP,PST
+
+beds	V,3,SG,PRS
+	V,NFIN
+	V,PST
+bedding	V,V.PTCP,PRS
+bedded	V,V.PTCP,PST
+
+	V,3,SG,PRS
+object	V,NFIN
+objected	V,PST
+	V,V.PTCP,PRS
+objected	V,V.PTCP,PST
+
+stocks	V,3,SG,PRS
+	V,NFIN
+	V,PST
+stocking	V,V.PTCP,PRS
+stocked	V,V.PTCP,PST
+
+	V,3,SG,PRS
+record	V,NFIN
+recorded	V,PST
+	V,V.PTCP,PRS
+recorded	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+cowboyed	V,PST
+cowboying	V,V.PTCP,PRS
+cowboyed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+newed	V,PST
+newing	V,V.PTCP,PRS
+newed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+appropriated	V,PST
+appropriating	V,V.PTCP,PRS
+appropriated	V,V.PTCP,PST
+
+spins	V,3,SG,PRS
+	V,NFIN
+	V,PST
+spinning	V,V.PTCP,PRS
+spun	V,V.PTCP,PST
+
+	V,3,SG,PRS
+pierce	V,NFIN
+pierced	V,PST
+	V,V.PTCP,PRS
+pierced	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+mastered	V,PST
+mastering	V,V.PTCP,PRS
+mastered	V,V.PTCP,PST
+
+harms	V,3,SG,PRS
+	V,NFIN
+harmed	V,PST
+harming	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+seem	V,NFIN
+seemed	V,PST
+seeming	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+walls	V,3,SG,PRS
+	V,NFIN
+walled	V,PST
+	V,V.PTCP,PRS
+walled	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+understood	V,PST
+understanding	V,V.PTCP,PRS
+understood	V,V.PTCP,PST
+
+escapes	V,3,SG,PRS
+	V,NFIN
+	V,PST
+escaping	V,V.PTCP,PRS
+escaped	V,V.PTCP,PST
+
+remembers	V,3,SG,PRS
+remember	V,NFIN
+	V,PST
+remembering	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+freezes	V,3,SG,PRS
+	V,NFIN
+froze	V,PST
+freezing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+downs	V,3,SG,PRS
+down	V,NFIN
+	V,PST
+downing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+breathes	V,3,SG,PRS
+	V,NFIN
+breathed	V,PST
+breathing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+outfit	V,NFIN
+outfitted	V,PST
+	V,V.PTCP,PRS
+outfitted	V,V.PTCP,PST
+
+dates	V,3,SG,PRS
+	V,NFIN
+dated	V,PST
+	V,V.PTCP,PRS
+dated	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+affected	V,PST
+affecting	V,V.PTCP,PRS
+affected	V,V.PTCP,PST
+
+	V,3,SG,PRS
+circle	V,NFIN
+	V,PST
+circling	V,V.PTCP,PRS
+circled	V,V.PTCP,PST
+
+moons	V,3,SG,PRS
+	V,NFIN
+mooned	V,PST
+	V,V.PTCP,PRS
+mooned	V,V.PTCP,PST
+
+teams	V,3,SG,PRS
+	V,NFIN
+teamed	V,PST
+teaming	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+effects	V,3,SG,PRS
+effect	V,NFIN
+	V,PST
+effecting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+spreads	V,3,SG,PRS
+	V,NFIN
+spread	V,PST
+spreading	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+priest	V,NFIN
+priested	V,PST
+priesting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+cancelled	V,PST
+cancelling	V,V.PTCP,PRS
+cancelled	V,V.PTCP,PST
+
+	V,3,SG,PRS
+face	V,NFIN
+faced	V,PST
+facing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+quit	V,NFIN
+quit	V,PST
+	V,V.PTCP,PRS
+quit	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+ported	V,PST
+porting	V,V.PTCP,PRS
+ported	V,V.PTCP,PST
+
+mums	V,3,SG,PRS
+mum	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+mummed	V,V.PTCP,PST
+
+joins	V,3,SG,PRS
+join	V,NFIN
+	V,PST
+joining	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+slows	V,3,SG,PRS
+	V,NFIN
+slowed	V,PST
+	V,V.PTCP,PRS
+slowed	V,V.PTCP,PST
+
+hears	V,3,SG,PRS
+hear	V,NFIN
+heard	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+bayed	V,PST
+baying	V,V.PTCP,PRS
+bayed	V,V.PTCP,PST
+
+stays	V,3,SG,PRS
+	V,NFIN
+	V,PST
+staying	V,V.PTCP,PRS
+stayed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+partner	V,NFIN
+partnered	V,PST
+partnering	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+pushes	V,3,SG,PRS
+push	V,NFIN
+pushed	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+award	V,NFIN
+awarded	V,PST
+	V,V.PTCP,PRS
+awarded	V,V.PTCP,PST
+
+ranges	V,3,SG,PRS
+	V,NFIN
+ranged	V,PST
+	V,V.PTCP,PRS
+ranged	V,V.PTCP,PST
+
+pities	V,3,SG,PRS
+pity	V,NFIN
+	V,PST
+pitying	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+sampled	V,PST
+sampling	V,V.PTCP,PRS
+sampled	V,V.PTCP,PST
+
+radios	V,3,SG,PRS
+radio	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+radioed	V,V.PTCP,PST
+
+charges	V,3,SG,PRS
+charge	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+charged	V,V.PTCP,PST
+
+	V,3,SG,PRS
+yell	V,NFIN
+yelled	V,PST
+yelling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+gains	V,3,SG,PRS
+gain	V,NFIN
+	V,PST
+gaining	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+amps	V,3,SG,PRS
+	V,NFIN
+amped	V,PST
+	V,V.PTCP,PRS
+amped	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+completed	V,PST
+completing	V,V.PTCP,PRS
+completed	V,V.PTCP,PST
+
+builds	V,3,SG,PRS
+	V,NFIN
+built	V,PST
+	V,V.PTCP,PRS
+built	V,V.PTCP,PST
+
+toasts	V,3,SG,PRS
+toast	V,NFIN
+	V,PST
+toasting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+pinned	V,PST
+pinning	V,V.PTCP,PRS
+pinned	V,V.PTCP,PST
+
+slips	V,3,SG,PRS
+slip	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+slipped	V,V.PTCP,PST
+
+bowls	V,3,SG,PRS
+bowl	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+bowled	V,V.PTCP,PST
+
+holds	V,3,SG,PRS
+hold	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+holden	V,V.PTCP,PST
+
+smokes	V,3,SG,PRS
+smoke	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+smoked	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+planted	V,PST
+planting	V,V.PTCP,PRS
+planted	V,V.PTCP,PST
+
+whores	V,3,SG,PRS
+	V,NFIN
+	V,PST
+whoring	V,V.PTCP,PRS
+whored	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+resisted	V,PST
+resisting	V,V.PTCP,PRS
+resisted	V,V.PTCP,PST
+
+mans	V,3,SG,PRS
+man	V,NFIN
+manned	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+dealt	V,PST
+dealing	V,V.PTCP,PRS
+dealt	V,V.PTCP,PST
+
+	V,3,SG,PRS
+film	V,NFIN
+filmed	V,PST
+filming	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+survives	V,3,SG,PRS
+survive	V,NFIN
+	V,PST
+surviving	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+size	V,NFIN
+sized	V,PST
+	V,V.PTCP,PRS
+sized	V,V.PTCP,PST
+
+	V,3,SG,PRS
+switch	V,NFIN
+switched	V,PST
+	V,V.PTCP,PRS
+switched	V,V.PTCP,PST
+
+	V,3,SG,PRS
+golf	V,NFIN
+golfed	V,PST
+golfing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+gathers	V,3,SG,PRS
+	V,NFIN
+gathered	V,PST
+	V,V.PTCP,PRS
+gathered	V,V.PTCP,PST
+
+sleeps	V,3,SG,PRS
+	V,NFIN
+slept	V,PST
+	V,V.PTCP,PRS
+slept	V,V.PTCP,PST
+
+titles	V,3,SG,PRS
+	V,NFIN
+	V,PST
+titling	V,V.PTCP,PRS
+titled	V,V.PTCP,PST
+
+	V,3,SG,PRS
+ask	V,NFIN
+asked	V,PST
+	V,V.PTCP,PRS
+asked	V,V.PTCP,PST
+
+voices	V,3,SG,PRS
+voice	V,NFIN
+	V,PST
+voicing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+mistakes	V,3,SG,PRS
+	V,NFIN
+mistook	V,PST
+mistaking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+writes	V,3,SG,PRS
+write	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+writ	V,V.PTCP,PST
+
+stands	V,3,SG,PRS
+	V,NFIN
+	V,PST
+standing	V,V.PTCP,PRS
+stood	V,V.PTCP,PST
+
+	V,3,SG,PRS
+nerve	V,NFIN
+	V,PST
+nerving	V,V.PTCP,PRS
+nerved	V,V.PTCP,PST
+
+services	V,3,SG,PRS
+	V,NFIN
+serviced	V,PST
+	V,V.PTCP,PRS
+serviced	V,V.PTCP,PST
+
+	V,3,SG,PRS
+research	V,NFIN
+researched	V,PST
+	V,V.PTCP,PRS
+researched	V,V.PTCP,PST
+
+	V,3,SG,PRS
+finger	V,NFIN
+	V,PST
+fingering	V,V.PTCP,PRS
+fingered	V,V.PTCP,PST
+
+	V,3,SG,PRS
+direct	V,NFIN
+	V,PST
+directing	V,V.PTCP,PRS
+directed	V,V.PTCP,PST
+
+	V,3,SG,PRS
+walk	V,NFIN
+	V,PST
+walking	V,V.PTCP,PRS
+walked	V,V.PTCP,PST
+
+cries	V,3,SG,PRS
+	V,NFIN
+	V,PST
+crying	V,V.PTCP,PRS
+cried	V,V.PTCP,PST
+
+cures	V,3,SG,PRS
+	V,NFIN
+cured	V,PST
+curing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+tracks	V,3,SG,PRS
+track	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+tracked	V,V.PTCP,PST
+
+	V,3,SG,PRS
+shift	V,NFIN
+shifted	V,PST
+	V,V.PTCP,PRS
+shifted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+back	V,NFIN
+backed	V,PST
+	V,V.PTCP,PRS
+backed	V,V.PTCP,PST
+
+accounts	V,3,SG,PRS
+account	V,NFIN
+	V,PST
+accounting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+plains	V,3,SG,PRS
+plain	V,NFIN
+	V,PST
+plaining	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+remind	V,NFIN
+reminded	V,PST
+	V,V.PTCP,PRS
+reminded	V,V.PTCP,PST
+
+delivers	V,3,SG,PRS
+	V,NFIN
+delivered	V,PST
+delivering	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+confesses	V,3,SG,PRS
+	V,NFIN
+confessed	V,PST
+confessing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+wons	V,3,SG,PRS
+	V,NFIN
+wond	V,PST
+	V,V.PTCP,PRS
+wond	V,V.PTCP,PST
+
+clays	V,3,SG,PRS
+clay	V,NFIN
+clayed	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+bums	V,3,SG,PRS
+	V,NFIN
+bummed	V,PST
+	V,V.PTCP,PRS
+bummed	V,V.PTCP,PST
+
+risks	V,3,SG,PRS
+	V,NFIN
+risked	V,PST
+risking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+works	V,3,SG,PRS
+work	V,NFIN
+wrought	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+thins	V,3,SG,PRS
+thin	V,NFIN
+	V,PST
+thinning	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+grosses	V,3,SG,PRS
+	V,NFIN
+grossed	V,PST
+grossing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+sits	V,3,SG,PRS
+	V,NFIN
+sat	V,PST
+sitting	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+makes	V,3,SG,PRS
+	V,NFIN
+made	V,PST
+making	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+minds	V,3,SG,PRS
+	V,NFIN
+minded	V,PST
+minding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+bothers	V,3,SG,PRS
+bother	V,NFIN
+	V,PST
+bothering	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+	V,NFIN
+witnessed	V,PST
+witnessing	V,V.PTCP,PRS
+witnessed	V,V.PTCP,PST
+
+tanks	V,3,SG,PRS
+	V,NFIN
+	V,PST
+tanking	V,V.PTCP,PRS
+tanked	V,V.PTCP,PST
+
+primes	V,3,SG,PRS
+	V,NFIN
+primed	V,PST
+	V,V.PTCP,PRS
+primed	V,V.PTCP,PST
+
+homes	V,3,SG,PRS
+home	V,NFIN
+	V,PST
+homing	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+gates	V,3,SG,PRS
+	V,NFIN
+gated	V,PST
+gating	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+beasts	V,3,SG,PRS
+	V,NFIN
+beasted	V,PST
+	V,V.PTCP,PRS
+beasted	V,V.PTCP,PST
+
+copies	V,3,SG,PRS
+copy	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+copied	V,V.PTCP,PST
+
+	V,3,SG,PRS
+decide	V,NFIN
+decided	V,PST
+deciding	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+cools	V,3,SG,PRS
+	V,NFIN
+	V,PST
+cooling	V,V.PTCP,PRS
+cooled	V,V.PTCP,PST
+
+skins	V,3,SG,PRS
+skin	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+skinned	V,V.PTCP,PST
+
+views	V,3,SG,PRS
+	V,NFIN
+viewed	V,PST
+	V,V.PTCP,PRS
+viewed	V,V.PTCP,PST
+
+poisons	V,3,SG,PRS
+	V,NFIN
+	V,PST
+poisoning	V,V.PTCP,PRS
+poisoned	V,V.PTCP,PST
+
+decks	V,3,SG,PRS
+deck	V,NFIN
+decked	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+knocks	V,3,SG,PRS
+knock	V,NFIN
+	V,PST
+knocking	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+storm	V,NFIN
+stormed	V,PST
+storming	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+bars	V,3,SG,PRS
+	V,NFIN
+barred	V,PST
+barring	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+seasons	V,3,SG,PRS
+	V,NFIN
+seasoned	V,PST
+	V,V.PTCP,PRS
+seasoned	V,V.PTCP,PST
+
+accepts	V,3,SG,PRS
+	V,NFIN
+	V,PST
+accepting	V,V.PTCP,PRS
+accepted	V,V.PTCP,PST
+
+	V,3,SG,PRS
+jail	V,NFIN
+jailed	V,PST
+	V,V.PTCP,PRS
+jailed	V,V.PTCP,PST
+
+labors	V,3,SG,PRS
+labor	V,NFIN
+labored	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+signals	V,3,SG,PRS
+signal	V,NFIN
+	V,PST
+signalling	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+waters	V,3,SG,PRS
+water	V,NFIN
+	V,PST
+	V,V.PTCP,PRS
+watered	V,V.PTCP,PST
+
+	V,3,SG,PRS
+route	V,NFIN
+	V,PST
+routing	V,V.PTCP,PRS
+routed	V,V.PTCP,PST
+
+opinions	V,3,SG,PRS
+opinion	V,NFIN
+opinioned	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+inches	V,3,SG,PRS
+inch	V,NFIN
+inched	V,PST
+	V,V.PTCP,PRS
+	V,V.PTCP,PST
+
+	V,3,SG,PRS
+wonder	V,NFIN
+wondered	V,PST
+	V,V.PTCP,PRS
+wondered	V,V.PTCP,PST
+
+wipes	V,3,SG,PRS
+	V,NFIN
+wiped	V,PST
+	V,V.PTCP,PRS
+wiped	V,V.PTCP,PST
+
