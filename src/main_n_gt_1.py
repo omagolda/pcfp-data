@@ -4,31 +4,6 @@ from sys import argv
 import os
 from hyper_params import *
 
-# def get_meta():
-#     if OnlySup:
-#         return language+paradigm + f'_only{Supervision}sup'
-#     meta = language+paradigm + f'_all-ns_{Supervision}sup'
-#     if minidict:
-#         meta += '_minidict'
-#     meta += f'_enhance_{enhance_iters}'
-#     meta += '_max'
-#     return meta
-
-def get_covered_labels(data):
-    if not include_only_covered_labels:
-        return None
-    covered_labels = set()
-    for d in data:
-        datum = d[0]
-        datum = datum[datum.index('+')+1:]
-        labels = [datum[:datum.index('+')], datum[datum.index('+') + 1:]]
-        labels = [';'.join(l) for l in labels]
-        assert len(labels)==2
-        covered_labels.add(labels[0])
-        covered_labels.add(labels[1])
-    print(f'{len(covered_labels)} covered labels.')
-    return covered_labels
-
 def pack_params(train_module):
     return [train_module.model, train_module.enc_fwd_lstm, train_module.enc_bwd_lstm, train_module.dec_lstm,
             train_module.input_lookup, train_module.attention_w1,train_module.attention_w2, train_module.attention_v,
@@ -64,7 +39,6 @@ if __name__ == '__main__':
     else:
         data, added_examples = train_n_gt_1.my_readdata(data_path)
 
-    covered_labels = get_covered_labels(data)
     added_examples_per_label = create_examples_per_label(added_examples)
     train_n_gt_1.init()
     train_n_gt_1.train(train_n_gt_1.model, data)
@@ -79,5 +53,4 @@ if __name__ == '__main__':
     test_n_gt_1.init_existing(list_of_stuff + [int2char, char2int])
     # test_n_gt_1.init()
     # test_n_gt_1.model.populate(model_path)
-    all_labels = list(answers[0].keys())
-    accuracy = test_n_gt_1.test(data, None, answers, write_path, added_examples, added_examples_per_label, covered_labels)
+    accuracy = test_n_gt_1.test(data, answers, write_path, added_examples, added_examples_per_label)

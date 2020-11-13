@@ -207,6 +207,32 @@ def readtestdata(fn):
 
     return data
 
+def lemma_readtestdata(fn):
+    if fn.endswith('.lemma.txt'):
+        data = []
+        for line in open(fn, encoding='utf8'):
+            if not line:
+                continue
+            data.append({'V,NFIN': line.strip()})
+    else:
+        data = []
+        former_lemma = None
+        for line in open(fn, encoding='utf8'):
+            line = line.strip('\n')
+            if line == '':
+                continue
+            lemma, wf, label = line.split('\t')
+            if lemma != former_lemma:
+                data.append({})
+            former_lemma = lemma
+            if len(wf.split()) != 1:
+                continue
+            if wf == '':
+                raise NotImplementedError
+            data[-1][label] = wf
+    return data
+
+
 def vote(outputs):
     outputs = [output for output in outputs if output]
     return Counter(outputs).most_common()[0][0]
@@ -230,7 +256,7 @@ def weight_vote(outputs, relation_distrusts, labels_distrust):
     else:
         return random.choice(outputs)
 
-def test(partial_data, all_labels, answers, write_path, relations_distrust, labels_distrust, covered_labels=None):
+def test(partial_data, answers, write_path, relations_distrust, labels_distrust):
     with open(write_path, 'w', encoding='utf8') as f:
         predicts = []
         for i, d in enumerate(partial_data):
@@ -239,19 +265,13 @@ def test(partial_data, all_labels, answers, write_path, relations_distrust, labe
             forms = [[c for c in wf] + ['+'] + l.split(',')
                      for l,wf in d.items() if wf != None]
             labels = [';'.join(l.split(',')) for l,wf in d.items() if wf != None]
-            if covered_labels and any([l not in covered_labels for l in labels]):
-                continue
 
-            if not all_labels:
-                all_relevant_labels = answers[i].keys()
-            else:
-                all_relevant_labels = all_labels
+            all_relevant_labels = answers[i].keys()
             for l in all_relevant_labels:
                 # if d[l] == None:
                 if d.get(l, None) == None:
 
-                    if covered_labels and ';'.join(l.split(',')) not in covered_labels:
-                        continue
+                    l.replace(';', ',')
                     inputs = [f + ['+'] + l.split(',') for f in forms]
                     relations = []
                     outputs = []
@@ -284,7 +304,7 @@ def test(partial_data, all_labels, answers, write_path, relations_distrust, labe
             tot += 1
             if d[l] == answers[i][l]:
                 corrects += 1
-        print(i, corrects/tot)
+        # print(i, corrects/tot)
     print(corrects/tot)
     print(write_path, 'written')
     return corrects/tot
@@ -304,16 +324,41 @@ def read_wrap(data_fn, ans_fn):
 
     return data, answers
 
+def lemma_read_wrap(data_fn, ans_fn):
+    data = lemma_readtestdata(data_fn)
+    answers = lemma_readtestdata(ans_fn)
+
+    return data, answers
 
 if __name__=='__main__':
-#    global int2char, char2int, VOCAB_SIZE, model
-    data, answers = read_wrap(argv[1], argv[2])
-    # data = readtestdata(argv[1])
-    # answers = readtestdata(argv[2])
-    model_path = argv[3]+'_model'
-    int2char, char2int, VOCAB_SIZE = pickle.load(open("%s.obj.pkl" % model_path,
-                                                      "rb"))
+    import os
+
+    meta = '_'.join(exp_dir.split('_')[1:]) + f'_{scoring_threshold}'
+    model_path = os.path.join(model_dir_path, f'{meta}_model')
+    write_path = os.path.join(model_dir_path, f'{meta}_from_lemma_output.txt')
+
+    print('testing inflection from lemma')
+    print('model path:', model_path)
+    print('writing to:', write_path)
+
+    data, answers = lemma_read_wrap(os.path.join(inflec_data_dir, f'{language}.um.{paradigm}.lemma.txt'),
+                              os.path.join(inflec_data_dir, f'{language}.um.{paradigm}.lemma_paradigms.txt'))
+    int2char, char2int, VOCAB_SIZE = pickle.load(open("%s.obj.pkl" % model_path, "rb"))
+
     init()
     model.populate(model_path)
-    all_labels = list(answers[0].keys())
-    accuracy = test(data, all_labels, answers, argv[3]+'_output.txt')
+
+    test(data, answers, write_path, None, None)
+
+
+# #    global int2char, char2int, VOCAB_SIZE, model
+#     data, answers = read_wrap(argv[1], argv[2])
+#     # data = readtestdata(argv[1])
+#     # answers = readtestdata(argv[2])
+#     model_path = argv[3]+'_model'
+#     int2char, char2int, VOCAB_SIZE = pickle.load(open("%s.obj.pkl" % model_path,
+#                                                       "rb"))
+#     init()
+#     model.populate(model_path)
+#     all_labels = list(answers[0].keys())
+#     accuracy = test(data, all_labels, answers, argv[3]+'_output.txt')
