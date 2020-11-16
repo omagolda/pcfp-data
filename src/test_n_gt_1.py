@@ -302,6 +302,9 @@ def test(partial_data, answers, write_path, relations_distrust, labels_distrust)
     for i, d in enumerate(predicts):
         for l in d:
             tot += 1
+            if language == 'he':
+                d[l] = d[l].replace('ף', 'פ').replace('ץ', 'צ').replace('ך', 'כ').replace('ם', 'מ').replace('ן', 'נ')
+                answers[i][l] = answers[i][l].replace('ף', 'פ').replace('ץ', 'צ').replace('ך', 'כ').replace('ם', 'מ').replace('ן', 'נ')
             if d[l] == answers[i][l]:
                 corrects += 1
         # print(i, corrects/tot)
