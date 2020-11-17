@@ -52,6 +52,8 @@ def readdata(fn):
         if not line:
             data.append([])
         else:
+            if language=='he':
+                line = treat_he_finals([line])[0]
             wf, label = line.split('\t')
             label = label.split(',')
             wf = [c for c in wf]
@@ -73,12 +75,20 @@ def readdata(fn):
                                      form2))
     return examples, None
 
+def treat_he_finals(forms):
+    res = []
+    for form in forms:
+        res.append(form.replace('ף', 'פ').replace('ץ', 'צ').replace('ך', 'כ').replace('ם', 'מ').replace('ן', 'נ'))
+    return res
+
 def my_readdata(fn):
     print(fn)
     examples = []
     examples_by_relation: Dict[str, List[int]] = {}
     for i, line in enumerate(open(fn, encoding='utf8')):
         form1, label1, form2, label2 = line.strip('\n').split('\t')
+        if language == 'he':
+            form1, form2 = treat_he_finals([form1, form2])
         relation = label1 + ' ' + label2
         if relation not in examples_by_relation:
             examples_by_relation[relation] = []
