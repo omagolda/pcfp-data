@@ -211,7 +211,7 @@ def lemma_readtestdata(fn):
     if fn.endswith('.lemma.txt'):
         data = []
         for line in open(fn, encoding='utf8'):
-            if not line:
+            if not line or len(line.split())>1:
                 continue
             data.append({'V,NFIN': line.strip()})
     else:
@@ -222,6 +222,14 @@ def lemma_readtestdata(fn):
             if line == '':
                 continue
             lemma, wf, label = line.split('\t')
+            if language == 'ru':
+                label = label.replace('FUT', 'PRS')
+                if label.startswith('V.PTCP'):
+                    continue
+            if language == 'tr' and 'NEG' in label:
+                continue
+            if len(lemma.split())>1:
+                continue
             if lemma != former_lemma:
                 data.append({})
             former_lemma = lemma
@@ -271,17 +279,18 @@ def test(partial_data, answers, write_path, relations_distrust, labels_distrust)
                 # if d[l] == None:
                 if d.get(l, None) == None:
 
-                    l.replace(';', ',')
-                    inputs = [f + ['+'] + l.split(',') for f in forms]
+                    templ = l.replace(';', ',')
+                    inputs = [f + ['+'] + templ.split(',') for f in forms]
                     relations = []
                     outputs = []
                     for i, input in enumerate(inputs):
-                        relations.append(labels[i] + ' ' + ';'.join(l.split(',')))
+                        relations.append(labels[i] + ' ' + ';'.join(templ.split(',')))
                         try:
+                            # print(input)
                             outputs.append(generate(input, enc_fwd_lstm, enc_bwd_lstm, dec_lstm))
                         except KeyError:
                             outputs.append(None)
-                    if len([output for output in outputs if output])<=0:
+                    if len([output for output in outputs if output])==0:
                         p[l] = None
                         continue
                     if WeightInVote:
@@ -336,7 +345,7 @@ def lemma_read_wrap(data_fn, ans_fn):
 if __name__=='__main__':
     import os
 
-    meta = '_'.join(exp_dir.split('_')[1:]) + f'_{scoring_threshold}'
+    meta = exp_dir + f'_{scoring_threshold}'
     model_path = os.path.join(model_dir_path, f'{meta}_model')
     write_path = os.path.join(model_dir_path, f'{meta}_from_lemma_output.txt')
 
