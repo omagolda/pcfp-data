@@ -81,12 +81,15 @@ def treat_he_finals(forms):
         res.append(form.replace('ף', 'פ').replace('ץ', 'צ').replace('ך', 'כ').replace('ם', 'מ').replace('ן', 'נ'))
     return res
 
-def my_readdata(fn, return_added=True):
+def my_readdata(fn, return_added=True, form_first=True):
     print(fn)
     examples = []
     examples_by_relation: Dict[str, List[int]] = {}
     for i, line in enumerate(open(fn, encoding='utf8')):
-        form1, label1, form2, label2 = line.strip('\n').split('\t')
+        if form_first:
+            form1, label1, form2, label2 = line.strip('\n').split('\t')
+        else:
+            label1, form1, label2, form2 = line.strip('\n').split('\t')
         if language == 'he':
             form1, form2 = treat_he_finals([form1, form2])
         relation = label1 + ' ' + label2
