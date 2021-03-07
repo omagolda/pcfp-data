@@ -81,7 +81,7 @@ def treat_he_finals(forms):
         res.append(form.replace('ף', 'פ').replace('ץ', 'צ').replace('ך', 'כ').replace('ם', 'מ').replace('ן', 'נ'))
     return res
 
-def my_readdata(fn):
+def my_readdata(fn, return_added=True):
     print(fn)
     examples = []
     examples_by_relation: Dict[str, List[int]] = {}
@@ -103,26 +103,31 @@ def my_readdata(fn):
         examples.append((form1 + ['+'] + label1 + ['+'] + label2, form2))
         examples_by_relation[relation].append(i)
 
-    relation_counter = {k:len(v) for k,v in examples_by_relation.items()}
-    print('total examples before balancing: ', len(examples))
+    if not return_added:
+        print('total examples:', len(examples))
+        return examples
 
-    print(sorted(Counter(relation_counter.values()).items(), key=lambda x: x[0]))
+    else:
+        relation_counter = {k:len(v) for k,v in examples_by_relation.items()}
+        print('total examples before balancing: ', len(examples))
 
-    # num_per_relation = max(relation_counter.values())
-    num_per_relation = BALANCE_NUM
-    for relation in relation_counter:
-        num_to_add = num_per_relation - relation_counter[relation]
-        if num_to_add < 0:
-            continue
-        idxs_to_add = []
-        while num_to_add > relation_counter[relation]:
-            idxs_to_add += examples_by_relation[relation]
-            num_to_add -= relation_counter[relation]
-        idxs_to_add += list(choice(examples_by_relation[relation], num_to_add, replace=False))
-        examples += [examples[i] for i in idxs_to_add]
-    print('total examples after balancing: ', len(examples))
+        # print(sorted(Counter(relation_counter.values()).items(), key=lambda x: x[0]))
 
-    return examples, {relation: num_per_relation - relation_counter[relation] for relation in relation_counter}
+        # num_per_relation = max(relation_counter.values())
+        num_per_relation = BALANCE_NUM
+        for relation in relation_counter:
+            num_to_add = num_per_relation - relation_counter[relation]
+            if num_to_add < 0:
+                continue
+            idxs_to_add = []
+            while num_to_add > relation_counter[relation]:
+                idxs_to_add += examples_by_relation[relation]
+                num_to_add -= relation_counter[relation]
+            idxs_to_add += list(choice(examples_by_relation[relation], num_to_add, replace=False))
+            examples += [examples[i] for i in idxs_to_add]
+        print('total examples after balancing: ', len(examples))
+
+        return examples, {relation: num_per_relation - relation_counter[relation] for relation in relation_counter}
 
 def embed_sentence(sentence):
     sentence = [EOS] + list(sentence) + [EOS]
