@@ -2,7 +2,8 @@ import train_n_gt_1
 import pickle
 from main_n_gt_1 import pack_params
 import dynet as dy
-# import test_n_gt_1
+from more_itertools import split_at
+import os
 
 EOS = "<EOS>"
 
@@ -112,7 +113,11 @@ def test(test_data, write_path):
         for i, d in enumerate(test_data):
             dy.renew_cg()
             output = generate(d[0], enc_fwd_lstm, enc_bwd_lstm, dec_lstm)
-            f.write('\t'.join(d[0].split('+') + [output]) + '\n')
+            to_write = split_at(d[0], lambda x:x=='+')
+            to_write[0] = ''.join(to_write[0])
+            to_write[1] = ';'.join(to_write[1])
+            to_write[2] = ';'.join(to_write[2])
+            f.write('\t'.join(to_write + [d[1], output]) + '\n')
 
             if output == d[1]:
                 corrects += 1
@@ -123,19 +128,20 @@ def test(test_data, write_path):
 
 if __name__ == '__main__':
     lang = 'heb'
-    train_path = ''
-    test_path = ''
-    model_path = ''
-    write_path = ''
+    root_dir = '/home/nlp/omerg/clause_morphology'
+    train_path = os.path.join(root_dir, 'datasets', f'{lang}_train')
+    test_path = os.path.join(root_dir, 'datasets', f'{lang}_test')
+    model_path = os.path.join(root_dir, 'models', f'{lang}_model')
+    write_path = os.path.join(root_dir, 'predictions', f'{lang}_predict')
 
-    train_data = train_n_gt_1.my_readdata(train_path, return_added=False)
+    train_data = train_n_gt_1.my_readdata(train_path, return_added=False, form_first=False)
     train_n_gt_1.init()
     train_n_gt_1.train(train_n_gt_1.model, train_data)
     train_n_gt_1.model.save(model_path)
     pickle.dump((train_n_gt_1.int2char,train_n_gt_1.char2int,train_n_gt_1.VOCAB_SIZE),
                 open("%s.obj.pkl" % model_path, "wb"))
 
-    test_data = train_n_gt_1.my_readdata(test_path, return_added=False)
+    test_data = train_n_gt_1.my_readdata(test_path, return_added=False, form_first=False)
     # int2char, char2int, VOCAB_SIZE = pickle.load(open("%s.obj.pkl" % model_path, "rb"))
     int2char, char2int, VOCAB_SIZE = train_n_gt_1.int2char,train_n_gt_1.char2int,train_n_gt_1.VOCAB_SIZE
     list_of_stuff = pack_params(train_n_gt_1)
