@@ -113,7 +113,7 @@ def test(test_data, write_path):
         for i, d in enumerate(test_data):
             dy.renew_cg()
             output = generate(d[0], enc_fwd_lstm, enc_bwd_lstm, dec_lstm)
-            to_write = split_at(d[0], lambda x:x=='+')
+            to_write = list(split_at(d[0], lambda x:x=='+'))
             to_write[0] = ''.join(to_write[0])
             to_write[1] = ';'.join(to_write[1])
             to_write[2] = ';'.join(to_write[2])
