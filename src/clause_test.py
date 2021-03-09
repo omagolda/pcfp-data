@@ -7,13 +7,38 @@ import os
 
 EOS = "<EOS>"
 
-int2char = [EOS,'+']
-char2int = {EOS:0,'+':1}
+# int2char = [EOS,'+']
+# char2int = {EOS:0,'+':1}
 
 LSTM_NUM_OF_LAYERS = 1
 EMBEDDINGS_SIZE = 100
 STATE_SIZE = 100
 ATTENTION_SIZE = 100
+
+
+def init():
+    global model, enc_fwd_lstm, enc_bwd_lstm, dec_lstm, input_lookup, attention_w1,\
+    attention_w2,attention_v,decoder_w,decoder_b,output_lookup, VOCAB_SIZE
+    VOCAB_SIZE = len(char2int)
+
+    model = dy.Model()
+
+    enc_fwd_lstm = dy.LSTMBuilder(LSTM_NUM_OF_LAYERS, EMBEDDINGS_SIZE, STATE_SIZE,
+                                  model)
+    enc_bwd_lstm = dy.LSTMBuilder(LSTM_NUM_OF_LAYERS, EMBEDDINGS_SIZE, STATE_SIZE,
+                                  model)
+
+    dec_lstm = dy.LSTMBuilder(LSTM_NUM_OF_LAYERS, STATE_SIZE*2+EMBEDDINGS_SIZE,
+                              STATE_SIZE, model)
+
+    input_lookup = model.add_lookup_parameters((VOCAB_SIZE, EMBEDDINGS_SIZE))
+    attention_w1 = model.add_parameters( (ATTENTION_SIZE, STATE_SIZE*2))
+    attention_w2 = model.add_parameters( (ATTENTION_SIZE,
+                                          STATE_SIZE*LSTM_NUM_OF_LAYERS*2))
+    attention_v = model.add_parameters( (1, ATTENTION_SIZE))
+    decoder_w = model.add_parameters( (VOCAB_SIZE, STATE_SIZE))
+    decoder_b = model.add_parameters( (VOCAB_SIZE))
+    output_lookup = model.add_lookup_parameters((VOCAB_SIZE, EMBEDDINGS_SIZE))
 
 
 def init_existing(list_of_stuff):
@@ -117,7 +142,7 @@ def test(test_data, write_path):
             to_write[0] = ''.join(to_write[0])
             to_write[1] = ';'.join(to_write[1])
             to_write[2] = ';'.join(to_write[2])
-            f.write('\t'.join(to_write + [d[1], output]) + '\n')
+            f.write('\t'.join(to_write + [''.join(d[1]), output]) + '\n')
 
             if output == d[1]:
                 corrects += 1
@@ -127,6 +152,7 @@ def test(test_data, write_path):
 
 
 if __name__ == '__main__':
+    train = False
     lang = 'heb'
     root_dir = '/home/nlp/omerg/clause_morphology'
     train_path = os.path.join(root_dir, 'datasets', f'{lang}_train')
@@ -134,19 +160,21 @@ if __name__ == '__main__':
     model_path = os.path.join(root_dir, 'models', f'{lang}_model')
     write_path = os.path.join(root_dir, 'predictions', f'{lang}_predict')
 
-    train_data = train_n_gt_1.my_readdata(train_path, return_added=False, form_first=False)
-    train_n_gt_1.init()
-    train_n_gt_1.train(train_n_gt_1.model, train_data)
-    train_n_gt_1.model.save(model_path)
-    pickle.dump((train_n_gt_1.int2char,train_n_gt_1.char2int,train_n_gt_1.VOCAB_SIZE),
-                open("%s.obj.pkl" % model_path, "wb"))
+    if train:
+        train_data = train_n_gt_1.my_readdata(train_path, return_added=False, form_first=False)
+        train_n_gt_1.init()
+        train_n_gt_1.train(train_n_gt_1.model, train_data)
+        train_n_gt_1.model.save(model_path)
+        pickle.dump((train_n_gt_1.int2char,train_n_gt_1.char2int,train_n_gt_1.VOCAB_SIZE),
+                    open("%s.obj.pkl" % model_path, "wb"))
+
+        int2char, char2int, VOCAB_SIZE = train_n_gt_1.int2char, train_n_gt_1.char2int, train_n_gt_1.VOCAB_SIZE
+        list_of_stuff = pack_params(train_n_gt_1)
+        init_existing(list_of_stuff + [int2char, char2int])
+    else:
+        int2char, char2int, VOCAB_SIZE = pickle.load(open("%s.obj.pkl" % model_path, "rb"))
+        init()
+        model.populate(model_path)
 
     test_data = train_n_gt_1.my_readdata(test_path, return_added=False, form_first=False)
-    # int2char, char2int, VOCAB_SIZE = pickle.load(open("%s.obj.pkl" % model_path, "rb"))
-    int2char, char2int, VOCAB_SIZE = train_n_gt_1.int2char,train_n_gt_1.char2int,train_n_gt_1.VOCAB_SIZE
-    list_of_stuff = pack_params(train_n_gt_1)
-    init_existing(list_of_stuff + [int2char, char2int])
     accuracy = test(test_data, write_path)
-
-
-
